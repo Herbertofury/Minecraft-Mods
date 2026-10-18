@@ -1,0 +1,20 @@
+[Minecraft Mods](https://github.com/Herbertofury/Minecraft-Mods/wiki/Minecraft-Mods)
+
+- [Favorites](https://github.com/Herbertofury/Minecraft-Mods/wiki/Favorites)
+- [Weapon research](https://github.com/Herbertofury/Minecraft-Mods/wiki/Weapon-Research)
+
+- [Building and Decoration](https://github.com/Herbertofury/Minecraft-Mods/wiki/Building-and-Decoration)
+- [Creatures and Companions](https://github.com/Herbertofury/Minecraft-Mods/wiki/Creatures-and-Companions)
+- [Engineering and Vehicles](https://github.com/Herbertofury/Minecraft-Mods/wiki/Engineering-and-Vehicles)
+- [Farming and Survival](https://github.com/Herbertofury/Minecraft-Mods/wiki/Farming-and-Survival)
+- [Interface and Accessibility](https://github.com/Herbertofury/Minecraft-Mods/wiki/Interface-and-Accessibility)
+- [Magic and Progression](https://github.com/Herbertofury/Minecraft-Mods/wiki/Magic-and-Progression)
+- [Multiplayer and Servers](https://github.com/Herbertofury/Minecraft-Mods/wiki/Multiplayer-and-Servers)
+- [Performance and Stability](https://github.com/Herbertofury/Minecraft-Mods/wiki/Performance-and-Stability)
+- [Storage and Logistics](https://github.com/Herbertofury/Minecraft-Mods/wiki/Storage-and-Logistics)
+- [Tools and Development](https://github.com/Herbertofury/Minecraft-Mods/wiki/Tools-and-Development)
+- [Visuals and Resource Packs](https://github.com/Herbertofury/Minecraft-Mods/wiki/Visuals-and-Resource-Packs)
+- [Weapons and Combat](https://github.com/Herbertofury/Minecraft-Mods/wiki/Weapons-and-Combat)
+- [Worlds and Exploration](https://github.com/Herbertofury/Minecraft-Mods/wiki/Worlds-and-Exploration)
+
+- [Research and verification](https://github.com/Herbertofury/Minecraft-Mods/wiki/Research-and-Verification)
