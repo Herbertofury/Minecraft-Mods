@@ -1,6 +1,6 @@
 [Minecraft Mods](https://github.com/Herbertofury/Minecraft-Mods/wiki/Minecraft-Mods)
 
-- [Favorites](https://github.com/Herbertofury/Minecraft-Mods/wiki/Favorites)
+- [Favorites](https://github.com/Herbertofury/Minecraft-Mods/wiki/Favorites) · [Forever World Collection](https://github.com/Herbertofury/Minecraft-Mods/wiki/Forever-World-Collection)
 - [Weapon research](https://github.com/Herbertofury/Minecraft-Mods/wiki/Weapon-Research)
 
 - [Building and Decoration](https://github.com/Herbertofury/Minecraft-Mods/wiki/Building-and-Decoration)

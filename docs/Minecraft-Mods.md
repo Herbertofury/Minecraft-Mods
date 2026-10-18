@@ -4,7 +4,7 @@
 
 A content-organized home for mod discovery, comparison, compatibility notes and actual-file research.
 
-**[Open the searchable catalogue](https://herbertofury.github.io/Minecraft-Mods/)** · [Favorites](https://github.com/Herbertofury/Minecraft-Mods/wiki/Favorites) · [Weapons and Combat](https://github.com/Herbertofury/Minecraft-Mods/wiki/Weapons-and-Combat) · [Research and verification](https://github.com/Herbertofury/Minecraft-Mods/wiki/Research-and-Verification)
+**[Open the searchable catalogue](https://herbertofury.github.io/Minecraft-Mods/)** · [Favorites](https://github.com/Herbertofury/Minecraft-Mods/wiki/Favorites) · [Forever World Collection](https://github.com/Herbertofury/Minecraft-Mods/wiki/Forever-World-Collection) · [Weapons and Combat](https://github.com/Herbertofury/Minecraft-Mods/wiki/Weapons-and-Combat) · [Research and verification](https://github.com/Herbertofury/Minecraft-Mods/wiki/Research-and-Verification)
 
 ## Browse by what you want to do
 
@@ -28,7 +28,7 @@ A content-organized home for mod discovery, comparison, compatibility notes and 
 - **[Punchy!](https://github.com/Herbertofury/Minecraft-Mods/wiki/Punchy)** — first-person animation, held items and interrupted-motion blending.
 - **[Grassier Grass](https://github.com/Herbertofury/Minecraft-Mods/wiki/Grassier-Grass)** — foliage density, wind, plant rendering and shader interactions.
 
-These three are explicitly marked favorites in the imported catalogue. Other recommended entries are not silently promoted to personal favorites.
+These three are explicitly marked favorites in the imported catalogue. The owner’s broader favorite ecosystems are now tracked in the [Forever World Collection](https://github.com/Herbertofury/Minecraft-Mods/wiki/Forever-World-Collection).
 
 ## For Advent of Ascension development
 
