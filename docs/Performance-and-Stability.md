@@ -27,7 +27,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Mod · 121</strong></summary>
+<summary><strong>Mod · 122</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -38,6 +38,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Adaptive Performance Tweaks](https://curseforge.com/minecraft/mc-mods/adaptive-performance-tweaks) | Adaptive server-load / entity-pressure / diagnostics specialist | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2fa9abc2a0f7de8f) |
 | [AI Improvements: Performance Tuning](https://curseforge.com/minecraft/mc-mods/ai-improvements) | #1/#4 mob-AI overhead specialist | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=91a3c379b8892f1a) |
 | [AllTheLeaks (Memory Leak Fix)](https://curseforge.com/minecraft/mc-mods/alltheleaks) | #4 new performance runner; #5 memory-fix specialist | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=e3fb574014ec84c7) |
+| [Animal Pens](https://curseforge.com/minecraft/mc-mods/animal-pens) | #1/#6 mob-farm lag-reduction and collection-tool runner; complements large creature stacks | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=68c9cf4a301e55ff) |
 | [AsyncParticles](https://curseforge.com/minecraft/mc-mods/asyncparticles) | Particle tick/render + GPU acceleration specialist | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d22ffc5048871fb7) |
 | [AttributeFix](https://curseforge.com/minecraft/mc-mods/attributefix) | Attribute-cap / modded-RPG compatibility runner | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=896f8fcde4f0482f) |
 | [BadOptimizations](https://curseforge.com/minecraft/mc-mods/badoptimizations) | #4/#28 mature client micro-optimization runner | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=ba862358864f6437) |

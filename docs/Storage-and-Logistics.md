@@ -25,7 +25,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Mod · 84</strong></summary>
+<summary><strong>Mod · 86</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -54,6 +54,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Create: FluidLogistics](https://curseforge.com/minecraft/mc-mods/create-fluidlogistic) | #10 Create fluid-logistics runner; #15 routing/logistics specialist | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=88d06f70d9311216) |
 | [Create: Storage](https://curseforge.com/minecraft/mc-mods/create-storage-neo-forge) | Aug 23 overall Java + Create winner | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=111454f45a25d670) |
 | [Decorative Storage](https://curseforge.com/minecraft/mc-mods/decostorage) | Decorative functional-storage runner | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d00a730dcb2d3e18) |
+| [Dragon Mounts: Legacy Tweaked](https://curseforge.com/minecraft/mc-mods/dragon-mounts-legacy-tweaked) | Dragon companion/mount specialist; mature vanilla+ creature leaders unchanged | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=1c603b8978f0acd1) |
 | [Ender Logistics Network](https://modrinth.com/mod/ender-logistics-network) | Configurable cross-distance channel sharing without keeping chunks loaded | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c334c7eafd44ff2f) |
 | [FastPipes](https://curseforge.com/minecraft/mc-mods/fast-pipes) | #11 logistics/transport runner; Storage & Sorting candidate | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=8bd8236765a40319) |
 | [Find me](https://curseforge.com/minecraft/mc-mods/find-me) | #6 strong stateful QoL runner; #10 vehicle/pet-management specialist | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=35858f8a26d7a687) |
@@ -113,6 +114,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Trade Post for MineColonies](https://curseforge.com/minecraft/mc-mods/mc-trade-post) | MineColonies economy/logistics/building addon; no Forge 1.20.1 route | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=8b67f4340ed87842) |
 | [Traveler's Backpack](https://www.curseforge.com/minecraft/mc-mods/travelers-backpack) | #11 portable-storage / adventure-backpack leader-class runner; complements Sophisticated Backpacks | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b9740b0cc887a1e2) |
 | [VisorEssentials](https://curseforge.com/minecraft/mc-mods/visoressentials) | #10 VR QoL addon; use with matching Visor core | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=43c3372eb5b7428d) |
+| [Wan's Ancient Beasts](https://curseforge.com/minecraft/mc-mods/wans-ancient-beasts) | Prehistoric creature and companion choice with direct 1.20.1 support | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=90ab93d925ca0584) |
 
 </details>
 

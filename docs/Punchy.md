@@ -1,6 +1,6 @@
-![Official project icon](https://cdn.modrinth.com/data/8aoMKplv/a9171ec026d659ccad5c3dff6fdfc80259d63e09.gif)
-
 # Punchy!
+
+![Official project icon](https://cdn.modrinth.com/data/8aoMKplv/a9171ec026d659ccad5c3dff6fdfc80259d63e09.gif)
 
 [Favorite library](https://github.com/Herbertofury/Minecraft-Mods/wiki/Favorites) · [Official project](https://modrinth.com/mod/punchy-fpa) · [Exact Forge 1.20.1 release](https://modrinth.com/mod/punchy-fpa/version/vbMU3NlS)
 

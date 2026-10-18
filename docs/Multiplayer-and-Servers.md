@@ -25,7 +25,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Mod · 74</strong></summary>
+<summary><strong>Mod · 72</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -47,9 +47,6 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [GeoGen — A Bedrock World Pre-Generator](https://curseforge.com/minecraft-bedrock/addons/geogen) | #22/#21 specialist; #16 technical runner-up | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b525e3094b4a5a29) |
 | [Get It Together, Drops!](https://curseforge.com/minecraft/mc-mods/get-it-together-drops) | Dropped-item aggregation / farm-and-explosion lag specialist | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=af6969ca1c813dec) |
 | [Geyser](https://geysermc.org/) | #43 best practical Java↔Bedrock access bridge | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=56d49d87ba735bbc) |
-| [Guard Villagers](https://curseforge.com/minecraft/mc-mods/guard-villagers) | #8/#6 village-defense and friendly-villager-AI benchmark | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c6003705b7996ea5) |
-| [Guard Villagers (Fabric/Quilt)](https://curseforge.com/minecraft/mc-mods/guard-villagers-fabric) | #8/#6 loader-parity route for Guard Villagers gameplay | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=20921165c8fe1328) |
-| [Horse Expert](https://curseforge.com/minecraft/mc-mods/horse-expert) | Horse/llama inspection QoL specialist | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=f44eb9f0dd2ce02f) |
 | [In Control!](https://curseforge.com/minecraft/mc-mods/in-control) | #22/#23 spawn-rule and pack-author control runner | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=67c8c41faea423b9) |
 | [Integrated Crafting](https://curseforge.com/minecraft/mc-mods/integrated-crafting) | #11 programmable autocrafting specialist | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c6ded6b076e8dd3e) |
 | [Logbook](https://curseforge.com/minecraft/mc-mods/logbook) | Promising audit/rollback specialist; too new to displace established server tools | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0722c37358ad5258) |
@@ -60,8 +57,8 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [MCA: Quests](https://curseforge.com/minecraft/mc-mods/mca-quests) | #34 MCA social/progression runner + #39 quest-system specialist; leaders unchanged | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=e1832d6d937c8e39) |
 | [MCA: Reputation](https://curseforge.com/minecraft/mc-mods/mca-reputation) | #34 village-reputation/social-memory runner; not a standalone mob | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=27f427ea8cb6732b) |
 | [Mekanism Diesel Generator](https://curseforge.com/minecraft/mc-mods/mekanism-diesel-generator) | Realistic genset/multiblock energy runner; Mekanism is optional integration, not a hard dependency | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=606c04427e9f5757) |
+| [Mob Spawn Fix](https://curseforge.com/minecraft/mc-mods/mob-spawn-fix) | #8 mob-spawn diversity / balance specialist | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d088fc0f46deb9e2) |
 | [Multi Mine](https://curseforge.com/minecraft/mc-mods/multi-mine) | Shared partial-block-damage / multiplayer mining QoL specialist | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d8245f4c354667db) |
-| [Naturally Charged Creepers](https://curseforge.com/minecraft/mc-mods/naturally-charged-creepers) | #8 lightweight vanilla-hostile difficulty / creeper-variant runner | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b8e9a57889bfe52f) |
 | [Ore Harvester](https://curseforge.com/minecraft/mc-mods/ore-harvester) | #6/#21 server mining utility runner | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=46b8b237b37c91dc) |
 | [Origins: Legacy](https://modrinth.com/mod/origins-legacy) | Origins legacy-format migration/compatibility runner; official Origins remains 1.20.1 baseline | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=9e32da89884b4eff) |
 | [Packet Profiler](https://curseforge.com/minecraft/mc-mods/packet-profiler) | Packet-flow / loot-modifier / MCFunction attribution specialist; complements spark | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c39c1b48ccc94d77) |
@@ -83,7 +80,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Social Player Mobs](https://curseforge.com/minecraft/mc-mods/interactive-player-mobs) | #8 social/player-like mob AI runner; #6 emergent gameplay runner | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=59ea8da012fafeeb) |
 | [Sound Physics Remastered](https://curseforge.com/minecraft/mc-mods/sound-physics-remastered) | #25 realistic sound-propagation benchmark; Simple Voice Chat companion | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=f99f79fca1d9d89c) |
 | [Stack Refill](https://curseforge.com/minecraft/mc-mods/stack-refill) | #6/#21 automatic stack-refill / continuous-play QoL runner | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d694c6e44958966a) |
-| [Starcatcher](https://curseforge.com/minecraft/mc-mods/starcatcher) | #8/#13 fishing/aquatic collection benchmark | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=305acaf026b2947b) |
+| [Steve's Army](https://herbertofury.github.io/Minecraft-Mods/) | Companions / Tactical NPCs creatures; Squads with four fire teams, configurable tactical AI; count unverified | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=444c6747b599f7c8) |
 | [Stormcell](https://curseforge.com/minecraft/mc-mods/stormcell) | #20 server-utility/weather simulation watch; no Forge 1.20.1 role | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=344f163ce9f1a994) |
 | [TaCZ: Special Forces](https://curseforge.com/minecraft/mc-mods/tacz-special-forces) | Special forces teams with tactical roles, raids and NPC combat | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=db5a9c487fe1f156) |
 | [TCT ClearLag](https://curseforge.com/minecraft/mc-mods/tct-clearlag) | Mature adoption benchmark for configurable entity cleanup | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0ba361884589870d) |
@@ -103,6 +100,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Xaero's Minimap](https://curseforge.com/minecraft/mc-mods/xaeros-minimap) | #6/#21 map-navigation leader / giant-pack standard | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=4104f1ef3edf87ef) |
 | [Xaero's World Map](https://curseforge.com/minecraft/mc-mods/xaeros-world-map) | #6/#21 fullscreen-map leader / giant-pack navigation standard | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=411b42775e42d79d) |
 | [Yet Another World Protector (YAWP)](https://modrinth.com/mod/yawp) | Server region flags / FTB Chunks claim-system alternative / administrative multiplayer QoL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=075be43ea4a83ddf) |
+| [ZombieApocalypseAddon](https://curseforge.com/minecraft/mc-mods/zombieapocalypseaddon) | #8 hostile-event runner; existing leaders retained | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=94fd3c15f21f0948) |
 
 </details>
 

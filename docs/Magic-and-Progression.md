@@ -5,12 +5,10 @@
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
 <details>
-<summary><strong>Compatibility Target · 6</strong></summary>
+<summary><strong>Compatibility Target · 4</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
-| ★ [Advent of Ascension](https://github.com/Herbertofury/Minecraft-Mods/wiki/Forever-World-Collection) | Forever World Collection | Target; native testing open · [details](https://herbertofury.github.io/Minecraft-Mods/?id=33a682dab624b463) |
-| ★ [Alex's Mobs](https://github.com/Herbertofury/Minecraft-Mods/wiki/Forever-World-Collection) | Forever World Collection | Target; native testing open · [details](https://herbertofury.github.io/Minecraft-Mods/?id=18682e32b28e9429) |
 | ★ [Iron's Spells 'n Spellbooks + IronsArms](https://github.com/Herbertofury/Minecraft-Mods/wiki/Forever-World-Collection) | Forever World Collection | Target; native testing open · [details](https://herbertofury.github.io/Minecraft-Mods/?id=13f67c108c8c3c69) |
 | ★ [Malum](https://github.com/Herbertofury/Minecraft-Mods/wiki/Forever-World-Collection) | Forever World Collection | Target; native testing open · [details](https://herbertofury.github.io/Minecraft-Mods/?id=25b5fb96cc8c9e25) |
 | ★ [Scorched Guns](https://github.com/Herbertofury/Minecraft-Mods/wiki/Forever-World-Collection) | Forever World Collection | Target; native testing open · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d4036867ba6073d5) |
@@ -50,7 +48,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Mod · 122</strong></summary>
+<summary><strong>Mod · 128</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -60,10 +58,12 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [\[TaCZ\] IronsArms — Iron's Spells integration](https://curseforge.com/minecraft/mc-mods/ironsarms) | Arcane Anvil gun spell infusion; gun-mana charging | [Actual-file study](https://github.com/Herbertofury/Advent-of-Ascension/wiki/Spell-Adapter-Source-and-Release-Study) · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2a576ba9039f7f07) |
 | [\[TACZ\] neku's skins](https://modrinth.com/mod/tacz-nekus-skins) | Gun model variants, glove skins and unlock blueprints | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=4cf21caaa146199e) |
 | [\[TaCZ\] Weapon Research & Blueprints](https://curseforge.com/minecraft/mc-mods/tacz-weapon-research-blueprints) | Blueprint / research / tech-tree survival progression | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=1f5c73169f9b63c4) |
+| ★ [Advent of Ascension](https://curseforge.com/minecraft/mc-mods/advent-of-ascension-nevermine) | Dimensions & Mega-Packs creatures; Huge RPG dimensions/mobs/bosses | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=61da8637a0872237) |
 | [Aether Spellbooks](https://curseforge.com/minecraft/mc-mods/aether-spellbooks) | #39 magic/RPG integration runner; Iron's Spells leader retained | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=f0a717cea5f3538d) |
 | [Animus](https://modrinth.com/mod/animus) | Strong Blood Magic add-on; Iron's Spellbooks, Botania, Ars Nouveau and Malum bridges | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b83e0e043c79327c) |
 | [Antarchy](https://curseforge.com/minecraft/mc-mods/antarchy) | High-value 1.21.1 exploration/RPG runner; Forge 1.20.1 leaders unchanged | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=62f7a1608bab8ad7) |
 | ★ [Apotheosis](https://curseforge.com/minecraft/mc-mods/apotheosis) | #39 S-tier RPG itemization/enchanting benchmark; Iron's Spells remains spellcasting leader | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2322a7bdb6f035ca) |
+| [Arcadia Pets](https://modrinth.com/mod/arcadia-pets) | Pet Collection / Companions / Fantasy creatures; Vanilla-derived pets plus four custom Arcane creatures, 7 rarity tiers | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=08486fa14a67a753) |
 | [ArcaneMag — TaCZ × Iron's Spells Addon](https://curseforge.com/minecraft/mc-mods/arcanemag) | Arcane Anvil spell magazines; damage-charged spells; enchanted weapon attachment perks | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=403b520b3f54f5ad) |
 | [Ares-HUD](https://curseforge.com/minecraft/mc-mods/ares-hud) | #29 high-fit RPG/combat HUD specialist; leaders unchanged | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=03cc6d2220209be2) |
 | [Armed N' Dangerous — Just Enough Guns addon](https://curseforge.com/minecraft/mc-mods/armed-n-dangerous) | Additional firearms and visual gun skins / progression | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0a680cea4753ecb5) |
@@ -114,6 +114,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Iron's Spells 'n Spellbooks](https://curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks) | #39 best broad RPG/magic pick | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=14f1738c4db93b05) |
 | [Jerry's Colonies \| Build your Civilization](https://curseforge.com/minecraft-bedrock/addons/jerrys-colonies) | Bedrock colony/civilization progression runner; strong multiplayer roleplay fit | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=af47a8ac07181088) |
 | [Koifee's Mobs - Equipment](https://curseforge.com/minecraft/mc-mods/koifees-mobs-equipment) | #7 dimension/progression alternate; #39 boss/equipment addon lane | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=341c1a5bb761fac0) |
+| [KumoDesu: Ascension](https://curseforge.com/minecraft/mc-mods/kumodesu-ascension) | Fantasy Bosses; Dimension/RPG; Evolution Mobs creatures; Elroe monster families, labyrinth boss and player forms; exact species count unverified | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c6607a0bd7cce705) |
 | [Legends Mod: Core](https://curseforge.com/minecraft/mc-mods/legends-mod-core) | #39 fandom/RPG content-platform runner; Iron's Spells leader retained | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=ebe6925ba4557156) |
 | [MAR Relics](https://curseforge.com/minecraft/mc-mods/marrelics) | #39 Relics itemization / magic-integration runner | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=661d39accedca38a) |
 | [MCA: Quests](https://curseforge.com/minecraft/mc-mods/mca-quests) | #34 MCA social/progression runner + #39 quest-system specialist; leaders unchanged | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=e1832d6d937c8e39) |
@@ -121,7 +122,6 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Mielon's The Sift](https://curseforge.com/minecraft/mc-mods/mielons-the-sift) | #7 high-upside community Sift dimension runner; The Undergarden remains mature leader | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=e70311f6bedf803f) |
 | [Modest Magic](https://curseforge.com/minecraft/mc-mods/modest-magic) | #39 enchanting-magic / automation runner | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=81a0f614a1acb596) |
 | [Mystical Agriculture](https://curseforge.com/minecraft/mc-mods/mystical-agriculture) | #5/#11/#19/#39 major resource-crop / progression / automation platform | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0493e0595e943edb) |
-| [Naturally Charged Creepers](https://curseforge.com/minecraft/mc-mods/naturally-charged-creepers) | #8 lightweight vanilla-hostile difficulty / creeper-variant runner | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b8e9a57889bfe52f) |
 | [Neo Vitae](https://curseforge.com/minecraft/mc-mods/neovitae) | Modern Blood Magic-style progression platform with data-driven rituals, automation and an Endless Realm dungeon | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0f7c9c9da06b934f) |
 | [NeoOrigins](https://curseforge.com/minecraft/mc-mods/neoorigins) | #25 future-version Origins migration runner; #39 RPG/origin framework runner | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=47a99072e22bfea7) |
 | [Ninshu: Origins \| Naruto Mod](https://curseforge.com/minecraft/mc-mods/ninshu-origins) | Deep anime/shinobi RPG runner; category leaders unchanged | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=4d3b25688e56c62e) |
@@ -132,7 +132,9 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Outline N' Stuff - Enchantments](https://modrinth.com/mod/outlinestuff) | #26 and #29 future-version runner-up | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=6c36a8a570254c26) |
 | [PackFlow](https://curseforge.com/minecraft/mc-mods/packflow) | #36 pack-management/profile runner | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c8a76f616607e2d7) |
 | [Palladium](https://curseforge.com/minecraft/mc-mods/threetag-palladium) | Superpower/addon ecosystem anchor and packmaking framework | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=fbbc0207f4313b88) |
+| [Pet Companions](https://herbertofury.github.io/Minecraft-Mods/) | Vanilla Companions / Unlocks creatures; Multiple unlockable existing vanilla mobs, one active companion | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a17a15ccdf2a403a) |
 | [Quality Food](https://curseforge.com/minecraft/mc-mods/quality-food) | #38 food/farming quality-system runner; complements Farmer's Delight, Create and Livestock rather than replacing them | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0035babcf8133f59) |
+| [Random Mob Effects](https://curseforge.com/minecraft/mc-mods/random-mob-effects) | Hostile / Magic / Difficulty / Utility creatures; All hostile mobs receive configurable registered potion effects; supports modded effects | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=bc40a68088cd6a4c) |
 | [Rogues & Warriors (RPG Series)](https://curseforge.com/minecraft/mc-mods/rogues-and-warriors) | #39 Spell Engine rogue/warrior martial-class runner | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0156f6855ca6fbad) |
 | [Roots 4](https://curseforge.com/minecraft/mc-mods/roots) | #24/#25 established-lineage revival runner | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=5454206dd5c7f340) |
 | [Roots Classic](https://curseforge.com/minecraft/mc-mods/roots-classic) | #39 nature-magic / ritual runner | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a35190f6ec071d18) |
@@ -151,7 +153,9 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [SpellTrigger](https://modrinth.com/mod/spelltrigger) | Gun-inscribed spells triggered on hits; magic + maid interaction | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7f76109387b73119) |
 | [Spice of Life Onion](https://curseforge.com/minecraft/mc-mods/spice-of-life-onion) | #18 food/cooking progression runner; strong Farmer's Delight/Pam's ecosystem fit | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=bbd36391218e845a) |
 | [Star Dragon (Dragon Survival Addon)](https://curseforge.com/minecraft/mc-mods/star-dragon-dragon-survival-addon) | Dragon Survival species/content addon with a full star-themed playable dragon line | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=60a4dcc06ab298cd) |
+| [Starcatcher](https://curseforge.com/minecraft/mc-mods/starcatcher) | #8/#13 fishing/aquatic collection benchmark | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=305acaf026b2947b) |
 | [Stellarity](https://curseforge.com/minecraft/mc-mods/stellarity) | #7/#39 future-version worldgen/RPG runner; leaders unchanged | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=df330914e82a4c65) |
+| [Survival Reworked](https://curseforge.com/minecraft-bedrock/addons/survival-reworked) | Bedrock / Mobs / Bosses / Worldgen / Progression creatures; 100+ mobs claimed by author, artifacts, bosses, structures | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c10cc1725f283756) |
 | [Symbiote: Spawn of the Void](https://curseforge.com/minecraft/mc-mods/symbiote-spawn-of-the-void) | #9/#8 living-companion combat runner; category leaders unchanged | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=85304227f29cbdaf) |
 | [TaCZ Blueprints](https://curseforge.com/minecraft/mc-mods/tacz-blueprints) | Gun loot/research progression | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=e3ebd0c0b915b7c5) |
 | [TaCZ Fixes](https://modrinth.com/mod/tacz-fixes) | Custom slots, dual wield, zoom, ricochet, stamina, spells, gun enchantment | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0cb918622ea43f32) |

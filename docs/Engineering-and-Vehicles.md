@@ -42,7 +42,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Mod · 191</strong></summary>
+<summary><strong>Mod · 195</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -59,6 +59,8 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Automobility: Unofficial Port](https://modrinth.com/mod/automobility-unofficial-port) | Driveable cars, custom parts, Garage Bench, brakes and datapack vehicles | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c60d13c7997f8a45) |
 | [Bakeries](https://curseforge.com/minecraft/mc-mods/bakeries) | Established bakery/cooking machinery specialist; Farmer's Delight remains broader ecosystem leader | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b8cf523e57f6abac) |
 | [Boat Refit](https://curseforge.com/minecraft/mc-mods/boat-refit) | #10 vehicle/transport WATCH; #11 compact vehicle-tech runner; leaders unchanged | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=09952fc8bca4e799) |
+| [Bosses Rise Add-On (Block Factory)](https://www.minecraft.net/en-us/marketplace/pdp/block-factory/bosses-rise-add--on/d4e0c8e8-fce1-4828-94f0-764b5431e5a5) | Bedrock / Bosses / Generated Dungeons creatures; 7 bosses and procedurally generated dungeons | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=5cc6e10f8d667b40) |
+| [Buntsy](https://curseforge.com/minecraft/mc-mods/buntsy) | Dimensions / Mega / Fantasy Fauna creatures; Fairies, silkbuns, hootcats, phelinix, clockwork maidens and other fantasy life | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=62ef74b0f668b376) |
 | ★ [Butchery](https://curseforge.com/minecraft/mc-mods/butchery) | Immersive mob-harvest/cooking alternate; Farmer's Delight/Create compatibility runner | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b411dfe30dd0cebb) |
 | [CATR — Create Adjust TaCZ Recipes](https://curseforge.com/minecraft/mc-mods/catr) | Create sequential assembly factory for TaCZ firearm crafting | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=52d3f387b0afa14e) |
 | [CBC Enchanced Shells \[Create Big Cannons\]](https://curseforge.com/minecraft/mc-mods/cbc-enchanced-shells-create-big-cannons) | Create ecosystem / integration | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2305c2518de3c41b) |
@@ -161,6 +163,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Don't Punch My TACZ](https://curseforge.com/minecraft/mc-mods/dont-punch-my-tacz) | Punchy × TaCZ/Create/Carry On compatibility bridge | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c02c74fc82c5ed68) |
 | [Drunkard](https://curseforge.com/minecraft/mc-mods/drunkard) | #18/#38 brewing/tavern specialist; Farmer's Delight-style leaders unchanged | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d633ec2811ddc1a0) |
 | [Easy Farmer's Delight](https://curseforge.com/minecraft/mc-mods/easy-farmers-delight) | #37/#38 qualified automation runner | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a0528fd3f394b575) |
+| [Easy Mob Farm](https://curseforge.com/minecraft/mc-mods/easy-mob-farm) | #3/#8 mob-farming and collection-tool runner; complements manual spawner/loot farms | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b27abe86853456ff) |
 | [Easy NPC](https://curseforge.com/minecraft/mc-mods/easy-npc) | #23 NPC framework / packmaking runner; #8 configurable NPC content | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=5d7039a533adef69) |
 | [Easy Villagers](https://curseforge.com/minecraft/mc-mods/easy-villagers) | #6/#38 villager automation and compact farming runner | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c0ce7bae2d4e2555) |
 | [EdeyaWings](https://curseforge.com/minecraft-bedrock/addons/edeyawings) | #10 Bedrock flight specialist; overall leaders unchanged | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=636d031e349fab0f) |
@@ -222,6 +225,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Sophisticated Storage Create Integration](https://curseforge.com/minecraft/mc-mods/sophisticated-storage-create-integration) | Create moving-storage bridge for Sophisticated Storage | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=aae17e31b180c017) |
 | [StellarCreateOptimization](https://curseforge.com/minecraft/mc-mods/stellarcreateoptimization) | #2/#11 Create 6 rendering + tick optimization runner; established leaders retained | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=8a8f5c71b79210e9) |
 | [Structured Crafting](https://modrinth.com/mod/structured-crafting) | Automated positional crafting from world blocks/chests via redstone; Create-machine adjunct | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=4b0d5c20e7d0fe6b) |
+| [The Fall Of Masrani Add-on](https://curseforge.com/minecraft-bedrock/addons/the-fall-of-masrani-add-on) | #8 Bedrock dinosaur/fossil-revival runner; broader mob leaders unchanged | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=97d8e4a28b93dd35) |
 | [Thermal Virtual Machine](https://www.curseforge.com/minecraft/mc-mods/thermal-virtual-machine) | #18 successful legacy revival watch; Thermal automation/farming specialist | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=beafe2210befe85d) |
 | [Touhou Little Maid: Crimson Heart Covenant](https://curseforge.com/minecraft/mc-mods/touhou-little-maid-crimson-heart-covenant) | #34 player-maid social/combat/automation bridge | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=912915e98a721f45) |
 | [Touhou Little Maid: Senju](https://curseforge.com/minecraft/mc-mods/touhou-little-maid-senju) | #6/#34 high-fit maid automation runner; leaders unchanged | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=33461c63f0507071) |

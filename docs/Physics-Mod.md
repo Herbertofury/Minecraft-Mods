@@ -1,6 +1,6 @@
-![Official project icon](https://cdn.modrinth.com/data/Xy8aRQKS/9368cdc9121aa1589afbb6440329a90dbb8daf20.gif)
-
 # Physics Mod
+
+![Official project icon](https://cdn.modrinth.com/data/Xy8aRQKS/9368cdc9121aa1589afbb6440329a90dbb8daf20.gif)
 
 [Favorite library](https://github.com/Herbertofury/Minecraft-Mods/wiki/Favorites) · [Official project](https://modrinth.com/mod/physicsmod) · [Exact Forge 1.20.1 release](https://modrinth.com/mod/physicsmod/version/binwAk5d)
 

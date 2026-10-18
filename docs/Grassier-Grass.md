@@ -1,6 +1,6 @@
-![Official project icon](https://cdn.modrinth.com/data/3jCB9cn2/8a0b80c7fe66355ca81bc0b25ff262f7b756f1dd_96.webp)
-
 # Grassier Grass
+
+![Official project icon](https://cdn.modrinth.com/data/3jCB9cn2/8a0b80c7fe66355ca81bc0b25ff262f7b756f1dd_96.webp)
 
 [Favorite library](https://github.com/Herbertofury/Minecraft-Mods/wiki/Favorites) · [Official project](https://modrinth.com/mod/grassier-grass) · [Exact Forge 1.20.1 release](https://modrinth.com/mod/grassier-grass/version/dVUjKcfu)
 

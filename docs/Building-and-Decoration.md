@@ -5,7 +5,7 @@
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
 <details>
-<summary><strong>Mod · 34</strong></summary>
+<summary><strong>Mod · 35</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -29,6 +29,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Goetic Legacy](https://curseforge.com/minecraft/mc-mods/goetic-legacy) | #10 Goety servant/magic/prefab/adventure expansion runner | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=f85bb7e5b77e7cff) |
 | [Gooblideco](https://curseforge.com/minecraft-bedrock/addons/gooblideco) | 500+ block cozy/decor ecosystem with connectable/rotatable systems | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=939bce6604877c70) |
 | [Jerry's Colonies \| Build your Civilization](https://curseforge.com/minecraft-bedrock/addons/jerrys-colonies) | Bedrock colony/civilization progression runner; strong multiplayer roleplay fit | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=af47a8ac07181088) |
+| [Jurassic Revived](https://modrinth.com/mod/jurassic-revived) | Prehistoric / Dinosaurs / Fossils creatures; Dinosaur roster; exact count not pinned | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c9516c614d40d7b3) |
 | [MineColonies](https://curseforge.com/minecraft/mc-mods/minecolonies) | Colony/NPC automation and structure-platform benchmark | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0264d320b238ea75) |
 | [Nature Overhaul🌱](https://curseforge.com/minecraft-bedrock/addons/nature-overhaul-addon) | Nature/environment detail and cozy-building runner | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a0f8f14328caf792) |
 | [Quark](https://curseforge.com/minecraft/mc-mods/quark) | #5 major modular vanilla+ platform; building/redstone/QoL anchor | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=bf8d759aa0616927) |
@@ -47,11 +48,12 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Resource Pack · 2</strong></summary>
+<summary><strong>Resource Pack · 3</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
 | [ItemBound: ReBound](https://modrinth.com/resourcepack/itembound-rebound) | Future architecture leader | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2288834ec00c4155) |
+| [Mizuno's Pig Variants](https://curseforge.com/minecraft/texture-packs/mizunos-pig-variants) | Species Variant Packs creatures; Decorative pig styles | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=901abb23c77b92a6) |
 | [The FAYE Pet Furniture Set \| CIT](https://www.planetminecraft.com/texture-pack/the-faye-pet-furniture-cit-pack/) | FAYE active CIT ecosystem | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7393344c4453b6f4) |
 
 </details>

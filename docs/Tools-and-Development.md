@@ -73,7 +73,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Mod · 47</strong></summary>
+<summary><strong>Mod · 52</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -87,9 +87,12 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Chunk Editor - MCA-Selector](https://modrinth.com/mod/mca-selector) | World Tools #5 | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=bed2e7b7ece1cff4) |
 | [ChunkCleaner](https://github.com/zeroBzeroT/ChunkCleaner) | World Tools #22 | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=09134e65478b48ab) |
 | [Client Tweaks](https://curseforge.com/minecraft/mc-mods/client-tweaks) | Evergreen client QoL leader | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=016b7e76d632d503) |
+| [Cobblemon](https://modrinth.com/mod/cobblemon) | Creature Collection Total Conversion creatures; 700+ Pokémon-scale collectible roster | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c5be5f96392373f1) |
 | [Collapsible Groups (JEI/EMI)](https://curseforge.com/minecraft/mc-mods/collapsible-groups) | JEI ingredient-list organization runner | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b5e837e337cda16f) |
 | [Custom Machinery Refork](https://curseforge.com/minecraft/mc-mods/custom-machinery-refork) | Custom-machine authoring runner; KubeJS remains programmable packmaking leader | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=56c54093f4ddcdc5) |
 | [CustomSkinLoader](https://curseforge.com/minecraft/mc-mods/customskinloader) | #26 mature client-safe cosmetic/identity utility runner; existing general QoL leader retained | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2cb6a5740dd8e3cf) |
+| [Digimobs](https://curseforge.com/minecraft/mc-mods/digimobs) | Creature Collection Total Conversion creatures; 700+ Digimon-scale roster | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=f1082129490cb291) |
+| [End-Parasitize and Convert All](https://curseforge.com/minecraft/mc-mods/epca) | Large staged parasite/infection ecosystem; heavy-world alternative rather than general vanilla+ | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=f89c4cd7456beb0d) |
 | [EntityControl](https://curseforge.com/minecraft/mc-mods/entitycontrol) | #22 spawn-control/pack-authoring runner; #23 visual authoring/tooling supporting lane | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=3ec97cabbbbabafd) |
 | [Fantasy Guns — Just Enough Guns addon](https://curseforge.com/minecraft/mc-mods/fantasy-guns-just-enough-guns-jeg-addon) | Dragon gun and green plasma launcher content | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=9232259fbb66f978) |
 | [FreeCam by Zergatul](https://curseforge.com/minecraft/mc-mods/freecam-by-zergatul) | #26/#27/#29 camera/QoL specialist; leaders unchanged | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0c88c25b2d153a03) |
@@ -106,6 +109,8 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [OpenUI MC](https://curseforge.com/minecraft/mc-mods/openui-mc) | #21 developer/UI framework runner; leaders unchanged | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=f3befecdec16cd22) |
 | [Palladium](https://curseforge.com/minecraft/mc-mods/threetag-palladium) | Superpower/addon ecosystem anchor and packmaking framework | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=fbbc0207f4313b88) |
 | [Pillager Deterrent](https://modrinth.com/mod/pillager-deterrent) | Ring disables patrols while held/worn; warding banner blocks spawns in adjustable radius | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=f377f97982eeb57a) |
+| [Pixelmon](https://curseforge.com/minecraft/mc-mods/pixelmon) | Creature Collection Total Conversion creatures; 900+ Pokémon-scale collectible roster | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=01e96c67aa0aab28) |
+| [Pokecube AIO](https://curseforge.com/minecraft/mc-mods/pokecube-aoi) | Creature Collection Total Conversion creatures; Large Pokémob roster with genetics, capture and Pokédex systems | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=9f7fe301e9d9797c) |
 | [Questlog](https://curseforge.com/minecraft/mc-mods/questlog) | Vanilla-friendly quest/info specialist; FTB Quests remains broader task-graph ecosystem leader | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=46302ad053fa401d) |
 | [Rebind Narrator](https://curseforge.com/minecraft/mc-mods/rebind-narrator) | #36 narrator-key rebinding specialist; Keyset remains full manager leader | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d7760849f435c298) |
 | [Reign of Nether RTS](https://curseforge.com/minecraft/mc-mods/reign-of-nether-rts-in-minecraft) | Specialist RTS/total-conversion pick; category leaders unchanged | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=942771b948c035e6) |

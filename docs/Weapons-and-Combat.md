@@ -5,14 +5,11 @@
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
 <details>
-<summary><strong>Compatibility Target · 5</strong></summary>
+<summary><strong>Compatibility Target · 2</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
-| ★ [Advent of Ascension](https://github.com/Herbertofury/Minecraft-Mods/wiki/Forever-World-Collection) | Forever World Collection | Target; native testing open · [details](https://herbertofury.github.io/Minecraft-Mods/?id=33a682dab624b463) |
-| ★ [Born in Chaos](https://github.com/Herbertofury/Minecraft-Mods/wiki/Forever-World-Collection) | Forever World Collection | Target; native testing open · [details](https://herbertofury.github.io/Minecraft-Mods/?id=fe44d9c0d5de3657) |
 | ★ [Gateways to Eternity](https://github.com/Herbertofury/Minecraft-Mods/wiki/Forever-World-Collection) | Forever World Collection | Target; native testing open · [details](https://herbertofury.github.io/Minecraft-Mods/?id=62190c0385557e97) |
-| ★ [L_Ender's Cataclysm](https://github.com/Herbertofury/Minecraft-Mods/wiki/Forever-World-Collection) | Forever World Collection | Target; native testing open · [details](https://herbertofury.github.io/Minecraft-Mods/?id=6165abb03fbf0dd1) |
 | ★ [Terramity](https://github.com/Herbertofury/Minecraft-Mods/wiki/Forever-World-Collection) | Forever World Collection | Target; native testing open · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a5f50f2f847d15be) |
 
 </details>
@@ -140,7 +137,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Mod · 234</strong></summary>
+<summary><strong>Mod · 236</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -269,6 +266,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Hold My Guns (Hold My Items × VPB compat)](https://modrinth.com/mod/hold-my-guns) | Keep VPB custom held-gun animations with Hold My Items installed | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=6164f8f242a76443) |
 | [Hostile Civilization](https://curseforge.com/minecraft/mc-mods/hostile-civilization) | Faction-style hostile content ecosystem with bosses, allies, structures, technology and weapons | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=adeac35f45c8fbe6) |
 | [Hunter'sReturn](https://curseforge.com/minecraft/mc-mods/huntersreturn) | #8/#7 compact hostile-mob + structure benchmark | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=f026013691285835) |
+| [Illager Invasion](https://curseforge.com/minecraft/mc-mods/illager-invasion) | Hostile & Vanilla Variants creatures; Many new Illager combat roles | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b769f3e07e7ddbb9) |
 | [Iron's Arms 'n Artifice](https://curseforge.com/minecraft/mc-mods/irons-artifice) | Historical-fantasy firearms, modifiers and artificer progression | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=1b959094ab8fe1d3) |
 | [Jaam's Weaponry](https://curseforge.com/minecraft/mc-mods/jaams-weaponry) | Standalone mixed melee/firearm arsenal with built-in Epic Fight support | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d268cfd713b96d23) |
 | [Jerry's Colonies \| Build your Civilization](https://curseforge.com/minecraft-bedrock/addons/jerrys-colonies) | Bedrock colony/civilization progression runner; strong multiplayer roleplay fit | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=af47a8ac07181088) |
@@ -282,9 +280,10 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Mo' Bends \[MODERN PORT\]](https://curseforge.com/minecraft/mc-mods/mo-bends-unofficial-modern-port) | #9 player animation runner; new Player Animation Library / Kingdom Come Combat compatibility | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=ffb2990cf7f55fe3) |
 | [Mo' Than Enough Guns](https://curseforge.com/minecraft/mc-mods/mo-than-enough-guns) | JEG addon | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=1e46fe9673835a04) |
 | [Monster Girl](https://curseforge.com/minecraft/mc-mods/monster-girl) | Best practical current dedicated Monster Girl mod | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7ff3bcff3a1628cb) |
+| [Monsters Add-On (Ninja Block)](https://www.minecraft.net/en-us/marketplace/pdp/ninja-block/monsters-add--on/9ea24b15-bebc-48e9-9759-90e46941209b) | Bedrock / Fantasy Mobs / Weapons creatures; 28 new fantasy monsters and 10 weapons | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=aabe383e2df8d851) |
+| [More Creatures And Weapons](https://curseforge.com/minecraft/mc-mods/more-creatures-and-weapons) | Mixed Bestiary creatures; 24 entities: monsters + animals | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=144c28025b6dd8da) |
 | [MrCrayfish's Gun Mod](https://curseforge.com/minecraft/mc-mods/mrcrayfishs-gun-mod) | Legacy gun ecosystem | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=af94d64dc74ad63c) |
 | [MrCrayfish's Gun Mod \[Unofficial\]](https://curseforge.com/minecraft/mc-mods/mrcrayfishs-gun-mod-unofficial) | CGM port | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=14a61fb7c7235190) |
-| [Naturally Charged Creepers](https://curseforge.com/minecraft/mc-mods/naturally-charged-creepers) | #8 lightweight vanilla-hostile difficulty / creeper-variant runner | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b8e9a57889bfe52f) |
 | [Old Cannons](https://curseforge.com/minecraft/mc-mods/old-cannons) | Cannon and projectile content | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=68af8361d7c045b6) |
 | [Orbital Railgun (Bedrock by ExterLeo)](https://curseforge.com/minecraft-bedrock/addons/orbital-railgun) | Orbital strike railgun with configuration, SFX/VFX, block destruction and persistent craters | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=dd11c61b58b21cd8) |
 | [ParCool! Stealth by Karl Karlmann Bridge by Karl Karlmann](https://curseforge.com/minecraft/mc-mods/parcool-stealth-by-karl-karlmann-bridge-by-karl) | #10/#6 movement-stealth compatibility runner; leaders unchanged | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0004c1b3209c6261) |
@@ -301,7 +300,6 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Simply More](https://curseforge.com/minecraft/mc-mods/simply-more) | #9 weapon-content runner; compatibility leader unchanged | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7042a5eea4aa3c52) |
 | [SLM: Epic Fight](https://curseforge.com/minecraft/mc-mods/slm-epic-fight) | EDP-required Epic Fight integration runtime | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=1eab4ac862737aa0) |
 | [Smartmaid](https://curseforge.com/minecraft/mc-mods/smartmaid) | #34 future maid/worker automation watch; Touhou Little Maid remains current 1.20.1 ecosystem anchor | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=ff7eea3bd11dd504) |
-| [Sons Of Sins](https://curseforge.com/minecraft/mc-mods/sons-of-sins) | #8 strong runner-up; #2 noteworthy Forge/NeoForge release | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=693147eab03b70e1) |
 | [Special AI](https://curseforge.com/minecraft/mc-mods/special-ai) | Forge 1.20.1 configurable mob challenge and emergent AI | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a9572c1dfa5e031e) |
 | [SpellTrigger](https://modrinth.com/mod/spelltrigger) | Gun-inscribed spells triggered on hits; magic + maid interaction | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7f76109387b73119) |
 | [Stabx Modern Guns](https://curseforge.com/minecraft/mc-mods/stabx-modern-guns) | Modern firearms, ammo, attachments, recipes | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=3fd7f4e75dbe9a48) |
@@ -377,6 +375,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Warium Community Edition (Warium CE)](https://curseforge.com/minecraft/mc-mods/warium-ce) | PvP-focused firearms, artillery, machines, ordnance and hostile AI | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=297d4d941a4bbd61) |
 | [Warium: Futurism](https://curseforge.com/minecraft/mc-mods/futurism) | Railguns / missiles / lasers / advanced propulsion | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=18179df215be3b2e) |
 | [Weapon Swap (Tacz - Lrtactical)](https://curseforge.com/minecraft/mc-mods/weapon-swap-tacz-lrtactical) | Grenade/tactical slots, cook-release throwing, weapon cycling, proximity warning | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=198fdd07d89f97b8) |
+| [Weiss's More Dungeons And Weapons (WMDAW)](https://curseforge.com/minecraft/mc-mods/weisss-more-dungeons-and-weapons-wmdaw) | Female-coded Hostile/Neutral Variants / Structures creatures; Elves, female Blaze (Blazettes), knights; exact roster unverified | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=99e3b108c7389c7f) |
 | [〖TACZ-Addon〗Wall-displayed Guns with High Fps!](https://curseforge.com/minecraft/mc-mods/tacz-addonwall-displayed-guns-with-high-fps) | Static gun display blocks / recoverable armory decoration / render-cost reduction | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=4b9a8a31ad43c18f) |
 
 </details>
