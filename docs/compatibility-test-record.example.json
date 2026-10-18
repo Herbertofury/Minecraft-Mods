@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "project": "replace-with-project",
+  "target": "replace-with-collection-member",
+  "status": "not_tested",
+  "minecraft_version": null,
+  "loader": null,
+  "artifacts": [],
+  "test_environment": {
+    "hardware": null,
+    "scene": null,
+    "configuration_hash": null
+  },
+  "results": {
+    "optional_absence": null,
+    "pairwise": null,
+    "combined_pack": null,
+    "save_roundtrip": null,
+    "cold_start_seconds": null,
+    "warm_start_seconds": null,
+    "frame_time_p99_ms": null,
+    "server_tick_p99_ms": null
+  },
+  "evidence_urls": [],
+  "checked_at": null
+}

@@ -81,3 +81,9 @@ Use one record per exact configuration: project, Minecraft version, loader, coll
 ## Keeping a forever world safe
 
 Updates should include migration notes and a reversible test on a copy of the world. Do not remove dimensions or content mods from a living save without a documented recovery plan. Keep the original known-working configuration until the replacement is verified. This page is a collection and compatibility policy, not an automatic installer.
+
+## Reuse this collection in another project
+
+[Machine-readable target manifest](https://raw.githubusercontent.com/Herbertofury/Minecraft-Mods/main/docs/forever-world-targets.json) · [Empty per-project test record](https://raw.githubusercontent.com/Herbertofury/Minecraft-Mods/main/docs/compatibility-test-record.example.json)
+
+Start with the explicit target roster and fill actual evidence for the applicable version lane. The template begins with null results and not_tested status; it does not claim that a test runner or integration has been implemented.

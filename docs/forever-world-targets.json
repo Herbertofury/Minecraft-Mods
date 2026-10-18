@@ -1,0 +1,816 @@
+{
+  "schema_version": 1,
+  "collection": "Forever World Collection",
+  "owner_selected_at": "2026-10-18",
+  "scope": "Long-term compatibility goals for future owner-authored Minecraft mods and modpacks",
+  "policy": {
+    "optional_by_default": true,
+    "applicability_required_per_project": true,
+    "no_universal_version_claim": true,
+    "preserve_native_mechanics_and_saved_content": true,
+    "measure_startup_and_frame_tick_regressions": true,
+    "no_automatic_install_or_removal": true
+  },
+  "targets": [
+    {
+      "name": "Advent of Ascension",
+      "catalogue_id": "61da8637a0872237",
+      "project_page": "https://curseforge.com/minecraft/mc-mods/advent-of-ascension-nevermine",
+      "categories": [
+        "Magic and Progression",
+        "Creatures and Companions",
+        "Worlds and Exploration"
+      ],
+      "project_status": "target_unqualified",
+      "implementation_owner": "per-project",
+      "required_evidence": [
+        "exact_mc_loader_versions_and_hashes",
+        "optional_dependency_absence",
+        "pairwise_native_test",
+        "combined_pack_test",
+        "save_and_dimension_roundtrip",
+        "resource_and_reward_accounting",
+        "startup_frame_tick_measurements"
+      ],
+      "reference": "https://github.com/Herbertofury/Minecraft-Mods/wiki/Forever-World-Collection"
+    },
+    {
+      "name": "L_Ender's Cataclysm",
+      "catalogue_id": "0095fc6f72d7ea35",
+      "project_page": "https://curseforge.com/minecraft/mc-mods/lendercataclysm",
+      "categories": [
+        "Creatures and Companions"
+      ],
+      "project_status": "target_unqualified",
+      "implementation_owner": "per-project",
+      "required_evidence": [
+        "exact_mc_loader_versions_and_hashes",
+        "optional_dependency_absence",
+        "pairwise_native_test",
+        "combined_pack_test",
+        "save_and_dimension_roundtrip",
+        "resource_and_reward_accounting",
+        "startup_frame_tick_measurements"
+      ],
+      "reference": "https://github.com/Herbertofury/Minecraft-Mods/wiki/Forever-World-Collection"
+    },
+    {
+      "name": "Apotheosis",
+      "catalogue_id": "2322a7bdb6f035ca",
+      "project_page": "https://curseforge.com/minecraft/mc-mods/apotheosis",
+      "categories": [
+        "Magic and Progression"
+      ],
+      "project_status": "target_unqualified",
+      "implementation_owner": "per-project",
+      "required_evidence": [
+        "exact_mc_loader_versions_and_hashes",
+        "optional_dependency_absence",
+        "pairwise_native_test",
+        "combined_pack_test",
+        "save_and_dimension_roundtrip",
+        "resource_and_reward_accounting",
+        "startup_frame_tick_measurements"
+      ],
+      "reference": "https://github.com/Herbertofury/Minecraft-Mods/wiki/Forever-World-Collection"
+    },
+    {
+      "name": "Timeless and Classics Zero (TaCZ)",
+      "catalogue_id": "e353129a38c9054f",
+      "project_page": "https://curseforge.com/minecraft/mc-mods/timeless-and-classics-zero",
+      "categories": [
+        "Weapons and Combat"
+      ],
+      "project_status": "target_unqualified",
+      "implementation_owner": "per-project",
+      "required_evidence": [
+        "exact_mc_loader_versions_and_hashes",
+        "optional_dependency_absence",
+        "pairwise_native_test",
+        "combined_pack_test",
+        "save_and_dimension_roundtrip",
+        "resource_and_reward_accounting",
+        "startup_frame_tick_measurements"
+      ],
+      "reference": "https://github.com/Herbertofury/Minecraft-Mods/wiki/Forever-World-Collection"
+    },
+    {
+      "name": "Curios",
+      "catalogue_id": "86b3a1ea181b5784",
+      "project_page": "https://curseforge.com/minecraft/mc-mods/curios",
+      "categories": [
+        "Weapons and Combat",
+        "Magic and Progression",
+        "Tools and Development"
+      ],
+      "project_status": "target_unqualified",
+      "implementation_owner": "per-project",
+      "required_evidence": [
+        "exact_mc_loader_versions_and_hashes",
+        "optional_dependency_absence",
+        "pairwise_native_test",
+        "combined_pack_test",
+        "save_and_dimension_roundtrip",
+        "resource_and_reward_accounting",
+        "startup_frame_tick_measurements"
+      ],
+      "reference": "https://github.com/Herbertofury/Minecraft-Mods/wiki/Forever-World-Collection"
+    },
+    {
+      "name": "Ars Nouveau",
+      "catalogue_id": "6d235f747de0b5ea",
+      "project_page": "https://curseforge.com/minecraft/mc-mods/ars-nouveau",
+      "categories": [
+        "Engineering and Vehicles",
+        "Magic and Progression"
+      ],
+      "project_status": "target_unqualified",
+      "implementation_owner": "per-project",
+      "required_evidence": [
+        "exact_mc_loader_versions_and_hashes",
+        "optional_dependency_absence",
+        "pairwise_native_test",
+        "combined_pack_test",
+        "save_and_dimension_roundtrip",
+        "resource_and_reward_accounting",
+        "startup_frame_tick_measurements"
+      ],
+      "reference": "https://github.com/Herbertofury/Minecraft-Mods/wiki/Forever-World-Collection"
+    },
+    {
+      "name": "Iron's Spells 'n Spellbooks + IronsArms",
+      "catalogue_id": "13f67c108c8c3c69",
+      "project_page": null,
+      "categories": [
+        "Magic and Progression"
+      ],
+      "project_status": "target_unqualified",
+      "implementation_owner": "per-project",
+      "required_evidence": [
+        "exact_mc_loader_versions_and_hashes",
+        "optional_dependency_absence",
+        "pairwise_native_test",
+        "combined_pack_test",
+        "save_and_dimension_roundtrip",
+        "resource_and_reward_accounting",
+        "startup_frame_tick_measurements"
+      ],
+      "reference": "https://github.com/Herbertofury/Minecraft-Mods/wiki/Forever-World-Collection"
+    },
+    {
+      "name": "Butchery",
+      "catalogue_id": "b411dfe30dd0cebb",
+      "project_page": "https://curseforge.com/minecraft/mc-mods/butchery",
+      "categories": [
+        "Engineering and Vehicles",
+        "Creatures and Companions",
+        "Farming and Survival"
+      ],
+      "project_status": "target_unqualified",
+      "implementation_owner": "per-project",
+      "required_evidence": [
+        "exact_mc_loader_versions_and_hashes",
+        "optional_dependency_absence",
+        "pairwise_native_test",
+        "combined_pack_test",
+        "save_and_dimension_roundtrip",
+        "resource_and_reward_accounting",
+        "startup_frame_tick_measurements"
+      ],
+      "reference": "https://github.com/Herbertofury/Minecraft-Mods/wiki/Forever-World-Collection"
+    },
+    {
+      "name": "Alex's Mobs",
+      "catalogue_id": "97aae57597856bf3",
+      "project_page": "https://curseforge.com/minecraft/mc-mods/alexs-mobs",
+      "categories": [
+        "Creatures and Companions"
+      ],
+      "project_status": "target_unqualified",
+      "implementation_owner": "per-project",
+      "required_evidence": [
+        "exact_mc_loader_versions_and_hashes",
+        "optional_dependency_absence",
+        "pairwise_native_test",
+        "combined_pack_test",
+        "save_and_dimension_roundtrip",
+        "resource_and_reward_accounting",
+        "startup_frame_tick_measurements"
+      ],
+      "reference": "https://github.com/Herbertofury/Minecraft-Mods/wiki/Forever-World-Collection"
+    },
+    {
+      "name": "Farmer's Delight",
+      "catalogue_id": "b45b832c6a508dda",
+      "project_page": "https://curseforge.com/minecraft/mc-mods/farmers-delight",
+      "categories": [
+        "Farming and Survival"
+      ],
+      "project_status": "target_unqualified",
+      "implementation_owner": "per-project",
+      "required_evidence": [
+        "exact_mc_loader_versions_and_hashes",
+        "optional_dependency_absence",
+        "pairwise_native_test",
+        "combined_pack_test",
+        "save_and_dimension_roundtrip",
+        "resource_and_reward_accounting",
+        "startup_frame_tick_measurements"
+      ],
+      "reference": "https://github.com/Herbertofury/Minecraft-Mods/wiki/Forever-World-Collection"
+    },
+    {
+      "name": "Kaleidoscope Cookery",
+      "catalogue_id": "8cb0c173a11ceabb",
+      "project_page": "https://curseforge.com/minecraft/mc-mods/kaleidoscope-cookery",
+      "categories": [
+        "Farming and Survival"
+      ],
+      "project_status": "target_unqualified",
+      "implementation_owner": "per-project",
+      "required_evidence": [
+        "exact_mc_loader_versions_and_hashes",
+        "optional_dependency_absence",
+        "pairwise_native_test",
+        "combined_pack_test",
+        "save_and_dimension_roundtrip",
+        "resource_and_reward_accounting",
+        "startup_frame_tick_measurements"
+      ],
+      "reference": "https://github.com/Herbertofury/Minecraft-Mods/wiki/Forever-World-Collection"
+    },
+    {
+      "name": "Create",
+      "catalogue_id": "8f335bc942b0ba36",
+      "project_page": "https://curseforge.com/minecraft/mc-mods/create",
+      "categories": [
+        "Engineering and Vehicles"
+      ],
+      "project_status": "target_unqualified",
+      "implementation_owner": "per-project",
+      "required_evidence": [
+        "exact_mc_loader_versions_and_hashes",
+        "optional_dependency_absence",
+        "pairwise_native_test",
+        "combined_pack_test",
+        "save_and_dimension_roundtrip",
+        "resource_and_reward_accounting",
+        "startup_frame_tick_measurements"
+      ],
+      "reference": "https://github.com/Herbertofury/Minecraft-Mods/wiki/Forever-World-Collection"
+    },
+    {
+      "name": "Botania",
+      "catalogue_id": "7a31ece438cf25ec",
+      "project_page": "https://curseforge.com/minecraft/mc-mods/botania",
+      "categories": [
+        "Magic and Progression"
+      ],
+      "project_status": "target_unqualified",
+      "implementation_owner": "per-project",
+      "required_evidence": [
+        "exact_mc_loader_versions_and_hashes",
+        "optional_dependency_absence",
+        "pairwise_native_test",
+        "combined_pack_test",
+        "save_and_dimension_roundtrip",
+        "resource_and_reward_accounting",
+        "startup_frame_tick_measurements"
+      ],
+      "reference": "https://github.com/Herbertofury/Minecraft-Mods/wiki/Forever-World-Collection"
+    },
+    {
+      "name": "Applied Energistics 2",
+      "catalogue_id": "1208f79b3d2c5638",
+      "project_page": null,
+      "categories": [
+        "Storage and Logistics",
+        "Engineering and Vehicles"
+      ],
+      "project_status": "target_unqualified",
+      "implementation_owner": "per-project",
+      "required_evidence": [
+        "exact_mc_loader_versions_and_hashes",
+        "optional_dependency_absence",
+        "pairwise_native_test",
+        "combined_pack_test",
+        "save_and_dimension_roundtrip",
+        "resource_and_reward_accounting",
+        "startup_frame_tick_measurements"
+      ],
+      "reference": "https://github.com/Herbertofury/Minecraft-Mods/wiki/Forever-World-Collection"
+    },
+    {
+      "name": "Gateways to Eternity",
+      "catalogue_id": "62190c0385557e97",
+      "project_page": null,
+      "categories": [
+        "Weapons and Combat",
+        "Worlds and Exploration"
+      ],
+      "project_status": "target_unqualified",
+      "implementation_owner": "per-project",
+      "required_evidence": [
+        "exact_mc_loader_versions_and_hashes",
+        "optional_dependency_absence",
+        "pairwise_native_test",
+        "combined_pack_test",
+        "save_and_dimension_roundtrip",
+        "resource_and_reward_accounting",
+        "startup_frame_tick_measurements"
+      ],
+      "reference": "https://github.com/Herbertofury/Minecraft-Mods/wiki/Forever-World-Collection"
+    },
+    {
+      "name": "Scorched Guns",
+      "catalogue_id": "d4036867ba6073d5",
+      "project_page": null,
+      "categories": [
+        "Magic and Progression"
+      ],
+      "project_status": "target_unqualified",
+      "implementation_owner": "per-project",
+      "required_evidence": [
+        "exact_mc_loader_versions_and_hashes",
+        "optional_dependency_absence",
+        "pairwise_native_test",
+        "combined_pack_test",
+        "save_and_dimension_roundtrip",
+        "resource_and_reward_accounting",
+        "startup_frame_tick_measurements"
+      ],
+      "reference": "https://github.com/Herbertofury/Minecraft-Mods/wiki/Forever-World-Collection"
+    },
+    {
+      "name": "Terramity",
+      "catalogue_id": "a5f50f2f847d15be",
+      "project_page": null,
+      "categories": [
+        "Weapons and Combat",
+        "Magic and Progression"
+      ],
+      "project_status": "target_unqualified",
+      "implementation_owner": "per-project",
+      "required_evidence": [
+        "exact_mc_loader_versions_and_hashes",
+        "optional_dependency_absence",
+        "pairwise_native_test",
+        "combined_pack_test",
+        "save_and_dimension_roundtrip",
+        "resource_and_reward_accounting",
+        "startup_frame_tick_measurements"
+      ],
+      "reference": "https://github.com/Herbertofury/Minecraft-Mods/wiki/Forever-World-Collection"
+    },
+    {
+      "name": "Malum",
+      "catalogue_id": "25b5fb96cc8c9e25",
+      "project_page": null,
+      "categories": [
+        "Magic and Progression"
+      ],
+      "project_status": "target_unqualified",
+      "implementation_owner": "per-project",
+      "required_evidence": [
+        "exact_mc_loader_versions_and_hashes",
+        "optional_dependency_absence",
+        "pairwise_native_test",
+        "combined_pack_test",
+        "save_and_dimension_roundtrip",
+        "resource_and_reward_accounting",
+        "startup_frame_tick_measurements"
+      ],
+      "reference": "https://github.com/Herbertofury/Minecraft-Mods/wiki/Forever-World-Collection"
+    },
+    {
+      "name": "Born in Chaos",
+      "catalogue_id": "cc70db74b7c72452",
+      "project_page": "https://curseforge.com/minecraft/mc-mods/born-in-chaos",
+      "categories": [
+        "Creatures and Companions"
+      ],
+      "project_status": "target_unqualified",
+      "implementation_owner": "per-project",
+      "required_evidence": [
+        "exact_mc_loader_versions_and_hashes",
+        "optional_dependency_absence",
+        "pairwise_native_test",
+        "combined_pack_test",
+        "save_and_dimension_roundtrip",
+        "resource_and_reward_accounting",
+        "startup_frame_tick_measurements"
+      ],
+      "reference": "https://github.com/Herbertofury/Minecraft-Mods/wiki/Forever-World-Collection"
+    },
+    {
+      "name": "TaCZ Turrets",
+      "catalogue_id": "75cb447fc0f448f4",
+      "project_page": "https://curseforge.com/minecraft/mc-mods/tacz-turrets",
+      "categories": [
+        "Weapons and Combat",
+        "Performance and Stability"
+      ],
+      "project_status": "target_unqualified",
+      "implementation_owner": "per-project",
+      "required_evidence": [
+        "exact_mc_loader_versions_and_hashes",
+        "optional_dependency_absence",
+        "pairwise_native_test",
+        "combined_pack_test",
+        "save_and_dimension_roundtrip",
+        "resource_and_reward_accounting",
+        "startup_frame_tick_measurements"
+      ],
+      "reference": "https://github.com/Herbertofury/Minecraft-Mods/wiki/Forever-World-Collection"
+    },
+    {
+      "name": "The Twilight Forest",
+      "catalogue_id": "9b0f7f1469f8110b",
+      "project_page": "https://curseforge.com/minecraft/mc-mods/the-twilight-forest",
+      "categories": [
+        "Magic and Progression",
+        "Creatures and Companions",
+        "Worlds and Exploration"
+      ],
+      "project_status": "target_unqualified",
+      "implementation_owner": "per-project",
+      "required_evidence": [
+        "exact_mc_loader_versions_and_hashes",
+        "optional_dependency_absence",
+        "pairwise_native_test",
+        "combined_pack_test",
+        "save_and_dimension_roundtrip",
+        "resource_and_reward_accounting",
+        "startup_frame_tick_measurements"
+      ],
+      "reference": "https://github.com/Herbertofury/Minecraft-Mods/wiki/Forever-World-Collection"
+    },
+    {
+      "name": "The Aether",
+      "catalogue_id": "1d0b41377febbb9a",
+      "project_page": "https://curseforge.com/minecraft/mc-mods/aether",
+      "categories": [
+        "Creatures and Companions",
+        "Worlds and Exploration"
+      ],
+      "project_status": "target_unqualified",
+      "implementation_owner": "per-project",
+      "required_evidence": [
+        "exact_mc_loader_versions_and_hashes",
+        "optional_dependency_absence",
+        "pairwise_native_test",
+        "combined_pack_test",
+        "save_and_dimension_roundtrip",
+        "resource_and_reward_accounting",
+        "startup_frame_tick_measurements"
+      ],
+      "reference": "https://github.com/Herbertofury/Minecraft-Mods/wiki/Forever-World-Collection"
+    },
+    {
+      "name": "Blue Skies",
+      "catalogue_id": "ba977920b5d1da6a",
+      "project_page": "https://curseforge.com/minecraft/mc-mods/blue-skies",
+      "categories": [
+        "Creatures and Companions",
+        "Worlds and Exploration"
+      ],
+      "project_status": "target_unqualified",
+      "implementation_owner": "per-project",
+      "required_evidence": [
+        "exact_mc_loader_versions_and_hashes",
+        "optional_dependency_absence",
+        "pairwise_native_test",
+        "combined_pack_test",
+        "save_and_dimension_roundtrip",
+        "resource_and_reward_accounting",
+        "startup_frame_tick_measurements"
+      ],
+      "reference": "https://github.com/Herbertofury/Minecraft-Mods/wiki/Forever-World-Collection"
+    },
+    {
+      "name": "The Bumblezone",
+      "catalogue_id": "85225bb47aa98235",
+      "project_page": "https://curseforge.com/minecraft/mc-mods/the-bumblezone-forge",
+      "categories": [
+        "Creatures and Companions",
+        "Worlds and Exploration"
+      ],
+      "project_status": "target_unqualified",
+      "implementation_owner": "per-project",
+      "required_evidence": [
+        "exact_mc_loader_versions_and_hashes",
+        "optional_dependency_absence",
+        "pairwise_native_test",
+        "combined_pack_test",
+        "save_and_dimension_roundtrip",
+        "resource_and_reward_accounting",
+        "startup_frame_tick_measurements"
+      ],
+      "reference": "https://github.com/Herbertofury/Minecraft-Mods/wiki/Forever-World-Collection"
+    },
+    {
+      "name": "The Undergarden",
+      "catalogue_id": "93c94fb5d84fe060",
+      "project_page": "https://curseforge.com/minecraft/mc-mods/the-undergarden",
+      "categories": [
+        "Worlds and Exploration",
+        "Creatures and Companions"
+      ],
+      "project_status": "target_unqualified",
+      "implementation_owner": "per-project",
+      "required_evidence": [
+        "exact_mc_loader_versions_and_hashes",
+        "optional_dependency_absence",
+        "pairwise_native_test",
+        "combined_pack_test",
+        "save_and_dimension_roundtrip",
+        "resource_and_reward_accounting",
+        "startup_frame_tick_measurements"
+      ],
+      "reference": "https://github.com/Herbertofury/Minecraft-Mods/wiki/Forever-World-Collection"
+    },
+    {
+      "name": "The Midnight",
+      "catalogue_id": "d2a49977662e9aaa",
+      "project_page": null,
+      "categories": [
+        "Worlds and Exploration"
+      ],
+      "project_status": "target_unqualified",
+      "implementation_owner": "per-project",
+      "required_evidence": [
+        "exact_mc_loader_versions_and_hashes",
+        "optional_dependency_absence",
+        "pairwise_native_test",
+        "combined_pack_test",
+        "save_and_dimension_roundtrip",
+        "resource_and_reward_accounting",
+        "startup_frame_tick_measurements"
+      ],
+      "reference": "https://github.com/Herbertofury/Minecraft-Mods/wiki/Forever-World-Collection"
+    },
+    {
+      "name": "The Betweenlands",
+      "catalogue_id": "b3016998e8847242",
+      "project_page": null,
+      "categories": [
+        "Worlds and Exploration"
+      ],
+      "project_status": "target_unqualified",
+      "implementation_owner": "per-project",
+      "required_evidence": [
+        "exact_mc_loader_versions_and_hashes",
+        "optional_dependency_absence",
+        "pairwise_native_test",
+        "combined_pack_test",
+        "save_and_dimension_roundtrip",
+        "resource_and_reward_accounting",
+        "startup_frame_tick_measurements"
+      ],
+      "reference": "https://github.com/Herbertofury/Minecraft-Mods/wiki/Forever-World-Collection"
+    },
+    {
+      "name": "Ad Astra",
+      "catalogue_id": "2ca71826fca7ba69",
+      "project_page": null,
+      "categories": [
+        "Worlds and Exploration"
+      ],
+      "project_status": "target_unqualified",
+      "implementation_owner": "per-project",
+      "required_evidence": [
+        "exact_mc_loader_versions_and_hashes",
+        "optional_dependency_absence",
+        "pairwise_native_test",
+        "combined_pack_test",
+        "save_and_dimension_roundtrip",
+        "resource_and_reward_accounting",
+        "startup_frame_tick_measurements"
+      ],
+      "reference": "https://github.com/Herbertofury/Minecraft-Mods/wiki/Forever-World-Collection"
+    },
+    {
+      "name": "Dimensional Doors",
+      "catalogue_id": "31dd91db4849b1ec",
+      "project_page": null,
+      "categories": [
+        "Worlds and Exploration"
+      ],
+      "project_status": "target_unqualified",
+      "implementation_owner": "per-project",
+      "required_evidence": [
+        "exact_mc_loader_versions_and_hashes",
+        "optional_dependency_absence",
+        "pairwise_native_test",
+        "combined_pack_test",
+        "save_and_dimension_roundtrip",
+        "resource_and_reward_accounting",
+        "startup_frame_tick_measurements"
+      ],
+      "reference": "https://github.com/Herbertofury/Minecraft-Mods/wiki/Forever-World-Collection"
+    },
+    {
+      "name": "Eternal Starlight",
+      "catalogue_id": "f36a3ca4d61b74f8",
+      "project_page": null,
+      "categories": [
+        "Worlds and Exploration"
+      ],
+      "project_status": "target_unqualified",
+      "implementation_owner": "per-project",
+      "required_evidence": [
+        "exact_mc_loader_versions_and_hashes",
+        "optional_dependency_absence",
+        "pairwise_native_test",
+        "combined_pack_test",
+        "save_and_dimension_roundtrip",
+        "resource_and_reward_accounting",
+        "startup_frame_tick_measurements"
+      ],
+      "reference": "https://github.com/Herbertofury/Minecraft-Mods/wiki/Forever-World-Collection"
+    },
+    {
+      "name": "AbyssalCraft",
+      "catalogue_id": "f8f526634de5c100",
+      "project_page": "https://curseforge.com/minecraft/mc-mods/abyssalcraft",
+      "categories": [
+        "Creatures and Companions",
+        "Worlds and Exploration"
+      ],
+      "project_status": "target_unqualified",
+      "implementation_owner": "per-project",
+      "required_evidence": [
+        "exact_mc_loader_versions_and_hashes",
+        "optional_dependency_absence",
+        "pairwise_native_test",
+        "combined_pack_test",
+        "save_and_dimension_roundtrip",
+        "resource_and_reward_accounting",
+        "startup_frame_tick_measurements"
+      ],
+      "reference": "https://github.com/Herbertofury/Minecraft-Mods/wiki/Forever-World-Collection"
+    },
+    {
+      "name": "Atum",
+      "catalogue_id": "af5bee81ef9d5c66",
+      "project_page": null,
+      "categories": [
+        "Worlds and Exploration"
+      ],
+      "project_status": "target_unqualified",
+      "implementation_owner": "per-project",
+      "required_evidence": [
+        "exact_mc_loader_versions_and_hashes",
+        "optional_dependency_absence",
+        "pairwise_native_test",
+        "combined_pack_test",
+        "save_and_dimension_roundtrip",
+        "resource_and_reward_accounting",
+        "startup_frame_tick_measurements"
+      ],
+      "reference": "https://github.com/Herbertofury/Minecraft-Mods/wiki/Forever-World-Collection"
+    },
+    {
+      "name": "DivineRPG",
+      "catalogue_id": "ecc7465203450e34",
+      "project_page": "https://curseforge.com/minecraft/mc-mods/official-divinerpg",
+      "categories": [
+        "Creatures and Companions",
+        "Worlds and Exploration"
+      ],
+      "project_status": "target_unqualified",
+      "implementation_owner": "per-project",
+      "required_evidence": [
+        "exact_mc_loader_versions_and_hashes",
+        "optional_dependency_absence",
+        "pairwise_native_test",
+        "combined_pack_test",
+        "save_and_dimension_roundtrip",
+        "resource_and_reward_accounting",
+        "startup_frame_tick_measurements"
+      ],
+      "reference": "https://github.com/Herbertofury/Minecraft-Mods/wiki/Forever-World-Collection"
+    },
+    {
+      "name": "Eternal Tales",
+      "catalogue_id": "a4d93f9e1f007143",
+      "project_page": null,
+      "categories": [
+        "Worlds and Exploration"
+      ],
+      "project_status": "target_unqualified",
+      "implementation_owner": "per-project",
+      "required_evidence": [
+        "exact_mc_loader_versions_and_hashes",
+        "optional_dependency_absence",
+        "pairwise_native_test",
+        "combined_pack_test",
+        "save_and_dimension_roundtrip",
+        "resource_and_reward_accounting",
+        "startup_frame_tick_measurements"
+      ],
+      "reference": "https://github.com/Herbertofury/Minecraft-Mods/wiki/Forever-World-Collection"
+    },
+    {
+      "name": "Aerial Hell",
+      "catalogue_id": "ffe1d518162e07b1",
+      "project_page": null,
+      "categories": [
+        "Worlds and Exploration"
+      ],
+      "project_status": "target_unqualified",
+      "implementation_owner": "per-project",
+      "required_evidence": [
+        "exact_mc_loader_versions_and_hashes",
+        "optional_dependency_absence",
+        "pairwise_native_test",
+        "combined_pack_test",
+        "save_and_dimension_roundtrip",
+        "resource_and_reward_accounting",
+        "startup_frame_tick_measurements"
+      ],
+      "reference": "https://github.com/Herbertofury/Minecraft-Mods/wiki/Forever-World-Collection"
+    },
+    {
+      "name": "Deeper and Darker",
+      "catalogue_id": "1a7db0ce631bbd19",
+      "project_page": "https://curseforge.com/minecraft/mc-mods/deeperdarker",
+      "categories": [
+        "Creatures and Companions"
+      ],
+      "project_status": "target_unqualified",
+      "implementation_owner": "per-project",
+      "required_evidence": [
+        "exact_mc_loader_versions_and_hashes",
+        "optional_dependency_absence",
+        "pairwise_native_test",
+        "combined_pack_test",
+        "save_and_dimension_roundtrip",
+        "resource_and_reward_accounting",
+        "startup_frame_tick_measurements"
+      ],
+      "reference": "https://github.com/Herbertofury/Minecraft-Mods/wiki/Forever-World-Collection"
+    },
+    {
+      "name": "The Lost Cities",
+      "catalogue_id": "63cec904d002207b",
+      "project_page": "https://curseforge.com/minecraft/mc-mods/the-lost-cities",
+      "categories": [
+        "Worlds and Exploration"
+      ],
+      "project_status": "target_unqualified",
+      "implementation_owner": "per-project",
+      "required_evidence": [
+        "exact_mc_loader_versions_and_hashes",
+        "optional_dependency_absence",
+        "pairwise_native_test",
+        "combined_pack_test",
+        "save_and_dimension_roundtrip",
+        "resource_and_reward_accounting",
+        "startup_frame_tick_measurements"
+      ],
+      "reference": "https://github.com/Herbertofury/Minecraft-Mods/wiki/Forever-World-Collection"
+    },
+    {
+      "name": "RFTools Dimensions",
+      "catalogue_id": "1712cf9a4bb6cc29",
+      "project_page": null,
+      "categories": [
+        "Worlds and Exploration"
+      ],
+      "project_status": "target_unqualified",
+      "implementation_owner": "per-project",
+      "required_evidence": [
+        "exact_mc_loader_versions_and_hashes",
+        "optional_dependency_absence",
+        "pairwise_native_test",
+        "combined_pack_test",
+        "save_and_dimension_roundtrip",
+        "resource_and_reward_accounting",
+        "startup_frame_tick_measurements"
+      ],
+      "reference": "https://github.com/Herbertofury/Minecraft-Mods/wiki/Forever-World-Collection"
+    },
+    {
+      "name": "Tropicraft",
+      "catalogue_id": "94e0c44358889e2a",
+      "project_page": "https://curseforge.com/minecraft/mc-mods/tropicraft",
+      "categories": [
+        "Creatures and Companions",
+        "Worlds and Exploration"
+      ],
+      "project_status": "target_unqualified",
+      "implementation_owner": "per-project",
+      "required_evidence": [
+        "exact_mc_loader_versions_and_hashes",
+        "optional_dependency_absence",
+        "pairwise_native_test",
+        "combined_pack_test",
+        "save_and_dimension_roundtrip",
+        "resource_and_reward_accounting",
+        "startup_frame_tick_measurements"
+      ],
+      "reference": "https://github.com/Herbertofury/Minecraft-Mods/wiki/Forever-World-Collection"
+    }
+  ]
+}
