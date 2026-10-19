@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**100 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**102 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Content Pack · 13</strong></summary>
@@ -125,14 +125,16 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Resource Pack · 5</strong></summary>
+<summary><strong>Resource Pack · 7</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
 | [Connected Paths](https://www.curseforge.com/minecraft/texture-packs/connected-paths) | Connected-texture resource pack; author requires OptiFine or Continuity. Support is version-scoped: several ecosystems are listed, while Create, Alex’s Caves and others remain plan | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=83cd0bd17d0aac90) |
+| [Dandelion X](https://www.curseforge.com/minecraft/texture-packs/dandelion-x) | A 16x continuation of Steelfeathers’ Dandelion with vanilla-friendly textures, animations and models plus optional enhanced features. Author guidance names EMF/ETF, Continuity and  | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=8bc28b396f6d8cff) |
 | [Excalibur \| Supplementaries Support](https://www.curseforge.com/minecraft/texture-packs/excalibur-supplementaries-support) | Unofficial Supplementaries visual compatibility pack. Author still lists presents and flags as missing despite broad block/decor/icon coverage. Separate release lanes exist; match  | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a0294125427bea54) |
 | [ItemBound: ReBound](https://modrinth.com/resourcepack/itembound-rebound) | FUTURE VERSION | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2288834ec00c4155) |
 | [Mizuno's Pig Variants](https://curseforge.com/minecraft/texture-packs/mizunos-pig-variants) | Polished pig-variant pack for players who want visual variety without behavior changes. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=901abb23c77b92a6) |
+| [Quark BDCraft](https://www.curseforge.com/minecraft/texture-packs/quark-bdcraft) | PureBDCraft-style Quark patch for the 1.20 line, offered at 32x, 64x, 128x, 256x and 512x. Resolution selection changes texture-memory demand; the page does not establish a measure | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7feae2f79815843e) |
 | [The FAYE Pet Furniture Set \| CIT](https://herbertofury.github.io/Minecraft-Mods/?id=7393344c4453b6f4) | INSTALL / OPTIONAL VISUAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7393344c4453b6f4) |
 
 </details>

@@ -550,5 +550,45 @@
       "Worlds and Exploration"
     ],
     "note": "Vanilla-like BWG retexture for the listed 1.20\u20131.20.1 lane, illustrated with Skywood, Rainbow Wood and stone examples. Treat it as a distinct visual option from Whimscape and other BWG patches; screenshots alone do not prove complete block coverage or safe stacking of overlapping textures."
+  },
+  {
+    "row": 64,
+    "name": "Mizuno\u2019s x Farmer\u2019s Delight",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/mizunos-x-farmers-delight",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Farming and Survival"
+    ],
+    "note": "Mizuno-style Farmer\u2019s Delight retexture. The author uses Refabricated and describes Forge support as possible rather than verified; do not promote this to tested Forge compatibility. Match the exact pack file to the installed release."
+  },
+  {
+    "row": 65,
+    "name": "Quark BDCraft",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/quark-bdcraft",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Building and Decoration"
+    ],
+    "note": "PureBDCraft-style Quark patch for the 1.20 line, offered at 32x, 64x, 128x, 256x and 512x. Resolution selection changes texture-memory demand; the page does not establish a measured performance result or blanket reuse rights."
+  },
+  {
+    "row": 66,
+    "name": "(Brewin\u2019 and Chewin\u2019) 3D delight foods & drinks",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/brewin-and-chewin-3d-foods-drinks",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Farming and Survival"
+    ],
+    "note": "Adds 3D food/drink presentation on Brewin\u2019 and Chewin\u2019 coasters and explicitly requires the Forge mod. The listed 1.20.1 release covers Farmer\u2019s Delight, Farmer\u2019s Respite, Youkai\u2019s Homecoming, End\u2019s Delight and Galospheric Delight; additional planned addons are not completed coverage."
+  },
+  {
+    "row": 67,
+    "name": "Dandelion X",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/dandelion-x",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Building and Decoration"
+    ],
+    "note": "A 16x continuation of Steelfeathers\u2019 Dandelion with vanilla-friendly textures, animations and models plus optional enhanced features. Author guidance names EMF/ETF, Continuity and Polytone for portions of its enhanced support. Newer vanilla CIT support is version-specific, not a 1.20.1 guarantee; match release and feature dependencies."
   }
 ]

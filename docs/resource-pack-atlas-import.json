@@ -4,9 +4,9 @@
   "master_rows": 159,
   "exact_existing_observations_added": 37,
   "unique_entries_enriched": 33,
-  "pending_master_observations": 68,
-  "display_entries": 2318,
-  "source_observations": 2700,
+  "pending_master_observations": 64,
+  "display_entries": 2322,
+  "source_observations": 2704,
   "favorites": 411,
   "native_promotions": 0,
   "all_prior_fields_preserved": true,
@@ -197,7 +197,7 @@
       "name": "Fresh Flowers and Plants"
     }
   ],
-  "reviewed_new_identity_observations_added": 54,
+  "reviewed_new_identity_observations_added": 58,
   "reviewed_new_identities": [
     {
       "row": 2,
@@ -468,6 +468,26 @@
       "row": 63,
       "id": "cc3fecbe4ad52829",
       "name": "Just Oh The Biomes We\u2019ve Gone"
+    },
+    {
+      "row": 64,
+      "id": "3fb973c08ebd46b9",
+      "name": "Mizuno\u2019s x Farmer\u2019s Delight"
+    },
+    {
+      "row": 65,
+      "id": "7feae2f79815843e",
+      "name": "Quark BDCraft"
+    },
+    {
+      "row": 66,
+      "id": "43f98b15aee958dc",
+      "name": "(Brewin\u2019 and Chewin\u2019) 3D delight foods & drinks"
+    },
+    {
+      "row": 67,
+      "id": "8bc28b396f6d8cff",
+      "name": "Dandelion X"
     }
   ]
 }

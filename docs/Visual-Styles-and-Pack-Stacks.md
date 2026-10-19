@@ -58,7 +58,7 @@ These are historical starting ideas awaiting full exact-file review, not certifi
 
 ## Import coverage
 
-The original 17 views and all 159 master observations are preserved in the repository. Ninety-one master observations are attached to catalogue identities: 37 exact matches to existing records and fifty-four newly reviewed identities. The remaining 68 master observations and 142 unmatched companion-view rows remain in review. 209 companion rows are attached to 82 entries; they do not inflate the unique-project or source-record totals.
+The original 17 views and all 159 master observations are preserved in the repository. Ninety-five master observations are attached to catalogue identities: 37 exact matches to existing records and fifty-eight newly reviewed identities. The remaining 64 master observations and 134 unmatched companion-view rows remain in review. 217 companion rows are attached to 86 entries; they do not inflate the unique-project or source-record totals.
 
 [Preserved source views](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-source-views.json) · [Master import receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-import.json) · [Companion receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-companion-receipt.json)
 
@@ -125,3 +125,9 @@ Original scores and superlatives remain source opinions. No pack was installed, 
 [Cataclysm: Spellbooks Reimagined](https://www.curseforge.com/minecraft/texture-packs/cataclysm-spellbooks-reimagined) explicitly targets GUI/HUD/item icons rather than world models or gameplay. Its separate Forge/NeoForge files should be matched to the game build. [Biomes o’ Plenty 3D Flora](https://www.curseforge.com/minecraft/texture-packs/biomes-o-plenty-3d-flora) names four specific flora targets; it is not an all-plant overhaul.
 
 [Croptopia Blocky Crops](https://modrinth.com/resourcepack/croptopia-blocky-crops) and [Just BWG](https://modrinth.com/resourcepack/just-oh-the-biomes-weve-gone) are additional style choices. Exact file coverage, overlapping resource paths and asset permissions need their own checks; a shared inspiration is not functional integration or blanket reuse permission.
+
+## Cozy styles and feature-specific dependencies
+
+[Mizuno’s Farmer’s Delight patch](https://www.curseforge.com/minecraft/texture-packs/mizunos-x-farmers-delight) is authored around Refabricated; Forge support is described as possible, not verified. [Brewin’ and Chewin’ coaster models](https://www.curseforge.com/minecraft/texture-packs/brewin-and-chewin-3d-foods-drinks) explicitly require the Forge mod. Their shared food theme does not make their dependencies interchangeable.
+
+[Quark BDCraft](https://www.curseforge.com/minecraft/texture-packs/quark-bdcraft) provides several resolution choices for the 1.20 line. [Dandelion X](https://www.curseforge.com/minecraft/texture-packs/dandelion-x) separates vanilla-friendly features from enhanced features with additional renderer/mod requirements. Verify each feature against the exact game version; newer vanilla custom-item support cannot be assumed for 1.20.1.

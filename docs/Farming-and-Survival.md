@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**128 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**130 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Content Pack · 4</strong></summary>
@@ -133,10 +133,11 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Resource Pack · 18</strong></summary>
+<summary><strong>Resource Pack · 20</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
+| [(Brewin’ and Chewin’) 3D delight foods & drinks](https://www.curseforge.com/minecraft/texture-packs/brewin-and-chewin-3d-foods-drinks) | Adds 3D food/drink presentation on Brewin’ and Chewin’ coasters and explicitly requires the Forge mod. The listed 1.20.1 release covers Farmer’s Delight, Farmer’s Respite, Youkai’s | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=43f98b15aee958dc) |
 | [3D Crops Revamped](https://modrinth.com/resourcepack/3d-crops) | NinthWorld-derived crop/plant model refresh, distinct from Reforged and Reploughed. The author describes clearer growth stages, reduced repetition, colored stems and floating-textu | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2037d104afed5516) |
 | [Bare Bones x Farmer’s Delight](https://modrinth.com/resourcepack/bare-bones-x-farmers-delight) | Official Bare Bones compatibility resource pack for Farmer’s Delight and several Delight addons. Author-listed completion differs by addon; do not promote the whole family to fully | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=9e890ace92db3272) |
 | [Better Leaves for Bare Bones x Fruit’s Delight](https://modrinth.com/resourcepack/better-leaves-for-bare-bones-x-fruits-delight) | Fruit’s Delight is required; Bare Bones, Bare Bones x Farmer’s Delight and the related Better Leaves pack are strongly recommended. The 1.20–1.20.1 listing describes leaf, flower a | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=f01604a0d60b3c14) |
@@ -152,6 +153,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Excalibur \| Quark Delight Support](https://modrinth.com/resourcepack/quark-delight-excalibur-support) | Excalibur-style retextures for the Quark Delight add-on, with listed 1.20–1.20.1 and 1.21–1.21.1 lanes. The author links separate Farmer’s Delight and Quark support packs; this pat | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=e4f78f17466f8373) |
 | ★ [Fresh Food](https://modrinth.com/resourcepack/fresh-food) | 3D food models and eating animations | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7d81da12770fdffa) |
 | ★ [Fresh Seeds](https://modrinth.com/resourcepack/fresh-seeds) | 3D bundled-style seed item models inspired by Actions & Stuff | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d92306e2cb4a6781) |
+| [Mizuno’s x Farmer’s Delight](https://www.curseforge.com/minecraft/texture-packs/mizunos-x-farmers-delight) | Mizuno-style Farmer’s Delight retexture. The author uses Refabricated and describes Forge support as possible rather than verified; do not promote this to tested Forge compatibilit | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=3fb973c08ebd46b9) |
 | [Pixel Perfection x Farmer's Delight](https://modrinth.com/resourcepack/pixelperfectionxfarmersdelight) | Farmer's Delight textures for the Pixel Perfection Legacy/Fidelity style, with Corn Delight and beta Rustic Delight support stated. Page prose says standalone use is possible, whil | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d6b1ee8e269a3e71) |
 | [Realistic Nature 3D](https://modrinth.com/resourcepack/realistic-nature-3d) | TEST PACK | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=1ae7b478db068527) |
 | [SPBR-Farmer’s Delight](https://modrinth.com/resourcepack/spbr-farmersdelight) | Adds LabPBR normals, parallax, reflections, emission and subsurface scattering to Farmer’s Delight. The linked SPBR guidance requires a shader supporting LabPBR and parallax, with  | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=bb8e4730c3d919bf) |
