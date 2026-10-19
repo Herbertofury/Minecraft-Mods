@@ -4,14 +4,17 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**296 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**299 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
-<summary><strong>Content Pack · 1</strong></summary>
+<summary><strong>Content Pack · 4</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
 | ★ [\[TaCZ\] Create Armorer](https://curseforge.com/minecraft/customization/tacz-create-armorer-koei) | Adds nine survival-craftable TaCZ guns designed around the Create visual language and serves as the weapon-content foundation for Create: Immersive TaCZ Integration. | [Actual-file study](https://github.com/Herbertofury/Advent-of-Ascension/wiki/Create-Armorer-Direct-Study) · [details](https://herbertofury.github.io/Minecraft-Mods/?id=9c13c4c03cb7f7b2) |
+| ★ [How to Train Your Dragon Add-On](https://minecraft.net/en-us/marketplace/pdp?id=10b469b6-f196-428c-b98e-c572cc55e83e) | Bedrock rideable dragon bonding and abilities reference; no Java compatibility or conversion claim. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c23b39cfaad7f770) |
+| ★ [Transformers Add-On](https://xbox.com/en-us/games/store/transformers-add-on/9p9fwk2bj82c) | Bedrock transformation, vehicle abilities and PvP mode reference; distinct from unrelated Transformers community mods. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2239bf845a4fc0ac) |
+| ★ [TRON Add-On](https://xbox.com/en-us/games/store/minecraft-tron-add-on/9pbdnjf84ppn/0010) | Bedrock light vehicles, Grid Runs and Identity Disc reference; separate from unrelated community TRON mods. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=637cd88247aa2899) |
 
 </details>
 

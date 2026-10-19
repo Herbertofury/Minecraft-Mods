@@ -4,14 +4,16 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**86 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**88 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
-<summary><strong>Content Pack · 1</strong></summary>
+<summary><strong>Content Pack · 3</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
+| ★ [Hello Kitty and Friends Furniture](https://minecraft.net/en-us/marketplace/pdp?id=9b344947-df7e-4688-b447-b7cb98e4ad43) | Bedrock furniture, functional storage and themed achievement reference. Historical promotional freebies are not treated as currently available. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=473ec0d1e2e8da89) |
 | ★ [Slice of Life Add-On](https://minecraft.net/en-us/marketplace/pdp/starfish-studios/slice-of-life-add--on/b34587c5-e453-4fad-b2d5-95629f2ce0af) | Bedrock cozy building and companion reference; source conversion ambitions do not establish a Java release. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=e3f5e0884272a4c6) |
+| ★ [ULTIMATE BLASTERS Add-On](https://minecraft.net/nl-nl/marketplace/pdp/radium-studio/ultimate-blasters-add--on-v1.1/c0383dda-4c22-449c-b910-fc005d0a9544) | Bedrock blaster effects, upgrade elements and laboratory decoration reference; not an available Java gun pack. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d6312db5eca20776) |
 
 </details>
 

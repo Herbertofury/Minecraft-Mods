@@ -1,0 +1,41 @@
+{
+  "scope": "Primary project identity only; source records and verification levels preserved",
+  "entries": 2208,
+  "source_records": 2546,
+  "favorites": 377,
+  "resolved_rows": 5,
+  "new_entries": 5,
+  "pending_starred_rows": 47,
+  "applied": [
+    {
+      "row": 236,
+      "id": "d6312db5eca20776",
+      "name": "ULTIMATE BLASTERS Add-On",
+      "new": true
+    },
+    {
+      "row": 237,
+      "id": "473ec0d1e2e8da89",
+      "name": "Hello Kitty and Friends Furniture",
+      "new": true
+    },
+    {
+      "row": 238,
+      "id": "637cd88247aa2899",
+      "name": "TRON Add-On",
+      "new": true
+    },
+    {
+      "row": 239,
+      "id": "c23b39cfaad7f770",
+      "name": "How to Train Your Dragon Add-On",
+      "new": true
+    },
+    {
+      "row": 240,
+      "id": "2239bf845a4fc0ac",
+      "name": "Transformers Add-On",
+      "new": true
+    }
+  ]
+}

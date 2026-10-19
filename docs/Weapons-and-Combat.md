@@ -4,10 +4,10 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**598 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**601 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
-<summary><strong>Content Pack · 80</strong></summary>
+<summary><strong>Content Pack · 83</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -82,6 +82,9 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | ★ [Sulfur Blaster Add-On](https://minecraft.net/en-us/marketplace/pdp?id=0c7d3112-fe1f-4012-974c-b055c1926c19) | Bedrock weapon presentation reference; no Java mod, purchase or artifact study claimed. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=e96c44fb78ad9895) |
 | [TACZ : Xiaomantou GunPack](https://curseforge.com/minecraft/customization/tacz-xiaomantou-gunpack) | Relevant to the TaCZ gun/combat ecosystem; retained for comparison, expansion planning, or compatibility discovery. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=bad476d19fd377bd) |
 | [TaCZ Armed Mobs Warfare](https://curseforge.com/minecraft/mc-mods/tacz-armed-mobs) | 3.0 adds own village Armed Guard, inventory/skin/recruiting and config migration. Guard Villagers OPTIONAL (official 3.0 file explicitly); TaCZ Forge1.20.1 REQUIRED. Faction Wars o | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=75c60371886dfe6c) |
+| ★ [Transformers Add-On](https://xbox.com/en-us/games/store/transformers-add-on/9p9fwk2bj82c) | Bedrock transformation, vehicle abilities and PvP mode reference; distinct from unrelated Transformers community mods. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2239bf845a4fc0ac) |
+| ★ [TRON Add-On](https://xbox.com/en-us/games/store/minecraft-tron-add-on/9pbdnjf84ppn/0010) | Bedrock light vehicles, Grid Runs and Identity Disc reference; separate from unrelated community TRON mods. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=637cd88247aa2899) |
+| ★ [ULTIMATE BLASTERS Add-On](https://minecraft.net/nl-nl/marketplace/pdp/radium-studio/ultimate-blasters-add--on-v1.1/c0383dda-4c22-449c-b910-fc005d0a9544) | Bedrock blaster effects, upgrade elements and laboratory decoration reference; not an available Java gun pack. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d6312db5eca20776) |
 | [Unturned Guns Pack](https://curseforge.com/minecraft/customization/unturned-guns-pack) | 78 ranged weapons from Unturned base/France lines plus attachments; unusually large single-pack content depth. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d9fa35e8b501dcbf) |
 | [Usp Match Pack \| Pointblank](https://curseforge.com/minecraft/mc-addons/usp-match-pack-pointblank) | A verified one-gun Point Blank pack for the USP Match; retained as a deep-cut historical themed addon. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=de7ca10ec3c55c3b) |
 | [Vic's Point Blank - Handguns Galore](https://curseforge.com/minecraft/customization/vics-point-blank-handguns-galore) | Relevant to the Vic's Point Blank gun/combat ecosystem; retained for comparison, expansion planning, or compatibility discovery. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=db7dd45aa5731ece) |
