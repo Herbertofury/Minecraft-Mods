@@ -36,3 +36,10 @@ The 17-view resource-pack atlas is now preserved in the repository. Its 159 mast
 Index and detail requests share a revision derived from the current data files. Refresh it when publishing changes, then verify search and detail views after deployment. A successful build alone does not prove returning visitors see the latest records.
 
 [Deterministic cache-revision tool and four tests](https://github.com/Herbertofury/Minecraft-Mods/raw/refs/heads/main/docs/catalogue-cache-revision-tools.zip) checks all sixteen detail shards and the index together, rejects unexpected frontend request syntax and supports a non-mutating stale-revision check. It changes no project evidence or compatibility status.
+
+
+## Search spelling and typography
+
+Catalogue search folds curly/straight apostrophes and Latin accents, so typing `farmer's 3d` finds the displayed `Farmer’s 3D` title. Dash variants and repeated whitespace also normalize. Display names, source records and shareable query text stay unchanged. Non-Latin scripts keep their diacritics; tests cover Cyrillic, Greek, Japanese and Hindi examples. Search text is prepared once when the index loads, with no additional fetch per query.
+
+The normalization has 26 focused checks, alongside the existing delayed-load tests. This improves finding entries; it does not validate their compatibility or alter their source claims.
