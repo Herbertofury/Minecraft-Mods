@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**290 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**293 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Content Pack · 1</strong></summary>
@@ -224,7 +224,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Resource Pack · 103</strong></summary>
+<summary><strong>Resource Pack · 106</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -241,15 +241,18 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Better 3D Blocks](https://modrinth.com/resourcepack/better-3d-blocks) | TEST BRANCH | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=e1bbc67d4ed232da) |
 | [Better Dogs](https://curseforge.com/minecraft/texture-packs/better-dogs) | Huge domestic-dog appearance library built on tamed wolves, including breed and special texture variations. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0928c717c3c63c72) |
 | [Better Dogs - Bedrock Edition](https://curseforge.com/minecraft-bedrock/texture-packs/better-dogs-bedrock-edition) | Bedrock port of the well-known dog-breed visual expansion. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=73757c9d4ec3eaba) |
+| ★ [Better Mob Models](https://curseforge.com/minecraft/texture-packs/better-mob-models) | Replacement mob appearances. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=36322ebd39c4fc67) |
 | [Better Vibrant Visuals \| Static Light](https://curseforge.com/minecraft-bedrock/texture-packs/bettervibrantvisuals) | BEDROCK UPDATE / CLIENT-SAFE VISUAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=ade0d9f21026f5d4) |
 | ★ [Better, Fresher 3D Books VR](https://modrinth.com/resourcepack/better-fresher-3d-books-vr) | A resource pack that adds 3D book models and individual enchanted book textures tailored for Vivecraft! | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=f3c73ec99ccfce69) |
 | [Beyond Epic Fight MOB compat](https://curseforge.com/minecraft/texture-packs/beyond-epic-fight-mob-compat) | INSTALL/TEST 1.20.1 / HIGH CURRENT-PACK FIT / MATCH COMBAT STACK | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=98b935e5c653dfdd) |
 | [Beyond Epic Fight WEAPON compat](https://curseforge.com/minecraft/texture-packs/beyond-epic-fight-weapon-compat) | INSTALL/TEST 1.20.1 / HIGH CURRENT-PACK FIT / MATCH COMBAT STACK | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2fb49e8aad6e36e3) |
+| ★ [Bingus](https://curseforge.com/minecraft/texture-packs/bingus) | Creature-themed painting textures. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=691eeb1e249f779a) |
 | [Blue Frogs](https://modrinth.com/resourcepack/blue-frogs) | A focused five-variant frog visual pack. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d201ad42eab2b978) |
 | ★ [Bray & Cyber's Better, Fresher 3D Books](https://modrinth.com/resourcepack/bray-cyber-3d-enchanted-books) | Unique 3D models and effects for every enchanted-book variation | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0e65703aa668b98d) |
 | [Cinematic Visuals Shader (Vibrant Visuals Pack)](https://curseforge.com/minecraft-bedrock/texture-packs/cinematic-visuals-shader-vibrant-visuals-pack) | BEDROCK TEST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=fba1386a56f94556) |
 | [Cluckier Chickens](https://curseforge.com/minecraft-bedrock/texture-packs/cluckier-chickens) | A spectacular species-variant pack: one of the largest chicken visual collections surfaced anywhere in the scour. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a313205849bc7d41) |
 | ★ [Create: Fresh Items](https://modrinth.com/resourcepack/create-fresh-food) | 3D Create item models inspired by Fresh Food | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=f4b18fb9f355034a) |
+| ★ [Creeper Overhaul x Fresh Animations](https://curseforge.com/minecraft/texture-packs/creeper-overhaul-x-fresh-animations) | Fresh Animations support for the Creeper Overhaul resource pack. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=604d775235b82423) |
 | [Cute Mob Models: Resource Pack](https://curseforge.com/minecraft/texture-packs/cute-mob-models-resource-pack) | OPTIONAL VISUAL / CLIENT-SAFE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c8698752187dc546) |
 | [Definitive Vibrant Visuals \| Static Light Update](https://curseforge.com/minecraft-bedrock/texture-packs/definitive-vibrant-visuals) | BEDROCK UPDATE / CLIENT-SAFE VISUAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=ea05e7126aec6a9f) |
 | [Dreamy Visuals \| Renewed Vibrant Visuals](https://curseforge.com/minecraft-bedrock/texture-packs/dreamy-vibrant-visuals) | BEDROCK UPDATE / CLIENT-SAFE VISUAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0a25c083fb61b2b4) |
@@ -258,7 +261,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Feather FPS Boost Mod](https://curseforge.com/minecraft-bedrock/addons/feather-fps-boost-mod) | BEDROCK TEST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=033316a8e6ae645e) |
 | [FIXED Item Animations](https://curseforge.com/minecraft-bedrock/texture-packs/mcpe-2020-animations) | BEDROCK VISUAL / CLIENT-SAFE / TEST ON 26.45 | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7939221766d6921e) |
 | [Flower Frogs](https://modrinth.com/resourcepack/flower-frogs) | Small but gorgeous flower-themed frog set. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=3f210a77186fd937) |
-| [Fresh Animations](https://curseforge.com/minecraft/texture-packs/fresh-animations) | INSTALL / VISUAL / CLIENT-SAFE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=1e5fb4f001397067) |
+| ★ [Fresh Animations](https://curseforge.com/minecraft/texture-packs/fresh-animations) | INSTALL / VISUAL / CLIENT-SAFE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=1e5fb4f001397067) |
 | [Fresh Animations: Extensions](https://curseforge.com/minecraft/texture-packs/fresh-animations-extensions) | OPTIONAL VISUAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=076954de35fe4f42) |
 | ★ [Fresh Buckets](https://modrinth.com/resourcepack/fresh-buckets) | 3D bucket models / animation | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b16a49bb387c9907) |
 | ★ [Fresh Buckets VR](https://modrinth.com/resourcepack/fresh-buckets-vr) | Fresh creator-family visual pack | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0a10bdd72f398575) |

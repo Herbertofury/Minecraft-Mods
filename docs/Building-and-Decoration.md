@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**84 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**85 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Data Pack · 2</strong></summary>
@@ -17,7 +17,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Mod · 78</strong></summary>
+<summary><strong>Mod · 79</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -81,6 +81,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [MineColonies](https://curseforge.com/minecraft/mc-mods/minecolonies) | UPDATE NOW 1.20.1 IF OLDER / SERVER-MATCHED / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0264d320b238ea75) |
 | ★ [Mushroom Quest](https://curseforge.com/minecraft/mc-mods/mushroom-quest) | Mushroom-themed exploration | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=bfded76cc8403adf) |
 | [Nature Overhaul🌱](https://curseforge.com/minecraft-bedrock/addons/nature-overhaul-addon) | BEDROCK TEST / COZY / BUILDING / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a0f8f14328caf792) |
+| ★ [Night Lights](https://curseforge.com/minecraft/mc-mods/nightlights) | Additional decorative light sources. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=ede8b119fbc78b1f) |
 | [Quark](https://curseforge.com/minecraft/mc-mods/quark) | INSTALL/TEST 1.20.1 / BACKUP FIRST / VERSION-MATCH ZETA | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=bf8d759aa0616927) |
 | [Security Craft](https://curseforge.com/minecraft/mc-mods/security-craft) | INSTALL/TEST 1.20.1 / SERVER-MATCHED / BACKUP FIRST / FUTURE 26.3 BETA WATCH | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a66d30322ef6e131) |
 | [Shelves](https://modrinth.com/mod/shelf-mod) | Simple shelves that store and visibly display items. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=9e41e623776d763e) |

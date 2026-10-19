@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**289 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**290 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Compatibility Target · 8</strong></summary>
@@ -59,7 +59,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Mod · 261</strong></summary>
+<summary><strong>Mod · 262</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -254,7 +254,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | ★ [Relics (RPG Series)](https://modrinth.com/mod/BDQucwF0) | Spell-powered RPG trinkets and relics | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=ebae2c43b8ef37a3) |
 | ★ [Reliquified Twilight Forest](https://modrinth.com/mod/reliquified-twilight-forest) | Compatibility addon between Relics & Twilight Forest | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2a270401018333ce) |
 | [Repurposed Structures (Neoforge/Forge)](https://curseforge.com/minecraft/mc-mods/repurposed-structures) | INSTALL/TEST 1.20.1 / SERVER-SIDE / BACKUP FIRST / FUTURE HIGH-VALUE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=8bde4195499d6d20) |
-| [Ribbits](https://curseforge.com/minecraft/mc-mods/ribbits) | INSTALL/KEEP 1.20.1 / SERVER-MATCHED / BACKUP FIRST / WORLDGEN CONTENT | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=9b0831adddb34eeb) |
+| ★ [Ribbits](https://curseforge.com/minecraft/mc-mods/ribbits) | INSTALL/KEEP 1.20.1 / SERVER-MATCHED / BACKUP FIRST / WORLDGEN CONTENT | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=9b0831adddb34eeb) |
 | [Rick's Portal Gun \[Forge/NeoForge\]](https://curseforge.com/minecraft/mc-mods/ricks-portal-gun) | INSTALL/TEST 1.20.1 / CLIENT+SERVER / PORTAL SECURITY + DIMENSION TEST / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a0f5c9c9e78e6fe9) |
 | ★ [Rogues & Warriors (RPG Series)](https://curseforge.com/minecraft/mc-mods/rogues-and-warriors) | INSTALL/UPDATE ONLY AS MATCHED RPG-SERIES SET / BACKUP FIRST / SERVER-MATCHED | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0156f6855ca6fbad) |
 | [Saint's Dragons](https://curseforge.com/minecraft/mc-mods/saints-dragons) | INSTALL/TEST 1.20.1 / HIGH FIT / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=6dca40b1c44aafa8) |
@@ -320,6 +320,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Weiss's More Dungeons And Weapons (WMDAW)](https://curseforge.com/minecraft/mc-mods/weisss-more-dungeons-and-weapons-wmdaw) | New fantasy female-coded creatures embedded in discoverable structures and rewards. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=99e3b108c7389c7f) |
 | [Wild Creatures](https://curseforge.com/minecraft/mc-mods/wild-creatures) | OPTIONAL / HIGH-FIT COZY / TEST COPY / BACKUP WORLD FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=6e465929360251fd) |
 | [Wilder Wild \[Fabric\]](https://curseforge.com/minecraft/mc-mods/wilder-wild) | Vanilla-style biome enrichment that also expands ambient creature presence. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c118e7a28d79e29f) |
+| ★ [Winter Overhaul](https://curseforge.com/minecraft/mc-mods/winter-overhaul) | Snow-biome creature and visual additions. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a6f1142cac32a891) |
 | ★ [Wizards (RPG Series)](https://curseforge.com/minecraft/mc-mods/wizards) | INSTALL/UPDATE ONLY AS MATCHED RPG-SERIES SET / BACKUP FIRST / SERVER-MATCHED | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=968d404ed7e35a2b) |
 | [WorldEdit Addon (Bedrock)](https://curseforge.com/minecraft-bedrock/addons/world-edit-add-on) | BEDROCK ONLY / TOOL / BACKUP WORLD BEFORE BULK EDITS | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=de4cdd58236b94d8) |
 | [Xiaoxiang Cultivation World](https://curseforge.com/minecraft/mc-mods/xiaoxiang-cultivation-world) | TEST/OPTIONAL 1.20.1 / SERVER-MATCHED / NEW WORLD PREFERRED / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b9d59a3fba873c68) |

@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**294 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**296 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Content Pack · 1</strong></summary>
@@ -106,7 +106,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Mod · 231</strong></summary>
+<summary><strong>Mod · 233</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -121,6 +121,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Applied Pneumatics](https://curseforge.com/minecraft/mc-mods/applied-pneumatics) | INSTALL/TEST 1.20.1 / SERVER-MATCHED / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=6c2b74fb308831e1) |
 | ★ [Ars Instrumentum](https://curseforge.com/minecraft/mc-mods/ars-instrumentum) | Utility items and Ars automation helpers | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=e8d23a3dbffca2f7) |
 | ★ [Ars Nouveau](https://curseforge.com/minecraft/mc-mods/ars-nouveau) | INSTALL NOW 1.20.1 / SERVER-MATCHED / BACKUP FIRST / HIGH ADDON-ECOSYSTEM FIT | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=6d235f747de0b5ea) |
+| ★ [Ars Technica](https://curseforge.com/minecraft/mc-mods/ars-technica) | Create-oriented additions for Ars Nouveau. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=ae2cd1ca89ff7795) |
 | [Artifice Create Recipes](https://curseforge.com/minecraft/mc-mods/artifice-create-recipes) | Turns Iron's Arms gun, bullet, component and modifier production into actual Create factory lines; a direct Create+firearms integration rather than a generic recipe pack. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c788d9087881e790) |
 | [Auto Factory](https://herbertofury.github.io/Minecraft-Mods/?id=ddf6537bf875213a) | BEDROCK ONLY | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=ddf6537bf875213a) |
 | [Automobility: Unofficial Port](https://modrinth.com/mod/automobility-unofficial-port) | FUTURE VERSION / HIGH VEHICLE FIT / TEST COPY | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c60d13c7997f8a45) |
@@ -137,6 +138,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [CBC Tank Tower](https://curseforge.com/minecraft/mc-mods/cbc-tank-tower) | Create Big Cannons turret body rotates with aim; compact T gearbox and adjustable wheel/track mounts expand tank vehicle creation. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a035735b93690b65) |
 | [CBC: Warium Projectiles](https://curseforge.com/minecraft/mc-mods/cbc-warium-projectiles) | Adds a mature 14+ projectile/ammunition family to Create Big Cannons using Warium content, including conventional, incendiary, cluster, gas, fission/fusion, rocket and mortar ordna | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a4288dadee242818) |
 | [Classic Pipes](https://curseforge.com/minecraft/mc-mods/classic-pipes) | INSTALL/TEST 1.20.1 / SERVER-MATCHED / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=580160680b54d040) |
+| ★ [Clockwork (joosh_7889)](https://curseforge.com/minecraft/mc-mods/clockwork) | Mechanical tools and utility content. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=61d7c4825e0b4c44) |
 | ★ [Clockwork: Create x Valkyrien Skies](https://curseforge.com/minecraft/mc-mods/create-clockwork) | The major Create-on-Valkyrien-Skies engineering layer; central to moving Create machinery and therefore valuable for mobile artillery/airship builds. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7ce567ab8ed453cb) |
 | [Cogs For Arms](https://curseforge.com/minecraft/mc-mods/cogs-for-arms) | Production chains and modifiers distinguish the project from an ordinary recipe datapack; compare Artifice Create Recipes. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=792a0b89af5acd1e) |
 | [ColonyAutopilot](https://curseforge.com/minecraft/mc-mods/colonyautopilot) | FUTURE/HIGH-VALUE / TEST BRANCH / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7ad779c325c229f0) |

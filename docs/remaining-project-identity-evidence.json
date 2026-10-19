@@ -1,0 +1,332 @@
+{
+  "date": "2026-10-19",
+  "scope": "Project identity only; no exact-release or native compatibility claim",
+  "matches": [
+    {
+      "row": 84,
+      "source_name": "Ribbits",
+      "project": {
+        "name": "Ribbits",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/ribbits"
+      },
+      "existing_ids": [
+        "9b0831adddb34eeb"
+      ],
+      "name": "Ribbits",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/ribbits",
+      "type": "mod",
+      "reason": "Musical frogs and swamp villages.",
+      "categories": [
+        "Creatures and Companions"
+      ],
+      "identity_sources": [
+        "https://www.curseforge.com/members/joosh_7889/projects",
+        "https://www.curseforge.com/minecraft/mc-mods/ribbits"
+      ],
+      "method": "Exact title and public project link in the source-named creator list; Clockwork parenthetical source labels explicitly identify joosh_7889"
+    },
+    {
+      "row": 101,
+      "source_name": "Clockwork (joosh_7889)",
+      "project": {
+        "name": "Clockwork",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/clockwork"
+      },
+      "existing_ids": [],
+      "name": "Clockwork",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/clockwork",
+      "type": "mod",
+      "reason": "Mechanical tools and utility content.",
+      "categories": [
+        "Engineering and Vehicles"
+      ],
+      "identity_sources": [
+        "https://www.curseforge.com/members/joosh_7889/projects",
+        "https://www.curseforge.com/minecraft/mc-mods/clockwork"
+      ],
+      "method": "Exact title and public project link in the source-named creator list; Clockwork parenthetical source labels explicitly identify joosh_7889"
+    },
+    {
+      "row": 161,
+      "source_name": "Clockwork (joosh family listing)",
+      "project": {
+        "name": "Clockwork",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/clockwork"
+      },
+      "existing_ids": [],
+      "name": "Clockwork",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/clockwork",
+      "type": "mod",
+      "reason": "Mechanical tools and utility content.",
+      "categories": [
+        "Engineering and Vehicles"
+      ],
+      "identity_sources": [
+        "https://www.curseforge.com/members/joosh_7889/projects",
+        "https://www.curseforge.com/minecraft/mc-mods/clockwork"
+      ],
+      "method": "Exact title and public project link in the source-named creator list; Clockwork parenthetical source labels explicitly identify joosh_7889"
+    },
+    {
+      "row": 162,
+      "source_name": "Golem Overhaul",
+      "project": {
+        "name": "Golem Overhaul",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/golem-overhaul"
+      },
+      "existing_ids": [],
+      "name": "Golem Overhaul",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/golem-overhaul",
+      "type": "mod",
+      "reason": "Changes to vanilla golems.",
+      "categories": [
+        "Creatures and Companions"
+      ],
+      "identity_sources": [
+        "https://www.curseforge.com/members/joosh_7889/projects",
+        "https://www.curseforge.com/minecraft/mc-mods/golem-overhaul"
+      ],
+      "method": "Exact title and public project link in the source-named creator list; Clockwork parenthetical source labels explicitly identify joosh_7889"
+    },
+    {
+      "row": 163,
+      "source_name": "Ghosts",
+      "project": {
+        "name": "Ghosts",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/ghost"
+      },
+      "existing_ids": [],
+      "name": "Ghosts",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/ghost",
+      "type": "mod",
+      "reason": "Ghost creatures.",
+      "categories": [
+        "Creatures and Companions"
+      ],
+      "identity_sources": [
+        "https://www.curseforge.com/members/joosh_7889/projects",
+        "https://www.curseforge.com/minecraft/mc-mods/ghost"
+      ],
+      "method": "Exact title and public project link in the source-named creator list; Clockwork parenthetical source labels explicitly identify joosh_7889"
+    },
+    {
+      "row": 164,
+      "source_name": "Night Lights",
+      "project": {
+        "name": "Night Lights",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/nightlights"
+      },
+      "existing_ids": [],
+      "name": "Night Lights",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/nightlights",
+      "type": "mod",
+      "reason": "Additional decorative light sources.",
+      "categories": [
+        "Building and Decoration"
+      ],
+      "identity_sources": [
+        "https://www.curseforge.com/members/joosh_7889/projects",
+        "https://www.curseforge.com/minecraft/mc-mods/nightlights"
+      ],
+      "method": "Exact title and public project link in the source-named creator list; Clockwork parenthetical source labels explicitly identify joosh_7889"
+    },
+    {
+      "row": 165,
+      "source_name": "Lookin' Sharp",
+      "project": {
+        "name": "Lookin' Sharp",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/lookin-sharp"
+      },
+      "existing_ids": [],
+      "name": "Lookin' Sharp",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/lookin-sharp",
+      "type": "mod",
+      "reason": "Expanded melee weapon options.",
+      "categories": [
+        "Weapons and Combat"
+      ],
+      "identity_sources": [
+        "https://www.curseforge.com/members/joosh_7889/projects",
+        "https://www.curseforge.com/minecraft/mc-mods/lookin-sharp"
+      ],
+      "method": "Exact title and public project link in the source-named creator list; Clockwork parenthetical source labels explicitly identify joosh_7889"
+    },
+    {
+      "row": 166,
+      "source_name": "Winter Overhaul",
+      "project": {
+        "name": "Winter Overhaul",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/winter-overhaul"
+      },
+      "existing_ids": [],
+      "name": "Winter Overhaul",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/winter-overhaul",
+      "type": "mod",
+      "reason": "Snow-biome creature and visual additions.",
+      "categories": [
+        "Creatures and Companions",
+        "Worlds and Exploration"
+      ],
+      "identity_sources": [
+        "https://www.curseforge.com/members/joosh_7889/projects",
+        "https://www.curseforge.com/minecraft/mc-mods/winter-overhaul"
+      ],
+      "method": "Exact title and public project link in the source-named creator list; Clockwork parenthetical source labels explicitly identify joosh_7889"
+    },
+    {
+      "row": 167,
+      "source_name": "Better Mob Models",
+      "project": {
+        "name": "Better Mob Models",
+        "url": "https://www.curseforge.com/minecraft/texture-packs/better-mob-models"
+      },
+      "existing_ids": [],
+      "name": "Better Mob Models",
+      "url": "https://www.curseforge.com/minecraft/texture-packs/better-mob-models",
+      "type": "resource_pack",
+      "reason": "Replacement mob appearances.",
+      "categories": [
+        "Visuals and Resource Packs"
+      ],
+      "identity_sources": [
+        "https://www.curseforge.com/members/joosh_7889/projects",
+        "https://www.curseforge.com/minecraft/texture-packs/better-mob-models"
+      ],
+      "method": "Exact title and public project link in the source-named creator list; Clockwork parenthetical source labels explicitly identify joosh_7889"
+    },
+    {
+      "row": 168,
+      "source_name": "Bingus",
+      "project": {
+        "name": "Bingus",
+        "url": "https://www.curseforge.com/minecraft/texture-packs/bingus"
+      },
+      "existing_ids": [],
+      "name": "Bingus",
+      "url": "https://www.curseforge.com/minecraft/texture-packs/bingus",
+      "type": "resource_pack",
+      "reason": "Creature-themed painting textures.",
+      "categories": [
+        "Visuals and Resource Packs"
+      ],
+      "identity_sources": [
+        "https://www.curseforge.com/members/joosh_7889/projects",
+        "https://www.curseforge.com/minecraft/texture-packs/bingus"
+      ],
+      "method": "Exact title and public project link in the source-named creator list; Clockwork parenthetical source labels explicitly identify joosh_7889"
+    },
+    {
+      "row": 169,
+      "source_name": "Creatures and Beasts",
+      "project": {
+        "name": "Creatures and Beasts",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/creatures-and-beasts"
+      },
+      "existing_ids": [],
+      "name": "Creatures and Beasts",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/creatures-and-beasts",
+      "type": "mod",
+      "reason": "Additional friendly and hostile creatures.",
+      "categories": [
+        "Creatures and Companions"
+      ],
+      "identity_sources": [
+        "https://www.curseforge.com/members/joosh_7889/projects",
+        "https://www.curseforge.com/minecraft/mc-mods/creatures-and-beasts"
+      ],
+      "method": "Exact title and public project link in the source-named creator list; Clockwork parenthetical source labels explicitly identify joosh_7889"
+    },
+    {
+      "row": 219,
+      "source_name": "Creeper Overhaul x Fresh Animations",
+      "project": {
+        "name": "Creeper Overhaul x Fresh Animations",
+        "url": "https://www.curseforge.com/minecraft/texture-packs/creeper-overhaul-x-fresh-animations"
+      },
+      "existing_ids": [],
+      "name": "Creeper Overhaul x Fresh Animations",
+      "url": "https://www.curseforge.com/minecraft/texture-packs/creeper-overhaul-x-fresh-animations",
+      "type": "resource_pack",
+      "reason": "Fresh Animations support for the Creeper Overhaul resource pack.",
+      "categories": [
+        "Visuals and Resource Packs"
+      ],
+      "identity_sources": [
+        "https://www.curseforge.com/members/joosh_7889/projects",
+        "https://www.curseforge.com/minecraft/texture-packs/creeper-overhaul-x-fresh-animations"
+      ],
+      "method": "Exact title and public project link in the source-named creator list; Clockwork parenthetical source labels explicitly identify joosh_7889"
+    },
+    {
+      "row": 14,
+      "name": "Fresh Animations",
+      "url": "https://www.curseforge.com/minecraft/texture-packs/fresh-animations",
+      "existing_ids": [
+        "1e5fb4f001397067"
+      ],
+      "type": "resource_pack",
+      "reason": "Entity animation resource pack.",
+      "categories": [
+        "Visuals and Resource Packs"
+      ],
+      "identity_sources": [
+        "https://www.curseforge.com/minecraft/texture-packs/fresh-animations",
+        "https://modrinth.com/resourcepack/fresh-animations"
+      ],
+      "method": "Matching official title and FreshLX creator attribution on both project pages"
+    },
+    {
+      "row": 80,
+      "name": "Physics Mod",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/physics-mod",
+      "existing_ids": [
+        "f6bb21142a61f282"
+      ],
+      "type": "mod",
+      "reason": "Physical effects for mobs and blocks.",
+      "categories": [
+        "Visuals and Resource Packs"
+      ],
+      "identity_sources": [
+        "https://www.curseforge.com/minecraft/mc-mods/physics-mod",
+        "https://modrinth.com/mod/physicsmod",
+        "https://minecraftphysicsmod.com/"
+      ],
+      "method": "Both official project pages link to the same minecraftphysicsmod.com homepage"
+    },
+    {
+      "row": 102,
+      "name": "[TaCZ] ArsArms",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/arsarms",
+      "existing_ids": [
+        "d1c324a26c1f6734"
+      ],
+      "type": "mod",
+      "reason": "Ars Nouveau spellcasting integration for TaCZ.",
+      "categories": [
+        "Weapons and Combat",
+        "Magic and Progression"
+      ],
+      "identity_sources": [
+        "https://www.curseforge.com/minecraft/mc-mods/arsarms"
+      ],
+      "method": "Exact official route, mumu17 attribution and described integration match the already source-studied catalogue entry"
+    },
+    {
+      "row": 112,
+      "name": "Ars Technica",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/ars-technica",
+      "existing_ids": [],
+      "type": "mod",
+      "reason": "Create-oriented additions for Ars Nouveau.",
+      "categories": [
+        "Engineering and Vehicles",
+        "Magic and Progression"
+      ],
+      "identity_sources": [
+        "https://www.curseforge.com/minecraft/mc-mods/ars-technica"
+      ],
+      "method": "Official title, zerobuncle attribution and Create/Ars Nouveau purpose match source row"
+    }
+  ]
+}

@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**577 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**581 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Content Pack · 2</strong></summary>
@@ -40,7 +40,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Mod · 526</strong></summary>
+<summary><strong>Mod · 530</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -161,6 +161,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | ★ [Create: Bionics](https://modrinth.com/mod/create-bionics) | Craftable utility robot animals for exploration and resource handling | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=de80a8373af53ef6) |
 | [Create: Hand Made](https://curseforge.com/minecraft/mc-mods/create-hand-made) | TEST/WATCH 1.20.1 / SERVER-MATCHED / BALANCE REVIEW / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7c86817e39577d4d) |
 | [CreatureCorner](https://modrinth.com/mod/creaturecorner) | A smaller current creature pack with underused species and nice urban/wildlife flavor. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=aa036c4bb1877bd7) |
+| ★ [Creatures and Beasts](https://curseforge.com/minecraft/mc-mods/creatures-and-beasts) | Additional friendly and hostile creatures. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a4dde7335ec56445) |
 | ★ [Creatures and Beasts: Continued](https://curseforge.com/minecraft/mc-mods/creatures-and-beasts-continued) | Current continuation of a charming creature pack with grebes, lizards, cindershells, sporelings, cactems, lilytads and more. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7030bb1825cc9a20) |
 | [Creatures of Petrichor](https://curseforge.com/minecraft/mc-mods/creatures-of-petrichor) | INSTALL/TEST 1.20.1 / SERVER-MATCHED / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=6ce710ca52396d4a) |
 | ★ [Creeper Overhaul](https://curseforge.com/minecraft/mc-mods/creeper-overhaul) | One of the strongest visual demonstrations of adapting a vanilla mob to its environment. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b3d6c5908f730e3c) |
@@ -235,9 +236,11 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Galosphere](https://curseforge.com/minecraft/mc-mods/galosphere) | A cohesive cave expansion with mobs integrated into new subterranean biomes rather than a loose spawn list. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=ca8f51b2c203d609) |
 | [Genetic Animals](https://curseforge.com/minecraft/mc-mods/genetic-animals) | True inherited genetics affect appearance, size and body traits across many domestic and semi-domestic species. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=57f738df1fb73691) |
 | [Genetic Testing](https://modrinth.com/mod/genetic-testing) | Makes the huge hidden genotype space in Genetic Animals inspectable, improving breeding and collection workflows. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a9cca8617f5745f2) |
+| ★ [Ghosts](https://curseforge.com/minecraft/mc-mods/ghost) | Ghost creatures. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=62c21a6c582892c1) |
 | [Giant Spooky Pumpkins](https://herbertofury.github.io/Minecraft-Mods/?id=859f76cb26846ff0) | OPTIONAL / HIGH SPOOKY FIT / TEST WORLD COPY | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=859f76cb26846ff0) |
 | ★ [Goety - The Dark Arts](https://curseforge.com/minecraft/mc-mods/goety) | INSTALL/TEST 1.20.1 / HIGH FIT / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=4cf9282f9da12df4) |
 | [Goety Revelation](https://curseforge.com/minecraft/mc-mods/goety-revelation) | INSTALL/TEST 1.20.1 / SERVER-MATCHED / BACKUP FIRST / GOETY ECOSYSTEM | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=abbd69ea2af4e3c6) |
+| ★ [Golem Overhaul](https://curseforge.com/minecraft/mc-mods/golem-overhaul) | Changes to vanilla golems. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=1f1d2c4319573e54) |
 | [Greek Fantasy](https://curseforge.com/minecraft/mc-mods/greek-fantasy) | A themed mythological bestiary covering many recognizable Greek monsters and encounter types. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=cafeaad1f1fffffd) |
 | [Grimoire of Gaia](https://curseforge.com/minecraft/mc-mods/grimoire-of-gaia) | FUTURE VERSION / LEGACY GOLD | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=3173b0057966c0f4) |
 | [Guard Ribbits](https://curseforge.com/minecraft/mc-mods/guard-ribbits) | OPTIONAL/WATCH 1.20.1 / SERVER-MATCHED / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=84ca96fcce433819) |
@@ -427,7 +430,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | ★ [Relics: Alex's Caves Compat](https://modrinth.com/mod/rac-compat) | Compatibility addon between Relics and Alex's Caves | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=eb4a1348d508a02b) |
 | ★ [Relics: Alex's Mobs Compat](https://modrinth.com/mod/ram-compat) | Compatibility addon between Relics and Alex's Mobs | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d55dc5336040b62f) |
 | [Resource Cows](https://curseforge.com/minecraft/mc-mods/resource-cows) | Stone-to-Netherite plus wood, crop, apple and cake cows; milking produces resource buckets for a dedicated solidifier loop. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=785978632a3cc70f) |
-| [Ribbits](https://curseforge.com/minecraft/mc-mods/ribbits) | INSTALL/KEEP 1.20.1 / SERVER-MATCHED / BACKUP FIRST / WORLDGEN CONTENT | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=9b0831adddb34eeb) |
+| ★ [Ribbits](https://curseforge.com/minecraft/mc-mods/ribbits) | INSTALL/KEEP 1.20.1 / SERVER-MATCHED / BACKUP FIRST / WORLDGEN CONTENT | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=9b0831adddb34eeb) |
 | [Ribbits Remastered](https://curseforge.com/minecraft/mc-mods/ribbits-remastered) | FUTURE/HIGH-VALUE 26.2-26.3 / TEST-WATCH / SERVER-MATCHED / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=23f1e5a3f5ebc0ab) |
 | [Ribbits: Croaks](https://curseforge.com/minecraft/mc-mods/ribbits-croaks) | Adds an adversarial branch to the friendly Ribbits ecosystem, turning the same creature theme into village-defense encounters. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0ad9778cac0afb24) |
 | [River Fishing](https://modrinth.com/mod/river-fishing) | One of the best misses in the entire project: 93 species, visible fish, six fishing styles, dynamic habitat logic and an encyclopedia-style journal. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=92773279508cbd0f) |
@@ -558,6 +561,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Wildlife \[Fabric\]](https://modrinth.com/mod/wildlife-fabric) | A major historical miss: 74 creatures, catchable small animals, birdsongs, albino variants and an optional guidebook. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=17080f5e1b30b6ef) |
 | [Wildlife Sanctuary Mobs Plus](https://curseforge.com/minecraft-bedrock/addons/wildlife-sanctuary-mobs-plus-add-on-by-neq) | Fresh Bedrock wildlife pack spanning mammals, birds, reptiles and insects including elephants, giraffes, gorillas, crocodiles and more. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=5d9f041b368f10f7) |
 | [Winefox's Spellbooks](https://curseforge.com/minecraft/mc-mods/winefoxs-spellbooks) | FUTURE/HIGH-VALUE / TEST BRANCH / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=6246a14e3325bc25) |
+| ★ [Winter Overhaul](https://curseforge.com/minecraft/mc-mods/winter-overhaul) | Snow-biome creature and visual additions. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a6f1142cac32a891) |
 | [Wizard's Animals](https://curseforge.com/minecraft/mc-mods/wizards-animals) | A quantity-heavy 1.20.1 wildlife option covering many real animal families. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=60f5d36f011fa235) |
 | [Wolves Of Other Furs](https://curseforge.com/minecraft/mc-mods/wolves-of-other-furs) | Straightforward wolf phenotype variety for players who want breed-like visual identity. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=46a1b0e82abb8e49) |
 | [Working Dogs](https://curseforge.com/minecraft/mc-mods/working-dogs) | Adds purpose-driven dog breeds and a real training/perk/coat-genetics loop instead of cosmetic wolf reskins. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=65dae66428c8ab34) |

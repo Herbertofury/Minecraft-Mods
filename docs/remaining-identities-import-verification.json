@@ -1,0 +1,107 @@
+{
+  "scope": "Primary project identity only; source records and verification levels preserved",
+  "entries": 2196,
+  "source_records": 2532,
+  "favorites": 363,
+  "resolved_rows": 16,
+  "new_entries": 11,
+  "pending_starred_rows": 61,
+  "applied": [
+    {
+      "row": 84,
+      "id": "9b0831adddb34eeb",
+      "name": "Ribbits",
+      "new": false
+    },
+    {
+      "row": 101,
+      "id": "61d7c4825e0b4c44",
+      "name": "Clockwork",
+      "new": true
+    },
+    {
+      "row": 161,
+      "id": "61d7c4825e0b4c44",
+      "name": "Clockwork",
+      "new": false
+    },
+    {
+      "row": 162,
+      "id": "1f1d2c4319573e54",
+      "name": "Golem Overhaul",
+      "new": true
+    },
+    {
+      "row": 163,
+      "id": "62c21a6c582892c1",
+      "name": "Ghosts",
+      "new": true
+    },
+    {
+      "row": 164,
+      "id": "ede8b119fbc78b1f",
+      "name": "Night Lights",
+      "new": true
+    },
+    {
+      "row": 165,
+      "id": "10e4bf9e55c9ab77",
+      "name": "Lookin' Sharp",
+      "new": true
+    },
+    {
+      "row": 166,
+      "id": "a6f1142cac32a891",
+      "name": "Winter Overhaul",
+      "new": true
+    },
+    {
+      "row": 167,
+      "id": "36322ebd39c4fc67",
+      "name": "Better Mob Models",
+      "new": true
+    },
+    {
+      "row": 168,
+      "id": "691eeb1e249f779a",
+      "name": "Bingus",
+      "new": true
+    },
+    {
+      "row": 169,
+      "id": "a4dde7335ec56445",
+      "name": "Creatures and Beasts",
+      "new": true
+    },
+    {
+      "row": 219,
+      "id": "604d775235b82423",
+      "name": "Creeper Overhaul x Fresh Animations",
+      "new": true
+    },
+    {
+      "row": 14,
+      "id": "1e5fb4f001397067",
+      "name": "Fresh Animations",
+      "new": false
+    },
+    {
+      "row": 80,
+      "id": "f6bb21142a61f282",
+      "name": "Physics Mod",
+      "new": false
+    },
+    {
+      "row": 102,
+      "id": "d1c324a26c1f6734",
+      "name": "[TaCZ] ArsArms",
+      "new": false
+    },
+    {
+      "row": 112,
+      "id": "ae2cd1ca89ff7795",
+      "name": "Ars Technica",
+      "new": true
+    }
+  ]
+}

@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**595 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**596 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Content Pack · 79</strong></summary>
@@ -374,7 +374,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Mod · 272</strong></summary>
+<summary><strong>Mod · 273</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -384,7 +384,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [\[TaCZ Expansion\] Blank Pack](https://curseforge.com/minecraft/customization/tacz-expansion-blank-pack) | Creative focus on unconventional WWII/Cold War weapon prototypes and fictional guns, not just normal M4 reskins; early pack. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=06a0d27f58e38b4e) |
 | [\[TaCZ/SBW\] Combined Arms](https://curseforge.com/minecraft/mc-mods/tacz-combined-arms) | Bridges TaCZ: Simple Enemy NPCs with Superb Warfare vehicles and turns the stack into a configurable combined-arms sandbox; 0.1.6 adds FOBs, helipads, optional generated structures | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b553b38dbfeaee8f) |
 | ★ [\[TaCZ\] Applied Ammo Box](https://curseforge.com/minecraft/mc-mods/tacz-applied-ammo-box) | AE2-backed TaCZ ammo storage | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=25af3ebb53c3612f) |
-| [\[TaCZ\] ArsArms — Ars Nouveau integration](https://curseforge.com/minecraft/mc-mods/arsarms) | Ars Nouveau Reactive enchantments trigger spells through TaCZ guns; Self-glyph requirement; mana precharge; normal firing modes remain. | [Actual-file study](https://github.com/Herbertofury/Advent-of-Ascension/wiki/Spell-Adapter-Source-and-Release-Study) · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d1c324a26c1f6734) |
+| ★ [\[TaCZ\] ArsArms — Ars Nouveau integration](https://curseforge.com/minecraft/mc-mods/arsarms) | Ars Nouveau Reactive enchantments trigger spells through TaCZ guns; Self-glyph requirement; mana precharge; normal firing modes remain. | [Actual-file study](https://github.com/Herbertofury/Advent-of-Ascension/wiki/Spell-Adapter-Source-and-Release-Study) · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d1c324a26c1f6734) |
 | [\[TACZ\] Biome Soldiers](https://modrinth.com/mod/tacz-biome-soldiers) | Three hostile soldier patrol variants, three levels of player-controlled guards, optional protected-area zones; excellent world-combat integration with substantial saved content. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0d0e873f11ca65d5) |
 | [\[TaCZ\] edsMCJE Gunpack](https://curseforge.com/minecraft/customization/tacz-edsmcje-gunpack) | Focused classic Call of Duty arms with TaCZ native ammo/crafting and claimed cross-author attachment support; 10 firearms currently included. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=be577825226a742f) |
 | [\[TACZ\] Enchanted Arsenal](https://curseforge.com/minecraft/mc-mods/enchanted-arsenal) | Adds eight gun enchantments and two curses for TaCZ firearms; established 1.3M+ download progression layer. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=1280bf0ddd6e4e0f) |
@@ -529,6 +529,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Iron's Arms 'n Artifice](https://curseforge.com/minecraft/mc-mods/irons-artifice) | Distinct future-version gun family with flintlock-to-clockwork progression, blackpowder/component crafting, deep modifier buildcrafting and an emerging Create/compat addon ecosyste | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=1b959094ab8fe1d3) |
 | [Jaam's Weaponry](https://curseforge.com/minecraft/mc-mods/jaams-weaponry) | 96.7K+ download MIT project with 50+ weapons, mixed melee/firearms, attachment mechanics and a same-day 1.1.3 overhaul that materially improves Epic Fight compatibility. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d268cfd713b96d23) |
 | [Jerry's Colonies \| Build your Civilization](https://curseforge.com/minecraft-bedrock/addons/jerrys-colonies) | BEDROCK ONLY / INSTALL-TEST / BACKUP FIRST / MULTIPLAYER-HIGH-VALUE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=af47a8ac07181088) |
+| ★ [Lookin' Sharp](https://curseforge.com/minecraft/mc-mods/lookin-sharp) | Expanded melee weapon options. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=10e4bf9e55c9ab77) |
 | [LootRun](https://modrinth.com/mod/lootrun) | 1.0.7 fixes TaCZ kill tasks and PlayerRevive downed-state cleanup, preserves data but recalculates pricing cache. Persistent loot, inventories and raid configs; both sides update t | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=9df65d5972c796f6) |
 | [MaidSwordSoaring](https://curseforge.com/minecraft/mc-mods/maidswordsoaring) | OPTIONAL / TEST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=f69d345803d7041f) |
 | [MAR Relics](https://curseforge.com/minecraft/mc-mods/marrelics) | TEST BRANCH / OPTIONAL / SERVER-MATCHED / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=661d39accedca38a) |

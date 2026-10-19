@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**232 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**233 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Compatibility Target · 2</strong></summary>
@@ -70,12 +70,12 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Mod · 211</strong></summary>
+<summary><strong>Mod · 212</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
 | [\[ES\] Esoteric Spells - Iron's Spells Addon](https://curseforge.com/minecraft/mc-mods/es-esoteric-spells-irons-spells-addon) | INSTALL/TEST 1.20.1 / SERVER-MATCHED / BACKUP FIRST / HIGH RPG FIT | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=9731997587eefe76) |
-| [\[TaCZ\] ArsArms — Ars Nouveau integration](https://curseforge.com/minecraft/mc-mods/arsarms) | Ars Nouveau Reactive enchantments trigger spells through TaCZ guns; Self-glyph requirement; mana precharge; normal firing modes remain. | [Actual-file study](https://github.com/Herbertofury/Advent-of-Ascension/wiki/Spell-Adapter-Source-and-Release-Study) · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d1c324a26c1f6734) |
+| ★ [\[TaCZ\] ArsArms — Ars Nouveau integration](https://curseforge.com/minecraft/mc-mods/arsarms) | Ars Nouveau Reactive enchantments trigger spells through TaCZ guns; Self-glyph requirement; mana precharge; normal firing modes remain. | [Actual-file study](https://github.com/Herbertofury/Advent-of-Ascension/wiki/Spell-Adapter-Source-and-Release-Study) · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d1c324a26c1f6734) |
 | [\[TACZ\] Enchanted Arsenal](https://curseforge.com/minecraft/mc-mods/enchanted-arsenal) | Adds eight gun enchantments and two curses for TaCZ firearms; established 1.3M+ download progression layer. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=1280bf0ddd6e4e0f) |
 | ★ [\[TaCZ\] IronsArms — Iron's Spells integration](https://curseforge.com/minecraft/mc-mods/ironsarms) | Imbue TaCZ guns through Iron's Arcane Anvil, precharge mana in inventory and fire spells through firearms. | [Actual-file study](https://github.com/Herbertofury/Advent-of-Ascension/wiki/Spell-Adapter-Source-and-Release-Study) · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2a576ba9039f7f07) |
 | [\[TACZ\] neku's skins](https://modrinth.com/mod/tacz-nekus-skins) | 800+ weapon-skin variants advertised. Test Epic Fight and TaCZ ADS model interference, multiplayer skin sync and item NBT persistence; honor noncommercial license. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=4cf21caaa146199e) |
@@ -104,6 +104,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | ★ [Ars Nouveau](https://curseforge.com/minecraft/mc-mods/ars-nouveau) | INSTALL NOW 1.20.1 / SERVER-MATCHED / BACKUP FIRST / HIGH ADDON-ECOSYSTEM FIT | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=6d235f747de0b5ea) |
 | ★ [Ars Nouveau's Flavors & Delight](https://curseforge.com/minecraft/mc-mods/ars-nouveaus-flavors-delight) | INSTALL/TEST 1.20.1 IF USING ARS + FARMER'S DELIGHT / SERVER-MATCHED / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b0b17e16bd5e33d0) |
 | ★ [Ars Ocultas](https://curseforge.com/minecraft/mc-mods/ars-ocultas) | Ars Nouveau × Occultism integration | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=894d00c61756a10d) |
+| ★ [Ars Technica](https://curseforge.com/minecraft/mc-mods/ars-technica) | Create-oriented additions for Ars Nouveau. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=ae2cd1ca89ff7795) |
 | [AttributeFix](https://curseforge.com/minecraft/mc-mods/attributefix) | INSTALL/TEST 1.20.1 / SERVER-MATCHED / WORLD-SAFE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=896f8fcde4f0482f) |
 | ★ [Bard (RPG Series Plus)](https://modrinth.com/mod/kL7Bjgmw) | Party-support music and buff class | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=58cdd802b9ce3ca1) |
 | ★ [Berserker (More RPG Classes)](https://modrinth.com/mod/8hqOZzxM) | Berserker battle-trance class | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=dd3ddc01d9989dd2) |
