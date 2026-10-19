@@ -1,0 +1,54 @@
+{
+  "date": "2026-10-19",
+  "scope": "Four source observations attached to existing identities; no new install or runtime approval",
+  "before_source_observations": 2592,
+  "after_source_observations": 2596,
+  "entries": 2254,
+  "pending_storage_rows": 13,
+  "existing_observations_preserved": true,
+  "favorites_and_forever_world_preserved": true,
+  "native_promotions": 0,
+  "applied": [
+    {
+      "row": 26,
+      "id": "8d89e9dae1b88c3d",
+      "name": "Integrated Tunnels",
+      "sources": [
+        "https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels",
+        "https://github.com/CyclopsMC/IntegratedTunnels"
+      ],
+      "reason": "Exact title and Integrated Dynamics dependency match the linked existing observation; official project and repository confirm identity."
+    },
+    {
+      "row": 30,
+      "id": "553e7de57bae9c9d",
+      "name": "Logistics: Automation",
+      "sources": [
+        "https://modrinth.com/mod/logistics",
+        "https://github.com/Indemnity83/logistics",
+        "https://www.curseforge.com/minecraft/mc-mods/logistics-automation"
+      ],
+      "reason": "Modrinth links the author repository, whose download links identify both Modrinth and CurseForge routes."
+    },
+    {
+      "row": 32,
+      "id": "943a935eac682ceb",
+      "name": "RFTools Storage",
+      "sources": [
+        "https://modrinth.com/mod/rftools-storage",
+        "https://github.com/McJtyMods/RFToolsStorage",
+        "https://www.curseforge.com/minecraft/mc-mods/rftools-storage"
+      ],
+      "reason": "Modrinth source and CurseForge issues links identify the same McJtyMods/RFToolsStorage repository."
+    },
+    {
+      "row": 124,
+      "id": "7a2eaef434878b06",
+      "name": "Refined Wireless Upgrades",
+      "sources": [
+        "https://www.curseforge.com/minecraft/mc-mods/refined-wireless-upgrades"
+      ],
+      "reason": "Official page explicitly identifies the former RS Insert Export Upgrade name and lists legacy rsinsertexportupgrade files; the two routes do not require two catalogue entries."
+    }
+  ]
+}

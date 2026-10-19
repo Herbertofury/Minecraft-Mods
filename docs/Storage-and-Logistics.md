@@ -17,7 +17,7 @@ Use **Link to these filters** in the catalogue to bookmark a custom view. Detail
 
 ## Current collection
 
-**216 entries in this category.** The 2026-10-19 consolidation preserved all 156 storage-master observations: 139 were attached to resolved catalogue routes and 17 remain in an [identity-review queue](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/storage-import-pending-identities.json). It added 106 catalogue entries across relevant categories and preserved all 42 existing favorites. Other source tabs and collections still need reconciliation.
+**216 entries in this category.** The 2026-10-19 consolidation preserved all 156 storage-master observations: 143 are attached to resolved catalogue routes and 13 remain in an [identity-review queue](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/storage-import-pending-identities.json). It added 106 catalogue entries across relevant categories and preserved all 42 existing favorites. Other source tabs and collections still need reconciliation.
 
 [Import verification](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/storage-import-verification.json) · [Cross-host project identity checks](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/storage-project-identity-checks.json)
 
@@ -334,3 +334,10 @@ These are qualification scenarios, not claims that the named projects currently 
 ## Companion-view reconciliation
 
 The same collection contained useful notes outside its master view. The follow-on pass attached **118 companion-view observations to 57 already identified catalogue entries**, preserving unique cautions, use cases and historical version claims without inventing new mods or promoting verification. **14 observations remain pending identity resolution.** These annotations are visible in the existing detail cards; original source dates and conflicting claims remain labeled as history. [Reconciliation receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/storage-companion-import-receipt.json). That companion-note pass preserved the then-current 1,935 entries and 42 favorites. The later starred-collection import brings the full catalogue to 2,254 entries and 411 catalogued favorites, without changing the explicit Forever World flags.
+
+
+## Identity corrections: preserve the notes, avoid duplicates
+
+Four previously pending storage observations now point to existing catalogue entries: Integrated Tunnels, Logistics: Automation, RFTools Storage and Refined Wireless Upgrades. The last is explicitly the renamed RS Insert Export Upgrade on its official page. Shared repository/download links establish the cross-host routes. These checks resolve identity only; imported version and compatibility claims retain their original dates.
+
+[Primary-source identity evidence](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/storage-identity-resolution.json)
