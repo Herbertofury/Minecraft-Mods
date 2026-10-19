@@ -4,9 +4,9 @@
   "master_rows": 159,
   "exact_existing_observations_added": 37,
   "unique_entries_enriched": 33,
-  "pending_master_observations": 96,
-  "display_entries": 2290,
-  "source_observations": 2672,
+  "pending_master_observations": 92,
+  "display_entries": 2294,
+  "source_observations": 2676,
   "favorites": 411,
   "native_promotions": 0,
   "all_prior_fields_preserved": true,
@@ -197,7 +197,7 @@
       "name": "Fresh Flowers and Plants"
     }
   ],
-  "reviewed_new_identity_observations_added": 26,
+  "reviewed_new_identity_observations_added": 30,
   "reviewed_new_identities": [
     {
       "row": 2,
@@ -328,6 +328,26 @@
       "row": 24,
       "id": "a0fb1cfbb30421be",
       "name": "Excalibur | Hearth and Harvest Delight Support"
+    },
+    {
+      "row": 25,
+      "id": "97a14bb4324ce96b",
+      "name": "Excalibur | My Nether's Delight Support"
+    },
+    {
+      "row": 30,
+      "id": "b4686d91cd659e02",
+      "name": "BnC Coaster Compat"
+    },
+    {
+      "row": 31,
+      "id": "87b3949cf02b711c",
+      "name": "Brewin' And Chewin' | Excalibur Support"
+    },
+    {
+      "row": 34,
+      "id": "d6b1ee8e269a3e71",
+      "name": "Pixel Perfection x Farmer's Delight"
     }
   ]
 }

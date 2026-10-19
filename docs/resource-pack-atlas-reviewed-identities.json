@@ -265,5 +265,50 @@
       "Farming and Survival"
     ],
     "note": "Hearth and Harvest visual support aligned with Excalibur Farmer\u2019s Delight, including 3D crops and extra detail on some functional blocks. The page lists distinct Forge 1.20.1 and NeoForge 1.21.1 files. This does not add the underlying farming gameplay or prove coverage of unrelated Delight addons."
+  },
+  {
+    "row": 25,
+    "name": "Excalibur | My Nether's Delight Support",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/excalibur-my-nethers-delight-support",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Farming and Survival",
+      "Worlds and Exploration"
+    ],
+    "note": "Visual support for My Nether's Delight, which is distinct from the older Nether's Delight mod. Separate 1.20.1 v2.1 and 1.21.1 v2.2 files are listed. Intended to match Excalibur and TC_'s Farmer's Delight treatment; exact stack and gameplay compatibility remain untested."
+  },
+  {
+    "row": 30,
+    "name": "BnC Coaster Compat",
+    "url": "https://modrinth.com/resourcepack/bnc-coaster-compat",
+    "sources": [
+      "https://modrinth.com/resourcepack/u0btsBB7",
+      "https://modrinth.com/resourcepack/bnc-coaster-compat"
+    ],
+    "categories": [
+      "Visuals and Resource Packs",
+      "Farming and Survival"
+    ],
+    "note": "The atlas's opaque project ID u0btsBB7 redirects to BnC Coaster Compat. Its page lists Minecraft 1.20\u20131.20.1 and additional Brewin' and Chewin' coaster models for selected foods from Farmer's Delight, Neapolitan, Create and other named mods. Some existing item models/textures are overwritten. Distinct from Modded Coasters and More Coaster Compat; review overlapping assets and current mod-provided models before stacking."
+  },
+  {
+    "row": 31,
+    "name": "Brewin' And Chewin' | Excalibur Support",
+    "url": "https://modrinth.com/resourcepack/brewin-and-chewin-excalibur-support",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Farming and Survival"
+    ],
+    "note": "Excalibur-style blocks, items, interface and coaster-model textures for Brewin' And Chewin'. Author claims at least 97% of textures edited, which is not an independently audited completeness result. Page recommends TC_'s Farmer's Delight resource pack and lists 1.20\u20131.20.1 and 1.21\u20131.21.1. Check asset precedence with other coaster packs."
+  },
+  {
+    "row": 34,
+    "name": "Pixel Perfection x Farmer's Delight",
+    "url": "https://modrinth.com/resourcepack/pixelperfectionxfarmersdelight",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Farming and Survival"
+    ],
+    "note": "Farmer's Delight textures for the Pixel Perfection Legacy/Fidelity style, with Corn Delight and beta Rustic Delight support stated. Page prose says standalone use is possible, while its dependency list marks a Pixel Perfection base pack required; retain this discrepancy and test the intended stack. Broad listed Minecraft versions do not establish every exact release/mod combination."
   }
 ]

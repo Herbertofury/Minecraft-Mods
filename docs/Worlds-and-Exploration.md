@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**309 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**310 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Compatibility Target · 8</strong></summary>
@@ -352,7 +352,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Resource Pack · 12</strong></summary>
+<summary><strong>Resource Pack · 13</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -360,6 +360,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Definitive Vibrant Visuals \| Static Light Update](https://curseforge.com/minecraft-bedrock/texture-packs/definitive-vibrant-visuals) | BEDROCK UPDATE / CLIENT-SAFE VISUAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=ea05e7126aec6a9f) |
 | [Excalibur \| Aether Support](https://www.curseforge.com/minecraft/texture-packs/excalibur-aether-support) | Official Aether support pack covers the original Aether visual ecosystem and belongs above Excalibur. Aether addon coverage is planned with no ETA, not completed support. Exact fil | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=1b783efdda0fd559) |
 | [Excalibur \| Clarent Edition](https://www.curseforge.com/minecraft/texture-packs/clarent-excalibur-patch) | Unofficial Excalibur backport/fix patch. Its page names Excalibur 1.21.10 as the supported base, while the separately inspected Fresh Animations Patch page recommends 1.21.11 for o | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=ae75df514777afad) |
+| [Excalibur \| My Nether's Delight Support](https://www.curseforge.com/minecraft/texture-packs/excalibur-my-nethers-delight-support) | Visual support for My Nether's Delight, which is distinct from the older Nether's Delight mod. Separate 1.20.1 v2.1 and 1.21.1 v2.2 files are listed. Intended to match Excalibur an | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=97a14bb4324ce96b) |
 | [Mooblooms+](https://curseforge.com/minecraft/texture-packs/mooblooms) | A small but dedicated Moobloom-variant resource pack for 1.20-era flower-biome diversity. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=ae61250b20479ab0) |
 | [More Chicken Variants](https://curseforge.com/minecraft/texture-packs/more-chicken-variants) | Strong 1.20.1 chicken companion to More Cow Variants, including Amber, Bronzed, Fancy, Midnight, Skewbald, Stormy and secret Cluckshroom. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=bc241dc42f76006c) |
 | [More Cow Variants](https://curseforge.com/minecraft/texture-packs/more-cow-variants) | Strong 1.20.1 visual cow pack: Earth/Dungeons breeds spawn randomly and nametags expose Moobloom, Moolip and other secrets. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=9bb928d0a91ac14d) |

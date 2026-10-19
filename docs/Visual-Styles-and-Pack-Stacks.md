@@ -58,7 +58,7 @@ These are historical starting ideas awaiting full exact-file review, not certifi
 
 ## Import coverage
 
-The original 17 views and all 159 master observations are preserved in the repository. Sixty-three master observations are attached to catalogue identities: 37 exact matches to existing records and twenty-six newly reviewed identities. The remaining 96 master observations and 209 unmatched companion-view rows remain in review. 142 companion rows are attached to 54 entries; they do not inflate the unique-project or source-record totals.
+The original 17 views and all 159 master observations are preserved in the repository. Sixty-seven master observations are attached to catalogue identities: 37 exact matches to existing records and thirty newly reviewed identities. The remaining 92 master observations and 196 unmatched companion-view rows remain in review. 155 companion rows are attached to 58 entries; they do not inflate the unique-project or source-record totals.
 
 [Preserved source views](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-source-views.json) · [Master import receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-import.json) · [Companion receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-companion-receipt.json)
 
@@ -83,3 +83,9 @@ Original scores and superlatives remain source opinions. No pack was installed, 
 [Clarent](https://www.curseforge.com/minecraft/texture-packs/clarent-excalibur-patch) and [the Fresh Animations Patch](https://modrinth.com/resourcepack/excalibur-fresh-animations) currently name different Excalibur base versions in their instructions. Pin the exact intended combination before testing; do not merge two differing recipes for the stack into an assumed guarantee. The animation patch also lists renderer/animation conflicts and requires its supporting resources and entity-animation tools.
 
 [Supplementaries support](https://www.curseforge.com/minecraft/texture-packs/excalibur-supplementaries-support) still lists presents and flags as missing. [Hearth and Harvest support](https://www.curseforge.com/minecraft/texture-packs/excalibur-hearth-and-harvest-support) has separate Forge and NeoForge file lanes and focuses on crop/block visuals. Both are visual support packs, not replacements for native gameplay testing.
+
+## Food and coaster packs: resolve overlapping assets
+
+[BnC Coaster Compat](https://modrinth.com/resourcepack/bnc-coaster-compat) is the project behind the old opaque atlas link. It supplies selected food-display models and overrides some existing assets. [Excalibur support for Brewin’ and Chewin’](https://modrinth.com/resourcepack/brewin-and-chewin-excalibur-support) also changes coaster visuals. Check exact overlapping model/texture paths and test priority order instead of assuming both can win. Neither is the same project as similarly named Modded Coasters or More Coaster Compat.
+
+[My Nether’s Delight support](https://www.curseforge.com/minecraft/texture-packs/excalibur-my-nethers-delight-support) targets My Nether’s Delight rather than the older Nether’s Delight. [Pixel Perfection’s Farmer’s Delight pack](https://modrinth.com/resourcepack/pixelperfectionxfarmersdelight) describes standalone use in its prose but lists a base Pixel Perfection pack as required; keep this discrepancy visible until the intended exact stack is tested. Its Rustic Delight support is labelled beta.
