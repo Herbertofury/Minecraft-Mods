@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**249 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**251 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Compatibility Target · 2</strong></summary>
@@ -85,7 +85,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Mod · 213</strong></summary>
+<summary><strong>Mod · 215</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -192,6 +192,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Legends Mod: Core](https://curseforge.com/minecraft/mc-mods/legends-mod-core) | INSTALL/TEST 1.20.1 / SERVER-MATCHED / VERSION-LOCK OFFICIAL PACKS / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=ebe6925ba4557156) |
 | ★ [Let Me Tweak It](https://curseforge.com/minecraft/mc-mods/bmts-imagination) | Survival and progression rule adjustments; not an FPS optimization claim. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=93d9e13b0aaeca0a) |
 | ★ [Loot & Explore (More RPG Content)](https://modrinth.com/mod/GxOv67AE) | Structures, special loot and enemies integrated with RPG Series | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0977b8ed588fc60a) |
+| [Maid Restaurant: Storage](https://modrinth.com/mod/maid-restaruant-storage) | Maid Restaurant access to storage containers and optional integrations. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=26d51cb0791e8e4f) |
 | ★ [Malum](https://www.curseforge.com/minecraft/mc-mods/malum) | Owner-selected favorite and long-term compatibility target for future mods and modpacks. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=25b5fb96cc8c9e25) |
 | ★ [Malum Buddycards](https://curseforge.com/minecraft/mc-mods/malum-buddycards) | Malum-themed Buddycards expansion with spirits, pacts, binders and displays | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=3c859e7c3e757249) |
 | [MAR Relics](https://curseforge.com/minecraft/mc-mods/marrelics) | TEST BRANCH / OPTIONAL / SERVER-MATCHED / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=661d39accedca38a) |
@@ -287,6 +288,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Theurgy KubeJS](https://curseforge.com/minecraft/mc-mods/theurgy-kubejs) | INSTALL IF SCRIPTING THEURGY / SERVER-MATCHED / PACKMAKER TOOL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=9b30d02001957b4c) |
 | ★ [Tome of Blood: Rebirth](https://curseforge.com/minecraft/mc-mods/tome-of-blood-rebirth) | Ars Nouveau × Blood Magic spellbook/equipment bridge | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=be893ceb19194ab9) |
 | ★ [Too Many Glyphs](https://curseforge.com/minecraft/mc-mods/too-many-glyphs) | Large glyph expansion pack | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2940ef35ccf54253) |
+| [Touhou Little Maid: Maid Crafting](https://modrinth.com/mod/touhoulittlemaidcraft) | Maid-operated crafting with Refined Storage and optional magic stations. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=90bb3b1e1bb33445) |
 | [Touhou Little Maid: Spell](https://curseforge.com/minecraft/mc-mods/touhou-little-maid-spell) | UPDATE CANDIDATE / TEST COPIED MAID WORLD / SERVER-MATCHED / NO BLIND UPGRADE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=f27319f9c3c8ec4c) |
 | [Touhou Maid: Eat properly](https://curseforge.com/minecraft/mc-mods/touhou-maid-eat-properly) | INSTALL/TEST 1.20.1 / SERVER-MATCHED / BACKUP MAID PROGRESSION | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7f0459456f20b4ed) |
 | [touhou-maid-legion](https://curseforge.com/minecraft/mc-mods/touhou-maid-legion) | TEST/WATCH 1.20.1 / BOTH SIDES IN MULTIPLAYER / BACKUP STORED MAIDS FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=03019a4eb8243bc8) |

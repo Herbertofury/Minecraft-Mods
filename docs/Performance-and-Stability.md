@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**178 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**179 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Discovery · 35</strong></summary>
@@ -72,7 +72,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Mod · 130</strong></summary>
+<summary><strong>Mod · 131</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -197,6 +197,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Tick Weave](https://curseforge.com/minecraft/mc-mods/tick-weave) | EXPERIMENTAL / TEST BRANCH / SPARK A-B / BACKUP FIRST / DO NOT STACK WITH ASYNC/HARIMULTITHREAD/MOONRISE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=8f25e87b21582d92) |
 | [TLM：Speak human language](https://curseforge.com/minecraft/mc-mods/tlm-speak-human-language) | WATCH / CLIENT-SAFE / TEST COPY | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=9788ef00816e49e4) |
 | [Tom's Performant Storage](https://curseforge.com/minecraft/mc-mods/toms-performant-storage) | Forge 1.20.1 performance patch for Tom’s Storage large networks. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=9e65e8f46f95d0b4) |
+| [Tom's Simple Storage performance optimization](https://www.curseforge.com/minecraft/mc-mods/toms-simple-storage-performance-optimization) | Candidate performance companion for Tom’s Simple Storage. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=1835dcaf1b002930) |
 | [Toms Storage Star Optimized](https://curseforge.com/minecraft/mc-mods/toms-storage-star-optimized) | Performance patch for Tom’s Storage targeting repeated scans/sync behavior across loaders. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=dff577aef4808be1) |
 | [Tpsum](https://curseforge.com/minecraft/mc-mods/tpsum) | TEST/BENCHMARK 1.20.1 / SERVER-SIDE / WORLD-SAFE / SPARK A-B | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=ae5d714b1118faf4) |
 | [Train Network Optimisations](https://curseforge.com/minecraft/mc-mods/trainnetworkoptimisations) | OPTIONAL / HIGH-VALUE FOR LARGE CREATE RAILS / TEST COPY | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d8a80acde88b512e) |

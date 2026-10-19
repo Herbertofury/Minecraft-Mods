@@ -6,7 +6,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**307 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**310 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Content Pack · 12</strong></summary>
@@ -119,7 +119,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Mod · 233</strong></summary>
+<summary><strong>Mod · 236</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -184,6 +184,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Create Weaponry](https://curseforge.com/minecraft/mc-mods/create-weaponry) | Builds a casting and molten-metal weapon/tool production system around Create spouts and molds, expanding the tab beyond firearms while remaining directly relevant to an armed indu | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=8546be077894a97a) |
 | [Create: Accelerate](https://modrinth.com/mod/create-accelerate) | WATCH / HIGH CREATE FIT / TEST WORLD COPY | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=1742c816fa20635e) |
 | [Create: Adapted](https://curseforge.com/minecraft/mc-mods/create-adapted) | FUTURE VERSION / WATCH / TEST COPY / UNOFFICIAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=025998d67fbcf62c) |
+| [Create: Additional Logistics](https://www.curseforge.com/minecraft/mc-mods/create-additional-logistics) | Additional Create logistics blocks and behavior refinements. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=14ea4c59d3bba694) |
 | ★ [Create: Aeronautics](https://curseforge.com/minecraft/mc-mods/create-aeronautics) | Important to the Create vehicle/war-machine ecosystem, but the currently published project is a modern 1.21.1 NeoForge route rather than a direct Forge 1.20.1 target. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=90648f635a5f9877) |
 | ★ [Create: Alloyed](https://curseforge.com/minecraft/mc-mods/create-alloyed) | Relevant to the Create gun/combat ecosystem; retained for comparison, expansion planning, or compatibility discovery. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=34596145ea3a751c) |
 | [Create: Armory](https://modrinth.com/mod/create-armory) | Older 1.20.1 build may predate Create 6.x and conflict with TaCZ/NTGL; test separately, not an automatic installation recommendation. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=75c9f6cacacce1b6) |
@@ -229,6 +230,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Create: Mechanical Extruder](https://curseforge.com/minecraft/mc-mods/create-mechanical-extruder) | Relevant to the Create gun/combat ecosystem; retained for comparison, expansion planning, or compatibility discovery. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=fae33683d08e9c62) |
 | [Create: Metallurgy](https://curseforge.com/minecraft/mc-mods/create-metallurgy) | INSTALL/TEST 1.20.1 / CREATE 6.0.8 EXACT / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=3ee6f603fdeae54e) |
 | [Create: Metalwork](https://curseforge.com/minecraft/mc-mods/create-metalwork) | INSTALL/TEST 1.20.1 / CREATE 6.0.0 EXACT / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d317291cbb62b99b) |
+| [Create: Mobile Packages](https://modrinth.com/mod/create-mobile-packages) | Robo Bee package delivery over Create logistics networks. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=6ea88442910fba1e) |
 | [Create: More Recipes](https://curseforge.com/minecraft/mc-mods/create-morerecipes) | Relevant to the Create gun/combat ecosystem; retained for comparison, expansion planning, or compatibility discovery. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b5492a624713251a) |
 | [Create: New Age](https://curseforge.com/minecraft/mc-mods/create-new-age) | Relevant to the Create gun/combat ecosystem; retained for comparison, expansion planning, or compatibility discovery. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d7a4d1a352a779de) |
 | [Create: Nowheel](https://curseforge.com/minecraft/mc-mods/create-nowheel) | INSTALL/TEST 1.20.1 / CLIENT-SAFE / WORLD-SAFE / A-B BENCHMARK | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=229cc8a393d46077) |
@@ -243,6 +245,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Create: Routes](https://herbertofury.github.io/Minecraft-Mods/?id=22fcec8ebecb21a8) | OPTIONAL / HIGH CREATE QOL / TEST COPY | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=22fcec8ebecb21a8) |
 | ★ [Create: Rustic Structures](https://curseforge.com/minecraft/mc-mods/create-rustic-structures) | VERIFY CREATE GENERATION | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=3d294058f2ddf1b8) |
 | [Create: Sifting](https://curseforge.com/minecraft/mc-mods/create-sifting) | Relevant to the Create gun/combat ecosystem; retained for comparison, expansion planning, or compatibility discovery. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d502e0439eb68b28) |
+| [Create: Springs](https://modrinth.com/mod/create-springs) | Store rotational force using Create springs. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=778efb55a0a18354) |
 | ★ [Create: Steam 'n' Rails](https://curseforge.com/minecraft/mc-mods/create-steam-n-rails) | Deepens Create rail networks and steam systems; especially valuable for armored trains, logistics and rail-artillery builds. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=00c7528efae179d9) |
 | ★ [Create: Steam Powered](https://curseforge.com/minecraft/mc-mods/steam-powered-create) | Steam-age machinery expansion for Create | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=3cf0a3b6c7f899eb) |
 | [Create: Storage](https://curseforge.com/minecraft/mc-mods/create-storage-neo-forge) | TEST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=111454f45a25d670) |
@@ -287,7 +290,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [LaserIO (Fabric)](https://curseforge.com/minecraft/mc-mods/laserio-fabric) | WATCH/FUTURE / TEST COPY / VERIFY EXACT ARTIFACT BEFORE 1.20.1 USE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=cc40ca0ff92909f2) |
 | [Limitless Vehicle](https://curseforge.com/minecraft/mc-mods/limitless-vehicle) | TEST BRANCH | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=5f92844133a58cf6) |
 | [Litemacro](https://curseforge.com/minecraft/mc-mods/litemacro) | FUTURE VERSION / WATCH / CLIENT-SAFE / SERVER-RULES REVIEW | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=ee7e236fd70c342a) |
-| [Logistics: Automation](https://herbertofury.github.io/Minecraft-Mods/?id=553e7de57bae9c9d) | FUTURE VERSION / WATCH / OPTIONAL / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=553e7de57bae9c9d) |
+| [Logistics: Automation](https://modrinth.com/mod/logistics) | FUTURE VERSION / WATCH / OPTIONAL / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=553e7de57bae9c9d) |
 | [Maid Logistics Network](https://curseforge.com/minecraft/mc-mods/maid-logistics-network) | TEST BRANCH / WATCH | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=9f3d759924b29f2f) |
 | [Maid Storage Manager](https://curseforge.com/minecraft/mc-mods/maid-storage-manager) | TEST BRANCH | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2b8072722498d07e) |
 | [Maid's Mining Mastery](https://curseforge.com/minecraft/mc-mods/maids-mining-mastery) | WATCH / TEST COPY / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=37f8b52bf1d4e4dc) |
@@ -319,7 +322,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Quality Food](https://curseforge.com/minecraft/mc-mods/quality-food) | INSTALL/TEST 1.20.1 / COZY HIGH-FIT / SERVER-MATCHED | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0035babcf8133f59) |
 | [Railways Untold](https://curseforge.com/minecraft/mc-mods/railways-untold) | TEST 1.20.1 / BACKUP FIRST / WORLD-HEAVY / SERVER-MATCHED | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=076bb7abec27d405) |
 | ★ [Rats](https://curseforge.com/minecraft/mc-mods/rats) | Trainable rat companions/automation | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=395edbf4193031dd) |
-| [Refined Wireless Upgrades](https://herbertofury.github.io/Minecraft-Mods/?id=7a2eaef434878b06) | INSTALL/OPTIONAL 1.20.1 / SERVER-MATCHED / HIGH RS PACK FIT / CLEAN UP ADDON ITEMS BEFORE REMOVAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7a2eaef434878b06) |
+| [Refined Wireless Upgrades](https://www.curseforge.com/minecraft/mc-mods/refined-wireless-upgrades) | INSTALL/OPTIONAL 1.20.1 / SERVER-MATCHED / HIGH RS PACK FIT / CLEAN UP ADDON ITEMS BEFORE REMOVAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7a2eaef434878b06) |
 | [RIAutomobility: Unofficial Port](https://modrinth.com/mod/riautomobility-unofficial-port) | FUTURE VERSION / OPTIONAL ADDON / SAVE BACKUP | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=30f8e06e6f714470) |
 | [Ritchie's Projectile Library](https://curseforge.com/minecraft/mc-mods/ritchies-projectile-library) | Relevant to the Create gun/combat ecosystem; retained for comparison, expansion planning, or compatibility discovery. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7d3f37e6dc2ef7f8) |
 | ★ [Rustic Engineer](https://curseforge.com/minecraft/mc-mods/rustic-engineer) | Rustic steam/mechanical machines, transport and accessories | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=9911632cb8420782) |

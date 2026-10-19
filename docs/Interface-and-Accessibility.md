@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**209 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**214 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Content Pack · 1</strong></summary>
@@ -52,7 +52,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Mod · 180</strong></summary>
+<summary><strong>Mod · 185</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -104,6 +104,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | ★ [Create: Protection Pixel](https://curseforge.com/minecraft/mc-mods/protection-pixel) | Steampunk/Create-style armor progression | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0905942186371c33) |
 | [Custom FoV](https://curseforge.com/minecraft/mc-mods/custom-fov) | INSTALL NOW 1.20.1 / CLIENT-SAFE / WORLD-SAFE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=45096462f555502d) |
 | [Custom Nether Portals \[Any Shape Nether Portals\]](https://curseforge.com/minecraft/mc-mods/custom-nether-portals) | INSTALL NOW/TEST 1.20.1 / UPDATE NOW 3.0.0 / LOW-MEDIUM SAVE RISK | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=209cdd41a8b475a2) |
+| [DayZ Inventory](https://modrinth.com/mod/dayz-inventory) | Vicinity inventory and manual container looting. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2b17a792d6f1af9c) |
 | [DoxBreath](https://curseforge.com/minecraft/mc-mods/doxbreath-tacz-recommendation) | Hold a configurable breath key while ADS to suppress TaCZ sway, breathing wobble and part of camera recoil for a limited stamina window; 1.1.0 adds a configurable Lung HUD for drai | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=e16b2645eecc448f) |
 | [DynamicRenderDistance](https://curseforge.com/minecraft/mc-mods/dynamicrenderdistance) | INSTALL/TEST 1.20.1 / CLIENT-SAFE / BENCHMARK WITH DISTANT HORIZONS | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=beb93ef3a28a8f4b) |
 | [Easy Shulker Boxes](https://curseforge.com/minecraft/mc-mods/easy-shulker-boxes) | Browse, insert, extract, scroll, drag, and precisely manage shulker contents directly from the player inventory without placing them. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=84c10012f1aa46ac) |
@@ -156,6 +157,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | ★ [Loot & Explore (More RPG Content)](https://modrinth.com/mod/GxOv67AE) | Structures, special loot and enemies integrated with RPG Series | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0977b8ed588fc60a) |
 | [MC Storage Area Network](https://curseforge.com/minecraft/mc-mods/mc-storage-area-network) | Highly modular hybrid storage and automation suite with vanilla crafter integration. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d1e06e519f23781d) |
 | [Minetales](https://curseforge.com/minecraft/mc-mods/minetales) | Forge 1.20.1 smart chest/shulker sorting, player sort, deposit-all, pull-all, safe trash, and hotbar locking. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=bf300cd664a8c0c3) |
+| [Mochila](https://www.curseforge.com/minecraft/mc-mods/mochila) | Backpack storage research with release-specific sorting safety notes. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=594769eb0ffa433f) |
 | [Modern Content Backport](https://curseforge.com/minecraft/mc-mods/modern-content-backport) | TEST/OPTIONAL 1.20.1 / SERVER-MATCHED / BACKUP FIRST / YOUNG PROJECT | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=e9105c5765c9922e) |
 | [Momentum for Automobility: Unofficial Port](https://modrinth.com/mod/momentum-for-automobility-unofficial-port) | FUTURE VERSION / OPTIONAL ADDON / MATCH CORE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=939ed31b31989eee) |
 | ★ [More Relics (More RPG Content)](https://modrinth.com/mod/IZ3b4kEa) | Relics expansion for More RPG Classes | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=8f93a3611d86bdce) |
@@ -224,12 +226,15 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [TaCZ-Labs](https://modrinth.com/mod/tacz-labs) | Gives gun-specific dynamic crosshair options, with recent 1.1.6 fix for reticle disappearing under extreme spread values. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b3ae63d18a4dda3a) |
 | [TaCZ: Presence](https://curseforge.com/minecraft/mc-mods/tacz-presence) | High-adoption TaCZ feedback layer adding suppression, directional hit indicators, scope glare, muzzle smoke, tactical HUD alerts and visual/audio impact feedback. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2a3242a9adaa9a58) |
 | ★ [TaczCurios](https://curseforge.com/minecraft/mc-mods/taczcurios) | Six TaCZ Curios slots/attributes; update candidate 1.4.16 (Oct14) replaces 1.4.13 catalogue. Prior 1.4.13 fixes buffs, absorption, Lootr and Blank Sword; new changelog unverified.  | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=3662910d44f7a53c) |
+| [Take It](https://modrinth.com/mod/takeit) | Manual item pickup with a configurable key. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=8bcfca9a66147bf6) |
+| [Take It Out — Shulker Picking + Easy Place](https://www.curseforge.com/minecraft/mc-mods/takeitout) | Pick building blocks from shulker boxes and integrate Easy Place. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=8b5f01a795f481ef) |
 | [Tidy Pockets](https://curseforge.com/minecraft/mc-mods/tidy-pockets) | FUTURE/TEST 26.3 / CLIENT-SAFE / WORLD-SAFE / SAFE MODE ON STRICT SERVERS | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=e081b5c12ed704e7) |
 | ★ [Tiny Config](https://modrinth.com/mod/EivZOK5a) | Small GSON-based config library | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=ef62d200c4df4384) |
 | [Tom's Simple Storage Mod](https://curseforge.com/minecraft/mc-mods/toms-storage) | INSTALL/TEST 1.20.1 / SERVER-MATCHED / BACKUP STORAGE NETWORK | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a80c64ca4d493885) |
 | ★ [Tome of Blood: Rebirth](https://curseforge.com/minecraft/mc-mods/tome-of-blood-rebirth) | Ars Nouveau × Blood Magic spellbook/equipment bridge | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=be893ceb19194ab9) |
 | ★ [Too Many Bows](https://curseforge.com/minecraft/mc-mods/too-many-bows) | Bow expansion with unique abilities | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0106b576484cdce8) |
 | [Tooltip Overhaul](https://curseforge.com/minecraft/mc-mods/tooltip-overhaul) | INSTALL NOW/TEST 1.20.1 / CLIENT-SAFE / UPDATE 1.21.1 | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=98ae82a3c5520ae6) |
+| [Touhou Little Maid: Maid Crafting](https://modrinth.com/mod/touhoulittlemaidcraft) | Maid-operated crafting with Refined Storage and optional magic stations. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=90bb3b1e1bb33445) |
 | [TouhouLittleMaid-BetterGap](https://curseforge.com/minecraft/mc-mods/touhoulittlemaid-bettergap) | Strong utility inspiration; test before adding to a persistent world | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=ea5f26df819c0012) |
 | [Universal Bone Meal](https://curseforge.com/minecraft/mc-mods/universal-bone-meal) | INSTALL NOW/TEST 1.20.1 / UPDATE-FRIENDLY | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=589e58c30dac363c) |
 | [VECTOR HUD](https://curseforge.com/minecraft/mc-mods/vector-hud) | TEST/WATCH 1.20.1 / CLIENT-SAFE / WORLD-SAFE / SERVER-RULE REVIEW | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=3dcf0313af76e3c2) |

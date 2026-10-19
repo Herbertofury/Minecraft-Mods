@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**113 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**114 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Content Pack · 4</strong></summary>
@@ -19,7 +19,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Mod · 105</strong></summary>
+<summary><strong>Mod · 106</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -95,6 +95,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | ★ [Legacy: \[Let's Do\] Candlelight](https://modrinth.com/mod/lets-do-candlelight) | Ever dreamed of the perfect dinner in Minecraft?  Candlelight Dinner provides almost everything necessary to make it happen. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a27b05c12652a131) |
 | ★ [Legendary Farming](https://curseforge.com/minecraft/mc-mods/legendary-farming) | Mega-crop farming expansion | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=04a742713e481b22) |
 | ★ [Let Me Tweak It](https://curseforge.com/minecraft/mc-mods/bmts-imagination) | Survival and progression rule adjustments; not an FPS optimization claim. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=93d9e13b0aaeca0a) |
+| [Maid Restaurant: Storage](https://modrinth.com/mod/maid-restaruant-storage) | Maid Restaurant access to storage containers and optional integrations. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=26d51cb0791e8e4f) |
 | [Manure](https://curseforge.com/minecraft/mc-mods/manure) | INSTALL/OPTIONAL 1.20.1 / SERVER-MATCHED / COZY+FARMING / CLEAN ITEMS BEFORE REMOVAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=6f20ef995e8add4c) |
 | [Mo'creatures Awakened](https://curseforge.com/minecraft/mc-mods/mocreatures-awakened) | An unusually ambitious revival branch that extends beyond animals into genetics and world systems. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=6c193e47f2d0afa5) |
 | [More More Cows](https://curseforge.com/minecraft/mc-mods/more-more-cows) | A newer-generation resource-cow project with 1.20.1 support, breeding/spawn-egg progression and ore/food cows. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=030cb978477290b4) |

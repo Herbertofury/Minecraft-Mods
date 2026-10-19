@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-19",
+  "entries": 2264,
+  "source_observations": 2609,
+  "new_entries": 10,
+  "resolved_storage_master_rows": 156,
+  "pending_storage_master_rows": 0,
+  "all_prior_records_preserved": true,
+  "native_promotions": 0,
+  "new_favorites": 0,
+  "applied": [
+    {
+      "row": 144,
+      "id": "6ea88442910fba1e",
+      "name": "Create: Mobile Packages"
+    },
+    {
+      "row": 146,
+      "id": "2b17a792d6f1af9c",
+      "name": "DayZ Inventory"
+    },
+    {
+      "row": 147,
+      "id": "8bcfca9a66147bf6",
+      "name": "Take It"
+    },
+    {
+      "row": 148,
+      "id": "8b5f01a795f481ef",
+      "name": "Take It Out \u2014 Shulker Picking + Easy Place"
+    },
+    {
+      "row": 150,
+      "id": "90bb3b1e1bb33445",
+      "name": "Touhou Little Maid: Maid Crafting"
+    },
+    {
+      "row": 151,
+      "id": "26d51cb0791e8e4f",
+      "name": "Maid Restaurant: Storage"
+    },
+    {
+      "row": 152,
+      "id": "14ea4c59d3bba694",
+      "name": "Create: Additional Logistics"
+    },
+    {
+      "row": 153,
+      "id": "778efb55a0a18354",
+      "name": "Create: Springs"
+    },
+    {
+      "row": 154,
+      "id": "1835dcaf1b002930",
+      "name": "Tom's Simple Storage performance optimization"
+    },
+    {
+      "row": 155,
+      "id": "594769eb0ffa433f",
+      "name": "Mochila"
+    }
+  ],
+  "identity_sources": [
+    {
+      "row": 144,
+      "url": "https://modrinth.com/mod/create-mobile-packages",
+      "reason": "Robo Bee package delivery over Create logistics networks.",
+      "identity_note": "Official project describes the same Robo Bee and portable logistics features; its current page marks Forge 1.20.1 no longer supported.",
+      "sources": [
+        "https://modrinth.com/mod/create-mobile-packages"
+      ]
+    },
+    {
+      "row": 146,
+      "url": "https://modrinth.com/mod/dayz-inventory",
+      "reason": "Vicinity inventory and manual container looting.",
+      "identity_note": "Exact historical version jGsoH0Gq identifies Forge 1.20.1 1.4.3; do not call it the current latest release.",
+      "sources": [
+        "https://modrinth.com/mod/dayz-inventory",
+        "https://modrinth.com/mod/dayz-inventory/version/jGsoH0Gq"
+      ]
+    },
+    {
+      "row": 147,
+      "url": "https://modrinth.com/mod/takeit",
+      "reason": "Manual item pickup with a configurable key.",
+      "identity_note": "Official project matches source-described pickup changes; distinct from TakeItOut shulker extraction.",
+      "sources": [
+        "https://modrinth.com/mod/takeit"
+      ]
+    },
+    {
+      "row": 148,
+      "url": "https://www.curseforge.com/minecraft/mc-mods/takeitout",
+      "reason": "Pick building blocks from shulker boxes and integrate Easy Place.",
+      "identity_note": "Official files and description match source-described shulker picking; distinct from Take It manual pickup.",
+      "sources": [
+        "https://www.curseforge.com/minecraft/mc-mods/takeitout"
+      ]
+    },
+    {
+      "row": 150,
+      "url": "https://modrinth.com/mod/touhoulittlemaidcraft",
+      "reason": "Maid-operated crafting with Refined Storage and optional magic stations.",
+      "identity_note": "Official project lists the same Touhou Little Maid, Refined Storage and JEI requirements.",
+      "sources": [
+        "https://modrinth.com/mod/touhoulittlemaidcraft"
+      ]
+    },
+    {
+      "row": 151,
+      "url": "https://modrinth.com/mod/maid-restaruant-storage",
+      "reason": "Maid Restaurant access to storage containers and optional integrations.",
+      "identity_note": "Official project uses the misspelled route restaruant; description matches Maid Restaurant storage integration.",
+      "sources": [
+        "https://modrinth.com/mod/maid-restaruant-storage"
+      ]
+    },
+    {
+      "row": 152,
+      "url": "https://www.curseforge.com/minecraft/mc-mods/create-additional-logistics",
+      "reason": "Additional Create logistics blocks and behavior refinements.",
+      "identity_note": "Official listing matches title and 1.4.5 family; exact installed Create branch still needs qualification.",
+      "sources": [
+        "https://www.curseforge.com/minecraft/mc-mods/create-additional-logistics"
+      ]
+    },
+    {
+      "row": 153,
+      "url": "https://modrinth.com/mod/create-springs",
+      "reason": "Store rotational force using Create springs.",
+      "identity_note": "Official version eDiAVroc matches source version1.1.3-1.20.1-forge; identity evidence only.",
+      "sources": [
+        "https://modrinth.com/mod/create-springs",
+        "https://modrinth.com/mod/create-springs/version/eDiAVroc"
+      ]
+    },
+    {
+      "row": 154,
+      "url": "https://www.curseforge.com/minecraft/mc-mods/toms-simple-storage-performance-optimization",
+      "reason": "Candidate performance companion for Tom\u2019s Simple Storage.",
+      "identity_note": "Official file9125925 matches the named1.0.0 Forge1.20.1 artifact. No performance gain is inferred from the title.",
+      "sources": [
+        "https://www.curseforge.com/minecraft/mc-mods/toms-simple-storage-performance-optimization",
+        "https://www.curseforge.com/minecraft/mc-mods/toms-simple-storage-performance-optimization/files/9125925"
+      ]
+    },
+    {
+      "row": 155,
+      "url": "https://www.curseforge.com/minecraft/mc-mods/mochila",
+      "reason": "Backpack storage research with release-specific sorting safety notes.",
+      "identity_note": "Exact official route is present in the workbook note; preserve historical claims rather than treating them as verified current behavior.",
+      "sources": [
+        "https://www.curseforge.com/minecraft/mc-mods/mochila"
+      ]
+    }
+  ]
+}

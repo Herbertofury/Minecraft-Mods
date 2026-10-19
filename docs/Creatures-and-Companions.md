@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**609 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**611 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Content Pack · 30</strong></summary>
@@ -68,7 +68,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Mod · 530</strong></summary>
+<summary><strong>Mod · 532</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -328,6 +328,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Maid Form Shift](https://curseforge.com/minecraft/mc-mods/maid-form-shift-lmrb-tlm-backend-showcase) | WATCH / CAUTION | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=202d7aa24d6df4f9) |
 | [Maid Logistics Network](https://curseforge.com/minecraft/mc-mods/maid-logistics-network) | TEST BRANCH / WATCH | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=9f3d759924b29f2f) |
 | [Maid Mining](https://modrinth.com/mod/maid-mining) | OPTIONAL / WORLD COPY / NOT WORLD-SAFE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=65abab8d56f504c2) |
+| [Maid Restaurant: Storage](https://modrinth.com/mod/maid-restaruant-storage) | Maid Restaurant access to storage containers and optional integrations. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=26d51cb0791e8e4f) |
 | [Maid Storage Manager](https://curseforge.com/minecraft/mc-mods/maid-storage-manager) | TEST BRANCH | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2b8072722498d07e) |
 | [Maid Useful Tasks](https://curseforge.com/minecraft/mc-mods/maid-useful-tasks) | TEST BRANCH / OPTIONAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=000b233a34022fff) |
 | [Maid's Bakeries](https://curseforge.com/minecraft/mc-mods/maid-s-bakeries) | OPTIONAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=12714107e15801bd) |
@@ -548,6 +549,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Touhou Little Maid - Personality](https://curseforge.com/minecraft/mc-mods/touhou-little-maid-personality) | WATCH/TEST 1.20.1 / SERVER-MATCHED / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=6da34d1d53883ed5) |
 | [Touhou Little Maid: Crimson Heart Covenant](https://curseforge.com/minecraft/mc-mods/touhou-little-maid-crimson-heart-covenant) | TEST/OPTIONAL 1.20.1 / SERVER-MATCHED / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=912915e98a721f45) |
 | [Touhou Little Maid: Love & Loathe](https://curseforge.com/minecraft/mc-mods/touhou-little-maid-love-loathe) | TEST BRANCH / SOCIAL ADDON / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=e97c7135c45ef866) |
+| [Touhou Little Maid: Maid Crafting](https://modrinth.com/mod/touhoulittlemaidcraft) | Maid-operated crafting with Refined Storage and optional magic stations. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=90bb3b1e1bb33445) |
 | [Touhou Little Maid: Senju](https://curseforge.com/minecraft/mc-mods/touhou-little-maid-senju) | INSTALL/TEST 1.20.1 / HIGH MAID FIT / SERVER-MATCHED / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=33461c63f0507071) |
 | [Touhou Little Maid: Spell](https://curseforge.com/minecraft/mc-mods/touhou-little-maid-spell) | UPDATE CANDIDATE / TEST COPIED MAID WORLD / SERVER-MATCHED / NO BLIND UPGRADE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=f27319f9c3c8ec4c) |
 | [Touhou Maid - Saturation System](https://curseforge.com/minecraft/mc-mods/touhou-maid-saturation-system) | WATCH/TEST 1.20.1 / SERVER-MATCHED / BACKUP MAID STATE / ZERO-ADOPTION | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d3c71bffd1b8ba36) |
