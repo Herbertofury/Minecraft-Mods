@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**233 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**234 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Compatibility Target · 2</strong></summary>
@@ -70,7 +70,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Mod · 212</strong></summary>
+<summary><strong>Mod · 213</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -175,6 +175,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [KumoDesu: Ascension](https://curseforge.com/minecraft/mc-mods/kumodesu-ascension) | Elroe creatures, custom progression, multiple evolution races; three hard deps CustomHitboxLib/GeckoLib/TerraBlender; ARR; Oct06 release, Oct15 discovery. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c6607a0bd7cce705) |
 | ★ [L_Ender's Cataclysm](https://curseforge.com/minecraft/mc-mods/lendercataclysm) | One of the highest-polish combat bestiaries, pairing elaborate boss fights with structures and supporting enemies. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0095fc6f72d7ea35) |
 | [Legends Mod: Core](https://curseforge.com/minecraft/mc-mods/legends-mod-core) | INSTALL/TEST 1.20.1 / SERVER-MATCHED / VERSION-LOCK OFFICIAL PACKS / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=ebe6925ba4557156) |
+| ★ [Let Me Tweak It](https://curseforge.com/minecraft/mc-mods/bmts-imagination) | Survival and progression rule adjustments; not an FPS optimization claim. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=93d9e13b0aaeca0a) |
 | ★ [Loot & Explore (More RPG Content)](https://modrinth.com/mod/GxOv67AE) | Structures, special loot and enemies integrated with RPG Series | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0977b8ed588fc60a) |
 | ★ [Malum](https://www.curseforge.com/minecraft/mc-mods/malum) | Owner-selected favorite and long-term compatibility target for future mods and modpacks. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=25b5fb96cc8c9e25) |
 | ★ [Malum Buddycards](https://curseforge.com/minecraft/mc-mods/malum-buddycards) | Malum-themed Buddycards expansion with spirits, pacts, binders and displays | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=3c859e7c3e757249) |

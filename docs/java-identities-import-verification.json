@@ -1,0 +1,47 @@
+{
+  "scope": "Primary project identity only; source records and verification levels preserved",
+  "entries": 2201,
+  "source_records": 2538,
+  "favorites": 369,
+  "resolved_rows": 6,
+  "new_entries": 5,
+  "pending_starred_rows": 55,
+  "applied": [
+    {
+      "row": 159,
+      "id": "354e3b9ca4649b36",
+      "name": "Simply Swords Classic",
+      "new": true
+    },
+    {
+      "row": 160,
+      "id": "6ffa0e0da8d861c0",
+      "name": "[Datapack] Simply Skills Chinese Localization Datapack",
+      "new": true
+    },
+    {
+      "row": 198,
+      "id": "c2126b39226ab213",
+      "name": "Satiated Shield Fix",
+      "new": true
+    },
+    {
+      "row": 199,
+      "id": "adefd337f51de72a",
+      "name": "Weaken Satiated Shield",
+      "new": true
+    },
+    {
+      "row": 200,
+      "id": "93d9e13b0aaeca0a",
+      "name": "Let Me Tweak It",
+      "new": true
+    },
+    {
+      "row": 386,
+      "id": "7303a890d94b5f67",
+      "name": "Create: Structures Arise",
+      "new": false
+    }
+  ]
+}

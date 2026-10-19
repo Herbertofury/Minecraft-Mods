@@ -1,0 +1,103 @@
+{
+  "date": "2026-10-19",
+  "scope": "Primary project identity; version/dependency claims are not native testing",
+  "matches": [
+    {
+      "row": 159,
+      "name": "Simply Swords Classic",
+      "url": "https://www.curseforge.com/minecraft/texture-packs/simply-swords-classic",
+      "type": "resource_pack",
+      "categories": [
+        "Visuals and Resource Packs"
+      ],
+      "reason": "Legacy three-dimensional models for Simply Swords.",
+      "existing_ids": [],
+      "identity_sources": [
+        "https://www.curseforge.com/minecraft/texture-packs/simply-swords-classic"
+      ],
+      "method": "Exact official title and sweenuss attribution match the source observation"
+    },
+    {
+      "row": 160,
+      "name": "[Datapack] Simply Skills Chinese Localization Datapack",
+      "url": "https://www.curseforge.com/minecraft/customization/datapack-simply-skills-chinese-localization",
+      "type": "data_pack",
+      "categories": [
+        "Interface and Accessibility"
+      ],
+      "reason": "Chinese localization for Simply Skills; official page restricts this pack to Simply Skills 1.0.0.",
+      "existing_ids": [],
+      "identity_sources": [
+        "https://www.curseforge.com/minecraft/customization/datapack-simply-skills-chinese-localization"
+      ],
+      "method": "Exact official title and sweenuss attribution match the source observation"
+    },
+    {
+      "row": 198,
+      "name": "Satiated Shield Fix",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/satiated-shield-fix",
+      "type": "mod",
+      "categories": [
+        "Farming and Survival"
+      ],
+      "reason": "Corrections for Satiated Shield and Nourishment.",
+      "existing_ids": [],
+      "identity_sources": [
+        "https://www.curseforge.com/minecraft/mc-mods/satiated-shield-fix"
+      ],
+      "method": "Exact official title and BmtUltra attribution match the source observation"
+    },
+    {
+      "row": 199,
+      "name": "Weaken Satiated Shield",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/weaken-satiated-shield",
+      "type": "mod",
+      "categories": [
+        "Farming and Survival",
+        "Weapons and Combat"
+      ],
+      "reason": "Configurable weakening of Kaleidoscope Cookery\u2019s Satiated Shield; a balance change, not a performance claim.",
+      "existing_ids": [],
+      "identity_sources": [
+        "https://www.curseforge.com/minecraft/mc-mods/weaken-satiated-shield"
+      ],
+      "method": "Exact official title and BmtUltra attribution match the source observation"
+    },
+    {
+      "row": 200,
+      "name": "Let Me Tweak It",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/bmts-imagination",
+      "type": "mod",
+      "categories": [
+        "Farming and Survival",
+        "Magic and Progression"
+      ],
+      "reason": "Survival and progression rule adjustments; not an FPS optimization claim.",
+      "existing_ids": [],
+      "identity_sources": [
+        "https://www.curseforge.com/minecraft/mc-mods/bmts-imagination"
+      ],
+      "method": "Exact official title and BmtUltra attribution match the source observation"
+    },
+    {
+      "row": 386,
+      "name": "Create: Structures Arise",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/create-structures-arise",
+      "type": "mod",
+      "categories": [
+        "Engineering and Vehicles",
+        "Worlds and Exploration"
+      ],
+      "reason": "Create-themed structures for exploration.",
+      "existing_ids": [
+        "7303a890d94b5f67"
+      ],
+      "identity_sources": [
+        "https://www.curseforge.com/minecraft/mc-mods/create-structures-arise",
+        "https://modrinth.com/mod/create-structures-arise",
+        "https://github.com/SmartStreamLabs/Create--Structures-Arise"
+      ],
+      "method": "Both official platform pages link the same source repository"
+    }
+  ]
+}

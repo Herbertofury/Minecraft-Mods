@@ -6,7 +6,7 @@
       "category": "Building and Decoration",
       "entries": 85,
       "unique_detail_links": 85,
-      "previous_sha256": "c5e5c4b531ec68ebc8c1fa45f9664eef9a6cf7a7d175ba266914f1e49c1a3341",
+      "previous_sha256": "ceca53b9a9ee73ccdfee1801d16c3091c496129908bee23a92b2d5d2b8d78467",
       "updated_sha256": "ceca53b9a9ee73ccdfee1801d16c3091c496129908bee23a92b2d5d2b8d78467"
     },
     {
@@ -14,7 +14,7 @@
       "category": "Creatures and Companions",
       "entries": 581,
       "unique_detail_links": 581,
-      "previous_sha256": "4deb586dc52db388c9860dfd533ed492e1e6388d9a8d5c5da9db78aeda6f2acd",
+      "previous_sha256": "334bcbb7eebf60a738ec297235a0532a8f025209c5df9af571fd9e63591f785c",
       "updated_sha256": "334bcbb7eebf60a738ec297235a0532a8f025209c5df9af571fd9e63591f785c"
     },
     {
@@ -22,32 +22,32 @@
       "category": "Engineering and Vehicles",
       "entries": 296,
       "unique_detail_links": 296,
-      "previous_sha256": "7fa1ff5a9e5675e804ba3246e0409ce62d8c48ff20c37717d54970a6d8652cb6",
-      "updated_sha256": "5f3e2454b8569cf8d4e4e5e9da993e00f7c9aff729fe28720c692184755d0f1f"
+      "previous_sha256": "5f3e2454b8569cf8d4e4e5e9da993e00f7c9aff729fe28720c692184755d0f1f",
+      "updated_sha256": "dc57db89424b7496298d4efecc582f95283a9b57c7a548d1beb771791f8036c1"
     },
     {
       "page": "Farming-and-Survival.md",
       "category": "Farming and Survival",
-      "entries": 107,
-      "unique_detail_links": 107,
+      "entries": 110,
+      "unique_detail_links": 110,
       "previous_sha256": "c994cda4b46711c611e1a634e35ec7f2cde0da23c11ba1183612a2be5e2351ce",
-      "updated_sha256": "c994cda4b46711c611e1a634e35ec7f2cde0da23c11ba1183612a2be5e2351ce"
+      "updated_sha256": "db0a94596fa26907e90b545af1ec884475e71c0c14aeec30ddf825b84878e87e"
     },
     {
       "page": "Interface-and-Accessibility.md",
       "category": "Interface and Accessibility",
-      "entries": 208,
-      "unique_detail_links": 208,
+      "entries": 209,
+      "unique_detail_links": 209,
       "previous_sha256": "b70b7da47f4623d93c6078d570896481bc3daa64496879f43d05e642d6bdbfed",
-      "updated_sha256": "b70b7da47f4623d93c6078d570896481bc3daa64496879f43d05e642d6bdbfed"
+      "updated_sha256": "be3a678bf8af12226fc11807578691f35ea2f1c77ed5b459a686a9f223f071ce"
     },
     {
       "page": "Magic-and-Progression.md",
       "category": "Magic and Progression",
-      "entries": 233,
-      "unique_detail_links": 233,
-      "previous_sha256": "cf3ecfc765d70cacbb910362264e97152a90b2b97588b9cdfac48a68443dce1f",
-      "updated_sha256": "53922889e1acb175a0d47a6b09d4b7d48e62acff20a061441f19f3aad4b3f0c3"
+      "entries": 234,
+      "unique_detail_links": 234,
+      "previous_sha256": "53922889e1acb175a0d47a6b09d4b7d48e62acff20a061441f19f3aad4b3f0c3",
+      "updated_sha256": "483f21603963083ca8f820046ff1c6d7ddb92ef9e552a461c6a56f99313174af"
     },
     {
       "page": "Multiplayer-and-Servers.md",
@@ -76,26 +76,26 @@
     {
       "page": "Visuals-and-Resource-Packs.md",
       "category": "Visuals and Resource Packs",
-      "entries": 293,
-      "unique_detail_links": 293,
-      "previous_sha256": "ec9db3b513686d61fa124b6fdd6c6bd574100de71375c7543f0ba540aff674f5",
-      "updated_sha256": "f38550d080c767bba90a772bf649787eacabf8399ec09b05669c30b18e78d6e3"
+      "entries": 294,
+      "unique_detail_links": 294,
+      "previous_sha256": "f38550d080c767bba90a772bf649787eacabf8399ec09b05669c30b18e78d6e3",
+      "updated_sha256": "bb3c2259dd874b9dc21bfdb53532ddf099ff432b3694c7016dd72aa6f24b8121"
     },
     {
       "page": "Weapons-and-Combat.md",
       "category": "Weapons and Combat",
-      "entries": 596,
-      "unique_detail_links": 596,
-      "previous_sha256": "66cfaf2a0d85a31bd52ca72f5057eabe047fd2a256fc609c6c752a427a6fc15f",
-      "updated_sha256": "62ef19e3d61f6c5da3a17725ca04f619befb3c529e9c40c3ae68dc0ca117bd75"
+      "entries": 597,
+      "unique_detail_links": 597,
+      "previous_sha256": "62ef19e3d61f6c5da3a17725ca04f619befb3c529e9c40c3ae68dc0ca117bd75",
+      "updated_sha256": "e739ca1d83463f1c0e0812cae85c956691c67e636bb9b76429390740b80f8b90"
     },
     {
       "page": "Worlds-and-Exploration.md",
       "category": "Worlds and Exploration",
       "entries": 290,
       "unique_detail_links": 290,
-      "previous_sha256": "09b417c7493d1a2c6bd53237ccfd9c4e1ad6d990fbba4cdb91baf7cce1e11cd1",
-      "updated_sha256": "8fc787e0847ebd81fb27fa8efad4d38539463d0b27b859ee13cfe43ed6dee382"
+      "previous_sha256": "8fc787e0847ebd81fb27fa8efad4d38539463d0b27b859ee13cfe43ed6dee382",
+      "updated_sha256": "b5eb5ae60833e70401ea84f998eb2e9f6165a50734e38af77cc51ba584866eb5"
     }
   ],
   "native_verification_promotions": 0

@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**208 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**209 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Content Pack · 1</strong></summary>
@@ -12,6 +12,15 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | Project / target | Purpose | Evidence |
 |---|---|---|
 | ★ [\[TaCZ\]Gucci Attachments](https://curseforge.com/minecraft/customization/tacz-gucci-attachments-by-koei) | TaCZ attachment expansion (13 attachments) | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=e597954f65ba9edb) |
+
+</details>
+
+<details>
+<summary><strong>Data Pack · 1</strong></summary>
+
+| Project / target | Purpose | Evidence |
+|---|---|---|
+| ★ [\[Datapack\] Simply Skills Chinese Localization Datapack](https://curseforge.com/minecraft/customization/datapack-simply-skills-chinese-localization) | Chinese localization for Simply Skills; official page restricts this pack to Simply Skills 1.0.0. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=6ffa0e0da8d861c0) |
 
 </details>
 

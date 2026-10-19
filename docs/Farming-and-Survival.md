@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**107 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**110 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Content Pack · 1</strong></summary>
@@ -16,7 +16,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Mod · 102</strong></summary>
+<summary><strong>Mod · 105</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -91,6 +91,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | ★ [Legacy: \[Let's Do\] Brewery](https://modrinth.com/mod/lets-do-brewery) | Ozapft is! Brau Bier, beiss in a Bretzn – willkomme zum Braufescht! | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=aa68a20b71a4efb0) |
 | ★ [Legacy: \[Let's Do\] Candlelight](https://modrinth.com/mod/lets-do-candlelight) | Ever dreamed of the perfect dinner in Minecraft?  Candlelight Dinner provides almost everything necessary to make it happen. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a27b05c12652a131) |
 | ★ [Legendary Farming](https://curseforge.com/minecraft/mc-mods/legendary-farming) | Mega-crop farming expansion | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=04a742713e481b22) |
+| ★ [Let Me Tweak It](https://curseforge.com/minecraft/mc-mods/bmts-imagination) | Survival and progression rule adjustments; not an FPS optimization claim. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=93d9e13b0aaeca0a) |
 | [Manure](https://curseforge.com/minecraft/mc-mods/manure) | INSTALL/OPTIONAL 1.20.1 / SERVER-MATCHED / COZY+FARMING / CLEAN ITEMS BEFORE REMOVAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=6f20ef995e8add4c) |
 | [Mo'creatures Awakened](https://curseforge.com/minecraft/mc-mods/mocreatures-awakened) | An unusually ambitious revival branch that extends beyond animals into genetics and world systems. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=6c193e47f2d0afa5) |
 | [More More Cows](https://curseforge.com/minecraft/mc-mods/more-more-cows) | A newer-generation resource-cow project with 1.20.1 support, breeding/spawn-egg progression and ore/food cows. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=030cb978477290b4) |
@@ -102,6 +103,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Resource Cows](https://curseforge.com/minecraft/mc-mods/resource-cows) | Stone-to-Netherite plus wood, crop, apple and cake cows; milking produces resource buckets for a dedicated solidifier loop. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=785978632a3cc70f) |
 | [River Fishing](https://modrinth.com/mod/river-fishing) | One of the best misses in the entire project: 93 species, visible fish, six fishing styles, dynamic habitat logic and an encyclopedia-style journal. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=92773279508cbd0f) |
 | [Roots 4](https://curseforge.com/minecraft/mc-mods/roots) | WATCH / FUTURE VERSION | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=5454206dd5c7f340) |
+| ★ [Satiated Shield Fix](https://curseforge.com/minecraft/mc-mods/satiated-shield-fix) | Corrections for Satiated Shield and Nourishment. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c2126b39226ab213) |
 | [Seasonfall](https://curseforge.com/minecraft/mc-mods/seasonfall) | FUTURE/HIGH-VALUE / WATCH / SERVER-SIDE / TEST COPY | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=50472bcc4ac77054) |
 | ★ [Sensible Survival (RPG Tweaks)](https://modrinth.com/mod/HWQeS7qe) | Server-side survival and repair QoL tweaks | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=129044db9b3a21c6) |
 | [Solar Cooker](https://herbertofury.github.io/Minecraft-Mods/?id=dd23addfcba0fb06) | INSTALL/OPTIONAL 1.20.1 / SERVER-MATCHED / BACKUP BEFORE REMOVAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=dd23addfcba0fb06) |
@@ -121,6 +123,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Twilight's Flavors & Delight](https://curseforge.com/minecraft/mc-mods/twilights-flavors-delight) | INSTALL/TEST 1.20.1 / HIGH FIT / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0d5e41b7477a517d) |
 | [Universal Bone Meal](https://curseforge.com/minecraft/mc-mods/universal-bone-meal) | INSTALL NOW/TEST 1.20.1 / UPDATE-FRIENDLY | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=589e58c30dac363c) |
 | ★ [Waystones](https://curseforge.com/minecraft/mc-mods/waystones) | INSTALL NOW/TEST 1.20.1 / BACKUP BEFORE REMOVAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=50d47d9cc26d2200) |
+| ★ [Weaken Satiated Shield](https://curseforge.com/minecraft/mc-mods/weaken-satiated-shield) | Configurable weakening of Kaleidoscope Cookery’s Satiated Shield; a balance change, not a performance claim. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=adefd337f51de72a) |
 | ★ [Yet Another Gravestone Mod \[YAGM\]](https://modrinth.com/mod/yagm) | Seals your items and XP in a gravestone when you die, with biome-themed graves, naturally forming cemeteries, and tameable Ghost companions. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d2b27429f0c61a99) |
 
 </details>

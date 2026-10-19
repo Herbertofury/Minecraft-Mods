@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**596 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**597 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Content Pack · 79</strong></summary>
@@ -374,7 +374,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Mod · 273</strong></summary>
+<summary><strong>Mod · 274</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -646,6 +646,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Warium](https://curseforge.com/minecraft/mc-mods/warium) | >1.0M project downloads; 1.3.5 Oct12 new parachutes/nuclear explosion overhaul, long-range particles experimental; full existing arsenal persists. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=fe1f4a2227dcb853) |
 | [Warium Community Edition (Warium CE)](https://curseforge.com/minecraft/mc-mods/warium-ce) | Distinct maintained Warium community edition; PvP-oriented balance; 1.0.4 adds bug fixes, JEI/KubeJS support and early Sable integration. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=297d4d941a4bbd61) |
 | [Warium: Futurism](https://curseforge.com/minecraft/mc-mods/futurism) | Oct12 0.0.3 bug and crafting fixes, new nuclear weapons, balancing; exact base pin and game QA pending. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=18179df215be3b2e) |
+| ★ [Weaken Satiated Shield](https://curseforge.com/minecraft/mc-mods/weaken-satiated-shield) | Configurable weakening of Kaleidoscope Cookery’s Satiated Shield; a balance change, not a performance claim. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=adefd337f51de72a) |
 | [Weapon Swap (Tacz - Lrtactical)](https://curseforge.com/minecraft/mc-mods/weapon-swap-tacz-lrtactical) | Two dedicated tactical slots and Call-of-Duty-style cycling solve a real firearm-pack handling gap, but same-day adoption is too low for install-now status. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=198fdd07d89f97b8) |
 | [Weiss's More Dungeons And Weapons (WMDAW)](https://curseforge.com/minecraft/mc-mods/weisss-more-dungeons-and-weapons-wmdaw) | New fantasy female-coded creatures embedded in discoverable structures and rewards. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=99e3b108c7389c7f) |
 | ★ [Witcher (More RPG Classes)](https://modrinth.com/mod/4eW1c7Gj) | Witcher-inspired signs, techniques and class progression | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=5bbdcb560400f719) |

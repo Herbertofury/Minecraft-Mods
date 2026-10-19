@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**293 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**294 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Content Pack · 1</strong></summary>
@@ -224,7 +224,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Resource Pack · 106</strong></summary>
+<summary><strong>Resource Pack · 107</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -327,6 +327,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Shrimp's Immersive Interfaces](https://curseforge.com/minecraft/texture-packs/shrimps-immersive-interfaces) | INSTALL/OPTIONAL 1.20.1 / CLIENT-SAFE / WORLD-SAFE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=1350a49ef00fcb4c) |
 | [Simple Grass Flowers](https://curseforge.com/minecraft/texture-packs/simple-grass-flowers) | INSTALL NOW / OPTIONAL VISUAL / CLIENT-SAFE / WORLD-SAFE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=faa4195f2c0c60ce) |
 | ★ [Simply Swords - Vanilla Style](https://modrinth.com/resourcepack/simply-swords-vanilla-style) | Change look of weapons from Simply Swords mod | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d39c260bc7c61d86) |
+| ★ [Simply Swords Classic](https://curseforge.com/minecraft/texture-packs/simply-swords-classic) | Legacy three-dimensional models for Simply Swords. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=354e3b9ca4649b36) |
 | [The FAYE Pet Furniture Set \| CIT](https://herbertofury.github.io/Minecraft-Mods/?id=7393344c4453b6f4) | INSTALL / OPTIONAL VISUAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7393344c4453b6f4) |
 | [The FAYE Rugs & Curtains Set \| CIT](https://herbertofury.github.io/Minecraft-Mods/?id=fc558a90d21a4a18) | INSTALL / OPTIONAL VISUAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=fc558a90d21a4a18) |
 | [The FAYE Wallpaper & Flooring Set \| CIT](https://herbertofury.github.io/Minecraft-Mods/?id=5c2ca8927d412ee6) | INSTALL / OPTIONAL VISUAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=5c2ca8927d412ee6) |
