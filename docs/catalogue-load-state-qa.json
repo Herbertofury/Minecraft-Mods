@@ -1,0 +1,16 @@
+{
+  "scope": "Simulated DOM delayed-load regressions; live browser smoke check remains separate",
+  "scenarios": 5,
+  "cases": [
+    "Typed query survives delayed index load",
+    "Reset during load wins over initial URL",
+    "Changed favorite filter survives load",
+    "Untouched URL filters applied",
+    "Failed fetch remains unavailable when typing"
+  ],
+  "index_fetches_per_scenario": 1,
+  "before_sha256": "2d7d71c0af68eb9cbf0782ff4a4433a3feba25caa852a88738abaee00ffd1bcb",
+  "after_sha256": "c691b82933d54ac4c711e7ff690eec6c15a98c939618f9f49cc706f31f022692",
+  "data_changed": false,
+  "native_compatibility_inferred": false
+}
