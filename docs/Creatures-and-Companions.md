@@ -4,13 +4,14 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**581 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**582 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
-<summary><strong>Content Pack · 2</strong></summary>
+<summary><strong>Content Pack · 3</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
+| ★ [Slice of Life Add-On](https://minecraft.net/en-us/marketplace/pdp/starfish-studios/slice-of-life-add--on/b34587c5-e453-4fad-b2d5-95629f2ce0af) | Bedrock cozy building and companion reference; source conversion ambitions do not establish a Java release. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=e3f5e0884272a4c6) |
 | [TaCZ Armed Mobs Warfare](https://curseforge.com/minecraft/mc-mods/tacz-armed-mobs) | 3.0 adds own village Armed Guard, inventory/skin/recruiting and config migration. Guard Villagers OPTIONAL (official 3.0 file explicitly); TaCZ Forge1.20.1 REQUIRED. Faction Wars o | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=75c60371886dfe6c) |
 | [VPB \| RayGun](https://curseforge.com/minecraft/mc-addons/vpb-raygun) | Adds a remastered Call of Duty Zombies Ray Gun to VPB and was substantially reworked in 2025. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=76fee8757af71e97) |
 

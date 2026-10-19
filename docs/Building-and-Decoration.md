@@ -4,7 +4,16 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**85 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**86 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+
+<details>
+<summary><strong>Content Pack · 1</strong></summary>
+
+| Project / target | Purpose | Evidence |
+|---|---|---|
+| ★ [Slice of Life Add-On](https://minecraft.net/en-us/marketplace/pdp/starfish-studios/slice-of-life-add--on/b34587c5-e453-4fad-b2d5-95629f2ce0af) | Bedrock cozy building and companion reference; source conversion ambitions do not establish a Java release. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=e3f5e0884272a4c6) |
+
+</details>
 
 <details>
 <summary><strong>Data Pack · 2</strong></summary>

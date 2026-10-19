@@ -65,14 +65,13 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Mod · 151</strong></summary>
+<summary><strong>Mod · 150</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
 | [\[TaCZ\] Optimization](https://curseforge.com/minecraft/mc-mods/tacz-optimization) | Lets packs reduce or disable expensive TaCZ visual/rendering behavior when FPS matters more than every effect. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=be911fccb51368ac) |
 | [A Good Place](https://modrinth.com/mod/a-good-place) | OPTIONAL / HIGH COZY FIT / CLIENT-SAFE / TEST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=6b9cb7f30cd63a65) |
 | [Accelerated Rendering](https://curseforge.com/minecraft/mc-mods/accelerated-rendering) | General accelerated rendering layer that is especially relevant to heavy first-person gun rendering stacks. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=11911927402a8406) |
-| [Actions & Stuff](https://herbertofury.github.io/Minecraft-Mods/?id=67c19b190bebc6ee) | BEDROCK ONLY / VISUAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=67c19b190bebc6ee) |
 | [AE2 Network Analyser](https://curseforge.com/minecraft/mc-mods/ae2-network-analyser) | INSTALL IF USING AE2 / FORGE 1.20.1 READY / PACK-QA | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=8b04e197c5d9f6cd) |
 | ★ [Aether Addon: Emissivity](https://curseforge.com/minecraft/mc-mods/aether-emissivity) | Official emissive-texture enhancement for Aether content | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0b13c17132bb8c4b) |
 | [Ambi (Ambient Sounds)](https://curseforge.com/minecraft/mc-mods/ambimod) | OPTIONAL / CLIENT-SAFE / WORLD-SAFE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b02603485be915db) |
@@ -224,13 +223,14 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Resource Pack · 107</strong></summary>
+<summary><strong>Resource Pack · 108</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
 | [3D Default](https://modrinth.com/resourcepack/3d-default) | INSTALL / TEST NOW | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=41cb3e380ee9adbe) |
 | [3D Remix](https://modrinth.com/resourcepack/3d-remix) | FUTURE / HIGH-VALUE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=97af2c78a308a2f0) |
 | [\[Bedrock\] Human Player Mobs](https://curseforge.com/minecraft-bedrock/texture-packs/human-player-mobs-bedrock-port) | BEDROCK VISUAL / CLIENT-SAFE / TEST CURRENT STABLE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=89c1d488fc13b448) |
+| ★ [Actions & Stuff](https://www.minecraft.net/en-us/marketplace/pdp/oreville-studios/actions-%26-stuff-1.12/61c7a786-d7ad-49e0-a710-817121cd9795) | BEDROCK ONLY / VISUAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=67c19b190bebc6ee) |
 | [Alexs Mobs Pocket](https://curseforge.com/minecraft-bedrock/addons/alexs-mobs-pocket) | BEDROCK TEST / BACKUP FIRST / HIGH-VALUE PARITY | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=f16d554440db1110) |
 | ★ [Artifacts 3D](https://modrinth.com/resourcepack/x70SGc9M) | Makes Artifacts items 3D | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=24e48abd3c7e5fce) |
 | [AutumnPack](https://modrinth.com/resourcepack/autumnpack) | OPTIONAL / HIGH COZY FIT / CLIENT-SAFE / PACK-ONLY | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=4ea612c46854754c) |

@@ -1,0 +1,29 @@
+{
+  "scope": "Primary project identity only; source records and verification levels preserved",
+  "entries": 2203,
+  "source_records": 2541,
+  "favorites": 372,
+  "resolved_rows": 3,
+  "new_entries": 2,
+  "pending_starred_rows": 52,
+  "applied": [
+    {
+      "row": 233,
+      "id": "67c19b190bebc6ee",
+      "name": "Actions & Stuff",
+      "new": false
+    },
+    {
+      "row": 234,
+      "id": "e3f5e0884272a4c6",
+      "name": "Slice of Life Add-On",
+      "new": true
+    },
+    {
+      "row": 235,
+      "id": "e96c44fb78ad9895",
+      "name": "Sulfur Blaster Add-On",
+      "new": true
+    }
+  ]
+}
