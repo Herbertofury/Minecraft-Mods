@@ -58,7 +58,7 @@ These are historical starting ideas awaiting full exact-file review, not certifi
 
 ## Import coverage
 
-The original 17 views and all 159 master observations are preserved in the repository. Fifty-nine master observations are attached to catalogue identities: 37 exact matches to existing records and twenty-two newly reviewed identities. The remaining 100 master observations and 222 unmatched companion-view rows remain in review. 129 companion rows are attached to 50 entries; they do not inflate the unique-project or source-record totals.
+The original 17 views and all 159 master observations are preserved in the repository. Sixty-three master observations are attached to catalogue identities: 37 exact matches to existing records and twenty-six newly reviewed identities. The remaining 96 master observations and 209 unmatched companion-view rows remain in review. 142 companion rows are attached to 54 entries; they do not inflate the unique-project or source-record totals.
 
 [Preserved source views](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-source-views.json) · [Master import receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-import.json) · [Companion receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-companion-receipt.json)
 
@@ -77,3 +77,9 @@ Original scores and superlatives remain source opinions. No pack was installed, 
 [Stay True](https://www.curseforge.com/minecraft/texture-packs/stay-true) has feature-specific renderer requirements and leaf/pack-order guidance. Its base pack is distinct from Stay True Compats Reforged. Verify the actual loader and renderer stack before promising identical leaves or connected surfaces.
 
 [Ars Naturae](https://www.curseforge.com/minecraft/texture-packs/ars-naturae) offers a wood/moss/blue-Source visual direction for Ars Nouveau. The inspected page lists 1.20.1; broad addon support and other releases still need checking. Decide precedence when combining it with other Ars visual packs.
+
+## Excalibur animation-stack cautions
+
+[Clarent](https://www.curseforge.com/minecraft/texture-packs/clarent-excalibur-patch) and [the Fresh Animations Patch](https://modrinth.com/resourcepack/excalibur-fresh-animations) currently name different Excalibur base versions in their instructions. Pin the exact intended combination before testing; do not merge two differing recipes for the stack into an assumed guarantee. The animation patch also lists renderer/animation conflicts and requires its supporting resources and entity-animation tools.
+
+[Supplementaries support](https://www.curseforge.com/minecraft/texture-packs/excalibur-supplementaries-support) still lists presents and flags as missing. [Hearth and Harvest support](https://www.curseforge.com/minecraft/texture-packs/excalibur-hearth-and-harvest-support) has separate Forge and NeoForge file lanes and focuses on crop/block visuals. Both are visual support packs, not replacements for native gameplay testing.

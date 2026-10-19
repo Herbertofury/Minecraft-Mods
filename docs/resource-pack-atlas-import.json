@@ -4,9 +4,9 @@
   "master_rows": 159,
   "exact_existing_observations_added": 37,
   "unique_entries_enriched": 33,
-  "pending_master_observations": 100,
-  "display_entries": 2286,
-  "source_observations": 2668,
+  "pending_master_observations": 96,
+  "display_entries": 2290,
+  "source_observations": 2672,
   "favorites": 411,
   "native_promotions": 0,
   "all_prior_fields_preserved": true,
@@ -197,7 +197,7 @@
       "name": "Fresh Flowers and Plants"
     }
   ],
-  "reviewed_new_identity_observations_added": 22,
+  "reviewed_new_identity_observations_added": 26,
   "reviewed_new_identities": [
     {
       "row": 2,
@@ -308,6 +308,26 @@
       "row": 29,
       "id": "9789ec4d167d4b1a",
       "name": "Ars Naturae"
+    },
+    {
+      "row": 16,
+      "id": "a0294125427bea54",
+      "name": "Excalibur | Supplementaries Support"
+    },
+    {
+      "row": 18,
+      "id": "ae75df514777afad",
+      "name": "Excalibur | Clarent Edition"
+    },
+    {
+      "row": 19,
+      "id": "588372ca65a81175",
+      "name": "Excalibur | Fresh Animations Patch"
+    },
+    {
+      "row": 24,
+      "id": "a0fb1cfbb30421be",
+      "name": "Excalibur | Hearth and Harvest Delight Support"
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
   "date": "2026-10-19",
   "source_view_rows": 351,
-  "attached_view_rows": 129,
-  "entries_enriched": 50,
-  "pending_view_rows": 222,
-  "source_record_count_unchanged": 2668,
-  "display_entries_unchanged": 2286,
+  "attached_view_rows": 142,
+  "entries_enriched": 54,
+  "pending_view_rows": 209,
+  "source_record_count_unchanged": 2672,
+  "display_entries_unchanged": 2290,
   "native_promotions": 0,
   "attached": [
     {
@@ -781,33 +781,87 @@
       "master_row": 28,
       "sheet": "Stay True Ecosystem",
       "row": 3
+    },
+    {
+      "id": "a0294125427bea54",
+      "master_row": 16,
+      "sheet": "Mega Coverage",
+      "row": 14
+    },
+    {
+      "id": "ae75df514777afad",
+      "master_row": 18,
+      "sheet": "Mega Coverage",
+      "row": 15
+    },
+    {
+      "id": "a0fb1cfbb30421be",
+      "master_row": 24,
+      "sheet": "Flowers & Botany",
+      "row": 9
+    },
+    {
+      "id": "a0fb1cfbb30421be",
+      "master_row": 24,
+      "sheet": "Farming & Food",
+      "row": 8
+    },
+    {
+      "id": "588372ca65a81175",
+      "master_row": 19,
+      "sheet": "Mob & Animation",
+      "row": 6
+    },
+    {
+      "id": "a0294125427bea54",
+      "master_row": 16,
+      "sheet": "Style Ecosystems",
+      "row": 9
+    },
+    {
+      "id": "ae75df514777afad",
+      "master_row": 18,
+      "sheet": "Style Ecosystems",
+      "row": 10
+    },
+    {
+      "id": "588372ca65a81175",
+      "master_row": 19,
+      "sheet": "Style Ecosystems",
+      "row": 11
+    },
+    {
+      "id": "a0fb1cfbb30421be",
+      "master_row": 24,
+      "sheet": "Style Ecosystems",
+      "row": 14
+    },
+    {
+      "id": "a0294125427bea54",
+      "master_row": 16,
+      "sheet": "Excalibur Ecosystem",
+      "row": 6
+    },
+    {
+      "id": "ae75df514777afad",
+      "master_row": 18,
+      "sheet": "Excalibur Ecosystem",
+      "row": 7
+    },
+    {
+      "id": "588372ca65a81175",
+      "master_row": 19,
+      "sheet": "Excalibur Ecosystem",
+      "row": 8
+    },
+    {
+      "id": "a0fb1cfbb30421be",
+      "master_row": 24,
+      "sheet": "Excalibur Ecosystem",
+      "row": 11
     }
   ],
   "pending": [
-    {
-      "sheet": "Mega Coverage",
-      "row": 14,
-      "name": "Excalibur | Supplementaries Support",
-      "fields": {
-        "A": "15.0",
-        "B": "Excalibur | Supplementaries Support",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-supplementaries-support"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Mega Coverage",
-      "row": 15,
-      "name": "Excalibur | Clarent Edition",
-      "fields": {
-        "A": "17.0",
-        "B": "Excalibur | Clarent Edition",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/clarent-excalibur-patch"
-      },
-      "matches": []
-    },
     {
       "sheet": "Mega Coverage",
       "row": 17,
@@ -889,18 +943,6 @@
         "B": "Stupendous Visuals",
         "C": "Modded 16x compatibility; Polytone+EMF+ETF required; no full coverage claim",
         "D": "https://modrinth.com/resourcepack/stupendous-visuals"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Flowers & Botany",
-      "row": 9,
-      "name": "Excalibur | Hearth and Harvest Delight Support",
-      "fields": {
-        "A": "23.0",
-        "B": "Excalibur | Hearth and Harvest Delight Support",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-hearth-and-harvest-support"
       },
       "matches": []
     },
@@ -1446,18 +1488,6 @@
     },
     {
       "sheet": "Farming & Food",
-      "row": 8,
-      "name": "Excalibur | Hearth and Harvest Delight Support",
-      "fields": {
-        "A": "23.0",
-        "B": "Excalibur | Hearth and Harvest Delight Support",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-hearth-and-harvest-support"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Farming & Food",
       "row": 9,
       "name": "Excalibur | My Nether\u2019s Delight Support",
       "fields": {
@@ -1873,18 +1903,6 @@
         "B": "Iron\u2019s Botany \u2014 dedicated texture pack gap",
         "C": "Custom pack required",
         "D": "https://www.curseforge.com/minecraft/mc-mods/irons-botany"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Mob & Animation",
-      "row": 6,
-      "name": "Excalibur | Fresh Animations Patch",
-      "fields": {
-        "A": "18.0",
-        "B": "Excalibur | Fresh Animations Patch",
-        "C": "Native / drop-in",
-        "D": "https://modrinth.com/resourcepack/excalibur-fresh-animations"
       },
       "matches": []
     },
@@ -2359,54 +2377,6 @@
         "B": "Mo's Vibrancy Pack",
         "C": "Mod-version asset port",
         "D": "https://www.planetminecraft.com/texture-pack/the-vibrancy-pack-1-13/"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Style Ecosystems",
-      "row": 9,
-      "name": "Excalibur | Supplementaries Support",
-      "fields": {
-        "A": "15.0",
-        "B": "Excalibur | Supplementaries Support",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-supplementaries-support"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Style Ecosystems",
-      "row": 10,
-      "name": "Excalibur | Clarent Edition",
-      "fields": {
-        "A": "17.0",
-        "B": "Excalibur | Clarent Edition",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/clarent-excalibur-patch"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Style Ecosystems",
-      "row": 11,
-      "name": "Excalibur | Fresh Animations Patch",
-      "fields": {
-        "A": "18.0",
-        "B": "Excalibur | Fresh Animations Patch",
-        "C": "Native / drop-in",
-        "D": "https://modrinth.com/resourcepack/excalibur-fresh-animations"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Style Ecosystems",
-      "row": 14,
-      "name": "Excalibur | Hearth and Harvest Delight Support",
-      "fields": {
-        "A": "23.0",
-        "B": "Excalibur | Hearth and Harvest Delight Support",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-hearth-and-harvest-support"
       },
       "matches": []
     },
@@ -3192,54 +3162,6 @@
         "B": "Iron\u2019s Botany \u2014 dedicated texture pack gap",
         "C": "Custom pack required",
         "D": "https://www.curseforge.com/minecraft/mc-mods/irons-botany"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Excalibur Ecosystem",
-      "row": 6,
-      "name": "Excalibur | Supplementaries Support",
-      "fields": {
-        "A": "15.0",
-        "B": "Excalibur | Supplementaries Support",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-supplementaries-support"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Excalibur Ecosystem",
-      "row": 7,
-      "name": "Excalibur | Clarent Edition",
-      "fields": {
-        "A": "17.0",
-        "B": "Excalibur | Clarent Edition",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/clarent-excalibur-patch"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Excalibur Ecosystem",
-      "row": 8,
-      "name": "Excalibur | Fresh Animations Patch",
-      "fields": {
-        "A": "18.0",
-        "B": "Excalibur | Fresh Animations Patch",
-        "C": "Native / drop-in",
-        "D": "https://modrinth.com/resourcepack/excalibur-fresh-animations"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Excalibur Ecosystem",
-      "row": 11,
-      "name": "Excalibur | Hearth and Harvest Delight Support",
-      "fields": {
-        "A": "23.0",
-        "B": "Excalibur | Hearth and Harvest Delight Support",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-hearth-and-harvest-support"
       },
       "matches": []
     },

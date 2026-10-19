@@ -225,5 +225,45 @@
       "Magic and Progression"
     ],
     "note": "Nature-themed Ars Nouveau visual pack using brown woods, mossy stone and blue Source styling. Author mentions addons without a complete support inventory. The inspected project lists a 1.20.1 file; do not infer 1.21.1 support or coverage of every Ars addon. Compare overlapping texture targets with other Ars visual packs."
+  },
+  {
+    "row": 16,
+    "name": "Excalibur | Supplementaries Support",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/excalibur-supplementaries-support",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Building and Decoration"
+    ],
+    "note": "Unofficial Supplementaries visual compatibility pack. Author still lists presents and flags as missing despite broad block/decor/icon coverage. Separate release lanes exist; match the exact game/mod version. Visual support does not establish gameplay compatibility or permission to reuse its artwork."
+  },
+  {
+    "row": 18,
+    "name": "Excalibur | Clarent Edition",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/clarent-excalibur-patch",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Worlds and Exploration"
+    ],
+    "note": "Unofficial Excalibur backport/fix patch. Its page names Excalibur 1.21.10 as the supported base, while the separately inspected Fresh Animations Patch page recommends 1.21.11 for older Minecraft targets. This guidance differs: pin the intended pack versions and test the actual stack rather than combining the recommendations blindly."
+  },
+  {
+    "row": 19,
+    "name": "Excalibur | Fresh Animations Patch",
+    "url": "https://modrinth.com/resourcepack/excalibur-fresh-animations",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Creatures and Companions"
+    ],
+    "note": "Requires the matching Fresh Animations and Excalibur resources plus ETF/EMF or OptiFine; author warns about current OptiFine issues and lists Epic Fight, Accelerated Rendering, Better Animation Collection and animal/hostile Fresh Animations addons as incompatible. Clarent and base-pack version instructions vary by Minecraft target. These are author-reported constraints, not a newly tested renderer matrix."
+  },
+  {
+    "row": 24,
+    "name": "Excalibur | Hearth and Harvest Delight Support",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/excalibur-hearth-and-harvest-support",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Farming and Survival"
+    ],
+    "note": "Hearth and Harvest visual support aligned with Excalibur Farmer\u2019s Delight, including 3D crops and extra detail on some functional blocks. The page lists distinct Forge 1.20.1 and NeoForge 1.21.1 files. This does not add the underlying farming gameplay or prove coverage of unrelated Delight addons."
   }
 ]
