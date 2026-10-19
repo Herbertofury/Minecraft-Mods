@@ -4,9 +4,9 @@
   "master_rows": 159,
   "exact_existing_observations_added": 37,
   "unique_entries_enriched": 33,
-  "pending_master_observations": 72,
-  "display_entries": 2314,
-  "source_observations": 2696,
+  "pending_master_observations": 68,
+  "display_entries": 2318,
+  "source_observations": 2700,
   "favorites": 411,
   "native_promotions": 0,
   "all_prior_fields_preserved": true,
@@ -197,7 +197,7 @@
       "name": "Fresh Flowers and Plants"
     }
   ],
-  "reviewed_new_identity_observations_added": 50,
+  "reviewed_new_identity_observations_added": 54,
   "reviewed_new_identities": [
     {
       "row": 2,
@@ -448,6 +448,26 @@
       "row": 58,
       "id": "f01604a0d60b3c14",
       "name": "Better Leaves for Bare Bones x Fruit\u2019s Delight"
+    },
+    {
+      "row": 59,
+      "id": "14edd75508339023",
+      "name": "Biomes o\u2019 Plenty 3D Flora"
+    },
+    {
+      "row": 60,
+      "id": "53ab644e4dd123d4",
+      "name": "Cataclysm: Spellbooks Reimagined"
+    },
+    {
+      "row": 61,
+      "id": "3b140857a5cf0380",
+      "name": "Croptopia Blocky Crops"
+    },
+    {
+      "row": 63,
+      "id": "cc3fecbe4ad52829",
+      "name": "Just Oh The Biomes We\u2019ve Gone"
     }
   ]
 }

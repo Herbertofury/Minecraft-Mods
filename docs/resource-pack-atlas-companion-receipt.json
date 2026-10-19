@@ -1,11 +1,11 @@
 {
   "date": "2026-10-19",
   "source_view_rows": 351,
-  "attached_view_rows": 201,
-  "entries_enriched": 78,
-  "pending_view_rows": 150,
-  "source_record_count_unchanged": 2696,
-  "display_entries_unchanged": 2314,
+  "attached_view_rows": 209,
+  "entries_enriched": 82,
+  "pending_view_rows": 142,
+  "source_record_count_unchanged": 2700,
+  "display_entries_unchanged": 2318,
   "native_promotions": 0,
   "attached": [
     {
@@ -1213,6 +1213,54 @@
       "master_row": 55,
       "sheet": "Style Ecosystems",
       "row": 30
+    },
+    {
+      "id": "14edd75508339023",
+      "master_row": 59,
+      "sheet": "Flowers & Botany",
+      "row": 32
+    },
+    {
+      "id": "3b140857a5cf0380",
+      "master_row": 61,
+      "sheet": "Flowers & Botany",
+      "row": 33
+    },
+    {
+      "id": "cc3fecbe4ad52829",
+      "master_row": 63,
+      "sheet": "Flowers & Botany",
+      "row": 34
+    },
+    {
+      "id": "3b140857a5cf0380",
+      "master_row": 61,
+      "sheet": "Farming & Food",
+      "row": 20
+    },
+    {
+      "id": "53ab644e4dd123d4",
+      "master_row": 60,
+      "sheet": "Magic & RPG",
+      "row": 17
+    },
+    {
+      "id": "53ab644e4dd123d4",
+      "master_row": 60,
+      "sheet": "Mob & Animation",
+      "row": 11
+    },
+    {
+      "id": "14edd75508339023",
+      "master_row": 59,
+      "sheet": "Biomes & Nature",
+      "row": 16
+    },
+    {
+      "id": "cc3fecbe4ad52829",
+      "master_row": 63,
+      "sheet": "Biomes & Nature",
+      "row": 17
     }
   ],
   "pending": [
@@ -1261,42 +1309,6 @@
         "B": "Stupendous Visuals",
         "C": "Modded 16x compatibility; Polytone+EMF+ETF required; no full coverage claim",
         "D": "https://modrinth.com/resourcepack/stupendous-visuals"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Flowers & Botany",
-      "row": 32,
-      "name": "Biomes o\u2019 Plenty 3D Flora",
-      "fields": {
-        "A": "58.0",
-        "B": "Biomes o\u2019 Plenty 3D Flora",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/biomes-o-plenty-3d-flora"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Flowers & Botany",
-      "row": 33,
-      "name": "Croptopia Blocky Crops",
-      "fields": {
-        "A": "60.0",
-        "B": "Croptopia Blocky Crops",
-        "C": "Native / drop-in",
-        "D": "https://modrinth.com/resourcepack/croptopia-blocky-crops"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Flowers & Botany",
-      "row": 34,
-      "name": "Just Oh The Biomes We\u2019ve Gone",
-      "fields": {
-        "A": "62.0",
-        "B": "Just Oh The Biomes We\u2019ve Gone",
-        "C": "Native / drop-in",
-        "D": "https://modrinth.com/resourcepack/just-oh-the-biomes-weve-gone"
       },
       "matches": []
     },
@@ -1614,18 +1626,6 @@
     },
     {
       "sheet": "Farming & Food",
-      "row": 20,
-      "name": "Croptopia Blocky Crops",
-      "fields": {
-        "A": "60.0",
-        "B": "Croptopia Blocky Crops",
-        "C": "Native / drop-in",
-        "D": "https://modrinth.com/resourcepack/croptopia-blocky-crops"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Farming & Food",
       "row": 21,
       "name": "Mizuno\u2019s x Farmer\u2019s Delight",
       "fields": {
@@ -1746,18 +1746,6 @@
     },
     {
       "sheet": "Magic & RPG",
-      "row": 17,
-      "name": "Cataclysm: Spellbooks Reimagined",
-      "fields": {
-        "A": "59.0",
-        "B": "Cataclysm: Spellbooks Reimagined",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/cataclysm-spellbooks-reimagined"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Magic & RPG",
       "row": 18,
       "name": "Apotheosis BDCraft",
       "fields": {
@@ -1873,18 +1861,6 @@
         "B": "Iron\u2019s Botany \u2014 dedicated texture pack gap",
         "C": "Custom pack required",
         "D": "https://www.curseforge.com/minecraft/mc-mods/irons-botany"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Mob & Animation",
-      "row": 11,
-      "name": "Cataclysm: Spellbooks Reimagined",
-      "fields": {
-        "A": "59.0",
-        "B": "Cataclysm: Spellbooks Reimagined",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/cataclysm-spellbooks-reimagined"
       },
       "matches": []
     },
@@ -2035,30 +2011,6 @@
         "B": "Terran Villagers + Fresh Animations",
         "C": "Anim bridge, base Terran >=6.6 and EMF/ETF/Fresh Animations",
         "D": "https://www.curseforge.com/minecraft/texture-packs/terran-villagers-fresh-animations/files/8734449"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Biomes & Nature",
-      "row": 16,
-      "name": "Biomes o\u2019 Plenty 3D Flora",
-      "fields": {
-        "A": "58.0",
-        "B": "Biomes o\u2019 Plenty 3D Flora",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/biomes-o-plenty-3d-flora"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Biomes & Nature",
-      "row": 17,
-      "name": "Just Oh The Biomes We\u2019ve Gone",
-      "fields": {
-        "A": "62.0",
-        "B": "Just Oh The Biomes We\u2019ve Gone",
-        "C": "Native / drop-in",
-        "D": "https://modrinth.com/resourcepack/just-oh-the-biomes-weve-gone"
       },
       "matches": []
     },

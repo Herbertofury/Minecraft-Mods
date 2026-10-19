@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**127 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**128 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Content Pack · 4</strong></summary>
@@ -133,7 +133,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Resource Pack · 17</strong></summary>
+<summary><strong>Resource Pack · 18</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -145,6 +145,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | ★ [Create: Fresh Items](https://modrinth.com/resourcepack/create-fresh-food) | 3D Create item models inspired by Fresh Food | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=f4b18fb9f355034a) |
 | [Crops 3D Reforged](https://www.curseforge.com/minecraft/texture-packs/crops-3d-reforged) | Vanilla-style 3D crop/plant models combine cubes and planes with vanilla-derived textures. The described coverage includes crops, stems, fungi, berries, saplings, flowers and potte | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=8c35822f669e68ea) |
 | [Crops 3D Reploughed](https://www.curseforge.com/minecraft/texture-packs/crops-3d-reploughed) | Separates NinthWorld’s crop assets into Crops, Flowers and Saplings packs for selective resource-pack stacking, with game-version metadata and a nether-wart texture-filename fix. T | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=f6a69411c2c28a8a) |
+| [Croptopia Blocky Crops](https://modrinth.com/resourcepack/croptopia-blocky-crops) | Minecraft 1.20.1 Croptopia crop models. The listing describes broad crop coverage but the exact installed-version asset set has not been audited. The author credits Crops 3D Reforg | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=3b140857a5cf0380) |
 | [Excalibur \| Farmer’s Delight Support](https://www.curseforge.com/minecraft/texture-packs/excalibur-farmers-delight-support) | Author describes 411 item/block textures and considers the pack complete for its stated scope; this is not our runtime qualification of all Farmer’s Delight addons. Place above bas | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=f2899b1e24f9f349) |
 | [Excalibur \| Hearth and Harvest Delight Support](https://www.curseforge.com/minecraft/texture-packs/excalibur-hearth-and-harvest-support) | Hearth and Harvest visual support aligned with Excalibur Farmer’s Delight, including 3D crops and extra detail on some functional blocks. The page lists distinct Forge 1.20.1 and N | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a0fb1cfbb30421be) |
 | [Excalibur \| My Nether's Delight Support](https://www.curseforge.com/minecraft/texture-packs/excalibur-my-nethers-delight-support) | Visual support for My Nether's Delight, which is distinct from the older Nether's Delight mod. Separate 1.20.1 v2.1 and 1.21.1 v2.2 files are listed. Intended to match Excalibur an | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=97a14bb4324ce96b) |

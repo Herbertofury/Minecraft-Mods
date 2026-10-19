@@ -73,3 +73,9 @@ These are proposed QA/design requirements, not claims of implemented AoA mechani
 [Actual released TML normal-fidelity study and local opt-in candidate](https://github.com/Herbertofury/Advent-of-Ascension/wiki/Mesh-Normal-Fidelity-and-Opt-In) checks Forge 1.20.1 TML 0.1.8. The stock baker forces flat normals even when a mesh contains authored smooth normals. This matters for curved armor and premium materials; parsing success alone is insufficient.
 
 A source candidate keeps the old flat default while optionally preserving authored normals at model load. Default fixture arrays remain bit-identical in Java 17/21 tests; native rendering, shader paths, old-pack compatibility and performance remain unaccepted. The proposed setting is not available in stock TML, and other loader/version variants must be checked separately. Keep this as a bounded implementation reference, not an installation recommendation or a blanket lighting fix.
+
+## Actual-file finding: render-coupled projectile particles
+
+The [Aqua Cannon source/renderer study](https://github.com/Herbertofury/Advent-of-Ascension/wiki/Aqua-Cannon-Weapon-Profile) found eight blue sparkler requests inside each projectile render invocation in the inspected AoA release. This is a concrete example of why visual-effect cost must be checked in actual code rather than inferred from mod descriptions.
+
+A small [time-based emission prototype](https://github.com/Herbertofury/Advent-of-Ascension/wiki/Particle-Emission-and-Frame-Time) now has headless Java 17/21 scheduling tests. Native integration, visual parity and performance remain open. Its bounded hitch behavior is an explicit tradeoff, not a claim of lossless effects or proven higher FPS.

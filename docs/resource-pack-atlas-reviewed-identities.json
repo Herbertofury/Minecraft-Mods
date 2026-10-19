@@ -509,5 +509,46 @@
       "Farming and Survival"
     ],
     "note": "Fruit\u2019s Delight is required; Bare Bones, Bare Bones x Farmer\u2019s Delight and the related Better Leaves pack are strongly recommended. The 1.20\u20131.20.1 listing describes leaf, flower and fruit-block textures for thirteen fruit types. Cherry leaves are not included. Keep requirements distinct from style recommendations and do not claim complete tree coverage."
+  },
+  {
+    "row": 59,
+    "name": "Biomes o\u2019 Plenty 3D Flora",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/biomes-o-plenty-3d-flora",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Worlds and Exploration"
+    ],
+    "note": "Selected 3D models for Glowshroom, Glowworm Silk, Toadstool and Willow Vines. The author lists 1.18.2, 1.19.2 and 1.20.1 files and declines earlier backports. This is four named flora targets rather than a complete Biomes o\u2019 Plenty model overhaul."
+  },
+  {
+    "row": 60,
+    "name": "Cataclysm: Spellbooks Reimagined",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/cataclysm-spellbooks-reimagined",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Interface and Accessibility",
+      "Magic and Progression"
+    ],
+    "note": "Targets GUI, HUD and item icons for Cataclysm: Spellbooks, with seven described icon redesigns and separate Forge 1.20.1 / NeoForge 1.21.1 releases. The author explicitly excludes world models, blocks and gameplay and says OptiFine is not required. Its simplified-model wording must not be promoted to a full in-world Cataclysm overhaul or measured performance gain."
+  },
+  {
+    "row": 61,
+    "name": "Croptopia Blocky Crops",
+    "url": "https://modrinth.com/resourcepack/croptopia-blocky-crops",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Farming and Survival"
+    ],
+    "note": "Minecraft 1.20.1 Croptopia crop models. The listing describes broad crop coverage but the exact installed-version asset set has not been audited. The author credits Crops 3D Reforged inspiration and Farmer\u2019s Delight rice textures; these references do not establish functional cross-mod integration or blanket asset reuse rights."
+  },
+  {
+    "row": 63,
+    "name": "Just Oh The Biomes We\u2019ve Gone",
+    "url": "https://modrinth.com/resourcepack/just-oh-the-biomes-weve-gone",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Worlds and Exploration"
+    ],
+    "note": "Vanilla-like BWG retexture for the listed 1.20\u20131.20.1 lane, illustrated with Skywood, Rainbow Wood and stone examples. Treat it as a distinct visual option from Whimscape and other BWG patches; screenshots alone do not prove complete block coverage or safe stacking of overlapping textures."
   }
 ]
