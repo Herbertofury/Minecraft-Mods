@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**257 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**259 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Compatibility Target · 2</strong></summary>
@@ -318,7 +318,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Resource Pack · 8</strong></summary>
+<summary><strong>Resource Pack · 10</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -328,8 +328,10 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Bibliophilia \| Enchanted Books](https://modrinth.com/resourcepack/bibliophilia) | Official project requires CIT Resewn or Forge CIT for 1.18–1.21.1; 1.21.2–1.21.4 is unsupported and 1.21.5 works vanilla. Author reports incompatibility with Dynamic Trims. Do not  | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=093adf8483600a78) |
 | ★ [Bray & Cyber's Better, Fresher 3D Books](https://modrinth.com/resourcepack/bray-cyber-3d-enchanted-books) | Unique 3D models and effects for every enchanted-book variation | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0e65703aa668b98d) |
 | [Chaotix Apotheotic Tweaks](https://www.curseforge.com/minecraft/texture-packs/chaotix-apotheotic-tweaks) | Official Apotheosis texture pack targets gems, charms, tomes, rarity materials, arrows and relevant workstations/GUI. It needs Apotheosis to have an effect; its Fabric Zenith versi | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=9374d22d76abb693) |
+| [Excalibur \| Apotheosis Support](https://www.curseforge.com/minecraft/texture-packs/excalibur-apotheosis-support) | Apotheosis block, item and GUI visual support for Excalibur. Author instructs placing this above the base Excalibur pack. Separate 1.20.1 and 1.21.1 v2.0 files are listed; choose t | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c0d010ff63998802) |
 | [Excalibur \| Iron’s Spells ’N Spellbooks Support](https://www.curseforge.com/minecraft/texture-packs/excalibur-irons-spells-n-spellbooks-support) | Official Iron's Spells Excalibur support pack is explicitly work in progress with many textures missing. Do not mark its catalogue presence as complete visual coverage or functiona | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c89c24b83c5807ce) |
 | [Fresh MythicBotany & Botania](https://www.curseforge.com/minecraft/texture-packs/fresh-mythic-botany-and-botania) | Official project is a MythicBotany/Botania texture treatment; author explicitly requires Botania and MythicBotany. Retain exact-file version checks and distinguish vanilla-style vi | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=063caa7160a795cb) |
+| [Pinnacle (for Apotheosis)](https://www.curseforge.com/minecraft/texture-packs/pinnacle) | Apotheosis-only visual refresh; requires Apotheosis to have an effect. Page lists a 1.20.1 3.0.0.5 backport and a separate 1.21.1 3.0.0 release, while the author states ongoing foc | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b95da1f7f5ae00f0) |
 
 </details>
 

@@ -4,9 +4,9 @@
   "master_rows": 159,
   "exact_existing_observations_added": 37,
   "unique_entries_enriched": 33,
-  "pending_master_observations": 106,
-  "display_entries": 2280,
-  "source_observations": 2662,
+  "pending_master_observations": 103,
+  "display_entries": 2283,
+  "source_observations": 2665,
   "favorites": 411,
   "native_promotions": 0,
   "all_prior_fields_preserved": true,
@@ -197,7 +197,7 @@
       "name": "Fresh Flowers and Plants"
     }
   ],
-  "reviewed_new_identity_observations_added": 16,
+  "reviewed_new_identity_observations_added": 19,
   "reviewed_new_identities": [
     {
       "row": 2,
@@ -278,6 +278,21 @@
       "row": 23,
       "id": "9374d22d76abb693",
       "name": "Chaotix Apotheotic Tweaks"
+    },
+    {
+      "row": 14,
+      "id": "c0d010ff63998802",
+      "name": "Excalibur | Apotheosis Support"
+    },
+    {
+      "row": 15,
+      "id": "f2899b1e24f9f349",
+      "name": "Excalibur | Farmer\u2019s Delight Support"
+    },
+    {
+      "row": 17,
+      "id": "b95da1f7f5ae00f0",
+      "name": "Pinnacle (for Apotheosis)"
     }
   ]
 }

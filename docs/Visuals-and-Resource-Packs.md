@@ -6,9 +6,9 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 
 ## Resource-pack ecosystem research
 
-[The resource-pack atlas](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-source-views.json) preserves 17 views covering flowers, crops, magic, creatures, biomes, Create, Excalibur and Stay True ecosystems, conversion candidates and suggested pack stacks. The first 37 exact matches are attached to 33 existing catalogue entries. Sixteen further project identities are now checked against official pages; another 106 master observations are being reconciled. Source scores, “native/drop-in” claims and suggested pack orders require exact-version testing; a design gap is not an available resource pack.
+[The resource-pack atlas](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-source-views.json) preserves 17 views covering flowers, crops, magic, creatures, biomes, Create, Excalibur and Stay True ecosystems, conversion candidates and suggested pack stacks. The first 37 exact matches are attached to 33 existing catalogue entries. Nineteen further project identities are now checked against official pages; another 103 master observations are being reconciled. Source scores, “native/drop-in” claims and suggested pack orders require exact-version testing; a design gap is not an available resource pack.
 
-**312 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**315 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Content Pack · 3</strong></summary>
@@ -229,7 +229,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Resource Pack · 124</strong></summary>
+<summary><strong>Resource Pack · 127</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -270,7 +270,9 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Dreamy Visuals \| Renewed Vibrant Visuals](https://curseforge.com/minecraft-bedrock/texture-packs/dreamy-vibrant-visuals) | BEDROCK UPDATE / CLIENT-SAFE VISUAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0a25c083fb61b2b4) |
 | [Excalibur](https://curseforge.com/minecraft/texture-packs/excalibur) | OPTIONAL VISUAL / CLIENT-SAFE / VERSION-MATCH / STRONG 1.20.1 ECOSYSTEM | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=194661dafc0f5769) |
 | [Excalibur \| Aether Support](https://www.curseforge.com/minecraft/texture-packs/excalibur-aether-support) | Official Aether support pack covers the original Aether visual ecosystem and belongs above Excalibur. Aether addon coverage is planned with no ETA, not completed support. Exact fil | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=1b783efdda0fd559) |
+| [Excalibur \| Apotheosis Support](https://www.curseforge.com/minecraft/texture-packs/excalibur-apotheosis-support) | Apotheosis block, item and GUI visual support for Excalibur. Author instructs placing this above the base Excalibur pack. Separate 1.20.1 and 1.21.1 v2.0 files are listed; choose t | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c0d010ff63998802) |
 | [Excalibur \| Create Support](https://www.curseforge.com/minecraft/texture-packs/excalibur-create-support) | Official Create-to-Excalibur texture/model support pack by BoFill_Pablito. Author places it above Excalibur and publishes distinct Forge 1.20.1 and NeoForge 1.21.1 archives; exact  | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=89a3b19c36e4de16) |
+| [Excalibur \| Farmer’s Delight Support](https://www.curseforge.com/minecraft/texture-packs/excalibur-farmers-delight-support) | Author describes 411 item/block textures and considers the pack complete for its stated scope; this is not our runtime qualification of all Farmer’s Delight addons. Place above bas | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=f2899b1e24f9f349) |
 | [Excalibur \| Iron’s Spells ’N Spellbooks Support](https://www.curseforge.com/minecraft/texture-packs/excalibur-irons-spells-n-spellbooks-support) | Official Iron's Spells Excalibur support pack is explicitly work in progress with many textures missing. Do not mark its catalogue presence as complete visual coverage or functiona | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c89c24b83c5807ce) |
 | [Excalibur \| L_Ender’s Cataclysm Support](https://modrinth.com/resourcepack/excal-l_ender-s-cataclysm-support) | Official project lists Cataclysm entities, items, blocks and spawn eggs, plus random entity variants and 2D inventory icons for weapons. This is visual integration with Excalibur,  | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b6f0fbec652bfba1) |
 | [Excalibur \| Mowzie's Mobs Support](https://www.curseforge.com/minecraft/texture-packs/excalibur-mowzies-mobs-support) | Official Mowzie's Mobs visual support pack by Ruseki lists mobs, bosses, items, particles, boss bars and GUI. Pair with Excalibur and verify the exact mod/file versions. Author per | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=df063ae5aedc29a0) |
@@ -333,6 +335,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Optimum Realism](https://herbertofury.github.io/Minecraft-Mods/?id=7b86d8fd73d25cc2) | OPTIONAL VISUAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7b86d8fd73d25cc2) |
 | [Patrix 32x](https://curseforge.com/minecraft/texture-packs/patrix-32x) | INSTALL/OPTIONAL 1.20.1 / CLIENT-SAFE / CURRENT 26.3 | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=bbfd9b16365a3191) |
 | [Pig Biome Variants](https://curseforge.com/minecraft/texture-packs/pig-variants-1-22) | Backports biome-styled pig appearances across many older versions. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=890bf9a148278be3) |
+| [Pinnacle (for Apotheosis)](https://www.curseforge.com/minecraft/texture-packs/pinnacle) | Apotheosis-only visual refresh; requires Apotheosis to have an effect. Page lists a 1.20.1 3.0.0.5 backport and a separate 1.21.1 3.0.0 release, while the author states ongoing foc | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b95da1f7f5ae00f0) |
 | [PitonixRex Monster Girl Collection](https://herbertofury.github.io/Minecraft-Mods/?id=9cd8ca98a03ac0a0) | OPTIONAL VISUAL / LEGACY GOLD | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=9cd8ca98a03ac0a0) |
 | [Prettier Chickens](https://curseforge.com/minecraft/texture-packs/prettier-chickens) | Brand-new high-variety chicken remodel with 24 climate-distributed adult variants and baby models. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=cfb704b37045c832) |
 | [Prettier Cows](https://curseforge.com/minecraft/texture-packs/prettier-cows) | One of the best visual bovine packs surfaced: biome-dependent cows, yaks, Flower Forest Mooblooms, babies and updated Mooshrooms. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=9435350cc0ca4814) |
@@ -396,4 +399,4 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 
 ## Stack planning and companion notes
 
-[Visual styles and resource-pack stacks](Visual-Styles-and-Pack-Stacks) explains version-specific dependencies, priority-order conflicts and a repeatable visual check. 111 companion rows are attached to 44 entries; 240 companion rows remain in review. These annotations do not inflate catalogue totals or promote native compatibility.
+[Visual styles and resource-pack stacks](Visual-Styles-and-Pack-Stacks) explains version-specific dependencies, priority-order conflicts and a repeatable visual check. 120 companion rows are attached to 47 entries; 231 companion rows remain in review. These annotations do not inflate catalogue totals or promote native compatibility.

@@ -1,11 +1,11 @@
 {
   "date": "2026-10-19",
   "source_view_rows": 351,
-  "attached_view_rows": 111,
-  "entries_enriched": 44,
-  "pending_view_rows": 240,
-  "source_record_count_unchanged": 2662,
-  "display_entries_unchanged": 2280,
+  "attached_view_rows": 120,
+  "entries_enriched": 47,
+  "pending_view_rows": 231,
+  "source_record_count_unchanged": 2665,
+  "display_entries_unchanged": 2283,
   "native_promotions": 0,
   "attached": [
     {
@@ -673,6 +673,60 @@
       "master_row": 33,
       "sheet": "Excalibur Ecosystem",
       "row": 15
+    },
+    {
+      "id": "c0d010ff63998802",
+      "master_row": 14,
+      "sheet": "Mega Coverage",
+      "row": 13
+    },
+    {
+      "id": "f2899b1e24f9f349",
+      "master_row": 15,
+      "sheet": "Flowers & Botany",
+      "row": 7
+    },
+    {
+      "id": "f2899b1e24f9f349",
+      "master_row": 15,
+      "sheet": "Farming & Food",
+      "row": 7
+    },
+    {
+      "id": "c0d010ff63998802",
+      "master_row": 14,
+      "sheet": "Magic & RPG",
+      "row": 7
+    },
+    {
+      "id": "b95da1f7f5ae00f0",
+      "master_row": 17,
+      "sheet": "Magic & RPG",
+      "row": 8
+    },
+    {
+      "id": "c0d010ff63998802",
+      "master_row": 14,
+      "sheet": "Style Ecosystems",
+      "row": 7
+    },
+    {
+      "id": "f2899b1e24f9f349",
+      "master_row": 15,
+      "sheet": "Style Ecosystems",
+      "row": 8
+    },
+    {
+      "id": "c0d010ff63998802",
+      "master_row": 14,
+      "sheet": "Excalibur Ecosystem",
+      "row": 4
+    },
+    {
+      "id": "f2899b1e24f9f349",
+      "master_row": 15,
+      "sheet": "Excalibur Ecosystem",
+      "row": 5
     }
   ],
   "pending": [
@@ -685,18 +739,6 @@
         "B": "Connected Paths",
         "C": "Simple pack-format conversion",
         "D": "https://www.curseforge.com/minecraft/texture-packs/connected-paths"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Mega Coverage",
-      "row": 13,
-      "name": "Excalibur | Apotheosis Support",
-      "fields": {
-        "A": "13.0",
-        "B": "Excalibur | Apotheosis Support",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-apotheosis-support"
       },
       "matches": []
     },
@@ -817,18 +859,6 @@
         "B": "Stupendous Visuals",
         "C": "Modded 16x compatibility; Polytone+EMF+ETF required; no full coverage claim",
         "D": "https://modrinth.com/resourcepack/stupendous-visuals"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Flowers & Botany",
-      "row": 7,
-      "name": "Excalibur | Farmer\u2019s Delight Support",
-      "fields": {
-        "A": "14.0",
-        "B": "Excalibur | Farmer\u2019s Delight Support",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-farmers-delight-support"
       },
       "matches": []
     },
@@ -1410,18 +1440,6 @@
     },
     {
       "sheet": "Farming & Food",
-      "row": 7,
-      "name": "Excalibur | Farmer\u2019s Delight Support",
-      "fields": {
-        "A": "14.0",
-        "B": "Excalibur | Farmer\u2019s Delight Support",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-farmers-delight-support"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Farming & Food",
       "row": 8,
       "name": "Excalibur | Hearth and Harvest Delight Support",
       "fields": {
@@ -1681,30 +1699,6 @@
         "B": "Farmer\u2019s Delight crops 3D",
         "C": "Mod-version asset port",
         "D": "https://www.curseforge.com/minecraft/texture-packs/farmers-delight-crops-3d"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Magic & RPG",
-      "row": 7,
-      "name": "Excalibur | Apotheosis Support",
-      "fields": {
-        "A": "13.0",
-        "B": "Excalibur | Apotheosis Support",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-apotheosis-support"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Magic & RPG",
-      "row": 8,
-      "name": "Pinnacle (for Apotheosis)",
-      "fields": {
-        "A": "16.0",
-        "B": "Pinnacle (for Apotheosis)",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/pinnacle"
       },
       "matches": []
     },
@@ -2383,30 +2377,6 @@
         "B": "Mo's Vibrancy Pack",
         "C": "Mod-version asset port",
         "D": "https://www.planetminecraft.com/texture-pack/the-vibrancy-pack-1-13/"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Style Ecosystems",
-      "row": 7,
-      "name": "Excalibur | Apotheosis Support",
-      "fields": {
-        "A": "13.0",
-        "B": "Excalibur | Apotheosis Support",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-apotheosis-support"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Style Ecosystems",
-      "row": 8,
-      "name": "Excalibur | Farmer\u2019s Delight Support",
-      "fields": {
-        "A": "14.0",
-        "B": "Excalibur | Farmer\u2019s Delight Support",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-farmers-delight-support"
       },
       "matches": []
     },
@@ -3264,30 +3234,6 @@
         "B": "Iron\u2019s Botany \u2014 dedicated texture pack gap",
         "C": "Custom pack required",
         "D": "https://www.curseforge.com/minecraft/mc-mods/irons-botany"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Excalibur Ecosystem",
-      "row": 4,
-      "name": "Excalibur | Apotheosis Support",
-      "fields": {
-        "A": "13.0",
-        "B": "Excalibur | Apotheosis Support",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-apotheosis-support"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Excalibur Ecosystem",
-      "row": 5,
-      "name": "Excalibur | Farmer\u2019s Delight Support",
-      "fields": {
-        "A": "14.0",
-        "B": "Excalibur | Farmer\u2019s Delight Support",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-farmers-delight-support"
       },
       "matches": []
     },
