@@ -1,0 +1,3691 @@
+{
+  "date": "2026-10-19",
+  "source_view_rows": 351,
+  "attached_view_rows": 91,
+  "entries_enriched": 36,
+  "pending_view_rows": 260,
+  "source_record_count_unchanged": 2654,
+  "display_entries_unchanged": 2272,
+  "native_promotions": 0,
+  "attached": [
+    {
+      "id": "d89e87e5fa530a1c",
+      "master_row": 2,
+      "sheet": "Mega Coverage",
+      "row": 2
+    },
+    {
+      "id": "801d047561bb70f7",
+      "master_row": 3,
+      "sheet": "Mega Coverage",
+      "row": 3
+    },
+    {
+      "id": "02425ff4e1cd3e93",
+      "master_row": 4,
+      "sheet": "Mega Coverage",
+      "row": 4
+    },
+    {
+      "id": "aca2a1f1618be714",
+      "master_row": 5,
+      "sheet": "Mega Coverage",
+      "row": 5
+    },
+    {
+      "id": "4a3df3d6df8bb9f9",
+      "master_row": 6,
+      "sheet": "Mega Coverage",
+      "row": 6
+    },
+    {
+      "id": "194661dafc0f5769",
+      "master_row": 7,
+      "sheet": "Mega Coverage",
+      "row": 7
+    },
+    {
+      "id": "2788e4ff359f20f7",
+      "master_row": 8,
+      "sheet": "Mega Coverage",
+      "row": 8
+    },
+    {
+      "id": "093adf8483600a78",
+      "master_row": 9,
+      "sheet": "Mega Coverage",
+      "row": 9
+    },
+    {
+      "id": "89a3b19c36e4de16",
+      "master_row": 10,
+      "sheet": "Mega Coverage",
+      "row": 10
+    },
+    {
+      "id": "9e890ace92db3272",
+      "master_row": 12,
+      "sheet": "Mega Coverage",
+      "row": 11
+    },
+    {
+      "id": "d7b693d8bcac440b",
+      "master_row": 112,
+      "sheet": "Mega Coverage",
+      "row": 24
+    },
+    {
+      "id": "02425ff4e1cd3e93",
+      "master_row": 4,
+      "sheet": "Flowers & Botany",
+      "row": 2
+    },
+    {
+      "id": "aca2a1f1618be714",
+      "master_row": 5,
+      "sheet": "Flowers & Botany",
+      "row": 3
+    },
+    {
+      "id": "194661dafc0f5769",
+      "master_row": 7,
+      "sheet": "Flowers & Botany",
+      "row": 4
+    },
+    {
+      "id": "229ec91a7d1c71c2",
+      "master_row": 11,
+      "sheet": "Flowers & Botany",
+      "row": 5
+    },
+    {
+      "id": "9e890ace92db3272",
+      "master_row": 12,
+      "sheet": "Flowers & Botany",
+      "row": 6
+    },
+    {
+      "id": "aca2a1f1618be714",
+      "master_row": 35,
+      "sheet": "Flowers & Botany",
+      "row": 17
+    },
+    {
+      "id": "aca2a1f1618be714",
+      "master_row": 41,
+      "sheet": "Flowers & Botany",
+      "row": 18
+    },
+    {
+      "id": "faa4195f2c0c60ce",
+      "master_row": 120,
+      "sheet": "Flowers & Botany",
+      "row": 59
+    },
+    {
+      "id": "1ae7b478db068527",
+      "master_row": 135,
+      "sheet": "Flowers & Botany",
+      "row": 60
+    },
+    {
+      "id": "47c108131eff5338",
+      "master_row": 136,
+      "sheet": "Flowers & Botany",
+      "row": 61
+    },
+    {
+      "id": "891f52c3b41867a9",
+      "master_row": 147,
+      "sheet": "Flowers & Botany",
+      "row": 64
+    },
+    {
+      "id": "801d047561bb70f7",
+      "master_row": 3,
+      "sheet": "Farming & Food",
+      "row": 2
+    },
+    {
+      "id": "02425ff4e1cd3e93",
+      "master_row": 4,
+      "sheet": "Farming & Food",
+      "row": 3
+    },
+    {
+      "id": "aca2a1f1618be714",
+      "master_row": 5,
+      "sheet": "Farming & Food",
+      "row": 4
+    },
+    {
+      "id": "194661dafc0f5769",
+      "master_row": 7,
+      "sheet": "Farming & Food",
+      "row": 5
+    },
+    {
+      "id": "9e890ace92db3272",
+      "master_row": 12,
+      "sheet": "Farming & Food",
+      "row": 6
+    },
+    {
+      "id": "aca2a1f1618be714",
+      "master_row": 41,
+      "sheet": "Farming & Food",
+      "row": 13
+    },
+    {
+      "id": "801d047561bb70f7",
+      "master_row": 3,
+      "sheet": "Magic & RPG",
+      "row": 2
+    },
+    {
+      "id": "02425ff4e1cd3e93",
+      "master_row": 4,
+      "sheet": "Magic & RPG",
+      "row": 3
+    },
+    {
+      "id": "4a3df3d6df8bb9f9",
+      "master_row": 6,
+      "sheet": "Magic & RPG",
+      "row": 4
+    },
+    {
+      "id": "194661dafc0f5769",
+      "master_row": 7,
+      "sheet": "Magic & RPG",
+      "row": 5
+    },
+    {
+      "id": "093adf8483600a78",
+      "master_row": 9,
+      "sheet": "Magic & RPG",
+      "row": 6
+    },
+    {
+      "id": "2fb49e8aad6e36e3",
+      "master_row": 125,
+      "sheet": "Magic & RPG",
+      "row": 28
+    },
+    {
+      "id": "801d047561bb70f7",
+      "master_row": 3,
+      "sheet": "Mob & Animation",
+      "row": 2
+    },
+    {
+      "id": "2788e4ff359f20f7",
+      "master_row": 8,
+      "sheet": "Mob & Animation",
+      "row": 3
+    },
+    {
+      "id": "093adf8483600a78",
+      "master_row": 9,
+      "sheet": "Mob & Animation",
+      "row": 4
+    },
+    {
+      "id": "9e890ace92db3272",
+      "master_row": 12,
+      "sheet": "Mob & Animation",
+      "row": 5
+    },
+    {
+      "id": "1e5fb4f001397067",
+      "master_row": 62,
+      "sheet": "Mob & Animation",
+      "row": 12
+    },
+    {
+      "id": "076954de35fe4f42",
+      "master_row": 88,
+      "sheet": "Mob & Animation",
+      "row": 14
+    },
+    {
+      "id": "98b935e5c653dfdd",
+      "master_row": 124,
+      "sheet": "Mob & Animation",
+      "row": 18
+    },
+    {
+      "id": "801d047561bb70f7",
+      "master_row": 3,
+      "sheet": "Biomes & Nature",
+      "row": 2
+    },
+    {
+      "id": "02425ff4e1cd3e93",
+      "master_row": 4,
+      "sheet": "Biomes & Nature",
+      "row": 3
+    },
+    {
+      "id": "aca2a1f1618be714",
+      "master_row": 5,
+      "sheet": "Biomes & Nature",
+      "row": 4
+    },
+    {
+      "id": "093adf8483600a78",
+      "master_row": 9,
+      "sheet": "Biomes & Nature",
+      "row": 5
+    },
+    {
+      "id": "229ec91a7d1c71c2",
+      "master_row": 11,
+      "sheet": "Biomes & Nature",
+      "row": 6
+    },
+    {
+      "id": "aca2a1f1618be714",
+      "master_row": 35,
+      "sheet": "Biomes & Nature",
+      "row": 9
+    },
+    {
+      "id": "4ea612c46854754c",
+      "master_row": 137,
+      "sheet": "Biomes & Nature",
+      "row": 25
+    },
+    {
+      "id": "aca2a1f1618be714",
+      "master_row": 5,
+      "sheet": "Tech & Create",
+      "row": 2
+    },
+    {
+      "id": "194661dafc0f5769",
+      "master_row": 7,
+      "sheet": "Tech & Create",
+      "row": 3
+    },
+    {
+      "id": "093adf8483600a78",
+      "master_row": 9,
+      "sheet": "Tech & Create",
+      "row": 4
+    },
+    {
+      "id": "89a3b19c36e4de16",
+      "master_row": 10,
+      "sheet": "Tech & Create",
+      "row": 5
+    },
+    {
+      "id": "aca2a1f1618be714",
+      "master_row": 36,
+      "sheet": "Tech & Create",
+      "row": 7
+    },
+    {
+      "id": "d89e87e5fa530a1c",
+      "master_row": 2,
+      "sheet": "Style Ecosystems",
+      "row": 2
+    },
+    {
+      "id": "aca2a1f1618be714",
+      "master_row": 5,
+      "sheet": "Style Ecosystems",
+      "row": 3
+    },
+    {
+      "id": "194661dafc0f5769",
+      "master_row": 7,
+      "sheet": "Style Ecosystems",
+      "row": 4
+    },
+    {
+      "id": "89a3b19c36e4de16",
+      "master_row": 10,
+      "sheet": "Style Ecosystems",
+      "row": 5
+    },
+    {
+      "id": "9e890ace92db3272",
+      "master_row": 12,
+      "sheet": "Style Ecosystems",
+      "row": 6
+    },
+    {
+      "id": "aca2a1f1618be714",
+      "master_row": 35,
+      "sheet": "Style Ecosystems",
+      "row": 20
+    },
+    {
+      "id": "aca2a1f1618be714",
+      "master_row": 36,
+      "sheet": "Style Ecosystems",
+      "row": 21
+    },
+    {
+      "id": "aca2a1f1618be714",
+      "master_row": 37,
+      "sheet": "Style Ecosystems",
+      "row": 22
+    },
+    {
+      "id": "aca2a1f1618be714",
+      "master_row": 41,
+      "sheet": "Style Ecosystems",
+      "row": 24
+    },
+    {
+      "id": "0a25c083fb61b2b4",
+      "master_row": 116,
+      "sheet": "Style Ecosystems",
+      "row": 31
+    },
+    {
+      "id": "ea05e7126aec6a9f",
+      "master_row": 117,
+      "sheet": "Style Ecosystems",
+      "row": 32
+    },
+    {
+      "id": "d1b23ccc4a4c7c62",
+      "master_row": 118,
+      "sheet": "Style Ecosystems",
+      "row": 46
+    },
+    {
+      "id": "bc973e312f8fec57",
+      "master_row": 119,
+      "sheet": "Style Ecosystems",
+      "row": 47
+    },
+    {
+      "id": "b7bcec948155d729",
+      "master_row": 121,
+      "sheet": "Style Ecosystems",
+      "row": 48
+    },
+    {
+      "id": "64e57aae4eb14fd9",
+      "master_row": 122,
+      "sheet": "Style Ecosystems",
+      "row": 49
+    },
+    {
+      "id": "053c397b472de2e5",
+      "master_row": 123,
+      "sheet": "Style Ecosystems",
+      "row": 50
+    },
+    {
+      "id": "bbfd9b16365a3191",
+      "master_row": 126,
+      "sheet": "Style Ecosystems",
+      "row": 51
+    },
+    {
+      "id": "1350a49ef00fcb4c",
+      "master_row": 127,
+      "sheet": "Style Ecosystems",
+      "row": 52
+    },
+    {
+      "id": "9b8e20b67a267d69",
+      "master_row": 128,
+      "sheet": "Style Ecosystems",
+      "row": 53
+    },
+    {
+      "id": "3c3e41371eed875f",
+      "master_row": 129,
+      "sheet": "Style Ecosystems",
+      "row": 54
+    },
+    {
+      "id": "d7091f357062812d",
+      "master_row": 130,
+      "sheet": "Style Ecosystems",
+      "row": 55
+    },
+    {
+      "id": "7b86d8fd73d25cc2",
+      "master_row": 132,
+      "sheet": "Style Ecosystems",
+      "row": 56
+    },
+    {
+      "id": "556f25513cd214d2",
+      "master_row": 133,
+      "sheet": "Style Ecosystems",
+      "row": 57
+    },
+    {
+      "id": "97af2c78a308a2f0",
+      "master_row": 134,
+      "sheet": "Style Ecosystems",
+      "row": 58
+    },
+    {
+      "id": "47c108131eff5338",
+      "master_row": 136,
+      "sheet": "Style Ecosystems",
+      "row": 59
+    },
+    {
+      "id": "4ea612c46854754c",
+      "master_row": 137,
+      "sheet": "Style Ecosystems",
+      "row": 60
+    },
+    {
+      "id": "194661dafc0f5769",
+      "master_row": 7,
+      "sheet": "Conversion Queue",
+      "row": 2
+    },
+    {
+      "id": "2788e4ff359f20f7",
+      "master_row": 8,
+      "sheet": "Conversion Queue",
+      "row": 3
+    },
+    {
+      "id": "093adf8483600a78",
+      "master_row": 9,
+      "sheet": "Conversion Queue",
+      "row": 4
+    },
+    {
+      "id": "1e5fb4f001397067",
+      "master_row": 62,
+      "sheet": "Conversion Queue",
+      "row": 8
+    },
+    {
+      "id": "076954de35fe4f42",
+      "master_row": 88,
+      "sheet": "Conversion Queue",
+      "row": 17
+    },
+    {
+      "id": "194661dafc0f5769",
+      "master_row": 7,
+      "sheet": "Excalibur Ecosystem",
+      "row": 2
+    },
+    {
+      "id": "89a3b19c36e4de16",
+      "master_row": 10,
+      "sheet": "Excalibur Ecosystem",
+      "row": 3
+    },
+    {
+      "id": "aca2a1f1618be714",
+      "master_row": 5,
+      "sheet": "Stay True Ecosystem",
+      "row": 2
+    },
+    {
+      "id": "aca2a1f1618be714",
+      "master_row": 35,
+      "sheet": "Stay True Ecosystem",
+      "row": 4
+    },
+    {
+      "id": "aca2a1f1618be714",
+      "master_row": 36,
+      "sheet": "Stay True Ecosystem",
+      "row": 5
+    },
+    {
+      "id": "aca2a1f1618be714",
+      "master_row": 37,
+      "sheet": "Stay True Ecosystem",
+      "row": 6
+    },
+    {
+      "id": "aca2a1f1618be714",
+      "master_row": 41,
+      "sheet": "Stay True Ecosystem",
+      "row": 7
+    }
+  ],
+  "pending": [
+    {
+      "sheet": "Mega Coverage",
+      "row": 12,
+      "name": "Connected Paths",
+      "fields": {
+        "A": "12.0",
+        "B": "Connected Paths",
+        "C": "Simple pack-format conversion",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/connected-paths"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Mega Coverage",
+      "row": 13,
+      "name": "Excalibur | Apotheosis Support",
+      "fields": {
+        "A": "13.0",
+        "B": "Excalibur | Apotheosis Support",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-apotheosis-support"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Mega Coverage",
+      "row": 14,
+      "name": "Excalibur | Supplementaries Support",
+      "fields": {
+        "A": "15.0",
+        "B": "Excalibur | Supplementaries Support",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-supplementaries-support"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Mega Coverage",
+      "row": 15,
+      "name": "Excalibur | Clarent Edition",
+      "fields": {
+        "A": "17.0",
+        "B": "Excalibur | Clarent Edition",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/clarent-excalibur-patch"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Mega Coverage",
+      "row": 16,
+      "name": "Stay True",
+      "fields": {
+        "A": "27.0",
+        "B": "Stay True",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/stay-true"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Mega Coverage",
+      "row": 17,
+      "name": "Brewin\u2019 & Chewin\u2019 Coaster Compat",
+      "fields": {
+        "A": "29.0",
+        "B": "Brewin\u2019 & Chewin\u2019 Coaster Compat",
+        "C": "Native / drop-in",
+        "D": "https://modrinth.com/resourcepack/u0btsBB7"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Mega Coverage",
+      "row": 18,
+      "name": "Excalibur | Aether Support",
+      "fields": {
+        "A": "31.0",
+        "B": "Excalibur | Aether Support",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-aether-support"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Mega Coverage",
+      "row": 19,
+      "name": "The Rename Compat Project",
+      "fields": {
+        "A": "37.0",
+        "B": "The Rename Compat Project",
+        "C": "Native / drop-in",
+        "D": "https://modrinth.com/resourcepack/the-rename-compat-project"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Mega Coverage",
+      "row": 20,
+      "name": "Faithful 32x Modded",
+      "fields": {
+        "A": "39.0",
+        "B": "Faithful 32x Modded",
+        "C": "Mod-version asset port",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/faithful-32x-modded"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Mega Coverage",
+      "row": 21,
+      "name": "Not Enough Pixels",
+      "fields": {
+        "A": "89.0",
+        "B": "Not Enough Pixels",
+        "C": "Mod-version asset port",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/faithful-64x-modded"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Mega Coverage",
+      "row": 22,
+      "name": "Soartex Fanver - Modded",
+      "fields": {
+        "A": "94.0",
+        "B": "Soartex Fanver - Modded",
+        "C": "Mod-version asset port",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/soartex-fanver-modded"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Mega Coverage",
+      "row": 23,
+      "name": "Unity: Modded",
+      "fields": {
+        "A": "96.0",
+        "B": "Unity: Modded",
+        "C": "Mod-version asset port",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/unity-modded"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Mega Coverage",
+      "row": 25,
+      "name": "Stupendous Visuals",
+      "fields": {
+        "A": "WATCH-147",
+        "B": "Stupendous Visuals",
+        "C": "Modded 16x compatibility; Polytone+EMF+ETF required; no full coverage claim",
+        "D": "https://modrinth.com/resourcepack/stupendous-visuals"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Flowers & Botany",
+      "row": 7,
+      "name": "Excalibur | Farmer\u2019s Delight Support",
+      "fields": {
+        "A": "14.0",
+        "B": "Excalibur | Farmer\u2019s Delight Support",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-farmers-delight-support"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Flowers & Botany",
+      "row": 8,
+      "name": "Excalibur | Iron\u2019s Spells \u2019N Spellbooks Support",
+      "fields": {
+        "A": "19.0",
+        "B": "Excalibur | Iron\u2019s Spells \u2019N Spellbooks Support",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-irons-spells-n-spellbooks-support"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Flowers & Botany",
+      "row": 9,
+      "name": "Excalibur | Hearth and Harvest Delight Support",
+      "fields": {
+        "A": "23.0",
+        "B": "Excalibur | Hearth and Harvest Delight Support",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-hearth-and-harvest-support"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Flowers & Botany",
+      "row": 10,
+      "name": "Excalibur | My Nether\u2019s Delight Support",
+      "fields": {
+        "A": "24.0",
+        "B": "Excalibur | My Nether\u2019s Delight Support",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-my-nethers-delight-support"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Flowers & Botany",
+      "row": 11,
+      "name": "Fresh MythicBotany & Botania",
+      "fields": {
+        "A": "25.0",
+        "B": "Fresh MythicBotany & Botania",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/fresh-mythic-botany-and-botania"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Flowers & Botany",
+      "row": 12,
+      "name": "Stay True",
+      "fields": {
+        "A": "27.0",
+        "B": "Stay True",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/stay-true"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Flowers & Botany",
+      "row": 13,
+      "name": "Ars Naturae",
+      "fields": {
+        "A": "28.0",
+        "B": "Ars Naturae",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/ars-naturae"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Flowers & Botany",
+      "row": 14,
+      "name": "Brewin\u2019 And Chewin\u2019 | Excalibur Support",
+      "fields": {
+        "A": "30.0",
+        "B": "Brewin\u2019 And Chewin\u2019 | Excalibur Support",
+        "C": "Native / drop-in",
+        "D": "https://modrinth.com/resourcepack/brewin-and-chewin-excalibur-support"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Flowers & Botany",
+      "row": 15,
+      "name": "Excalibur | Aether Support",
+      "fields": {
+        "A": "31.0",
+        "B": "Excalibur | Aether Support",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-aether-support"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Flowers & Botany",
+      "row": 16,
+      "name": "Pixel Perfection x Farmer\u2019s Delight",
+      "fields": {
+        "A": "33.0",
+        "B": "Pixel Perfection x Farmer\u2019s Delight",
+        "C": "Native / drop-in",
+        "D": "https://modrinth.com/resourcepack/pixelperfectionxfarmersdelight"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Flowers & Botany",
+      "row": 19,
+      "name": "SPBR-Farmer\u2019s Delight",
+      "fields": {
+        "A": "43.0",
+        "B": "SPBR-Farmer\u2019s Delight",
+        "C": "Native / drop-in",
+        "D": "https://modrinth.com/resourcepack/spbr-farmersdelight"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Flowers & Botany",
+      "row": 20,
+      "name": "Bare Bones x The Aether",
+      "fields": {
+        "A": "44.0",
+        "B": "Bare Bones x The Aether",
+        "C": "Native / drop-in",
+        "D": "https://modrinth.com/resourcepack/bare-bones-x-the-aether"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Flowers & Botany",
+      "row": 21,
+      "name": "Better Leaves - Hexerei",
+      "fields": {
+        "A": "45.0",
+        "B": "Better Leaves - Hexerei",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/better-leaves-hexerei"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Flowers & Botany",
+      "row": 22,
+      "name": "Biomes You\u2019ll Go 3D Flora",
+      "fields": {
+        "A": "46.0",
+        "B": "Biomes You\u2019ll Go 3D Flora",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/biomes-youll-go-3d-flora"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Flowers & Botany",
+      "row": 23,
+      "name": "Crops 3D Reforged",
+      "fields": {
+        "A": "47.0",
+        "B": "Crops 3D Reforged",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/crops-3d-reforged"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Flowers & Botany",
+      "row": 24,
+      "name": "Crops 3D Reploughed",
+      "fields": {
+        "A": "48.0",
+        "B": "Crops 3D Reploughed",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/crops-3d-reploughed"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Flowers & Botany",
+      "row": 25,
+      "name": "Excalibur | Quark Delight Support",
+      "fields": {
+        "A": "49.0",
+        "B": "Excalibur | Quark Delight Support",
+        "C": "Native / drop-in",
+        "D": "https://modrinth.com/resourcepack/quark-delight-excalibur-support"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Flowers & Botany",
+      "row": 26,
+      "name": "Whimscape x Oh The Biomes We\u2019ve Gone",
+      "fields": {
+        "A": "50.0",
+        "B": "Whimscape x Oh The Biomes We\u2019ve Gone",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/whimscape-x-oh-the-biomes-weve-gone"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Flowers & Botany",
+      "row": 27,
+      "name": "3D Crops Revamped",
+      "fields": {
+        "A": "51.0",
+        "B": "3D Crops Revamped",
+        "C": "Native / drop-in",
+        "D": "https://modrinth.com/resourcepack/3d-crops"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Flowers & Botany",
+      "row": 28,
+      "name": "BareBones x BetterEnd",
+      "fields": {
+        "A": "52.0",
+        "B": "BareBones x BetterEnd",
+        "C": "Native / drop-in",
+        "D": "https://modrinth.com/resourcepack/barebones-x-betterend"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Flowers & Botany",
+      "row": 29,
+      "name": "The Aether BDCraft",
+      "fields": {
+        "A": "54.0",
+        "B": "The Aether BDCraft",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/the-aether-bdcraft"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Flowers & Botany",
+      "row": 30,
+      "name": "Xali's Bushy Leaves - Regions Unexplored Addon",
+      "fields": {
+        "A": "55.0",
+        "B": "Xali's Bushy Leaves - Regions Unexplored Addon",
+        "C": "Native / drop-in",
+        "D": "https://modrinth.com/resourcepack/xalis-bushy-leaves-ru-addon"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Flowers & Botany",
+      "row": 31,
+      "name": "Better Leaves for Bare Bones x Fruit\u2019s Delight",
+      "fields": {
+        "A": "57.0",
+        "B": "Better Leaves for Bare Bones x Fruit\u2019s Delight",
+        "C": "Native / drop-in",
+        "D": "https://modrinth.com/resourcepack/better-leaves-for-bare-bones-x-fruits-delight"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Flowers & Botany",
+      "row": 32,
+      "name": "Biomes o\u2019 Plenty 3D Flora",
+      "fields": {
+        "A": "58.0",
+        "B": "Biomes o\u2019 Plenty 3D Flora",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/biomes-o-plenty-3d-flora"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Flowers & Botany",
+      "row": 33,
+      "name": "Croptopia Blocky Crops",
+      "fields": {
+        "A": "60.0",
+        "B": "Croptopia Blocky Crops",
+        "C": "Native / drop-in",
+        "D": "https://modrinth.com/resourcepack/croptopia-blocky-crops"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Flowers & Botany",
+      "row": 34,
+      "name": "Just Oh The Biomes We\u2019ve Gone",
+      "fields": {
+        "A": "62.0",
+        "B": "Just Oh The Biomes We\u2019ve Gone",
+        "C": "Native / drop-in",
+        "D": "https://modrinth.com/resourcepack/just-oh-the-biomes-weve-gone"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Flowers & Botany",
+      "row": 35,
+      "name": "Mizuno\u2019s x Farmer\u2019s Delight",
+      "fields": {
+        "A": "63.0",
+        "B": "Mizuno\u2019s x Farmer\u2019s Delight",
+        "C": "Simple pack-format conversion",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/mizunos-x-farmers-delight"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Flowers & Botany",
+      "row": 36,
+      "name": "(Brewin\u2019 and Chewin\u2019) 3D delight foods & drinks",
+      "fields": {
+        "A": "65.0",
+        "B": "(Brewin\u2019 and Chewin\u2019) 3D delight foods & drinks",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/brewin-and-chewin-3d-foods-drinks"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Flowers & Botany",
+      "row": 37,
+      "name": "Dandelion X",
+      "fields": {
+        "A": "66.0",
+        "B": "Dandelion X",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/dandelion-x"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Flowers & Botany",
+      "row": 38,
+      "name": "Excalibur | Oh The Biomes We\u2019ve Gone Support",
+      "fields": {
+        "A": "67.0",
+        "B": "Excalibur | Oh The Biomes We\u2019ve Gone Support",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-oh-the-biomes-weve-gone-support"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Flowers & Botany",
+      "row": 39,
+      "name": "Js Leaves+ for Regions Unexplored",
+      "fields": {
+        "A": "68.0",
+        "B": "Js Leaves+ for Regions Unexplored",
+        "C": "Native / drop-in",
+        "D": "https://modrinth.com/resourcepack/js_leaves%2B-for-regions-unexplored"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Flowers & Botany",
+      "row": 40,
+      "name": "Bare Bones x Oh The Biomes We\u2019ve Gone",
+      "fields": {
+        "A": "73.0",
+        "B": "Bare Bones x Oh The Biomes We\u2019ve Gone",
+        "C": "Native / drop-in",
+        "D": "https://modrinth.com/resourcepack/bare-bones-x-oh-the-biomes-weve-gone"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Flowers & Botany",
+      "row": 41,
+      "name": "Mizuno\u2019s x Let\u2019s Do Vinery",
+      "fields": {
+        "A": "75.0",
+        "B": "Mizuno\u2019s x Let\u2019s Do Vinery",
+        "C": "Native / drop-in",
+        "D": "https://modrinth.com/resourcepack/mizunos-x-lets-do-vinery"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Flowers & Botany",
+      "row": 42,
+      "name": "Mystical 3DRetextured+",
+      "fields": {
+        "A": "76.0",
+        "B": "Mystical 3DRetextured+",
+        "C": "Model-dependent conversion",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/mystical-3dretextured"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Flowers & Botany",
+      "row": 43,
+      "name": "Quark 3D Pack",
+      "fields": {
+        "A": "77.0",
+        "B": "Quark 3D Pack",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/quark-3d-pack"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Flowers & Botany",
+      "row": 44,
+      "name": "Bare Bones x The Aether PBR",
+      "fields": {
+        "A": "78.0",
+        "B": "Bare Bones x The Aether PBR",
+        "C": "PBR/material conversion",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/bare-bones-x-the-aether-pbr"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Flowers & Botany",
+      "row": 45,
+      "name": "Re: Botania Pack",
+      "fields": {
+        "A": "80.0",
+        "B": "Re: Botania Pack",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/re-botania-pack"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Flowers & Botany",
+      "row": 46,
+      "name": "JS Leaves+ for Biomes O\u2019 Plenty",
+      "fields": {
+        "A": "82.0",
+        "B": "JS Leaves+ for Biomes O\u2019 Plenty",
+        "C": "Simple pack-format conversion",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/js-leaves-for-biomes-o-plenty"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Flowers & Botany",
+      "row": 47,
+      "name": "Mizuno\u2019s x Let\u2019s Do Meadow",
+      "fields": {
+        "A": "83.0",
+        "B": "Mizuno\u2019s x Let\u2019s Do Meadow",
+        "C": "Texture-path remap",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/mizunos-x-lets-do-meadow"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Flowers & Botany",
+      "row": 48,
+      "name": "Bare Bones x Lemoned (Farmer's Delight)",
+      "fields": {
+        "A": "93.0",
+        "B": "Bare Bones x Lemoned (Farmer's Delight)",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/bare-bones-x-lemoned-farmers-delight"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Flowers & Botany",
+      "row": 49,
+      "name": "Farmer\u2019s Delight - Programmer Art",
+      "fields": {
+        "A": "95.0",
+        "B": "Farmer\u2019s Delight - Programmer Art",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/farmers-delight-programmer-art"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Flowers & Botany",
+      "row": 50,
+      "name": "Botania Revamped",
+      "fields": {
+        "A": "98.0",
+        "B": "Botania Revamped",
+        "C": "Mod-version asset port",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/botania-revamped"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Flowers & Botany",
+      "row": 51,
+      "name": "Bare Bones 3D Crops",
+      "fields": {
+        "A": "100.0",
+        "B": "Bare Bones 3D Crops",
+        "C": "Simple pack-format/model conversion",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/barebones-3d-crops"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Flowers & Botany",
+      "row": 52,
+      "name": "Updated Pixel Consistent Mystical Agriculture",
+      "fields": {
+        "A": "102.0",
+        "B": "Updated Pixel Consistent Mystical Agriculture",
+        "C": "Mod-version asset port",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/updated-pixel-consistent-mystical-agriculture"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Flowers & Botany",
+      "row": 53,
+      "name": "Mo's Vibrancy Pack",
+      "fields": {
+        "A": "103.0",
+        "B": "Mo's Vibrancy Pack",
+        "C": "Mod-version asset port",
+        "D": "https://www.planetminecraft.com/texture-pack/the-vibrancy-pack-1-13/"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Flowers & Botany",
+      "row": 54,
+      "name": "Pixel Consistent Mystical Agriculture",
+      "fields": {
+        "A": "105.0",
+        "B": "Pixel Consistent Mystical Agriculture",
+        "C": "Mod-version asset port",
+        "D": "https://modrinth.com/resourcepack/pixel-consistent-mystical-agriculture"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Flowers & Botany",
+      "row": 55,
+      "name": "Botania Improved Textures",
+      "fields": {
+        "A": "106.0",
+        "B": "Botania Improved Textures",
+        "C": "Mod-version asset port",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/botania-improved-textures"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Flowers & Botany",
+      "row": 56,
+      "name": "Botania Improved Flowers",
+      "fields": {
+        "A": "108.0",
+        "B": "Botania Improved Flowers",
+        "C": "Mod-version asset port",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/botania-improved-flowers"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Flowers & Botany",
+      "row": 57,
+      "name": "Farmer\u2019s Delight crops 3D",
+      "fields": {
+        "A": "109.0",
+        "B": "Farmer\u2019s Delight crops 3D",
+        "C": "Mod-version asset port",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/farmers-delight-crops-3d"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Flowers & Botany",
+      "row": 58,
+      "name": "Iron\u2019s Botany \u2014 dedicated texture pack gap",
+      "fields": {
+        "A": "110.0",
+        "B": "Iron\u2019s Botany \u2014 dedicated texture pack gap",
+        "C": "Custom pack required",
+        "D": "https://www.curseforge.com/minecraft/mc-mods/irons-botany"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Flowers & Botany",
+      "row": 62,
+      "name": "rainbow's foliage: polytone",
+      "fields": {
+        "A": "WATCH-144",
+        "B": "rainbow's foliage: polytone",
+        "C": "Polytone-required client-only resource pack; 1.20.1 v2.1; shader optional",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/rainbows-foliage"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Flowers & Botany",
+      "row": 63,
+      "name": "Fantastic Flora",
+      "fields": {
+        "A": "WATCH-145",
+        "B": "Fantastic Flora",
+        "C": "1.3 backport vanilla flowers only; 1.20.1 pack-format test",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/fantastic-flora"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Farming & Food",
+      "row": 7,
+      "name": "Excalibur | Farmer\u2019s Delight Support",
+      "fields": {
+        "A": "14.0",
+        "B": "Excalibur | Farmer\u2019s Delight Support",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-farmers-delight-support"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Farming & Food",
+      "row": 8,
+      "name": "Excalibur | Hearth and Harvest Delight Support",
+      "fields": {
+        "A": "23.0",
+        "B": "Excalibur | Hearth and Harvest Delight Support",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-hearth-and-harvest-support"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Farming & Food",
+      "row": 9,
+      "name": "Excalibur | My Nether\u2019s Delight Support",
+      "fields": {
+        "A": "24.0",
+        "B": "Excalibur | My Nether\u2019s Delight Support",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-my-nethers-delight-support"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Farming & Food",
+      "row": 10,
+      "name": "Brewin\u2019 & Chewin\u2019 Coaster Compat",
+      "fields": {
+        "A": "29.0",
+        "B": "Brewin\u2019 & Chewin\u2019 Coaster Compat",
+        "C": "Native / drop-in",
+        "D": "https://modrinth.com/resourcepack/u0btsBB7"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Farming & Food",
+      "row": 11,
+      "name": "Brewin\u2019 And Chewin\u2019 | Excalibur Support",
+      "fields": {
+        "A": "30.0",
+        "B": "Brewin\u2019 And Chewin\u2019 | Excalibur Support",
+        "C": "Native / drop-in",
+        "D": "https://modrinth.com/resourcepack/brewin-and-chewin-excalibur-support"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Farming & Food",
+      "row": 12,
+      "name": "Pixel Perfection x Farmer\u2019s Delight",
+      "fields": {
+        "A": "33.0",
+        "B": "Pixel Perfection x Farmer\u2019s Delight",
+        "C": "Native / drop-in",
+        "D": "https://modrinth.com/resourcepack/pixelperfectionxfarmersdelight"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Farming & Food",
+      "row": 14,
+      "name": "SPBR-Farmer\u2019s Delight",
+      "fields": {
+        "A": "43.0",
+        "B": "SPBR-Farmer\u2019s Delight",
+        "C": "Native / drop-in",
+        "D": "https://modrinth.com/resourcepack/spbr-farmersdelight"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Farming & Food",
+      "row": 15,
+      "name": "Crops 3D Reforged",
+      "fields": {
+        "A": "47.0",
+        "B": "Crops 3D Reforged",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/crops-3d-reforged"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Farming & Food",
+      "row": 16,
+      "name": "Crops 3D Reploughed",
+      "fields": {
+        "A": "48.0",
+        "B": "Crops 3D Reploughed",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/crops-3d-reploughed"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Farming & Food",
+      "row": 17,
+      "name": "Excalibur | Quark Delight Support",
+      "fields": {
+        "A": "49.0",
+        "B": "Excalibur | Quark Delight Support",
+        "C": "Native / drop-in",
+        "D": "https://modrinth.com/resourcepack/quark-delight-excalibur-support"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Farming & Food",
+      "row": 18,
+      "name": "3D Crops Revamped",
+      "fields": {
+        "A": "51.0",
+        "B": "3D Crops Revamped",
+        "C": "Native / drop-in",
+        "D": "https://modrinth.com/resourcepack/3d-crops"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Farming & Food",
+      "row": 19,
+      "name": "Better Leaves for Bare Bones x Fruit\u2019s Delight",
+      "fields": {
+        "A": "57.0",
+        "B": "Better Leaves for Bare Bones x Fruit\u2019s Delight",
+        "C": "Native / drop-in",
+        "D": "https://modrinth.com/resourcepack/better-leaves-for-bare-bones-x-fruits-delight"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Farming & Food",
+      "row": 20,
+      "name": "Croptopia Blocky Crops",
+      "fields": {
+        "A": "60.0",
+        "B": "Croptopia Blocky Crops",
+        "C": "Native / drop-in",
+        "D": "https://modrinth.com/resourcepack/croptopia-blocky-crops"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Farming & Food",
+      "row": 21,
+      "name": "Mizuno\u2019s x Farmer\u2019s Delight",
+      "fields": {
+        "A": "63.0",
+        "B": "Mizuno\u2019s x Farmer\u2019s Delight",
+        "C": "Simple pack-format conversion",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/mizunos-x-farmers-delight"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Farming & Food",
+      "row": 22,
+      "name": "(Brewin\u2019 and Chewin\u2019) 3D delight foods & drinks",
+      "fields": {
+        "A": "65.0",
+        "B": "(Brewin\u2019 and Chewin\u2019) 3D delight foods & drinks",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/brewin-and-chewin-3d-foods-drinks"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Farming & Food",
+      "row": 23,
+      "name": "Farmer\u2019s 3D",
+      "fields": {
+        "A": "70.0",
+        "B": "Farmer\u2019s 3D",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/farmers-3d"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Farming & Food",
+      "row": 24,
+      "name": "Mizuno\u2019s x Brewin\u2019 And Chewin\u2019",
+      "fields": {
+        "A": "71.0",
+        "B": "Mizuno\u2019s x Brewin\u2019 And Chewin\u2019",
+        "C": "Native / drop-in",
+        "D": "https://modrinth.com/resourcepack/mizunos-x-brewin-and-chewin"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Farming & Food",
+      "row": 25,
+      "name": "Mizuno\u2019s x Let\u2019s Do Vinery",
+      "fields": {
+        "A": "75.0",
+        "B": "Mizuno\u2019s x Let\u2019s Do Vinery",
+        "C": "Native / drop-in",
+        "D": "https://modrinth.com/resourcepack/mizunos-x-lets-do-vinery"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Farming & Food",
+      "row": 26,
+      "name": "Immersive Interfaces - Farmer\u2019s Delight",
+      "fields": {
+        "A": "91.0",
+        "B": "Immersive Interfaces - Farmer\u2019s Delight",
+        "C": "Native / drop-in",
+        "D": "https://modrinth.com/resourcepack/immersive-interfaces-farmers-delight"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Farming & Food",
+      "row": 27,
+      "name": "Bare Bones x Lemoned (Farmer's Delight)",
+      "fields": {
+        "A": "93.0",
+        "B": "Bare Bones x Lemoned (Farmer's Delight)",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/bare-bones-x-lemoned-farmers-delight"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Farming & Food",
+      "row": 28,
+      "name": "Farmer\u2019s Delight - Programmer Art",
+      "fields": {
+        "A": "95.0",
+        "B": "Farmer\u2019s Delight - Programmer Art",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/farmers-delight-programmer-art"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Farming & Food",
+      "row": 29,
+      "name": "Bare Bones 3D Crops",
+      "fields": {
+        "A": "100.0",
+        "B": "Bare Bones 3D Crops",
+        "C": "Simple pack-format/model conversion",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/barebones-3d-crops"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Farming & Food",
+      "row": 30,
+      "name": "Farmer\u2019s Delight crops 3D",
+      "fields": {
+        "A": "109.0",
+        "B": "Farmer\u2019s Delight crops 3D",
+        "C": "Mod-version asset port",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/farmers-delight-crops-3d"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Magic & RPG",
+      "row": 7,
+      "name": "Excalibur | Apotheosis Support",
+      "fields": {
+        "A": "13.0",
+        "B": "Excalibur | Apotheosis Support",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-apotheosis-support"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Magic & RPG",
+      "row": 8,
+      "name": "Pinnacle (for Apotheosis)",
+      "fields": {
+        "A": "16.0",
+        "B": "Pinnacle (for Apotheosis)",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/pinnacle"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Magic & RPG",
+      "row": 9,
+      "name": "Excalibur | Iron\u2019s Spells \u2019N Spellbooks Support",
+      "fields": {
+        "A": "19.0",
+        "B": "Excalibur | Iron\u2019s Spells \u2019N Spellbooks Support",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-irons-spells-n-spellbooks-support"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Magic & RPG",
+      "row": 10,
+      "name": "Ars Nouveau Refresh",
+      "fields": {
+        "A": "21.0",
+        "B": "Ars Nouveau Refresh",
+        "C": "Native / drop-in",
+        "D": "https://modrinth.com/resourcepack/ars-nouveau-refresh"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Magic & RPG",
+      "row": 11,
+      "name": "Chaotix Apotheotic Tweaks",
+      "fields": {
+        "A": "22.0",
+        "B": "Chaotix Apotheotic Tweaks",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/chaotix-apotheotic-tweaks"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Magic & RPG",
+      "row": 12,
+      "name": "Fresh MythicBotany & Botania",
+      "fields": {
+        "A": "25.0",
+        "B": "Fresh MythicBotany & Botania",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/fresh-mythic-botany-and-botania"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Magic & RPG",
+      "row": 13,
+      "name": "Ars Naturae",
+      "fields": {
+        "A": "28.0",
+        "B": "Ars Naturae",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/ars-naturae"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Magic & RPG",
+      "row": 14,
+      "name": "The Rename Compat Project",
+      "fields": {
+        "A": "37.0",
+        "B": "The Rename Compat Project",
+        "C": "Native / drop-in",
+        "D": "https://modrinth.com/resourcepack/the-rename-compat-project"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Magic & RPG",
+      "row": 15,
+      "name": "Iron\u2019s Spells \u2019n Spellbooks Reimagined",
+      "fields": {
+        "A": "42.0",
+        "B": "Iron\u2019s Spells \u2019n Spellbooks Reimagined",
+        "C": "Model-dependent conversion",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/irons-spells-n-spellbooks-reimagined"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Magic & RPG",
+      "row": 16,
+      "name": "Better Leaves - Hexerei",
+      "fields": {
+        "A": "45.0",
+        "B": "Better Leaves - Hexerei",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/better-leaves-hexerei"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Magic & RPG",
+      "row": 17,
+      "name": "Cataclysm: Spellbooks Reimagined",
+      "fields": {
+        "A": "59.0",
+        "B": "Cataclysm: Spellbooks Reimagined",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/cataclysm-spellbooks-reimagined"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Magic & RPG",
+      "row": 18,
+      "name": "Apotheosis BDCraft",
+      "fields": {
+        "A": "72.0",
+        "B": "Apotheosis BDCraft",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/apotheosis-bdcraft"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Magic & RPG",
+      "row": 19,
+      "name": "Renovated Textures for Iron\u2019s Spells",
+      "fields": {
+        "A": "74.0",
+        "B": "Renovated Textures for Iron\u2019s Spells",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/renovated-textures"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Magic & RPG",
+      "row": 20,
+      "name": "Re: Botania Pack",
+      "fields": {
+        "A": "80.0",
+        "B": "Re: Botania Pack",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/re-botania-pack"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Magic & RPG",
+      "row": 21,
+      "name": "Re: Nature\u2019s Aura Pack",
+      "fields": {
+        "A": "81.0",
+        "B": "Re: Nature\u2019s Aura Pack",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/re-natures-aura-pack"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Magic & RPG",
+      "row": 22,
+      "name": "Ars Nouveau Brass-ified Create-Style",
+      "fields": {
+        "A": "90.0",
+        "B": "Ars Nouveau Brass-ified Create-Style",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/ars-nouveau-brass-ified-create-style-anbics"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Magic & RPG",
+      "row": 23,
+      "name": "Malumified Iron\u2019s Runes",
+      "fields": {
+        "A": "97.0",
+        "B": "Malumified Iron\u2019s Runes",
+        "C": "Texture-path remap",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/malumified-irons-runes"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Magic & RPG",
+      "row": 24,
+      "name": "Botania Revamped",
+      "fields": {
+        "A": "98.0",
+        "B": "Botania Revamped",
+        "C": "Mod-version asset port",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/botania-revamped"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Magic & RPG",
+      "row": 25,
+      "name": "Botania Improved Textures",
+      "fields": {
+        "A": "106.0",
+        "B": "Botania Improved Textures",
+        "C": "Mod-version asset port",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/botania-improved-textures"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Magic & RPG",
+      "row": 26,
+      "name": "Botania Improved Flowers",
+      "fields": {
+        "A": "108.0",
+        "B": "Botania Improved Flowers",
+        "C": "Mod-version asset port",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/botania-improved-flowers"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Magic & RPG",
+      "row": 27,
+      "name": "Iron\u2019s Botany \u2014 dedicated texture pack gap",
+      "fields": {
+        "A": "110.0",
+        "B": "Iron\u2019s Botany \u2014 dedicated texture pack gap",
+        "C": "Custom pack required",
+        "D": "https://www.curseforge.com/minecraft/mc-mods/irons-botany"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Mob & Animation",
+      "row": 6,
+      "name": "Excalibur | Fresh Animations Patch",
+      "fields": {
+        "A": "18.0",
+        "B": "Excalibur | Fresh Animations Patch",
+        "C": "Native / drop-in",
+        "D": "https://modrinth.com/resourcepack/excalibur-fresh-animations"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Mob & Animation",
+      "row": 7,
+      "name": "Excalibur | L_Ender\u2019s Cataclysm Support",
+      "fields": {
+        "A": "20.0",
+        "B": "Excalibur | L_Ender\u2019s Cataclysm Support",
+        "C": "Native / drop-in",
+        "D": "https://modrinth.com/resourcepack/excal-l_ender-s-cataclysm-support"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Mob & Animation",
+      "row": 8,
+      "name": "L_Ender\u2019s Cataclysm Reimagined",
+      "fields": {
+        "A": "26.0",
+        "B": "L_Ender\u2019s Cataclysm Reimagined",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/cataclysm-reimagined"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Mob & Animation",
+      "row": 9,
+      "name": "Excalibur | Mowzie's Mobs Support",
+      "fields": {
+        "A": "32.0",
+        "B": "Excalibur | Mowzie's Mobs Support",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-mowzies-mobs-support"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Mob & Animation",
+      "row": 10,
+      "name": "Fresh Mowzie's Mobs textures",
+      "fields": {
+        "A": "41.0",
+        "B": "Fresh Mowzie's Mobs textures",
+        "C": "Native / drop-in",
+        "D": "https://modrinth.com/resourcepack/fresh-mowzies-mobs-textures"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Mob & Animation",
+      "row": 11,
+      "name": "Cataclysm: Spellbooks Reimagined",
+      "fields": {
+        "A": "59.0",
+        "B": "Cataclysm: Spellbooks Reimagined",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/cataclysm-spellbooks-reimagined"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Mob & Animation",
+      "row": 13,
+      "name": "Bare Bones X Alex's Mobs",
+      "fields": {
+        "A": "69.0",
+        "B": "Bare Bones X Alex's Mobs",
+        "C": "Native / drop-in",
+        "D": "https://modrinth.com/resourcepack/barebones-x-alexsmobs"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Mob & Animation",
+      "row": 15,
+      "name": "Alex's Caves: Crystal Palace",
+      "fields": {
+        "A": "92.0",
+        "B": "Alex's Caves: Crystal Palace",
+        "C": "Model-dependent conversion (EMF/ETF)",
+        "D": "https://modrinth.com/resourcepack/crystal-palace"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Mob & Animation",
+      "row": 16,
+      "name": "Alex's Mobs Alternatives",
+      "fields": {
+        "A": "104.0",
+        "B": "Alex's Mobs Alternatives",
+        "C": "Mod-version asset port",
+        "D": "https://www.planetminecraft.com/texture-pack/alex-s-mobs-alternatives/"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Mob & Animation",
+      "row": 17,
+      "name": "RexCraft Mods Expansion: Alex\u2019s Mobs",
+      "fields": {
+        "A": "107.0",
+        "B": "RexCraft Mods Expansion: Alex\u2019s Mobs",
+        "C": "Mod-version asset port",
+        "D": "https://www.planetminecraft.com/texture-pack/rexcraft-mods-expansion-alex-smobs/"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Mob & Animation",
+      "row": 19,
+      "name": "Animated Axolotl Totem",
+      "fields": {
+        "A": "WATCH-139",
+        "B": "Animated Axolotl Totem",
+        "C": "Client resource pack; 1.20.x\u201326.2; Punchy and Refined Buckets required",
+        "D": "https://modrinth.com/resourcepack/animated-axolotl-totem"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Mob & Animation",
+      "row": 20,
+      "name": "Animated Pufferfish Totem",
+      "fields": {
+        "A": "WATCH-140",
+        "B": "Animated Pufferfish Totem",
+        "C": "Client resource pack; 1.20.x\u201326.2; Punchy and Refined Buckets required",
+        "D": "https://modrinth.com/resourcepack/animated-pufferfish-totem"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Mob & Animation",
+      "row": 21,
+      "name": "Animated 3D Axolotl bucket for Totem and Shield",
+      "fields": {
+        "A": "WATCH-141",
+        "B": "Animated 3D Axolotl bucket for Totem and Shield",
+        "C": "26.2/26.3 confirmed; optional Respackopts/LibJF; no 1.20.1 build confirmed",
+        "D": "https://modrinth.com/resourcepack/animated-3d-axolotl-bucket-for-totem-and-shield"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Mob & Animation",
+      "row": 22,
+      "name": "[ Java ] Human Era: Villagers & Illagers X Fresh Animations",
+      "fields": {
+        "A": "WATCH-143",
+        "B": "[ Java ] Human Era: Villagers & Illagers X Fresh Animations",
+        "C": "Requires matching EMF/ETF; optional Fresh Animations overlays",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/human-era-villagers-illagers"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Mob & Animation",
+      "row": 23,
+      "name": "Bunny Kisser",
+      "fields": {
+        "A": "WATCH-152",
+        "B": "Bunny Kisser",
+        "C": "Wolf-to-Bunny 32x animated entity visuals",
+        "D": "Java 1.20\u20131.20.1",
+        "E": "EMF + ETF or OptiFine",
+        "F": "Client visual only",
+        "G": "No world data",
+        "H": "https://modrinth.com/resourcepack/bunny-kisser",
+        "I": "MANUAL-AUDIT \u2014 ARR and derivative credit",
+        "J": "2026-10-11"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Mob & Animation",
+      "row": 25,
+      "name": "Terran Villagers",
+      "fields": {
+        "A": "WATCH-157",
+        "B": "Terran Villagers",
+        "C": "CEM/EMF/ETF villager visual makeover, v6.9 1.20.1",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/terran-villagers/files/8929533"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Mob & Animation",
+      "row": 26,
+      "name": "Terran Villagers: Extra Compat",
+      "fields": {
+        "A": "WATCH-158",
+        "B": "Terran Villagers: Extra Compat",
+        "C": "MCA Reborn/Mobz/Modern Companions visuals; base pack required",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/terran-extra-compat/files/8687407"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Mob & Animation",
+      "row": 27,
+      "name": "Terran Villagers + Fresh Animations",
+      "fields": {
+        "A": "WATCH-159",
+        "B": "Terran Villagers + Fresh Animations",
+        "C": "Anim bridge, base Terran >=6.6 and EMF/ETF/Fresh Animations",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/terran-villagers-fresh-animations/files/8734449"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Biomes & Nature",
+      "row": 7,
+      "name": "Connected Paths",
+      "fields": {
+        "A": "12.0",
+        "B": "Connected Paths",
+        "C": "Simple pack-format conversion",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/connected-paths"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Biomes & Nature",
+      "row": 8,
+      "name": "Excalibur | Aether Support",
+      "fields": {
+        "A": "31.0",
+        "B": "Excalibur | Aether Support",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-aether-support"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Biomes & Nature",
+      "row": 10,
+      "name": "Bare Bones x The Aether",
+      "fields": {
+        "A": "44.0",
+        "B": "Bare Bones x The Aether",
+        "C": "Native / drop-in",
+        "D": "https://modrinth.com/resourcepack/bare-bones-x-the-aether"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Biomes & Nature",
+      "row": 11,
+      "name": "Biomes You\u2019ll Go 3D Flora",
+      "fields": {
+        "A": "46.0",
+        "B": "Biomes You\u2019ll Go 3D Flora",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/biomes-youll-go-3d-flora"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Biomes & Nature",
+      "row": 12,
+      "name": "Whimscape x Oh The Biomes We\u2019ve Gone",
+      "fields": {
+        "A": "50.0",
+        "B": "Whimscape x Oh The Biomes We\u2019ve Gone",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/whimscape-x-oh-the-biomes-weve-gone"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Biomes & Nature",
+      "row": 13,
+      "name": "BareBones x BetterEnd",
+      "fields": {
+        "A": "52.0",
+        "B": "BareBones x BetterEnd",
+        "C": "Native / drop-in",
+        "D": "https://modrinth.com/resourcepack/barebones-x-betterend"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Biomes & Nature",
+      "row": 14,
+      "name": "The Aether BDCraft",
+      "fields": {
+        "A": "54.0",
+        "B": "The Aether BDCraft",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/the-aether-bdcraft"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Biomes & Nature",
+      "row": 15,
+      "name": "Xali's Bushy Leaves - Regions Unexplored Addon",
+      "fields": {
+        "A": "55.0",
+        "B": "Xali's Bushy Leaves - Regions Unexplored Addon",
+        "C": "Native / drop-in",
+        "D": "https://modrinth.com/resourcepack/xalis-bushy-leaves-ru-addon"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Biomes & Nature",
+      "row": 16,
+      "name": "Biomes o\u2019 Plenty 3D Flora",
+      "fields": {
+        "A": "58.0",
+        "B": "Biomes o\u2019 Plenty 3D Flora",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/biomes-o-plenty-3d-flora"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Biomes & Nature",
+      "row": 17,
+      "name": "Just Oh The Biomes We\u2019ve Gone",
+      "fields": {
+        "A": "62.0",
+        "B": "Just Oh The Biomes We\u2019ve Gone",
+        "C": "Native / drop-in",
+        "D": "https://modrinth.com/resourcepack/just-oh-the-biomes-weve-gone"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Biomes & Nature",
+      "row": 18,
+      "name": "Excalibur | Oh The Biomes We\u2019ve Gone Support",
+      "fields": {
+        "A": "67.0",
+        "B": "Excalibur | Oh The Biomes We\u2019ve Gone Support",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-oh-the-biomes-weve-gone-support"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Biomes & Nature",
+      "row": 19,
+      "name": "Js Leaves+ for Regions Unexplored",
+      "fields": {
+        "A": "68.0",
+        "B": "Js Leaves+ for Regions Unexplored",
+        "C": "Native / drop-in",
+        "D": "https://modrinth.com/resourcepack/js_leaves%2B-for-regions-unexplored"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Biomes & Nature",
+      "row": 20,
+      "name": "Bare Bones x Oh The Biomes We\u2019ve Gone",
+      "fields": {
+        "A": "73.0",
+        "B": "Bare Bones x Oh The Biomes We\u2019ve Gone",
+        "C": "Native / drop-in",
+        "D": "https://modrinth.com/resourcepack/bare-bones-x-oh-the-biomes-weve-gone"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Biomes & Nature",
+      "row": 21,
+      "name": "Bare Bones x The Aether PBR",
+      "fields": {
+        "A": "78.0",
+        "B": "Bare Bones x The Aether PBR",
+        "C": "PBR/material conversion",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/bare-bones-x-the-aether-pbr"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Biomes & Nature",
+      "row": 22,
+      "name": "JS Leaves+ for Biomes O\u2019 Plenty",
+      "fields": {
+        "A": "82.0",
+        "B": "JS Leaves+ for Biomes O\u2019 Plenty",
+        "C": "Simple pack-format conversion",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/js-leaves-for-biomes-o-plenty"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Biomes & Nature",
+      "row": 23,
+      "name": "Alex's Caves: Crystal Palace",
+      "fields": {
+        "A": "92.0",
+        "B": "Alex's Caves: Crystal Palace",
+        "C": "Model-dependent conversion (EMF/ETF)",
+        "D": "https://modrinth.com/resourcepack/crystal-palace"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Biomes & Nature",
+      "row": 24,
+      "name": "Retinted: Oh The Biomes We\u2019ve Gone Waters",
+      "fields": {
+        "A": "99.0",
+        "B": "Retinted: Oh The Biomes We\u2019ve Gone Waters",
+        "C": "Model/color-system conversion",
+        "D": "https://modrinth.com/resourcepack/retinted-ot-bwg-waters"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Biomes & Nature",
+      "row": 26,
+      "name": "rainbow's foliage: polytone",
+      "fields": {
+        "A": "WATCH-144",
+        "B": "rainbow's foliage: polytone",
+        "C": "Polytone-required; test Grassier Grass, Embeddium/MoreCulling and DH",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/rainbows-foliage"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Biomes & Nature",
+      "row": 27,
+      "name": "Fantastic Flora",
+      "fields": {
+        "A": "WATCH-145",
+        "B": "Fantastic Flora",
+        "C": "Vanilla flower visuals; 1.20.1 pack-format test",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/fantastic-flora"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Tech & Create",
+      "row": 6,
+      "name": "Brewin\u2019 & Chewin\u2019 Coaster Compat",
+      "fields": {
+        "A": "29.0",
+        "B": "Brewin\u2019 & Chewin\u2019 Coaster Compat",
+        "C": "Native / drop-in",
+        "D": "https://modrinth.com/resourcepack/u0btsBB7"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Tech & Create",
+      "row": 8,
+      "name": "The Rename Compat Project",
+      "fields": {
+        "A": "37.0",
+        "B": "The Rename Compat Project",
+        "C": "Native / drop-in",
+        "D": "https://modrinth.com/resourcepack/the-rename-compat-project"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Tech & Create",
+      "row": 9,
+      "name": "Create BDCraft",
+      "fields": {
+        "A": "38.0",
+        "B": "Create BDCraft",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/create-bdcraft"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Tech & Create",
+      "row": 10,
+      "name": "Mekanism BDCraft",
+      "fields": {
+        "A": "53.0",
+        "B": "Mekanism BDCraft",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/mekanism-bdcraft"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Tech & Create",
+      "row": 11,
+      "name": "Applied Energistics 2 BDCraft",
+      "fields": {
+        "A": "56.0",
+        "B": "Applied Energistics 2 BDCraft",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/applied-energistics-2-bdcraft"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Tech & Create",
+      "row": 12,
+      "name": "Mekanism Additions BDCraft",
+      "fields": {
+        "A": "79.0",
+        "B": "Mekanism Additions BDCraft",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/mekanism-additions-bdcraft"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Tech & Create",
+      "row": 13,
+      "name": "Ars Nouveau Brass-ified Create-Style",
+      "fields": {
+        "A": "90.0",
+        "B": "Ars Nouveau Brass-ified Create-Style",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/ars-nouveau-brass-ified-create-style-anbics"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Tech & Create",
+      "row": 14,
+      "name": "Mo's Vibrancy Pack",
+      "fields": {
+        "A": "103.0",
+        "B": "Mo's Vibrancy Pack",
+        "C": "Mod-version asset port",
+        "D": "https://www.planetminecraft.com/texture-pack/the-vibrancy-pack-1-13/"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Style Ecosystems",
+      "row": 7,
+      "name": "Excalibur | Apotheosis Support",
+      "fields": {
+        "A": "13.0",
+        "B": "Excalibur | Apotheosis Support",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-apotheosis-support"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Style Ecosystems",
+      "row": 8,
+      "name": "Excalibur | Farmer\u2019s Delight Support",
+      "fields": {
+        "A": "14.0",
+        "B": "Excalibur | Farmer\u2019s Delight Support",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-farmers-delight-support"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Style Ecosystems",
+      "row": 9,
+      "name": "Excalibur | Supplementaries Support",
+      "fields": {
+        "A": "15.0",
+        "B": "Excalibur | Supplementaries Support",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-supplementaries-support"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Style Ecosystems",
+      "row": 10,
+      "name": "Excalibur | Clarent Edition",
+      "fields": {
+        "A": "17.0",
+        "B": "Excalibur | Clarent Edition",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/clarent-excalibur-patch"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Style Ecosystems",
+      "row": 11,
+      "name": "Excalibur | Fresh Animations Patch",
+      "fields": {
+        "A": "18.0",
+        "B": "Excalibur | Fresh Animations Patch",
+        "C": "Native / drop-in",
+        "D": "https://modrinth.com/resourcepack/excalibur-fresh-animations"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Style Ecosystems",
+      "row": 12,
+      "name": "Excalibur | Iron\u2019s Spells \u2019N Spellbooks Support",
+      "fields": {
+        "A": "19.0",
+        "B": "Excalibur | Iron\u2019s Spells \u2019N Spellbooks Support",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-irons-spells-n-spellbooks-support"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Style Ecosystems",
+      "row": 13,
+      "name": "Excalibur | L_Ender\u2019s Cataclysm Support",
+      "fields": {
+        "A": "20.0",
+        "B": "Excalibur | L_Ender\u2019s Cataclysm Support",
+        "C": "Native / drop-in",
+        "D": "https://modrinth.com/resourcepack/excal-l_ender-s-cataclysm-support"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Style Ecosystems",
+      "row": 14,
+      "name": "Excalibur | Hearth and Harvest Delight Support",
+      "fields": {
+        "A": "23.0",
+        "B": "Excalibur | Hearth and Harvest Delight Support",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-hearth-and-harvest-support"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Style Ecosystems",
+      "row": 15,
+      "name": "Excalibur | My Nether\u2019s Delight Support",
+      "fields": {
+        "A": "24.0",
+        "B": "Excalibur | My Nether\u2019s Delight Support",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-my-nethers-delight-support"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Style Ecosystems",
+      "row": 16,
+      "name": "Stay True",
+      "fields": {
+        "A": "27.0",
+        "B": "Stay True",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/stay-true"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Style Ecosystems",
+      "row": 17,
+      "name": "Brewin\u2019 And Chewin\u2019 | Excalibur Support",
+      "fields": {
+        "A": "30.0",
+        "B": "Brewin\u2019 And Chewin\u2019 | Excalibur Support",
+        "C": "Native / drop-in",
+        "D": "https://modrinth.com/resourcepack/brewin-and-chewin-excalibur-support"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Style Ecosystems",
+      "row": 18,
+      "name": "Excalibur | Aether Support",
+      "fields": {
+        "A": "31.0",
+        "B": "Excalibur | Aether Support",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-aether-support"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Style Ecosystems",
+      "row": 19,
+      "name": "Excalibur | Mowzie's Mobs Support",
+      "fields": {
+        "A": "32.0",
+        "B": "Excalibur | Mowzie's Mobs Support",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-mowzies-mobs-support"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Style Ecosystems",
+      "row": 23,
+      "name": "Create BDCraft",
+      "fields": {
+        "A": "38.0",
+        "B": "Create BDCraft",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/create-bdcraft"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Style Ecosystems",
+      "row": 25,
+      "name": "Bare Bones x The Aether",
+      "fields": {
+        "A": "44.0",
+        "B": "Bare Bones x The Aether",
+        "C": "Native / drop-in",
+        "D": "https://modrinth.com/resourcepack/bare-bones-x-the-aether"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Style Ecosystems",
+      "row": 26,
+      "name": "Excalibur | Quark Delight Support",
+      "fields": {
+        "A": "49.0",
+        "B": "Excalibur | Quark Delight Support",
+        "C": "Native / drop-in",
+        "D": "https://modrinth.com/resourcepack/quark-delight-excalibur-support"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Style Ecosystems",
+      "row": 27,
+      "name": "Whimscape x Oh The Biomes We\u2019ve Gone",
+      "fields": {
+        "A": "50.0",
+        "B": "Whimscape x Oh The Biomes We\u2019ve Gone",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/whimscape-x-oh-the-biomes-weve-gone"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Style Ecosystems",
+      "row": 28,
+      "name": "BareBones x BetterEnd",
+      "fields": {
+        "A": "52.0",
+        "B": "BareBones x BetterEnd",
+        "C": "Native / drop-in",
+        "D": "https://modrinth.com/resourcepack/barebones-x-betterend"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Style Ecosystems",
+      "row": 29,
+      "name": "Mekanism BDCraft",
+      "fields": {
+        "A": "53.0",
+        "B": "Mekanism BDCraft",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/mekanism-bdcraft"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Style Ecosystems",
+      "row": 30,
+      "name": "The Aether BDCraft",
+      "fields": {
+        "A": "54.0",
+        "B": "The Aether BDCraft",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/the-aether-bdcraft"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Style Ecosystems",
+      "row": 33,
+      "name": "Mizuno\u2019s x Farmer\u2019s Delight",
+      "fields": {
+        "A": "63.0",
+        "B": "Mizuno\u2019s x Farmer\u2019s Delight",
+        "C": "Simple pack-format conversion",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/mizunos-x-farmers-delight"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Style Ecosystems",
+      "row": 34,
+      "name": "Quark BDCraft",
+      "fields": {
+        "A": "64.0",
+        "B": "Quark BDCraft",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/quark-bdcraft"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Style Ecosystems",
+      "row": 35,
+      "name": "Excalibur | Oh The Biomes We\u2019ve Gone Support",
+      "fields": {
+        "A": "67.0",
+        "B": "Excalibur | Oh The Biomes We\u2019ve Gone Support",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-oh-the-biomes-weve-gone-support"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Style Ecosystems",
+      "row": 36,
+      "name": "Bare Bones X Alex's Mobs",
+      "fields": {
+        "A": "69.0",
+        "B": "Bare Bones X Alex's Mobs",
+        "C": "Native / drop-in",
+        "D": "https://modrinth.com/resourcepack/barebones-x-alexsmobs"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Style Ecosystems",
+      "row": 37,
+      "name": "Mizuno\u2019s x Brewin\u2019 And Chewin\u2019",
+      "fields": {
+        "A": "71.0",
+        "B": "Mizuno\u2019s x Brewin\u2019 And Chewin\u2019",
+        "C": "Native / drop-in",
+        "D": "https://modrinth.com/resourcepack/mizunos-x-brewin-and-chewin"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Style Ecosystems",
+      "row": 38,
+      "name": "Apotheosis BDCraft",
+      "fields": {
+        "A": "72.0",
+        "B": "Apotheosis BDCraft",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/apotheosis-bdcraft"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Style Ecosystems",
+      "row": 39,
+      "name": "Bare Bones x Oh The Biomes We\u2019ve Gone",
+      "fields": {
+        "A": "73.0",
+        "B": "Bare Bones x Oh The Biomes We\u2019ve Gone",
+        "C": "Native / drop-in",
+        "D": "https://modrinth.com/resourcepack/bare-bones-x-oh-the-biomes-weve-gone"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Style Ecosystems",
+      "row": 40,
+      "name": "Mizuno\u2019s x Let\u2019s Do Vinery",
+      "fields": {
+        "A": "75.0",
+        "B": "Mizuno\u2019s x Let\u2019s Do Vinery",
+        "C": "Native / drop-in",
+        "D": "https://modrinth.com/resourcepack/mizunos-x-lets-do-vinery"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Style Ecosystems",
+      "row": 41,
+      "name": "Bare Bones x The Aether PBR",
+      "fields": {
+        "A": "78.0",
+        "B": "Bare Bones x The Aether PBR",
+        "C": "PBR/material conversion",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/bare-bones-x-the-aether-pbr"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Style Ecosystems",
+      "row": 42,
+      "name": "Mekanism Additions BDCraft",
+      "fields": {
+        "A": "79.0",
+        "B": "Mekanism Additions BDCraft",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/mekanism-additions-bdcraft"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Style Ecosystems",
+      "row": 43,
+      "name": "Mizuno\u2019s x Let\u2019s Do Meadow",
+      "fields": {
+        "A": "83.0",
+        "B": "Mizuno\u2019s x Let\u2019s Do Meadow",
+        "C": "Texture-path remap",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/mizunos-x-lets-do-meadow"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Style Ecosystems",
+      "row": 44,
+      "name": "Bare Bones x Lemoned (Farmer's Delight)",
+      "fields": {
+        "A": "93.0",
+        "B": "Bare Bones x Lemoned (Farmer's Delight)",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/bare-bones-x-lemoned-farmers-delight"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Style Ecosystems",
+      "row": 45,
+      "name": "Bare Bones 3D Crops",
+      "fields": {
+        "A": "100.0",
+        "B": "Bare Bones 3D Crops",
+        "C": "Simple pack-format/model conversion",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/barebones-3d-crops"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Style Ecosystems",
+      "row": 61,
+      "name": "Kenui's Default",
+      "fields": {
+        "A": "WATCH-137",
+        "B": "Kenui's Default",
+        "C": "Vanilla+ with optional CIT and emissive features",
+        "D": "https://modrinth.com/resourcepack/kenuis-default"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Style Ecosystems",
+      "row": 62,
+      "name": "FireDragon's Custom Models",
+      "fields": {
+        "A": "WATCH-138",
+        "B": "FireDragon's Custom Models",
+        "C": "Modern 3D/CIT/EMF model ecosystem; ARR",
+        "D": "https://modrinth.com/resourcepack/firedragons-custom-models"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Style Ecosystems",
+      "row": 63,
+      "name": "Animated Axolotl Totem",
+      "fields": {
+        "A": "WATCH-139",
+        "B": "Animated Axolotl Totem",
+        "C": "Client resource pack; 1.20.x\u201326.2; Punchy and Refined Buckets required",
+        "D": "https://modrinth.com/resourcepack/animated-axolotl-totem"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Style Ecosystems",
+      "row": 64,
+      "name": "Animated Pufferfish Totem",
+      "fields": {
+        "A": "WATCH-140",
+        "B": "Animated Pufferfish Totem",
+        "C": "Client resource pack; 1.20.x\u201326.2; Punchy and Refined Buckets required",
+        "D": "https://modrinth.com/resourcepack/animated-pufferfish-totem"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Style Ecosystems",
+      "row": 65,
+      "name": "Animated 3D Axolotl bucket for Totem and Shield",
+      "fields": {
+        "A": "WATCH-141",
+        "B": "Animated 3D Axolotl bucket for Totem and Shield",
+        "C": "26.2/26.3 confirmed; optional Respackopts/LibJF; no 1.20.1 build confirmed",
+        "D": "https://modrinth.com/resourcepack/animated-3d-axolotl-bucket-for-totem-and-shield"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Style Ecosystems",
+      "row": 66,
+      "name": "TheSalt's Text Effects",
+      "fields": {
+        "A": "WATCH-142",
+        "B": "TheSalt's Text Effects",
+        "C": "1.1.4 supports 1.20.x; 26.3 project listing; rendertype_text shader conflict",
+        "D": "https://modrinth.com/resourcepack/thesalts-text-effects"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Style Ecosystems",
+      "row": 67,
+      "name": "[ Java ] Human Era: Villagers & Illagers X Fresh Animations",
+      "fields": {
+        "A": "WATCH-143",
+        "B": "[ Java ] Human Era: Villagers & Illagers X Fresh Animations",
+        "C": "EMF/ETF + optional female variants; model-only pack",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/human-era-villagers-illagers"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Style Ecosystems",
+      "row": 68,
+      "name": "rainbow's foliage: polytone",
+      "fields": {
+        "A": "WATCH-144",
+        "B": "rainbow's foliage: polytone",
+        "C": "Polytone client renderer dependent, LabPBR optional",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/rainbows-foliage"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Style Ecosystems",
+      "row": 69,
+      "name": "Stupendous Visuals",
+      "fields": {
+        "A": "WATCH-147",
+        "B": "Stupendous Visuals",
+        "C": "Stylized 16x resource pack; Polytone+EMF+ETF; test Embeddium recolors",
+        "D": "https://modrinth.com/resourcepack/stupendous-visuals"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Style Ecosystems",
+      "row": 70,
+      "name": "3D Items-Vanillaism",
+      "fields": {
+        "A": "WATCH-148",
+        "B": "3D Items-Vanillaism",
+        "C": "Client resource-pack 3D-item upgrade / Forge1.20.1-specific edition; ItemPhysic variant optional",
+        "D": "https://modrinth.com/resourcepack/3d-items-vanillaism"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Style Ecosystems",
+      "row": 71,
+      "name": "Conquest_",
+      "fields": {
+        "A": "WATCH-149",
+        "B": "Conquest_",
+        "C": "Medieval 32x; CTM/CIT/PBR backend and exact 1.20.1 artifact need manual audit",
+        "D": "https://modrinth.com/resourcepack/conquest_"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Style Ecosystems",
+      "row": 72,
+      "name": "Simple 3D",
+      "fields": {
+        "A": "WATCH-151",
+        "B": "Simple 3D",
+        "C": "Vanilla-style true 3D item/block models, 16\u00d7",
+        "D": "Style Ecosystems / 3D Models / Client-Safe",
+        "E": "MC 1.20\u20131.20.1 exact v1.0.0 ZIP released 2026-03-12; resource pack, no world content",
+        "F": "8 \u2014 visual candidate, not benchmarked",
+        "G": "Low save impact",
+        "H": "Medium visual overlap with 3D Default / CIT",
+        "J": "https://modrinth.com/resourcepack/simple-3d/version/qOkOz4ZO"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Style Ecosystems",
+      "row": 73,
+      "name": "Faithful 3D",
+      "fields": {
+        "A": "WATCH-154",
+        "B": "Faithful 3D",
+        "C": "Native resource-pack ZIP 26.2; pre1.21 older files deprecated; selected features OptiFine-specific",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/faithful-3d"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Style Ecosystems",
+      "row": 74,
+      "name": "Samuel's Re-Chipped",
+      "fields": {
+        "A": "WATCH-155",
+        "B": "Samuel's Re-Chipped",
+        "C": "0.2.1 beta Java1.20.1; Chipped+Continuity CTM; 5 stone texture families; test Forge Sinytra Connector; ARR",
+        "D": "https://modrinth.com/resourcepack/samuels-re-chipped/version/0.2.1"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Style Ecosystems",
+      "row": 75,
+      "name": "Overgrowth (Hardek)",
+      "fields": {
+        "A": "WATCH-156",
+        "B": "Overgrowth (Hardek)",
+        "C": "16x moss/ivy/lichen/3D fungi/shells, 1.1 Oct13 2026 MC1.20.1, Continuity/OptiFine for CTM; no shaders, ARR modpack attribution",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/overgrowth/files/9162374"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Conversion Queue",
+      "row": 5,
+      "name": "Connected Paths",
+      "fields": {
+        "A": "12.0",
+        "B": "Connected Paths",
+        "C": "Simple pack-format conversion",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/connected-paths"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Conversion Queue",
+      "row": 6,
+      "name": "Faithful 32x Modded",
+      "fields": {
+        "A": "39.0",
+        "B": "Faithful 32x Modded",
+        "C": "Mod-version asset port",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/faithful-32x-modded"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Conversion Queue",
+      "row": 7,
+      "name": "Iron\u2019s Spells \u2019n Spellbooks Reimagined",
+      "fields": {
+        "A": "42.0",
+        "B": "Iron\u2019s Spells \u2019n Spellbooks Reimagined",
+        "C": "Model-dependent conversion",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/irons-spells-n-spellbooks-reimagined"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Conversion Queue",
+      "row": 9,
+      "name": "Mizuno\u2019s x Farmer\u2019s Delight",
+      "fields": {
+        "A": "63.0",
+        "B": "Mizuno\u2019s x Farmer\u2019s Delight",
+        "C": "Simple pack-format conversion",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/mizunos-x-farmers-delight"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Conversion Queue",
+      "row": 10,
+      "name": "Mystical 3DRetextured+",
+      "fields": {
+        "A": "76.0",
+        "B": "Mystical 3DRetextured+",
+        "C": "Model-dependent conversion",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/mystical-3dretextured"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Conversion Queue",
+      "row": 11,
+      "name": "Bare Bones x The Aether PBR",
+      "fields": {
+        "A": "78.0",
+        "B": "Bare Bones x The Aether PBR",
+        "C": "PBR/material conversion",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/bare-bones-x-the-aether-pbr"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Conversion Queue",
+      "row": 12,
+      "name": "JS Leaves+ for Biomes O\u2019 Plenty",
+      "fields": {
+        "A": "82.0",
+        "B": "JS Leaves+ for Biomes O\u2019 Plenty",
+        "C": "Simple pack-format conversion",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/js-leaves-for-biomes-o-plenty"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Conversion Queue",
+      "row": 13,
+      "name": "Mizuno\u2019s x Let\u2019s Do Meadow",
+      "fields": {
+        "A": "83.0",
+        "B": "Mizuno\u2019s x Let\u2019s Do Meadow",
+        "C": "Texture-path remap",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/mizunos-x-lets-do-meadow"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Conversion Queue",
+      "row": 14,
+      "name": "Reimagined",
+      "fields": {
+        "A": "84.0",
+        "B": "Reimagined",
+        "C": "Model-dependent conversion",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/minecraft-reimagined"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Conversion Queue",
+      "row": 15,
+      "name": "BetterVanillaBuilding",
+      "fields": {
+        "A": "85.0",
+        "B": "BetterVanillaBuilding",
+        "C": "Simple pack-format conversion",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/bettervanillabuilding"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Conversion Queue",
+      "row": 16,
+      "name": "Faithful 32x",
+      "fields": {
+        "A": "86.0",
+        "B": "Faithful 32x",
+        "C": "Simple pack-format conversion",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/faithful-32x"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Conversion Queue",
+      "row": 18,
+      "name": "Not Enough Pixels",
+      "fields": {
+        "A": "89.0",
+        "B": "Not Enough Pixels",
+        "C": "Mod-version asset port",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/faithful-64x-modded"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Conversion Queue",
+      "row": 19,
+      "name": "Alex's Caves: Crystal Palace",
+      "fields": {
+        "A": "92.0",
+        "B": "Alex's Caves: Crystal Palace",
+        "C": "Model-dependent conversion (EMF/ETF)",
+        "D": "https://modrinth.com/resourcepack/crystal-palace"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Conversion Queue",
+      "row": 20,
+      "name": "Soartex Fanver - Modded",
+      "fields": {
+        "A": "94.0",
+        "B": "Soartex Fanver - Modded",
+        "C": "Mod-version asset port",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/soartex-fanver-modded"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Conversion Queue",
+      "row": 21,
+      "name": "Unity: Modded",
+      "fields": {
+        "A": "96.0",
+        "B": "Unity: Modded",
+        "C": "Mod-version asset port",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/unity-modded"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Conversion Queue",
+      "row": 22,
+      "name": "Malumified Iron\u2019s Runes",
+      "fields": {
+        "A": "97.0",
+        "B": "Malumified Iron\u2019s Runes",
+        "C": "Texture-path remap",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/malumified-irons-runes"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Conversion Queue",
+      "row": 23,
+      "name": "Botania Revamped",
+      "fields": {
+        "A": "98.0",
+        "B": "Botania Revamped",
+        "C": "Mod-version asset port",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/botania-revamped"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Conversion Queue",
+      "row": 24,
+      "name": "Retinted: Oh The Biomes We\u2019ve Gone Waters",
+      "fields": {
+        "A": "99.0",
+        "B": "Retinted: Oh The Biomes We\u2019ve Gone Waters",
+        "C": "Model/color-system conversion",
+        "D": "https://modrinth.com/resourcepack/retinted-ot-bwg-waters"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Conversion Queue",
+      "row": 25,
+      "name": "Bare Bones 3D Crops",
+      "fields": {
+        "A": "100.0",
+        "B": "Bare Bones 3D Crops",
+        "C": "Simple pack-format/model conversion",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/barebones-3d-crops"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Conversion Queue",
+      "row": 26,
+      "name": "Unity",
+      "fields": {
+        "A": "101.0",
+        "B": "Unity",
+        "C": "Mod-version asset port",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/unity"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Conversion Queue",
+      "row": 27,
+      "name": "Updated Pixel Consistent Mystical Agriculture",
+      "fields": {
+        "A": "102.0",
+        "B": "Updated Pixel Consistent Mystical Agriculture",
+        "C": "Mod-version asset port",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/updated-pixel-consistent-mystical-agriculture"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Conversion Queue",
+      "row": 28,
+      "name": "Mo's Vibrancy Pack",
+      "fields": {
+        "A": "103.0",
+        "B": "Mo's Vibrancy Pack",
+        "C": "Mod-version asset port",
+        "D": "https://www.planetminecraft.com/texture-pack/the-vibrancy-pack-1-13/"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Conversion Queue",
+      "row": 29,
+      "name": "Alex's Mobs Alternatives",
+      "fields": {
+        "A": "104.0",
+        "B": "Alex's Mobs Alternatives",
+        "C": "Mod-version asset port",
+        "D": "https://www.planetminecraft.com/texture-pack/alex-s-mobs-alternatives/"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Conversion Queue",
+      "row": 30,
+      "name": "Pixel Consistent Mystical Agriculture",
+      "fields": {
+        "A": "105.0",
+        "B": "Pixel Consistent Mystical Agriculture",
+        "C": "Mod-version asset port",
+        "D": "https://modrinth.com/resourcepack/pixel-consistent-mystical-agriculture"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Conversion Queue",
+      "row": 31,
+      "name": "Botania Improved Textures",
+      "fields": {
+        "A": "106.0",
+        "B": "Botania Improved Textures",
+        "C": "Mod-version asset port",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/botania-improved-textures"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Conversion Queue",
+      "row": 32,
+      "name": "RexCraft Mods Expansion: Alex\u2019s Mobs",
+      "fields": {
+        "A": "107.0",
+        "B": "RexCraft Mods Expansion: Alex\u2019s Mobs",
+        "C": "Mod-version asset port",
+        "D": "https://www.planetminecraft.com/texture-pack/rexcraft-mods-expansion-alex-smobs/"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Conversion Queue",
+      "row": 33,
+      "name": "Botania Improved Flowers",
+      "fields": {
+        "A": "108.0",
+        "B": "Botania Improved Flowers",
+        "C": "Mod-version asset port",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/botania-improved-flowers"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Conversion Queue",
+      "row": 34,
+      "name": "Farmer\u2019s Delight crops 3D",
+      "fields": {
+        "A": "109.0",
+        "B": "Farmer\u2019s Delight crops 3D",
+        "C": "Mod-version asset port",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/farmers-delight-crops-3d"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Conversion Queue",
+      "row": 35,
+      "name": "Iron\u2019s Botany \u2014 dedicated texture pack gap",
+      "fields": {
+        "A": "110.0",
+        "B": "Iron\u2019s Botany \u2014 dedicated texture pack gap",
+        "C": "Custom pack required",
+        "D": "https://www.curseforge.com/minecraft/mc-mods/irons-botany"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Excalibur Ecosystem",
+      "row": 4,
+      "name": "Excalibur | Apotheosis Support",
+      "fields": {
+        "A": "13.0",
+        "B": "Excalibur | Apotheosis Support",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-apotheosis-support"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Excalibur Ecosystem",
+      "row": 5,
+      "name": "Excalibur | Farmer\u2019s Delight Support",
+      "fields": {
+        "A": "14.0",
+        "B": "Excalibur | Farmer\u2019s Delight Support",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-farmers-delight-support"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Excalibur Ecosystem",
+      "row": 6,
+      "name": "Excalibur | Supplementaries Support",
+      "fields": {
+        "A": "15.0",
+        "B": "Excalibur | Supplementaries Support",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-supplementaries-support"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Excalibur Ecosystem",
+      "row": 7,
+      "name": "Excalibur | Clarent Edition",
+      "fields": {
+        "A": "17.0",
+        "B": "Excalibur | Clarent Edition",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/clarent-excalibur-patch"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Excalibur Ecosystem",
+      "row": 8,
+      "name": "Excalibur | Fresh Animations Patch",
+      "fields": {
+        "A": "18.0",
+        "B": "Excalibur | Fresh Animations Patch",
+        "C": "Native / drop-in",
+        "D": "https://modrinth.com/resourcepack/excalibur-fresh-animations"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Excalibur Ecosystem",
+      "row": 9,
+      "name": "Excalibur | Iron\u2019s Spells \u2019N Spellbooks Support",
+      "fields": {
+        "A": "19.0",
+        "B": "Excalibur | Iron\u2019s Spells \u2019N Spellbooks Support",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-irons-spells-n-spellbooks-support"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Excalibur Ecosystem",
+      "row": 10,
+      "name": "Excalibur | L_Ender\u2019s Cataclysm Support",
+      "fields": {
+        "A": "20.0",
+        "B": "Excalibur | L_Ender\u2019s Cataclysm Support",
+        "C": "Native / drop-in",
+        "D": "https://modrinth.com/resourcepack/excal-l_ender-s-cataclysm-support"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Excalibur Ecosystem",
+      "row": 11,
+      "name": "Excalibur | Hearth and Harvest Delight Support",
+      "fields": {
+        "A": "23.0",
+        "B": "Excalibur | Hearth and Harvest Delight Support",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-hearth-and-harvest-support"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Excalibur Ecosystem",
+      "row": 12,
+      "name": "Excalibur | My Nether\u2019s Delight Support",
+      "fields": {
+        "A": "24.0",
+        "B": "Excalibur | My Nether\u2019s Delight Support",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-my-nethers-delight-support"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Excalibur Ecosystem",
+      "row": 13,
+      "name": "Brewin\u2019 And Chewin\u2019 | Excalibur Support",
+      "fields": {
+        "A": "30.0",
+        "B": "Brewin\u2019 And Chewin\u2019 | Excalibur Support",
+        "C": "Native / drop-in",
+        "D": "https://modrinth.com/resourcepack/brewin-and-chewin-excalibur-support"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Excalibur Ecosystem",
+      "row": 14,
+      "name": "Excalibur | Aether Support",
+      "fields": {
+        "A": "31.0",
+        "B": "Excalibur | Aether Support",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-aether-support"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Excalibur Ecosystem",
+      "row": 15,
+      "name": "Excalibur | Mowzie's Mobs Support",
+      "fields": {
+        "A": "32.0",
+        "B": "Excalibur | Mowzie's Mobs Support",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-mowzies-mobs-support"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Excalibur Ecosystem",
+      "row": 16,
+      "name": "Excalibur | Quark Delight Support",
+      "fields": {
+        "A": "49.0",
+        "B": "Excalibur | Quark Delight Support",
+        "C": "Native / drop-in",
+        "D": "https://modrinth.com/resourcepack/quark-delight-excalibur-support"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Excalibur Ecosystem",
+      "row": 17,
+      "name": "Excalibur | Oh The Biomes We\u2019ve Gone Support",
+      "fields": {
+        "A": "67.0",
+        "B": "Excalibur | Oh The Biomes We\u2019ve Gone Support",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-oh-the-biomes-weve-gone-support"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Stay True Ecosystem",
+      "row": 3,
+      "name": "Stay True",
+      "fields": {
+        "A": "27.0",
+        "B": "Stay True",
+        "C": "Native / drop-in",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/stay-true"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Legacy Asset Mines",
+      "row": 2,
+      "name": "Faithful 32x Modded",
+      "fields": {
+        "A": "39.0",
+        "B": "Faithful 32x Modded",
+        "C": "Mod-version asset port",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/faithful-32x-modded"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Legacy Asset Mines",
+      "row": 3,
+      "name": "Not Enough Pixels",
+      "fields": {
+        "A": "89.0",
+        "B": "Not Enough Pixels",
+        "C": "Mod-version asset port",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/faithful-64x-modded"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Legacy Asset Mines",
+      "row": 4,
+      "name": "Soartex Fanver - Modded",
+      "fields": {
+        "A": "94.0",
+        "B": "Soartex Fanver - Modded",
+        "C": "Mod-version asset port",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/soartex-fanver-modded"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Legacy Asset Mines",
+      "row": 5,
+      "name": "Unity: Modded",
+      "fields": {
+        "A": "96.0",
+        "B": "Unity: Modded",
+        "C": "Mod-version asset port",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/unity-modded"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Legacy Asset Mines",
+      "row": 6,
+      "name": "Botania Revamped",
+      "fields": {
+        "A": "98.0",
+        "B": "Botania Revamped",
+        "C": "Mod-version asset port",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/botania-revamped"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Legacy Asset Mines",
+      "row": 7,
+      "name": "Unity",
+      "fields": {
+        "A": "101.0",
+        "B": "Unity",
+        "C": "Mod-version asset port",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/unity"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Legacy Asset Mines",
+      "row": 8,
+      "name": "Updated Pixel Consistent Mystical Agriculture",
+      "fields": {
+        "A": "102.0",
+        "B": "Updated Pixel Consistent Mystical Agriculture",
+        "C": "Mod-version asset port",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/updated-pixel-consistent-mystical-agriculture"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Legacy Asset Mines",
+      "row": 9,
+      "name": "Mo's Vibrancy Pack",
+      "fields": {
+        "A": "103.0",
+        "B": "Mo's Vibrancy Pack",
+        "C": "Mod-version asset port",
+        "D": "https://www.planetminecraft.com/texture-pack/the-vibrancy-pack-1-13/"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Legacy Asset Mines",
+      "row": 10,
+      "name": "Alex's Mobs Alternatives",
+      "fields": {
+        "A": "104.0",
+        "B": "Alex's Mobs Alternatives",
+        "C": "Mod-version asset port",
+        "D": "https://www.planetminecraft.com/texture-pack/alex-s-mobs-alternatives/"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Legacy Asset Mines",
+      "row": 11,
+      "name": "Pixel Consistent Mystical Agriculture",
+      "fields": {
+        "A": "105.0",
+        "B": "Pixel Consistent Mystical Agriculture",
+        "C": "Mod-version asset port",
+        "D": "https://modrinth.com/resourcepack/pixel-consistent-mystical-agriculture"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Legacy Asset Mines",
+      "row": 12,
+      "name": "Botania Improved Textures",
+      "fields": {
+        "A": "106.0",
+        "B": "Botania Improved Textures",
+        "C": "Mod-version asset port",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/botania-improved-textures"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Legacy Asset Mines",
+      "row": 13,
+      "name": "RexCraft Mods Expansion: Alex\u2019s Mobs",
+      "fields": {
+        "A": "107.0",
+        "B": "RexCraft Mods Expansion: Alex\u2019s Mobs",
+        "C": "Mod-version asset port",
+        "D": "https://www.planetminecraft.com/texture-pack/rexcraft-mods-expansion-alex-smobs/"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Legacy Asset Mines",
+      "row": 14,
+      "name": "Botania Improved Flowers",
+      "fields": {
+        "A": "108.0",
+        "B": "Botania Improved Flowers",
+        "C": "Mod-version asset port",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/botania-improved-flowers"
+      },
+      "matches": []
+    },
+    {
+      "sheet": "Legacy Asset Mines",
+      "row": 15,
+      "name": "Farmer\u2019s Delight crops 3D",
+      "fields": {
+        "A": "109.0",
+        "B": "Farmer\u2019s Delight crops 3D",
+        "C": "Mod-version asset port",
+        "D": "https://www.curseforge.com/minecraft/texture-packs/farmers-delight-crops-3d"
+      },
+      "matches": []
+    }
+  ]
+}

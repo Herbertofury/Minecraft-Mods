@@ -386,3 +386,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 
 </details>
 
+
+## Stack planning and companion notes
+
+[Visual styles and resource-pack stacks](Visual-Styles-and-Pack-Stacks) explains version-specific dependencies, priority-order conflicts and a repeatable visual check. Ninety-one companion rows are attached to 36 entries; 260 companion rows remain in review. These annotations do not inflate catalogue totals or promote native compatibility.
