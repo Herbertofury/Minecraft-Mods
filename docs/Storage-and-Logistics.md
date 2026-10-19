@@ -17,7 +17,7 @@ Use **Link to these filters** in the catalogue to bookmark a custom view. Detail
 
 ## Current collection
 
-**226 entries in this category.** The 2026-10-19 consolidation preserved all 156 storage-master observations: all 156 now have resolved project identities; the [remaining identity queue for this master view](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/storage-import-pending-identities.json) is empty. The current complete catalogue preserves 411 favorites; identity resolution does not imply tested compatibility. Other source tabs and collections still need reconciliation.
+**226 entries in this category.** The 2026-10-19 consolidation preserved all 156 storage-master observations: all 156 now have resolved project identities; the [remaining identity queue for this master view](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/storage-import-pending-identities.json) is empty. The current complete catalogue preserves 411 favorites; identity resolution does not imply tested compatibility. Other source collections still need reconciliation.
 
 [Import verification](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/storage-import-verification.json) · [Cross-host project identity checks](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/storage-project-identity-checks.json)
 
@@ -343,7 +343,7 @@ These are qualification scenarios, not claims that the named projects currently 
 
 ## Companion-view reconciliation
 
-The same collection contained useful notes outside its master view. The follow-on pass attached **118 companion-view observations to 57 already identified catalogue entries**, preserving unique cautions, use cases and historical version claims without inventing new mods or promoting verification. **14 observations remain pending identity resolution.** These annotations are visible in the existing detail cards; original source dates and conflicting claims remain labeled as history. [Reconciliation receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/storage-companion-import-receipt.json). That companion-note pass preserved the then-current 1,935 entries and 42 favorites. The current full catalogue contains 2,264 entries and 411 catalogued favorites, without changing the explicit Forever World flags.
+The same collection contained useful notes outside its master view. The follow-on pass attached **132 companion-view observations to 69 already identified catalogue entries**, preserving unique cautions, use cases and historical version claims without inventing new mods or promoting verification. **No observations from this companion-view set remain pending identity resolution.** These annotations are visible in the existing detail cards; original source dates and conflicting claims remain labeled as history. [Reconciliation receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/storage-companion-import-receipt.json). That companion-note pass preserved the then-current 1,935 entries and 42 favorites. The current full catalogue contains 2,264 entries and 411 catalogued favorites, without changing the explicit Forever World flags.
 
 
 ## Identity corrections: preserve the notes, avoid duplicates
@@ -362,7 +362,7 @@ Reliable Backpacks, Simple Horse QOL and QuadHotbar source notes are now attache
 
 ## Storage master view: all 156 observations mapped
 
-The final ten identities include Create logistics/springs, DayZ Inventory, the distinct Take It and TakeItOut projects, maid crafting/storage integrations, Mochila and a Tom’s Simple Storage optimization candidate. All original master-view notes are retained. This does not finish the companion tabs or the other source collections, and none of these additions was promoted to native-tested status.
+The final ten identities include Create logistics/springs, DayZ Inventory, the distinct Take It and TakeItOut projects, maid crafting/storage integrations, Mochila and a Tom’s Simple Storage optimization candidate. All original master-view notes are retained. The 132 distinct companion-view observations from the same inspected workbook are also attached; this does not finish the other source collections, and none of these additions was promoted to native-tested status.
 
 Create: Mobile Packages currently labels its Forge 1.20.1 branch unsupported; preserve its historical file notes without presenting that branch as actively maintained. Treat the Tom’s optimization title as a proposal until equivalent-work measurements establish a benefit.
 

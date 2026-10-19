@@ -1,27 +1,19 @@
 {
   "source_companion_rows": 132,
-  "attached_view_observations": 118,
-  "pending_identity_rows": 14,
-  "unique_catalogue_entries_enriched": 57,
-  "display_entries_unchanged": 1935,
-  "source_record_count_unchanged": 2159,
-  "favorite_count_unchanged": 42,
+  "attached_view_observations": 132,
+  "pending_identity_rows": 0,
+  "unique_catalogue_entries_enriched": 69,
+  "display_entries_unchanged": 2264,
+  "source_record_count_unchanged": 2609,
+  "favorite_count_unchanged": 411,
   "native_verification_promotions": 0,
   "changed_shards": [
-    "details-0.json",
     "details-1.json",
     "details-2.json",
-    "details-3.json",
-    "details-4.json",
     "details-5.json",
     "details-6.json",
     "details-7.json",
-    "details-8.json",
     "details-9.json",
-    "details-a.json",
-    "details-b.json",
-    "details-c.json",
-    "details-d.json",
     "details-e.json",
     "details-f.json"
   ],
@@ -615,134 +607,79 @@
       "catalogue_id": "3f039193b9afa9e6",
       "sheet": "Forge 1.20.1 QoL",
       "row": 31
+    },
+    {
+      "catalogue_id": "553e7de57bae9c9d",
+      "sheet": "Hidden Gems",
+      "row": 6
+    },
+    {
+      "catalogue_id": "7a2eaef434878b06",
+      "sheet": "Digital Networks",
+      "row": 15
+    },
+    {
+      "catalogue_id": "26d51cb0791e8e4f",
+      "sheet": "Digital Networks",
+      "row": 18
+    },
+    {
+      "catalogue_id": "f7feeb479d4de675",
+      "sheet": "Portable Storage",
+      "row": 16
+    },
+    {
+      "catalogue_id": "fa0641b9581dee66",
+      "sheet": "Portable Storage",
+      "row": 18
+    },
+    {
+      "catalogue_id": "594769eb0ffa433f",
+      "sheet": "Portable Storage",
+      "row": 24
+    },
+    {
+      "catalogue_id": "553e7de57bae9c9d",
+      "sheet": "Routing & Logistics",
+      "row": 12
+    },
+    {
+      "catalogue_id": "6ea88442910fba1e",
+      "sheet": "Routing & Logistics",
+      "row": 24
+    },
+    {
+      "catalogue_id": "14ea4c59d3bba694",
+      "sheet": "Routing & Logistics",
+      "row": 26
+    },
+    {
+      "catalogue_id": "778efb55a0a18354",
+      "sheet": "Routing & Logistics",
+      "row": 27
+    },
+    {
+      "catalogue_id": "e53a2de79fc327d5",
+      "sheet": "Search & Sorting QoL",
+      "row": 57
+    },
+    {
+      "catalogue_id": "90bb3b1e1bb33445",
+      "sheet": "Crafting & Storage QoL",
+      "row": 17
+    },
+    {
+      "catalogue_id": "1835dcaf1b002930",
+      "sheet": "Performance Add-ons",
+      "row": 8
+    },
+    {
+      "catalogue_id": "90bb3b1e1bb33445",
+      "sheet": "Craft From Storage",
+      "row": 19
     }
   ],
-  "pending": [
-    {
-      "sheet": "Hidden Gems",
-      "row": 6,
-      "name": "Logistics: Automation",
-      "distinct_fields": {
-        "Versions": "1.21.1; 1.21.11; 26.1.x\u201326.3, v0.8.11 Oct8",
-        "Why It\u2019s a Gem": "Visible item/fluid pipes, requested autocrafting, batteries and quarry; 0.8.11 fixes full-target routing.",
-        "Caution": "Early-development world data; Java25+ on 26.3, Fabric API on Fabric; no Forge1.20.1; backup + stage version migrations."
-      }
-    },
-    {
-      "sheet": "Digital Networks",
-      "row": 15,
-      "name": "Refined Wireless Upgrades",
-      "distinct_fields": {
-        "Why It\u2019s Fun / Useful": "Automate wireless-grid inventory transfer, block picking and drop collection without leaving the Refined Storage workflow."
-      }
-    },
-    {
-      "sheet": "Digital Networks",
-      "row": 18,
-      "name": "Maid Restaurant: Storage",
-      "distinct_fields": {
-        "Versions": "Requires TLM and Maid Restaurant; optional RS",
-        "Why It\u2019s Fun / Useful": "Maid cooking accesses whitelisted network containers; disk access off by default; audit dupe and permissions"
-      }
-    },
-    {
-      "sheet": "Portable Storage",
-      "row": 16,
-      "name": "Reliable Backpacks",
-      "distinct_fields": {
-        "Status": "New Curios-integrated lightweight backpack / backup first",
-        "Versions": "Forge 1.20.1 1.2.2; other builds 1.19.2 / 1.21.1",
-        "Why It\u2019s Fun / Useful": "Wear/place/dye backpacks, including death placement. Inventory NBT persists; test Curios and grave mods."
-      }
-    },
-    {
-      "sheet": "Portable Storage",
-      "row": 18,
-      "name": "Simple Horse QOL",
-      "distinct_fields": {
-        "Status": "Horse 27-slot chest + second rider; TEST COPY",
-        "Why It\u2019s Fun / Useful": "Portable storage is saved on horse entity and drops on death; pure client camera is removable.",
-        "I": "No save migration proof; remove chest data before uninstallation."
-      }
-    },
-    {
-      "sheet": "Portable Storage",
-      "row": 24,
-      "name": "Mochila",
-      "distinct_fields": {
-        "Status": "Modern-only, persistent backpack contents, no Forge 1.20.1",
-        "Versions": "6.2.1 Oct10 2026, 26.3 NeoForge/Fabric/Forge + other modern; Amber required",
-        "Why It\u2019s Fun / Useful": "Colorful dyeable backpacks, B hotkey, quick stash into containers; 6.2.1 fixes item dup/loss; test copied world."
-      }
-    },
-    {
-      "sheet": "Routing & Logistics",
-      "row": 12,
-      "name": "Logistics: Automation",
-      "distinct_fields": {
-        "Versions": "1.21.1; 1.21.11; 26.1.x; 26.2; 26.3 (0.8.11 Oct8)",
-        "Why It\u2019s Fun / Useful": "Visible pipes route item/fluid shipments with requester/provider networks, RF batteries, autocrafting and quarry. Early dev; backup and match loader."
-      }
-    },
-    {
-      "sheet": "Routing & Logistics",
-      "row": 24,
-      "name": "Create: Mobile Packages",
-      "distinct_fields": {
-        "Why It\u2019s Fun / Useful": "Robo Bees carry packages; network port migration required at 0.6.0"
-      }
-    },
-    {
-      "sheet": "Routing & Logistics",
-      "row": 26,
-      "name": "Create: Additional Logistics",
-      "distinct_fields": {
-        "Versions": "Forge+NeoForge1.20.1 1.4.5 CF7460284; separate NeoForge1.21.1",
-        "Why It\u2019s Fun / Useful": "Package accelerators, cash registers, stock requests, regex routing, Lazy Shafts and optional train monitor. 1.4.5 repairs Factory Logistics purchases but disables its currency conversion; persistent blocks and config require copied-world QA."
-      }
-    },
-    {
-      "sheet": "Routing & Logistics",
-      "row": 27,
-      "name": "Create: Springs",
-      "distinct_fields": {
-        "Status": "Create6 kinetic-charge storage and spring-powered mechanics (not generic logistics sorting)",
-        "Versions": "Forge/NeoForge1.20.1 1.1.3 CF7803897; modern 1.21.1 1.2.1 separate",
-        "Why It\u2019s Fun / Useful": "Adds physical spring contraptions/tool blocks and optional VS/Sable mass; exact Create6 min patch unknown. New persistent blocks/energy state, server sync and item integrity untested."
-      }
-    },
-    {
-      "sheet": "Search & Sorting QoL",
-      "row": 57,
-      "name": "QuadHotbar (MultiHotbar)",
-      "distinct_fields": {
-        "Status": "Extended hotbar / server-sync; BACKUP FIRST",
-        "Why It\u2019s Fun / Useful": "Up to 36 usable hotbar slots; not safe as client-only; validate modded mousewheel, selected-slot sync and server."
-      }
-    },
-    {
-      "sheet": "Crafting & Storage QoL",
-      "row": 17,
-      "name": "Touhou Little Maid: Maid Crafting",
-      "distinct_fields": {
-        "Why It\u2019s Fun / Useful": "Maid-driven RS crafting and optional magic stations; item transaction and NBT tests needed."
-      }
-    },
-    {
-      "sheet": "Performance Add-ons",
-      "row": 8,
-      "name": "Tom's Simple Storage performance optimization",
-      "distinct_fields": {
-        "Why It\u2019s Fun / Useful": "Throttles terminal rescans, binary-searches connected containers >8; native item-integrity and MSPT proof required; do not stack conflicting patches."
-      }
-    },
-    {
-      "sheet": "Craft From Storage",
-      "row": 19,
-      "name": "Touhou Little Maid: Maid Crafting",
-      "distinct_fields": {
-        "Tradeoff / Caution": "Exact Forge JAR unpinned; possible item duplication/recursive loops. Back up network before test."
-      }
-    }
-  ]
+  "pending": [],
+  "completed_at": "2026-10-19",
+  "completion_scope": "All 132 companion observations attached; historical claims remain labeled, no native verification"
 }

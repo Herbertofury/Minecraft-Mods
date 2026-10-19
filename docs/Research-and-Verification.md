@@ -15,7 +15,7 @@ Categories describe gameplay purpose. Edition, loader, Minecraft version, ecosys
 
 ## Import status
 
-The broad recommendations, gun research and creature-variety master views are imported. All 156 storage/sorting master observations are now attached to exact project identities, with their original claims preserved. This completes that master view only; native compatibility and current release qualification remain separate. Unique companion tabs still need reconciliation. The master index identifies 22 source collections; remaining collections, unique update tabs, HTML and documents are still in progress. No original source has been deleted or moved by this import.
+The broad recommendations, gun research and creature-variety master views are imported. All 156 storage/sorting master observations are now attached to exact project identities, with their original claims preserved. This completes that master view only; native compatibility and current release qualification remain separate. All 132 distinct companion-view observations from this inspected workbook are also attached to 69 existing entries, with historical cautions preserved. The master index identifies 22 source collections; remaining collections, unique update tabs, HTML and documents are still in progress. No original source has been deleted or moved by this import.
 
 ## Keeping information current
 
