@@ -4,14 +4,15 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**586 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**587 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
-<summary><strong>Content Pack · 7</strong></summary>
+<summary><strong>Content Pack · 8</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
 | ★ [How to Train Your Dragon Add-On](https://minecraft.net/en-us/marketplace/pdp?id=10b469b6-f196-428c-b98e-c572cc55e83e) | Bedrock rideable dragon bonding and abilities reference; no Java compatibility or conversion claim. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c23b39cfaad7f770) |
+| ★ [Liminal Dimension Add-On](https://minecraft.net/fr-fr/marketplace/pdp/cloud-corp/liminal-dimension-add--on-v1.1/8a4ef929-2ffa-4dea-8a06-fdd3b2743b4f) | Bedrock procedural furniture-dimension, trap and encounter design reference; title version remains a listing observation. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=29461c1d07606c0e) |
 | ★ [Slice of Life Add-On](https://minecraft.net/en-us/marketplace/pdp/starfish-studios/slice-of-life-add--on/b34587c5-e453-4fad-b2d5-95629f2ce0af) | Bedrock cozy building and companion reference; source conversion ambitions do not establish a Java release. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=e3f5e0884272a4c6) |
 | ★ [Soul Craft Add-On](https://minecraft.net/es-es/marketplace/pdp/snail-studios/soul-craft-add--on/242aa206-079c-4650-90ef-e8e50013e9aa) | Bedrock soul-powered progression, fantasy equipment and encounter reference; historical version claims remain source observations. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d4979d54e8322b69) |
 | ★ [SpongeBob SquarePants Add-On](https://minecraft.net/en-us/marketplace/pdp?id=5f7fe5e8-100a-4b60-b8b3-c8c30de46a91) | Bedrock themed companions, furniture and traversal reference; original source creator claim remains preserved separately. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=4da044be3a68625e) |

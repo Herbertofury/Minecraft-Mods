@@ -8,19 +8,19 @@ A content-organized home for mod discovery, comparison, compatibility notes and 
 
 ## Browse by what you want to do
 
-- **[Building and Decoration](Building-and-Decoration)** — 90 project/feature/target entries; overlapping categories.
-- **[Creatures and Companions](Creatures-and-Companions)** — 586 project/feature/target entries; overlapping categories.
-- **[Engineering and Vehicles](Engineering-and-Vehicles)** — 300 project/feature/target entries; overlapping categories.
+- **[Building and Decoration](Building-and-Decoration)** — 91 project/feature/target entries; overlapping categories.
+- **[Creatures and Companions](Creatures-and-Companions)** — 587 project/feature/target entries; overlapping categories.
+- **[Engineering and Vehicles](Engineering-and-Vehicles)** — 301 project/feature/target entries; overlapping categories.
 - **[Farming and Survival](Farming-and-Survival)** — 110 project/feature/target entries; overlapping categories.
 - **[Interface and Accessibility](Interface-and-Accessibility)** — 209 project/feature/target entries; overlapping categories.
-- **[Magic and Progression](Magic-and-Progression)** — 237 project/feature/target entries; overlapping categories.
+- **[Magic and Progression](Magic-and-Progression)** — 238 project/feature/target entries; overlapping categories.
 - **[Multiplayer and Servers](Multiplayer-and-Servers)** — 85 project/feature/target entries; overlapping categories.
 - **[Performance and Stability](Performance-and-Stability)** — 178 project/feature/target entries; overlapping categories.
 - **[Storage and Logistics](Storage-and-Logistics)** — 213 project/feature/target entries; overlapping categories.
 - **[Tools and Development](Tools-and-Development)** — 215 project/feature/target entries; overlapping categories.
 - **[Visuals and Resource Packs](Visuals-and-Resource-Packs)** — 294 project/feature/target entries; overlapping categories.
-- **[Weapons and Combat](Weapons-and-Combat)** — 603 project/feature/target entries; overlapping categories.
-- **[Worlds and Exploration](Worlds-and-Exploration)** — 292 project/feature/target entries; overlapping categories.
+- **[Weapons and Combat](Weapons-and-Combat)** — 606 project/feature/target entries; overlapping categories.
+- **[Worlds and Exploration](Worlds-and-Exploration)** — 293 project/feature/target entries; overlapping categories.
 
 ## Favorite deep dives
 
@@ -36,11 +36,11 @@ These three are explicitly marked favorites in the imported catalogue. The owner
 
 ## Current import coverage
 
-**2,213 research entries · 2,551 attached source observations · 382 catalogued favorites.** 338 repeated source observations are consolidated without dropping their notes. Entries include mods, resource packs, tools, targets and discovery routes; these are not counts of tested compatible mods.
+**2,216 research entries · 2,554 attached source observations · 385 catalogued favorites.** 338 repeated source observations are consolidated without dropping their notes. Entries include mods, resource packs, tools, targets and discovery routes; these are not counts of tested compatible mods.
 
 The broad recommendations, gun research, creature variety, storage/sorting and starred/conversion collections are being brought together. Remaining HTML, document collections and unique source tabs still need reconciliation. Source files remain intact. Imported source stars and version claims remain distinct from explicit Forever World targets, freshly checked releases and native gameplay tests.
 
-**42 starred/conversion source rows still need exact project identities.** Storage identity questions are tracked separately. [Unresolved starred rows](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/musthave-pending-identities.json) · [Unresolved storage rows](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/storage-import-pending-identities.json).
+**39 starred/conversion source rows still need exact project identities.** Storage identity questions are tracked separately. [Unresolved starred rows](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/musthave-pending-identities.json) · [Unresolved storage rows](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/storage-import-pending-identities.json).
 
 ### Import evidence and preservation checks
 
@@ -52,7 +52,7 @@ The broad recommendations, gun research, creature variety, storage/sorting and s
 
 Sixteen further source rows are connected to official creature, decoration, physics, animation and spell-integration projects. [Identity and preservation tests](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/remaining-identities-data-tests.json). The two joosh Clockwork source rows share one catalogue entry and remain distinct from unrelated Clockwork projects.
 
-The last six Java-oriented identity questions in this starred source collection are resolved. [Evidence](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/java-identities-data-tests.json). Remaining unresolved rows are 42 explicitly labeled Bedrock Marketplace research/conversion targets. This does not mean every separate source collection or release is verified.
+The last six Java-oriented identity questions in this starred source collection are resolved. [Evidence](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/java-identities-data-tests.json). Remaining unresolved rows are 39 explicitly labeled Bedrock Marketplace research/conversion targets. This does not mean every separate source collection or release is verified.
 
 [Three official Bedrock identities](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/bedrock-identities-data-tests.json) now connect Actions & Stuff, Slice of Life and Sulfur Blaster to their official Marketplace products. Actions & Stuff is correctly classified as a resource pack. Bedrock identity does not imply an available Java conversion.
 
@@ -61,5 +61,7 @@ Five further Bedrock branded/weapon references now have [official product identi
 [Sonic, SpongeBob and Tetris](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/bedrock-gameplay-data-tests.json) now have official add-on identities, kept separate from world DLC. Creator documentation informs future regression testing; it is not native compatibility certification.
 
 [The Hollow Dimension and Soul Craft](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/bedrock-dimension-data-tests.json) were matched through their live official Marketplace pages and creator links.
+
+[Armor Expansion (King Cube), MECHS and Liminal Dimension](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/bedrock-mechs-data-tests.json) have primary-listing identity checks. The similarly named Kubo Studios world is separate.
 
 Every pass preserves earlier source observations, favorites and explicit compatibility-target flags. Identity resolution does not certify a particular Minecraft build or native compatibility.

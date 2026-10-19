@@ -1,0 +1,29 @@
+{
+  "scope": "Primary project identity only; source records and verification levels preserved",
+  "entries": 2216,
+  "source_records": 2554,
+  "favorites": 385,
+  "resolved_rows": 3,
+  "new_entries": 3,
+  "pending_starred_rows": 39,
+  "applied": [
+    {
+      "row": 246,
+      "id": "3cebadcf427cfe2c",
+      "name": "Armor Expansion (King Cube)",
+      "new": true
+    },
+    {
+      "row": 247,
+      "id": "0692d1dfa39bb27e",
+      "name": "MECHS Add-On",
+      "new": true
+    },
+    {
+      "row": 248,
+      "id": "29461c1d07606c0e",
+      "name": "Liminal Dimension Add-On",
+      "new": true
+    }
+  ]
+}
