@@ -6,9 +6,9 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 
 ## Resource-pack ecosystem research
 
-[The resource-pack atlas](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-source-views.json) preserves 17 views covering flowers, crops, magic, creatures, biomes, Create, Excalibur and Stay True ecosystems, conversion candidates and suggested pack stacks. The first 37 exact matches are attached to 33 existing catalogue entries. Forty-six further project identities are now checked against official pages; another 76 master observations are being reconciled. Source scores, “native/drop-in” claims and suggested pack orders require exact-version testing; a design gap is not an available resource pack.
+[The resource-pack atlas](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-source-views.json) preserves 17 views covering flowers, crops, magic, creatures, biomes, Create, Excalibur and Stay True ecosystems, conversion candidates and suggested pack stacks. The first 37 exact matches are attached to 33 existing catalogue entries. Fifty further project identities are now checked against official pages; another 72 master observations are being reconciled. Source scores, “native/drop-in” claims and suggested pack orders require exact-version testing; a design gap is not an available resource pack.
 
-**342 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**346 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Content Pack · 3</strong></summary>
@@ -229,7 +229,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Resource Pack · 154</strong></summary>
+<summary><strong>Resource Pack · 158</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -239,6 +239,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [\[Bedrock\] Human Player Mobs](https://curseforge.com/minecraft-bedrock/texture-packs/human-player-mobs-bedrock-port) | BEDROCK VISUAL / CLIENT-SAFE / TEST CURRENT STABLE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=89c1d488fc13b448) |
 | ★ [Actions & Stuff](https://www.minecraft.net/en-us/marketplace/pdp/oreville-studios/actions-%26-stuff-1.12/61c7a786-d7ad-49e0-a710-817121cd9795) | BEDROCK ONLY / VISUAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=67c19b190bebc6ee) |
 | [Alexs Mobs Pocket](https://curseforge.com/minecraft-bedrock/addons/alexs-mobs-pocket) | BEDROCK TEST / BACKUP FIRST / HIGH-VALUE PARITY | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=f16d554440db1110) |
+| [Applied Energistics 2 BDCraft](https://www.curseforge.com/minecraft/texture-packs/applied-energistics-2-bdcraft) | BDCraft-style AE2 texture patch with 1.20/1.21 lanes and 32x, 64x, 128x, 256x and 512x variants. The author recommends PureBDCraft for the base game. This is an appearance patch ra | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=fb81bf2a4c96da88) |
 | [Ars Loafers](https://www.curseforge.com/minecraft/texture-packs/ars-loafers) | Official CurseForge project 1254524 by loafobucket is an Ars Nouveau resource pack with addon support. Current description targets 1.21.1, while older files list 1.20.1. Project-wi | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=4a3df3d6df8bb9f9) |
 | [Ars Naturae](https://www.curseforge.com/minecraft/texture-packs/ars-naturae) | Nature-themed Ars Nouveau visual pack using brown woods, mossy stone and blue Source styling. Author mentions addons without a complete support inventory. The inspected project lis | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=9789ec4d167d4b1a) |
 | [Ars Nouveau Refresh](https://modrinth.com/resourcepack/ars-nouveau-refresh) | Official Ars Nouveau Refresh page documents glyph, essence, charm/familiar and tablet icon redesigns. Mob/weapon/armor styling and addon item improvements appear on its roadmap; do | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=fc227c5780b3b100) |
@@ -256,6 +257,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Better Dogs](https://curseforge.com/minecraft/texture-packs/better-dogs) | Huge domestic-dog appearance library built on tamed wolves, including breed and special texture variations. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0928c717c3c63c72) |
 | [Better Dogs - Bedrock Edition](https://curseforge.com/minecraft-bedrock/texture-packs/better-dogs-bedrock-edition) | Bedrock port of the well-known dog-breed visual expansion. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=73757c9d4ec3eaba) |
 | [Better Leaves - Hexerei](https://www.curseforge.com/minecraft/texture-packs/better-leaves-hexerei) | Bushier Hexerei mahogany, willow and witch hazel leaves for 1.20/1.20.1. The author says Motschen’s Better Leaves is not required, although the packs can be used together. Vanilla  | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a626af2866ee2954) |
+| [Better Leaves for Bare Bones x Fruit’s Delight](https://modrinth.com/resourcepack/better-leaves-for-bare-bones-x-fruits-delight) | Fruit’s Delight is required; Bare Bones, Bare Bones x Farmer’s Delight and the related Better Leaves pack are strongly recommended. The 1.20–1.20.1 listing describes leaf, flower a | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=f01604a0d60b3c14) |
 | ★ [Better Mob Models](https://curseforge.com/minecraft/texture-packs/better-mob-models) | Replacement mob appearances. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=36322ebd39c4fc67) |
 | [Better Vibrant Visuals \| Static Light](https://curseforge.com/minecraft-bedrock/texture-packs/bettervibrantvisuals) | BEDROCK UPDATE / CLIENT-SAFE VISUAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=ade0d9f21026f5d4) |
 | ★ [Better, Fresher 3D Books VR](https://modrinth.com/resourcepack/better-fresher-3d-books-vr) | A resource pack that adds 3D book models and individual enchanted book textures tailored for Vivecraft! | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=f3c73ec99ccfce69) |
@@ -378,6 +380,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | ★ [Simply Swords Classic](https://curseforge.com/minecraft/texture-packs/simply-swords-classic) | Legacy three-dimensional models for Simply Swords. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=354e3b9ca4649b36) |
 | [SPBR-Farmer’s Delight](https://modrinth.com/resourcepack/spbr-farmersdelight) | Adds LabPBR normals, parallax, reflections, emission and subsurface scattering to Farmer’s Delight. The linked SPBR guidance requires a shader supporting LabPBR and parallax, with  | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=bb8e4730c3d919bf) |
 | [Stay True](https://www.curseforge.com/minecraft/texture-packs/stay-true) | Vanilla-style visual variation pack. Author lists OptiFine for connected textures, overlays and pink birch leaves, and advises fancy leaves plus appropriate connected-texture/alter | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=8195aa5182e19ee1) |
+| [The Aether BDCraft](https://www.curseforge.com/minecraft/texture-packs/the-aether-bdcraft) | BDCraft-style Aether texture patch for the listed 1.20 lane, with 32x through 512x options. The author recommends the separate PureBDCraft base-game pack. Exact Aether build covera | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c762b53bcff5a435) |
 | [The FAYE Pet Furniture Set \| CIT](https://herbertofury.github.io/Minecraft-Mods/?id=7393344c4453b6f4) | INSTALL / OPTIONAL VISUAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7393344c4453b6f4) |
 | [The FAYE Rugs & Curtains Set \| CIT](https://herbertofury.github.io/Minecraft-Mods/?id=fc558a90d21a4a18) | INSTALL / OPTIONAL VISUAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=fc558a90d21a4a18) |
 | [The FAYE Wallpaper & Flooring Set \| CIT](https://herbertofury.github.io/Minecraft-Mods/?id=5c2ca8927d412ee6) | INSTALL / OPTIONAL VISUAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=5c2ca8927d412ee6) |
@@ -387,6 +390,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Vanilla 3D Extension](https://curseforge.com/minecraft/texture-packs/vanilla-3d-extension) | OPTIONAL / FUTURE VERSION | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=567abea89d0f58f7) |
 | [Vibrant Legacy](https://curseforge.com/minecraft-bedrock/texture-packs/vibrant-legacy) | BEDROCK ONLY / OPTIONAL / CLIENT-VISUAL / CURRENT 26.x | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=3c3e41371eed875f) |
 | [Whimscape x Oh The Biomes We’ve Gone](https://www.curseforge.com/minecraft/texture-packs/whimscape-x-oh-the-biomes-weve-gone) | Whimscape-style BWG patch with 1.20.1 and 1.21.1 listings. The author says wood and ground types are retextured and All The Wood We’ve Got is included, while most extra plants rema | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=55e06e065f89b2db) |
+| [Xali’s Bushy Leaves - Regions Unexplored Addon](https://modrinth.com/resourcepack/xalis-bushy-leaves-ru-addon) | Minecraft 1.20.1 Regions Unexplored foliage add-on for Xali’s Bushy Leaves. The page also describes optional ambient-occlusion restoration and extended BetterNether/BetterEnd cover | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=4414fd6ff5014849) |
 
 </details>
 
@@ -426,4 +430,4 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 
 ## Stack planning and companion notes
 
-[Visual styles and resource-pack stacks](Visual-Styles-and-Pack-Stacks) explains version-specific dependencies, priority-order conflicts and a repeatable visual check. 193 companion rows are attached to 74 entries; 158 companion rows remain in review. These annotations do not inflate catalogue totals or promote native compatibility.
+[Visual styles and resource-pack stacks](Visual-Styles-and-Pack-Stacks) explains version-specific dependencies, priority-order conflicts and a repeatable visual check. 201 companion rows are attached to 78 entries; 150 companion rows remain in review. These annotations do not inflate catalogue totals or promote native compatibility.

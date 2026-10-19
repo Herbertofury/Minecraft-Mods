@@ -35,10 +35,12 @@ Before upgrades or removal, test a copied world with named/damaged/enchanted ite
 
 ## Browse by entry type
 
+**227 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+
 <details>
 <summary><strong>Content Pack · 4</strong></summary>
 
-| Project / research entry | Purpose | Evidence |
+| Project / target | Purpose | Evidence |
 |---|---|---|
 | ★ [Backpacks 2.0.2](https://minecraft.net/en-us/marketplace/pdp/scai-quest/backpacks-2.0.2/96d44e78-c0c9-4214-afe0-e5b4a77767cb) | Scai Quest Bedrock backpack customization, locator and offhand presentation reference; distinct from similarly named Java mods. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=3dbb6fbba783ae75) |
 | [BlockBlaster Add-On](https://minecraft.net/en-us/marketplace/pdp?id=fe8fcade-c770-4756-98d2-353529a13590) | Aria Creations block-capture and firing-mode design reference; distinct from similarly named blaster products. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b9e38e52ad39e6d8) |
@@ -50,7 +52,7 @@ Before upgrades or removal, test a copied world with named/damaged/enchanted ite
 <details>
 <summary><strong>Data Pack · 1</strong></summary>
 
-| Project / research entry | Purpose | Evidence |
+| Project / target | Purpose | Evidence |
 |---|---|---|
 | [Storage Pots](https://modrinth.com/datapack/storage-pots) | Interactive bulk single-item pots storing up to 16,384 items with hopper/comparator support. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b874386471cd632b) |
 
@@ -59,16 +61,16 @@ Before upgrades or removal, test a copied world with named/damaged/enchanted ite
 <details>
 <summary><strong>Discovery · 1</strong></summary>
 
-| Project / research entry | Purpose | Evidence |
+| Project / target | Purpose | Evidence |
 |---|---|---|
-| [Create: Factory Logistics](https://herbertofury.github.io/Minecraft-Mods/?id=dbad33295f5f8c0f) | Relevant to the Create gun/combat ecosystem; retained for comparison, expansion planning, or compatibility discovery. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=dbad33295f5f8c0f) |
+| [Create: Factory Logistics](https://herbertofury.github.io/Minecraft-Mods/?id=dbad33295f5f8c0f) | Relevant to the Create gun/combat ecosystem; retained for comparison, expansion planning, or compatibility discovery. | Discovery route; not an installable release · [details](https://herbertofury.github.io/Minecraft-Mods/?id=dbad33295f5f8c0f) |
 
 </details>
 
 <details>
 <summary><strong>Feature · 1</strong></summary>
 
-| Project / research entry | Purpose | Evidence |
+| Project / target | Purpose | Evidence |
 |---|---|---|
 | [Create (Stock Logistics)](https://modrinth.com/mod/create) | Create 6-era stock links, packagers, stock tickers and requesters form an expressive warehouse logistics system. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=6865fda1b4026b04) |
 
@@ -77,7 +79,7 @@ Before upgrades or removal, test a copied world with named/damaged/enchanted ite
 <details>
 <summary><strong>Library · 4</strong></summary>
 
-| Project / research entry | Purpose | Evidence |
+| Project / target | Purpose | Evidence |
 |---|---|---|
 | ★ [\[Let's Do\] API](https://modrinth.com/mod/do-api) | A Library for Forge and Fabric with utilities such as Render Features, Recipe Books and Wood API | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7c2c149e40faabf4) |
 | [BaguetteLib](https://curseforge.com/minecraft/mc-mods/baguettelib) | TOOL / DEPENDENCY / PIN EXACT BRANCH / LICENSE MANUAL-AUDIT | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b3a9405fb44efeaf) |
@@ -89,7 +91,7 @@ Before upgrades or removal, test a copied world with named/damaged/enchanted ite
 <details>
 <summary><strong>Mod · 215</strong></summary>
 
-| Project / research entry | Purpose | Evidence |
+| Project / target | Purpose | Evidence |
 |---|---|---|
 | [\[LDS\] Lazy Display Stand](https://curseforge.com/minecraft/mc-mods/lazy-display-stand) | INSTALL/TEST 1.20.1 / SERVER-MATCHED / BACKUP DISPLAY BLOCKS | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=53b2dbf19f0fb69e) |
 | ★ [\[Let's Do\] Camping](https://modrinth.com/mod/lets-do-camping) | How about we sleep outside today? Grab your backpack, pack the tent, grill, and sleeping bag, and let's go! | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=02348d52878f341e) |
@@ -309,6 +311,14 @@ Before upgrades or removal, test a copied world with named/damaged/enchanted ite
 
 </details>
 
+<details>
+<summary><strong>Resource Pack · 1</strong></summary>
+
+| Project / target | Purpose | Evidence |
+|---|---|---|
+| [Applied Energistics 2 BDCraft](https://www.curseforge.com/minecraft/texture-packs/applied-energistics-2-bdcraft) | BDCraft-style AE2 texture patch with 1.20/1.21 lanes and 32x, 64x, 128x, 256x and 512x variants. The author recommends PureBDCraft for the base game. This is an appearance patch ra | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=fb81bf2a4c96da88) |
+
+</details>
 
 ## Nine storage playstyles to investigate
 

@@ -469,5 +469,45 @@
       "Engineering and Vehicles"
     ],
     "note": "BDCraft-style Mekanism texture patch with 1.20/1.21 file lanes and 32x, 64x, 128x, 256x and 512x resolutions. The author recommends the separate PureBDCraft base-game pack. Pick the matching mod/game version and resolution; higher resolution is not automatically better performance, and whole-mod coverage remains an author claim until asset auditing."
+  },
+  {
+    "row": 55,
+    "name": "The Aether BDCraft",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/the-aether-bdcraft",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Worlds and Exploration"
+    ],
+    "note": "BDCraft-style Aether texture patch for the listed 1.20 lane, with 32x through 512x options. The author recommends the separate PureBDCraft base-game pack. Exact Aether build coverage and texture-memory cost remain untested; do not infer 1.21 support from other BDCraft patches."
+  },
+  {
+    "row": 56,
+    "name": "Xali\u2019s Bushy Leaves - Regions Unexplored Addon",
+    "url": "https://modrinth.com/resourcepack/xalis-bushy-leaves-ru-addon",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Worlds and Exploration"
+    ],
+    "note": "Minecraft 1.20.1 Regions Unexplored foliage add-on for Xali\u2019s Bushy Leaves. The page also describes optional ambient-occlusion restoration and extended BetterNether/BetterEnd coverage, and supplies an illustrated pack order. These optional expansions and ordering requirements are separate from the core pack; no blanket Complementary/Hari/Vulkan compatibility is established."
+  },
+  {
+    "row": 57,
+    "name": "Applied Energistics 2 BDCraft",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/applied-energistics-2-bdcraft",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Storage and Logistics"
+    ],
+    "note": "BDCraft-style AE2 texture patch with 1.20/1.21 lanes and 32x, 64x, 128x, 256x and 512x variants. The author recommends PureBDCraft for the base game. This is an appearance patch rather than storage-network logic or gameplay integration; exact build coverage and performance require tests."
+  },
+  {
+    "row": 58,
+    "name": "Better Leaves for Bare Bones x Fruit\u2019s Delight",
+    "url": "https://modrinth.com/resourcepack/better-leaves-for-bare-bones-x-fruits-delight",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Farming and Survival"
+    ],
+    "note": "Fruit\u2019s Delight is required; Bare Bones, Bare Bones x Farmer\u2019s Delight and the related Better Leaves pack are strongly recommended. The 1.20\u20131.20.1 listing describes leaf, flower and fruit-block textures for thirteen fruit types. Cherry leaves are not included. Keep requirements distinct from style recommendations and do not claim complete tree coverage."
   }
 ]

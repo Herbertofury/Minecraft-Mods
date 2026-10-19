@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**314 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**316 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Compatibility Target · 8</strong></summary>
@@ -352,7 +352,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Resource Pack · 17</strong></summary>
+<summary><strong>Resource Pack · 19</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -372,7 +372,9 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Prettier Sheep](https://curseforge.com/minecraft/texture-packs/prettier-sheep) | Remodels sheep and adds temperate, warm, cold and mountain-oriented forms. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a1e760e8484c7626) |
 | [Retextures o’ Plenty](https://www.curseforge.com/minecraft/texture-packs/retextures-o-plenty) | Official Biomes O Plenty resource pack by IcyCaeli. Author describes changes to over 300 textures and variants, currently for the base mod; addon support is planned rather than imp | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=229ec91a7d1c71c2) |
 | [Stay True](https://www.curseforge.com/minecraft/texture-packs/stay-true) | Vanilla-style visual variation pack. Author lists OptiFine for connected textures, overlays and pink birch leaves, and advises fancy leaves plus appropriate connected-texture/alter | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=8195aa5182e19ee1) |
+| [The Aether BDCraft](https://www.curseforge.com/minecraft/texture-packs/the-aether-bdcraft) | BDCraft-style Aether texture patch for the listed 1.20 lane, with 32x through 512x options. The author recommends the separate PureBDCraft base-game pack. Exact Aether build covera | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c762b53bcff5a435) |
 | [Whimscape x Oh The Biomes We’ve Gone](https://www.curseforge.com/minecraft/texture-packs/whimscape-x-oh-the-biomes-weve-gone) | Whimscape-style BWG patch with 1.20.1 and 1.21.1 listings. The author says wood and ground types are retextured and All The Wood We’ve Got is included, while most extra plants rema | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=55e06e065f89b2db) |
+| [Xali’s Bushy Leaves - Regions Unexplored Addon](https://modrinth.com/resourcepack/xalis-bushy-leaves-ru-addon) | Minecraft 1.20.1 Regions Unexplored foliage add-on for Xali’s Bushy Leaves. The page also describes optional ambient-occlusion restoration and extended BetterNether/BetterEnd cover | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=4414fd6ff5014849) |
 
 </details>
 

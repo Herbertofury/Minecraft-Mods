@@ -58,7 +58,7 @@ These are historical starting ideas awaiting full exact-file review, not certifi
 
 ## Import coverage
 
-The original 17 views and all 159 master observations are preserved in the repository. Eighty-three master observations are attached to catalogue identities: 37 exact matches to existing records and forty-six newly reviewed identities. The remaining 76 master observations and 158 unmatched companion-view rows remain in review. 193 companion rows are attached to 74 entries; they do not inflate the unique-project or source-record totals.
+The original 17 views and all 159 master observations are preserved in the repository. Eighty-seven master observations are attached to catalogue identities: 37 exact matches to existing records and fifty newly reviewed identities. The remaining 72 master observations and 150 unmatched companion-view rows remain in review. 201 companion rows are attached to 78 entries; they do not inflate the unique-project or source-record totals.
 
 [Preserved source views](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-source-views.json) · [Master import receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-import.json) · [Companion receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-companion-receipt.json)
 
@@ -113,3 +113,9 @@ Original scores and superlatives remain source opinions. No pack was installed, 
 [Whimscape × BWG](https://www.curseforge.com/minecraft/texture-packs/whimscape-x-oh-the-biomes-weve-gone) covers the author’s wood/ground targets and All The Wood We’ve Got, while most extra plants are still untouched. [BareBones × BetterEnd](https://modrinth.com/resourcepack/barebones-x-betterend) offers another visual direction, but exact asset coverage still needs comparison against the chosen BetterEnd build.
 
 [3D Crops Revamped](https://modrinth.com/resourcepack/3d-crops) is a distinct crop-model option with author-described readability/floating-texture improvements. It should not be merged with the similarly named Reforged/Reploughed projects. [Mekanism BDCraft](https://www.curseforge.com/minecraft/texture-packs/mekanism-bdcraft) offers multiple resolutions and recommends the separate PureBDCraft base pack. Choose a measured texture-memory budget rather than assuming the largest resolution is best.
+
+## Optional foliage layers and technical texture patches
+
+[Xali’s Regions Unexplored add-on](https://modrinth.com/resourcepack/xalis-bushy-leaves-ru-addon) distinguishes its core foliage changes from optional ambient-occlusion and BetterNether/BetterEnd expansions. Follow the author’s illustrated pack order rather than treating every expansion as automatically included. [Bare Bones × Fruit’s Delight leaves](https://modrinth.com/resourcepack/better-leaves-for-bare-bones-x-fruits-delight) requires Fruit’s Delight, while its related style packs are recommendations; cherry foliage is outside the listed coverage.
+
+[The Aether BDCraft](https://www.curseforge.com/minecraft/texture-packs/the-aether-bdcraft) and [AE2 BDCraft](https://www.curseforge.com/minecraft/texture-packs/applied-energistics-2-bdcraft) are separate appearance patches with selectable texture resolutions. They neither port their target mods to another loader nor implement gameplay interoperability.

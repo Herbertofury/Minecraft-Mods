@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**126 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**127 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Content Pack · 4</strong></summary>
@@ -133,12 +133,13 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Resource Pack · 16</strong></summary>
+<summary><strong>Resource Pack · 17</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
 | [3D Crops Revamped](https://modrinth.com/resourcepack/3d-crops) | NinthWorld-derived crop/plant model refresh, distinct from Reforged and Reploughed. The author describes clearer growth stages, reduced repetition, colored stems and floating-textu | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2037d104afed5516) |
 | [Bare Bones x Farmer’s Delight](https://modrinth.com/resourcepack/bare-bones-x-farmers-delight) | Official Bare Bones compatibility resource pack for Farmer’s Delight and several Delight addons. Author-listed completion differs by addon; do not promote the whole family to fully | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=9e890ace92db3272) |
+| [Better Leaves for Bare Bones x Fruit’s Delight](https://modrinth.com/resourcepack/better-leaves-for-bare-bones-x-fruits-delight) | Fruit’s Delight is required; Bare Bones, Bare Bones x Farmer’s Delight and the related Better Leaves pack are strongly recommended. The 1.20–1.20.1 listing describes leaf, flower a | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=f01604a0d60b3c14) |
 | [BnC Coaster Compat](https://modrinth.com/resourcepack/bnc-coaster-compat) | The atlas's opaque project ID u0btsBB7 redirects to BnC Coaster Compat. Its page lists Minecraft 1.20–1.20.1 and additional Brewin' and Chewin' coaster models for selected foods fr | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b4686d91cd659e02) |
 | [Brewin' And Chewin' \| Excalibur Support](https://modrinth.com/resourcepack/brewin-and-chewin-excalibur-support) | Excalibur-style blocks, items, interface and coaster-model textures for Brewin' And Chewin'. Author claims at least 97% of textures edited, which is not an independently audited co | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=87b3949cf02b711c) |
 | ★ [Create: Fresh Items](https://modrinth.com/resourcepack/create-fresh-food) | 3D Create item models inspired by Fresh Food | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=f4b18fb9f355034a) |
