@@ -40,7 +40,7 @@ The first import contains **1,981 source records**, reconciled into **1,814 rese
 
 The broad, weapon and creature-variety catalogues are imported; the storage/sorting master view has now been reconciled separately. The remaining indexed collections, unique update notes, HTML and Google Docs are still being reconciled. Original files remain intact. Version claims copied from a source are distinguished from newly checked official releases and native testing.
 
-The current catalogue contains **2,140 research entries and 298 catalogued favorites**, retaining all 39 owner-selected target observations. Targets without a resolved release route remain visibly labeled compatibility targets.
+The current catalogue contains **2,158 research entries and 316 catalogued favorites**, retaining all 39 owner-selected target observations. Targets without a resolved release route remain visibly labeled compatibility targets.
 
 ## Storage research consolidation
 
@@ -50,8 +50,10 @@ The 2026-10-19 pass preserved 156 current storage-master observations: **139 imp
 
 ## More research brought together
 
-The next pass added **188 project entries and 280 source observations** from the current starred/conversion collection. The catalogue now contains **2,140 entries and 2,464 attached source observations**. All earlier favorites and explicit Forever World flags survive. The **298 catalogued favorites** include imported source stars; they are preferences, not runtime certification. **129 source rows** await exact project identity or a direct project route and remain separately preserved. [Evidence](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/musthave-import-receipt.json) · [Organized favorites](https://github.com/Herbertofury/Minecraft-Mods/wiki/Favorites).
+The next pass added **188 project entries and 280 source observations** from the current starred/conversion collection. The catalogue now contains **2,158 entries and 2,482 attached source observations**. All earlier favorites and explicit Forever World flags survive. The **316 catalogued favorites** include imported source stars; they are preferences, not runtime certification. **111 source rows** await exact project identity or a direct project route and remain separately preserved. [Evidence](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/musthave-import-receipt.json) · [Organized favorites](https://github.com/Herbertofury/Minecraft-Mods/wiki/Favorites).
 
 Six formerly unresolved targets now link to their verified official project pages: Terramity, Malum, The Midnight, Gateways to Eternity, Oculus and Create Jetpack. Their source observations are attached to the existing entries; no duplicate project or native compatibility claim was created. [Identity evidence](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/musthave-identity-resolution.json).
 
 The official public creator-project list resolved 19 more source rows in the Let’s Do collection: 17 project entries were added and two existing cross-host entries were matched through their shared upstream repositories. Legacy releases and Farm&Charm compatibility projects stay distinct. [Identity and preservation tests](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/creator-family-data-tests.json).
+
+Eighteen additional source rows now have official project identities from the SSKirillSS public creator-project list, including Relics compatibility bridges, Octo libraries, UI/visual tools and creature/storage projects. They are categorized by their actual described role. [Preservation tests](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/relics-family-data-tests.json). Project identity is not exact-version compatibility certification.
