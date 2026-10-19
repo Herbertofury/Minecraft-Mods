@@ -1,11 +1,11 @@
 {
   "date": "2026-10-19",
   "source_view_rows": 351,
-  "attached_view_rows": 91,
-  "entries_enriched": 36,
-  "pending_view_rows": 260,
-  "source_record_count_unchanged": 2654,
-  "display_entries_unchanged": 2272,
+  "attached_view_rows": 111,
+  "entries_enriched": 44,
+  "pending_view_rows": 240,
+  "source_record_count_unchanged": 2662,
+  "display_entries_unchanged": 2280,
   "native_promotions": 0,
   "attached": [
     {
@@ -553,6 +553,126 @@
       "master_row": 41,
       "sheet": "Stay True Ecosystem",
       "row": 7
+    },
+    {
+      "id": "1b783efdda0fd559",
+      "master_row": 32,
+      "sheet": "Mega Coverage",
+      "row": 18
+    },
+    {
+      "id": "c89c24b83c5807ce",
+      "master_row": 20,
+      "sheet": "Flowers & Botany",
+      "row": 8
+    },
+    {
+      "id": "063caa7160a795cb",
+      "master_row": 26,
+      "sheet": "Flowers & Botany",
+      "row": 11
+    },
+    {
+      "id": "1b783efdda0fd559",
+      "master_row": 32,
+      "sheet": "Flowers & Botany",
+      "row": 15
+    },
+    {
+      "id": "c89c24b83c5807ce",
+      "master_row": 20,
+      "sheet": "Magic & RPG",
+      "row": 9
+    },
+    {
+      "id": "fc227c5780b3b100",
+      "master_row": 22,
+      "sheet": "Magic & RPG",
+      "row": 10
+    },
+    {
+      "id": "9374d22d76abb693",
+      "master_row": 23,
+      "sheet": "Magic & RPG",
+      "row": 11
+    },
+    {
+      "id": "063caa7160a795cb",
+      "master_row": 26,
+      "sheet": "Magic & RPG",
+      "row": 12
+    },
+    {
+      "id": "b6f0fbec652bfba1",
+      "master_row": 21,
+      "sheet": "Mob & Animation",
+      "row": 7
+    },
+    {
+      "id": "6d8c67c99b997dbe",
+      "master_row": 27,
+      "sheet": "Mob & Animation",
+      "row": 8
+    },
+    {
+      "id": "df063ae5aedc29a0",
+      "master_row": 33,
+      "sheet": "Mob & Animation",
+      "row": 9
+    },
+    {
+      "id": "1b783efdda0fd559",
+      "master_row": 32,
+      "sheet": "Biomes & Nature",
+      "row": 8
+    },
+    {
+      "id": "c89c24b83c5807ce",
+      "master_row": 20,
+      "sheet": "Style Ecosystems",
+      "row": 12
+    },
+    {
+      "id": "b6f0fbec652bfba1",
+      "master_row": 21,
+      "sheet": "Style Ecosystems",
+      "row": 13
+    },
+    {
+      "id": "1b783efdda0fd559",
+      "master_row": 32,
+      "sheet": "Style Ecosystems",
+      "row": 18
+    },
+    {
+      "id": "df063ae5aedc29a0",
+      "master_row": 33,
+      "sheet": "Style Ecosystems",
+      "row": 19
+    },
+    {
+      "id": "c89c24b83c5807ce",
+      "master_row": 20,
+      "sheet": "Excalibur Ecosystem",
+      "row": 9
+    },
+    {
+      "id": "b6f0fbec652bfba1",
+      "master_row": 21,
+      "sheet": "Excalibur Ecosystem",
+      "row": 10
+    },
+    {
+      "id": "1b783efdda0fd559",
+      "master_row": 32,
+      "sheet": "Excalibur Ecosystem",
+      "row": 14
+    },
+    {
+      "id": "df063ae5aedc29a0",
+      "master_row": 33,
+      "sheet": "Excalibur Ecosystem",
+      "row": 15
     }
   ],
   "pending": [
@@ -625,18 +745,6 @@
         "B": "Brewin\u2019 & Chewin\u2019 Coaster Compat",
         "C": "Native / drop-in",
         "D": "https://modrinth.com/resourcepack/u0btsBB7"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Mega Coverage",
-      "row": 18,
-      "name": "Excalibur | Aether Support",
-      "fields": {
-        "A": "31.0",
-        "B": "Excalibur | Aether Support",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-aether-support"
       },
       "matches": []
     },
@@ -726,18 +834,6 @@
     },
     {
       "sheet": "Flowers & Botany",
-      "row": 8,
-      "name": "Excalibur | Iron\u2019s Spells \u2019N Spellbooks Support",
-      "fields": {
-        "A": "19.0",
-        "B": "Excalibur | Iron\u2019s Spells \u2019N Spellbooks Support",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-irons-spells-n-spellbooks-support"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Flowers & Botany",
       "row": 9,
       "name": "Excalibur | Hearth and Harvest Delight Support",
       "fields": {
@@ -757,18 +853,6 @@
         "B": "Excalibur | My Nether\u2019s Delight Support",
         "C": "Native / drop-in",
         "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-my-nethers-delight-support"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Flowers & Botany",
-      "row": 11,
-      "name": "Fresh MythicBotany & Botania",
-      "fields": {
-        "A": "25.0",
-        "B": "Fresh MythicBotany & Botania",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/fresh-mythic-botany-and-botania"
       },
       "matches": []
     },
@@ -805,18 +889,6 @@
         "B": "Brewin\u2019 And Chewin\u2019 | Excalibur Support",
         "C": "Native / drop-in",
         "D": "https://modrinth.com/resourcepack/brewin-and-chewin-excalibur-support"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Flowers & Botany",
-      "row": 15,
-      "name": "Excalibur | Aether Support",
-      "fields": {
-        "A": "31.0",
-        "B": "Excalibur | Aether Support",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-aether-support"
       },
       "matches": []
     },
@@ -1638,54 +1710,6 @@
     },
     {
       "sheet": "Magic & RPG",
-      "row": 9,
-      "name": "Excalibur | Iron\u2019s Spells \u2019N Spellbooks Support",
-      "fields": {
-        "A": "19.0",
-        "B": "Excalibur | Iron\u2019s Spells \u2019N Spellbooks Support",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-irons-spells-n-spellbooks-support"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Magic & RPG",
-      "row": 10,
-      "name": "Ars Nouveau Refresh",
-      "fields": {
-        "A": "21.0",
-        "B": "Ars Nouveau Refresh",
-        "C": "Native / drop-in",
-        "D": "https://modrinth.com/resourcepack/ars-nouveau-refresh"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Magic & RPG",
-      "row": 11,
-      "name": "Chaotix Apotheotic Tweaks",
-      "fields": {
-        "A": "22.0",
-        "B": "Chaotix Apotheotic Tweaks",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/chaotix-apotheotic-tweaks"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Magic & RPG",
-      "row": 12,
-      "name": "Fresh MythicBotany & Botania",
-      "fields": {
-        "A": "25.0",
-        "B": "Fresh MythicBotany & Botania",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/fresh-mythic-botany-and-botania"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Magic & RPG",
       "row": 13,
       "name": "Ars Naturae",
       "fields": {
@@ -1878,42 +1902,6 @@
     },
     {
       "sheet": "Mob & Animation",
-      "row": 7,
-      "name": "Excalibur | L_Ender\u2019s Cataclysm Support",
-      "fields": {
-        "A": "20.0",
-        "B": "Excalibur | L_Ender\u2019s Cataclysm Support",
-        "C": "Native / drop-in",
-        "D": "https://modrinth.com/resourcepack/excal-l_ender-s-cataclysm-support"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Mob & Animation",
-      "row": 8,
-      "name": "L_Ender\u2019s Cataclysm Reimagined",
-      "fields": {
-        "A": "26.0",
-        "B": "L_Ender\u2019s Cataclysm Reimagined",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/cataclysm-reimagined"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Mob & Animation",
-      "row": 9,
-      "name": "Excalibur | Mowzie's Mobs Support",
-      "fields": {
-        "A": "32.0",
-        "B": "Excalibur | Mowzie's Mobs Support",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-mowzies-mobs-support"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Mob & Animation",
       "row": 10,
       "name": "Fresh Mowzie's Mobs textures",
       "fields": {
@@ -2095,18 +2083,6 @@
         "B": "Connected Paths",
         "C": "Simple pack-format conversion",
         "D": "https://www.curseforge.com/minecraft/texture-packs/connected-paths"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Biomes & Nature",
-      "row": 8,
-      "name": "Excalibur | Aether Support",
-      "fields": {
-        "A": "31.0",
-        "B": "Excalibur | Aether Support",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-aether-support"
       },
       "matches": []
     },
@@ -2472,30 +2448,6 @@
     },
     {
       "sheet": "Style Ecosystems",
-      "row": 12,
-      "name": "Excalibur | Iron\u2019s Spells \u2019N Spellbooks Support",
-      "fields": {
-        "A": "19.0",
-        "B": "Excalibur | Iron\u2019s Spells \u2019N Spellbooks Support",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-irons-spells-n-spellbooks-support"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Style Ecosystems",
-      "row": 13,
-      "name": "Excalibur | L_Ender\u2019s Cataclysm Support",
-      "fields": {
-        "A": "20.0",
-        "B": "Excalibur | L_Ender\u2019s Cataclysm Support",
-        "C": "Native / drop-in",
-        "D": "https://modrinth.com/resourcepack/excal-l_ender-s-cataclysm-support"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Style Ecosystems",
       "row": 14,
       "name": "Excalibur | Hearth and Harvest Delight Support",
       "fields": {
@@ -2539,30 +2491,6 @@
         "B": "Brewin\u2019 And Chewin\u2019 | Excalibur Support",
         "C": "Native / drop-in",
         "D": "https://modrinth.com/resourcepack/brewin-and-chewin-excalibur-support"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Style Ecosystems",
-      "row": 18,
-      "name": "Excalibur | Aether Support",
-      "fields": {
-        "A": "31.0",
-        "B": "Excalibur | Aether Support",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-aether-support"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Style Ecosystems",
-      "row": 19,
-      "name": "Excalibur | Mowzie's Mobs Support",
-      "fields": {
-        "A": "32.0",
-        "B": "Excalibur | Mowzie's Mobs Support",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-mowzies-mobs-support"
       },
       "matches": []
     },
@@ -3401,30 +3329,6 @@
     },
     {
       "sheet": "Excalibur Ecosystem",
-      "row": 9,
-      "name": "Excalibur | Iron\u2019s Spells \u2019N Spellbooks Support",
-      "fields": {
-        "A": "19.0",
-        "B": "Excalibur | Iron\u2019s Spells \u2019N Spellbooks Support",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-irons-spells-n-spellbooks-support"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Excalibur Ecosystem",
-      "row": 10,
-      "name": "Excalibur | L_Ender\u2019s Cataclysm Support",
-      "fields": {
-        "A": "20.0",
-        "B": "Excalibur | L_Ender\u2019s Cataclysm Support",
-        "C": "Native / drop-in",
-        "D": "https://modrinth.com/resourcepack/excal-l_ender-s-cataclysm-support"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Excalibur Ecosystem",
       "row": 11,
       "name": "Excalibur | Hearth and Harvest Delight Support",
       "fields": {
@@ -3456,30 +3360,6 @@
         "B": "Brewin\u2019 And Chewin\u2019 | Excalibur Support",
         "C": "Native / drop-in",
         "D": "https://modrinth.com/resourcepack/brewin-and-chewin-excalibur-support"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Excalibur Ecosystem",
-      "row": 14,
-      "name": "Excalibur | Aether Support",
-      "fields": {
-        "A": "31.0",
-        "B": "Excalibur | Aether Support",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-aether-support"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Excalibur Ecosystem",
-      "row": 15,
-      "name": "Excalibur | Mowzie's Mobs Support",
-      "fields": {
-        "A": "32.0",
-        "B": "Excalibur | Mowzie's Mobs Support",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-mowzies-mobs-support"
       },
       "matches": []
     },

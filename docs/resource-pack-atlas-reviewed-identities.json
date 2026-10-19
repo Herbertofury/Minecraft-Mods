@@ -84,5 +84,85 @@
       "Farming and Survival"
     ],
     "note": "Official Bare Bones compatibility resource pack for Farmer\u2019s Delight and several Delight addons. Author-listed completion differs by addon; do not promote the whole family to fully supported. ARR."
+  },
+  {
+    "row": 21,
+    "url": "https://modrinth.com/resourcepack/excal-l_ender-s-cataclysm-support",
+    "name": "Excalibur | L_Ender\u2019s Cataclysm Support",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Creatures and Companions"
+    ],
+    "note": "Official project lists Cataclysm entities, items, blocks and spawn eggs, plus random entity variants and 2D inventory icons for weapons. This is visual integration with Excalibur, not new gameplay or native compatibility qualification."
+  },
+  {
+    "row": 26,
+    "url": "https://www.curseforge.com/minecraft/texture-packs/fresh-mythic-botany-and-botania",
+    "name": "Fresh MythicBotany & Botania",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Magic and Progression"
+    ],
+    "note": "Official project is a MythicBotany/Botania texture treatment; author explicitly requires Botania and MythicBotany. Retain exact-file version checks and distinguish vanilla-style visual redesign from new magic functionality."
+  },
+  {
+    "row": 27,
+    "url": "https://www.curseforge.com/minecraft/texture-packs/cataclysm-reimagined",
+    "name": "L_Ender\u2019s Cataclysm Reimagined",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Interface and Accessibility"
+    ],
+    "note": "Official description limits this pack to GUI, HUD and item icons. It explicitly does not change world models, blocks or gameplay. Separate Forge and NeoForge file lanes are listed; do not mistake this for a complete world-model overhaul."
+  },
+  {
+    "row": 32,
+    "url": "https://www.curseforge.com/minecraft/texture-packs/excalibur-aether-support",
+    "name": "Excalibur | Aether Support",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Worlds and Exploration"
+    ],
+    "note": "Official Aether support pack covers the original Aether visual ecosystem and belongs above Excalibur. Aether addon coverage is planned with no ETA, not completed support. Exact file versions still need qualification."
+  },
+  {
+    "row": 33,
+    "url": "https://www.curseforge.com/minecraft/texture-packs/excalibur-mowzies-mobs-support",
+    "name": "Excalibur | Mowzie's Mobs Support",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Creatures and Companions"
+    ],
+    "note": "Official Mowzie's Mobs visual support pack by Ruseki lists mobs, bosses, items, particles, boss bars and GUI. Pair with Excalibur and verify the exact mod/file versions. Author permits modpack inclusion but prohibits reuploading or redistributing the pack itself."
+  },
+  {
+    "row": 20,
+    "url": "https://www.curseforge.com/minecraft/texture-packs/excalibur-irons-spells-n-spellbooks-support",
+    "name": "Excalibur | Iron\u2019s Spells \u2019N Spellbooks Support",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Magic and Progression"
+    ],
+    "note": "Official Iron's Spells Excalibur support pack is explicitly work in progress with many textures missing. Do not mark its catalogue presence as complete visual coverage or functional magic compatibility."
+  },
+  {
+    "row": 22,
+    "url": "https://modrinth.com/resourcepack/ars-nouveau-refresh",
+    "name": "Ars Nouveau Refresh",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Magic and Progression"
+    ],
+    "note": "Official Ars Nouveau Refresh page documents glyph, essence, charm/familiar and tablet icon redesigns. Mob/weapon/armor styling and addon item improvements appear on its roadmap; do not promote those plans to completed coverage."
+  },
+  {
+    "row": 23,
+    "url": "https://www.curseforge.com/minecraft/texture-packs/chaotix-apotheotic-tweaks",
+    "name": "Chaotix Apotheotic Tweaks",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Magic and Progression"
+    ],
+    "note": "Official Apotheosis texture pack targets gems, charms, tomes, rarity materials, arrows and relevant workstations/GUI. It needs Apotheosis to have an effect; its Fabric Zenith version is a separate linked project, not the same compatibility lane."
   }
 ]

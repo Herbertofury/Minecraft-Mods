@@ -4,9 +4,9 @@
   "master_rows": 159,
   "exact_existing_observations_added": 37,
   "unique_entries_enriched": 33,
-  "pending_master_observations": 114,
-  "display_entries": 2272,
-  "source_observations": 2654,
+  "pending_master_observations": 106,
+  "display_entries": 2280,
+  "source_observations": 2662,
   "favorites": 411,
   "native_promotions": 0,
   "all_prior_fields_preserved": true,
@@ -197,7 +197,7 @@
       "name": "Fresh Flowers and Plants"
     }
   ],
-  "reviewed_new_identity_observations_added": 8,
+  "reviewed_new_identity_observations_added": 16,
   "reviewed_new_identities": [
     {
       "row": 2,
@@ -238,6 +238,46 @@
       "row": 12,
       "id": "9e890ace92db3272",
       "name": "Bare Bones x Farmer\u2019s Delight"
+    },
+    {
+      "row": 21,
+      "id": "b6f0fbec652bfba1",
+      "name": "Excalibur | L_Ender\u2019s Cataclysm Support"
+    },
+    {
+      "row": 26,
+      "id": "063caa7160a795cb",
+      "name": "Fresh MythicBotany & Botania"
+    },
+    {
+      "row": 27,
+      "id": "6d8c67c99b997dbe",
+      "name": "L_Ender\u2019s Cataclysm Reimagined"
+    },
+    {
+      "row": 32,
+      "id": "1b783efdda0fd559",
+      "name": "Excalibur | Aether Support"
+    },
+    {
+      "row": 33,
+      "id": "df063ae5aedc29a0",
+      "name": "Excalibur | Mowzie's Mobs Support"
+    },
+    {
+      "row": 20,
+      "id": "c89c24b83c5807ce",
+      "name": "Excalibur | Iron\u2019s Spells \u2019N Spellbooks Support"
+    },
+    {
+      "row": 22,
+      "id": "fc227c5780b3b100",
+      "name": "Ars Nouveau Refresh"
+    },
+    {
+      "row": 23,
+      "id": "9374d22d76abb693",
+      "name": "Chaotix Apotheotic Tweaks"
     }
   ]
 }

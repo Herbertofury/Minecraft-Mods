@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**611 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**613 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Content Pack · 30</strong></summary>
@@ -617,7 +617,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Resource Pack · 39</strong></summary>
+<summary><strong>Resource Pack · 41</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -632,6 +632,8 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Blue Frogs](https://modrinth.com/resourcepack/blue-frogs) | A focused five-variant frog visual pack. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d201ad42eab2b978) |
 | [Cluckier Chickens](https://curseforge.com/minecraft-bedrock/texture-packs/cluckier-chickens) | A spectacular species-variant pack: one of the largest chicken visual collections surfaced anywhere in the scour. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a313205849bc7d41) |
 | [Cute Mob Models: Resource Pack](https://curseforge.com/minecraft/texture-packs/cute-mob-models-resource-pack) | OPTIONAL VISUAL / CLIENT-SAFE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c8698752187dc546) |
+| [Excalibur \| L_Ender’s Cataclysm Support](https://modrinth.com/resourcepack/excal-l_ender-s-cataclysm-support) | Official project lists Cataclysm entities, items, blocks and spawn eggs, plus random entity variants and 2D inventory icons for weapons. This is visual integration with Excalibur,  | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b6f0fbec652bfba1) |
+| [Excalibur \| Mowzie's Mobs Support](https://www.curseforge.com/minecraft/texture-packs/excalibur-mowzies-mobs-support) | Official Mowzie's Mobs visual support pack by Ruseki lists mobs, bosses, items, particles, boss bars and GUI. Pair with Excalibur and verify the exact mod/file versions. Author per | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=df063ae5aedc29a0) |
 | [F.M.R.P / Freshly Modded](https://curseforge.com/minecraft/texture-packs/freshly-modded) | OPTIONAL / TEST / CLIENT-SAFE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2788e4ff359f20f7) |
 | [Flower Frogs](https://modrinth.com/resourcepack/flower-frogs) | Small but gorgeous flower-themed frog set. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=3f210a77186fd937) |
 | [Fresh Animations: Extensions](https://curseforge.com/minecraft/texture-packs/fresh-animations-extensions) | OPTIONAL VISUAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=076954de35fe4f42) |

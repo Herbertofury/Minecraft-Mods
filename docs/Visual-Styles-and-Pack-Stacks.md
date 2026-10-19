@@ -58,7 +58,7 @@ These are historical starting ideas awaiting full exact-file review, not certifi
 
 ## Import coverage
 
-The original 17 views and all 159 master observations are preserved in the repository. Forty-five master observations are attached to catalogue identities: 37 exact matches to existing records and eight newly reviewed identities. The remaining 114 master observations and 260 unmatched companion-view rows remain in review. Ninety-one companion rows are attached to 36 existing entries; they do not inflate the unique-project or source-record totals.
+The original 17 views and all 159 master observations are preserved in the repository. Fifty-three master observations are attached to catalogue identities: 37 exact matches to existing records and sixteen newly reviewed identities. The remaining 106 master observations and 240 unmatched companion-view rows remain in review. Ninety-one companion rows are attached to 36 existing entries; they do not inflate the unique-project or source-record totals.
 
 [Preserved source views](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-source-views.json) · [Master import receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-import.json) · [Companion receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-companion-receipt.json)
 
