@@ -1,0 +1,57 @@
+{
+  "resolved": [
+    {
+      "name": "Terramity",
+      "catalogue_id": "a5f50f2f847d15be",
+      "source_row": 17,
+      "project_url": "https://www.curseforge.com/minecraft/mc-mods/terramity",
+      "evidence_scope": "Official project page title/identity; does not establish exact-release compatibility",
+      "checked_utc": "2026-10-19"
+    },
+    {
+      "name": "Malum",
+      "catalogue_id": "25b5fb96cc8c9e25",
+      "source_row": 19,
+      "project_url": "https://www.curseforge.com/minecraft/mc-mods/malum",
+      "evidence_scope": "Official project page title/identity; does not establish exact-release compatibility",
+      "checked_utc": "2026-10-19"
+    },
+    {
+      "name": "Oculus",
+      "catalogue_id": "6afe381bf80f0bb3",
+      "source_row": 39,
+      "project_url": "https://www.curseforge.com/minecraft/mc-mods/oculus",
+      "evidence_scope": "Official project page title/identity; does not establish exact-release compatibility",
+      "checked_utc": "2026-10-19"
+    },
+    {
+      "name": "The Midnight",
+      "catalogue_id": "d2a49977662e9aaa",
+      "source_row": 105,
+      "project_url": "https://www.curseforge.com/minecraft/mc-mods/the-midnight",
+      "evidence_scope": "Official project page title/identity; does not establish exact-release compatibility",
+      "checked_utc": "2026-10-19"
+    },
+    {
+      "name": "Gateways to Eternity",
+      "catalogue_id": "62190c0385557e97",
+      "source_row": 113,
+      "project_url": "https://www.curseforge.com/minecraft/mc-mods/gateways-to-eternity",
+      "evidence_scope": "Official project page title/identity; does not establish exact-release compatibility",
+      "checked_utc": "2026-10-19"
+    },
+    {
+      "name": "Create Jetpack",
+      "catalogue_id": "e0bc8d693082917f",
+      "source_row": 388,
+      "project_url": "https://www.curseforge.com/minecraft/mc-mods/create-jetpack",
+      "evidence_scope": "Official project page title/identity; does not establish exact-release compatibility",
+      "checked_utc": "2026-10-19"
+    }
+  ],
+  "source_records": 2445,
+  "entries": 2123,
+  "catalogued_favorites": 279,
+  "remaining_pending": 148,
+  "native_verification_promotions": 0
+}

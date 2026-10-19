@@ -112,114 +112,6 @@
       }
     },
     {
-      "row": 17,
-      "name": "Terramity",
-      "state": "pending_same_name",
-      "matches": [],
-      "same_name_candidates": [
-        "a5f50f2f847d15be"
-      ],
-      "direct_keys": [
-        "curseforge.com/minecraft/mc-mods/terramity"
-      ],
-      "urls": [
-        "https://www.curseforge.com/minecraft/mc-mods/terramity"
-      ],
-      "fields": {
-        "A": "terramity",
-        "B": "Terramity",
-        "C": "\u2605",
-        "E": "Mod",
-        "F": "S",
-        "G": "Must-have + Conversion target",
-        "I": "Aurukel",
-        "J": "Unclassified",
-        "K": "Favorite / tracked project",
-        "L": "Yes",
-        "M": "No verified 1.21.1 branch",
-        "N": "Forge",
-        "O": "Tracked",
-        "Q": "1.20.1 favorite; track/target clean 1.21.1 path.",
-        "R": "https://www.curseforge.com/minecraft/mc-mods/terramity",
-        "V": "Direct project page",
-        "W": "Web-verified project",
-        "X": "2026-09-05"
-      }
-    },
-    {
-      "row": 19,
-      "name": "Malum",
-      "state": "pending_same_name",
-      "matches": [],
-      "same_name_candidates": [
-        "25b5fb96cc8c9e25"
-      ],
-      "direct_keys": [
-        "curseforge.com/minecraft/mc-mods/malum"
-      ],
-      "urls": [
-        "https://www.curseforge.com/minecraft/mc-mods/malum"
-      ],
-      "fields": {
-        "A": "malum-malum",
-        "B": "Malum",
-        "C": "\u2605",
-        "E": "Mod",
-        "F": "S",
-        "G": "Must-have",
-        "H": "Malum",
-        "I": "sammysemicolon",
-        "J": "Magic / Soul",
-        "K": "Spirit magic/content",
-        "L": "Yes",
-        "M": "Yes",
-        "N": "Forge / NeoForge / Fabric / Quilt",
-        "O": "Active",
-        "R": "https://www.curseforge.com/minecraft/mc-mods/malum",
-        "V": "Direct project page",
-        "W": "Current project-home metadata + Inherited: Minecraft Mod Ecosystem Atlas 2026 / Master Catalog",
-        "X": "2026-09-05"
-      }
-    },
-    {
-      "row": 39,
-      "name": "Oculus",
-      "state": "pending_same_name",
-      "matches": [],
-      "same_name_candidates": [
-        "6afe381bf80f0bb3"
-      ],
-      "direct_keys": [
-        "curseforge.com/minecraft/mc-mods/oculus"
-      ],
-      "urls": [
-        "https://www.curseforge.com/minecraft/mc-mods/oculus",
-        "https://github.com/Asek3/Oculus"
-      ],
-      "fields": {
-        "A": "shader-stack-oculus",
-        "B": "Oculus",
-        "C": "\u2605",
-        "E": "Mod",
-        "F": "S",
-        "G": "Must-have",
-        "H": "Shader Stack",
-        "I": "Asek3",
-        "J": "Shaders / Rendering",
-        "K": "Forge shader-loader bridge",
-        "L": "Yes",
-        "M": "No",
-        "N": "Forge / NeoForge (supported branches)",
-        "O": "Mature / specialist",
-        "Q": "Forge 1.20.1 shader route; Iris is preferred modern NeoForge/Fabric branch where supported.",
-        "R": "https://www.curseforge.com/minecraft/mc-mods/oculus",
-        "T": "https://github.com/Asek3/Oculus",
-        "V": "Direct project page",
-        "W": "Current project-home metadata + Inherited: Minecraft Mod Ecosystem Atlas 2026 / Master Catalog",
-        "X": "2026-09-05"
-      }
-    },
-    {
       "row": 80,
       "name": "Physics Mod",
       "state": "pending_same_name",
@@ -398,42 +290,6 @@
       }
     },
     {
-      "row": 105,
-      "name": "The Midnight",
-      "state": "pending_same_name",
-      "matches": [],
-      "same_name_candidates": [
-        "d2a49977662e9aaa"
-      ],
-      "direct_keys": [
-        "curseforge.com/minecraft/mc-mods/the-midnight"
-      ],
-      "urls": [
-        "https://www.curseforge.com/minecraft/mc-mods/the-midnight"
-      ],
-      "fields": {
-        "A": "dimensions-the-midnight",
-        "B": "The Midnight",
-        "C": "\u2605",
-        "E": "Mod",
-        "F": "S",
-        "G": "Must-have + Conversion target",
-        "H": "Dimensions",
-        "I": "f1ashfyre / Cryptic Mushroom",
-        "J": "Dimensions / Adventure",
-        "K": "Modern dark dimension",
-        "L": "Yes",
-        "M": "No",
-        "N": "Forge / NeoForge",
-        "O": "Revived / modern",
-        "Q": "Revived 1.20.1 dimension anchor; track a clean modern branch.",
-        "R": "https://www.curseforge.com/minecraft/mc-mods/the-midnight",
-        "V": "Direct project page",
-        "W": "Current project-home metadata + Inherited: Minecraft Mod Ecosystem Atlas 2026 / Master Catalog",
-        "X": "2026-09-05"
-      }
-    },
-    {
       "row": 112,
       "name": "Ars Technica",
       "state": "pending_route",
@@ -459,41 +315,6 @@
         "P": "Ars Nouveau; Create; Curios; Ars Elemental on 1.20.1",
         "V": "Creator/family profile",
         "W": "Web-verified earlier",
-        "X": "2026-09-05"
-      }
-    },
-    {
-      "row": 113,
-      "name": "Gateways to Eternity",
-      "state": "pending_same_name",
-      "matches": [],
-      "same_name_candidates": [
-        "62190c0385557e97"
-      ],
-      "direct_keys": [
-        "curseforge.com/minecraft/mc-mods/gateways-to-eternity"
-      ],
-      "urls": [
-        "https://www.curseforge.com/minecraft/mc-mods/gateways-to-eternity"
-      ],
-      "fields": {
-        "A": "shadows-of-fire-gateways-to-eternity",
-        "B": "Gateways to Eternity",
-        "C": "\u2605",
-        "E": "Mod",
-        "F": "S",
-        "G": "Must-have",
-        "H": "Shadows_of_Fire",
-        "I": "Shadows_of_Fire",
-        "J": "Combat / Progression",
-        "K": "Configurable wave-combat gateways",
-        "L": "Yes",
-        "M": "Yes",
-        "N": "Forge / NeoForge",
-        "O": "Tracked",
-        "R": "https://www.curseforge.com/minecraft/mc-mods/gateways-to-eternity",
-        "V": "Direct project page",
-        "W": "Web-verified project",
         "X": "2026-09-05"
       }
     },
@@ -4435,43 +4256,6 @@
         "P": "Create",
         "R": "https://www.curseforge.com/minecraft/mc-mods/create-structures-arise",
         "U": "https://www.curseforge.com/members/SmartStreamLabs/projects",
-        "V": "Direct project page",
-        "W": "User-provided video download list (2026-09-06) + current project-page verification",
-        "X": "2026-09-06"
-      }
-    },
-    {
-      "row": 388,
-      "name": "Create Jetpack",
-      "state": "pending_same_name",
-      "matches": [],
-      "same_name_candidates": [
-        "e0bc8d693082917f"
-      ],
-      "direct_keys": [
-        "curseforge.com/minecraft/mc-mods/create-jetpack"
-      ],
-      "urls": [
-        "https://www.curseforge.com/minecraft/mc-mods/create-jetpack"
-      ],
-      "fields": {
-        "A": "create-jetpack",
-        "B": "Create Jetpack",
-        "C": "\u2605",
-        "E": "Mod",
-        "F": "S",
-        "G": "Must-have",
-        "H": "Create",
-        "I": "possible_triangle",
-        "J": "Movement / Travel",
-        "K": "Backtank-powered Create jetpack flight",
-        "L": "Yes",
-        "M": "Yes",
-        "N": "1.20.1: Forge / Fabric; 1.21.1: NeoForge",
-        "O": "Active",
-        "P": "Create",
-        "R": "https://www.curseforge.com/minecraft/mc-mods/create-jetpack",
-        "U": "https://www.curseforge.com/members/possible_triangle/projects",
         "V": "Direct project page",
         "W": "User-provided video download list (2026-09-06) + current project-page verification",
         "X": "2026-09-06"
