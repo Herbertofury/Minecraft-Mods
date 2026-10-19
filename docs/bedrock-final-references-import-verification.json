@@ -1,0 +1,59 @@
+{
+  "scope": "Primary project identity only; source records and verification levels preserved",
+  "entries": 2254,
+  "source_records": 2592,
+  "favorites": 411,
+  "resolved_rows": 8,
+  "new_entries": 8,
+  "pending_source_rows": 1,
+  "applied": [
+    {
+      "row": 276,
+      "id": "b9e38e52ad39e6d8",
+      "name": "BlockBlaster Add-On",
+      "new": true
+    },
+    {
+      "row": 277,
+      "id": "43ac5c6700407446",
+      "name": "WEAPONS Add-On (Lothiredon)",
+      "new": true
+    },
+    {
+      "row": 279,
+      "id": "900aff58b9b634d4",
+      "name": "DWELLERS 2.1 Add-On",
+      "new": true
+    },
+    {
+      "row": 282,
+      "id": "10ad6278247a888e",
+      "name": "Wildlife Overworld 1.3",
+      "new": true
+    },
+    {
+      "row": 284,
+      "id": "5756b09729bba986",
+      "name": "More TNT! Add-On",
+      "new": true
+    },
+    {
+      "row": 285,
+      "id": "16e3aeb6db91b741",
+      "name": "Dungeon Crawler Add-On",
+      "new": true
+    },
+    {
+      "row": 286,
+      "id": "74c0e197fa5b6670",
+      "name": "Spark Pets Add-On (Lite)",
+      "new": true
+    },
+    {
+      "row": 287,
+      "id": "0b54fa993ec7984a",
+      "name": "Airplanes Add-On 2.0",
+      "new": true
+    }
+  ]
+}

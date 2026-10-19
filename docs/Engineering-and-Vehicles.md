@@ -6,14 +6,15 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**305 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**307 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
-<summary><strong>Content Pack · 10</strong></summary>
+<summary><strong>Content Pack · 12</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
 | ★ [\[TaCZ\] Create Armorer](https://curseforge.com/minecraft/customization/tacz-create-armorer-koei) | Adds nine survival-craftable TaCZ guns designed around the Create visual language and serves as the weapon-content foundation for Create: Immersive TaCZ Integration. | [Actual-file study](https://github.com/Herbertofury/Advent-of-Ascension/wiki/Create-Armorer-Direct-Study) · [details](https://herbertofury.github.io/Minecraft-Mods/?id=9c13c4c03cb7f7b2) |
+| [Airplanes Add-On 2.0](https://minecraft.net/en-us/marketplace/pdp?id=65cb75cc-9865-40ee-a787-394054f7ddbd) | Pixelbiester aircraft assembly and customization reference; official current 2.0 title does not rewrite the historical source observation. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0b54fa993ec7984a) |
 | [BLASTERS Add-On (Pixelusion)](https://minecraft.net/en-us/marketplace/pdp/pixelusion/blasters-add--on/c051b523-88e7-4e0c-a6a5-ac120c456d3e) | Pixelusion Bedrock craftable weapon abilities, role silhouettes and mecha reference; official wiki supports further design study. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=6600635e4d53b356) |
 | ★ [DragonFire Add-On](https://minecraft.net/en-us/marketplace/pdp/spectral-studios/dragonfire-add--on/bed8e487-5a1d-4cd7-8f11-319791930407) | Spectral Studios full Bedrock add-on for dragon collection, growth and themed equipment; distinct from Lite, worlds, skin pack and Java mod. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=92e0919c7cefd37d) |
 | ★ [How to Train Your Dragon Add-On](https://minecraft.net/en-us/marketplace/pdp?id=10b469b6-f196-428c-b98e-c572cc55e83e) | Bedrock rideable dragon bonding and abilities reference; no Java compatibility or conversion claim. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c23b39cfaad7f770) |
@@ -23,6 +24,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | ★ [Sonic Add-On](https://minecraft.net/de-de/marketplace/pdp/gamemode-one/sonic-add--on/f3e0a4be-8858-44d3-9ae8-91643db1b3f6) | Bedrock character transformation, traversal blocks and progression reference. Creator changelog supplies useful equipment-preservation and interrupted-transformation regression cas | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=60d6987f4bd642e7) |
 | ★ [Transformers Add-On](https://xbox.com/en-us/games/store/transformers-add-on/9p9fwk2bj82c) | Bedrock transformation, vehicle abilities and PvP mode reference; distinct from unrelated Transformers community mods. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2239bf845a4fc0ac) |
 | ★ [TRON Add-On](https://xbox.com/en-us/games/store/minecraft-tron-add-on/9pbdnjf84ppn/0010) | Bedrock light vehicles, Grid Runs and Identity Disc reference; separate from unrelated community TRON mods. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=637cd88247aa2899) |
+| [WEAPONS Add-On (Lothiredon)](https://minecraft.net/en-us/marketplace/pdp?id=cb38ec02-2770-4adb-9c6c-ba58c2ca3269) | Lothiredon equipment and mech reference; exact creator identity preserves the generic source title. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=43ac5c6700407446) |
 
 </details>
 

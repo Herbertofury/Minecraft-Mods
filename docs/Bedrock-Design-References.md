@@ -80,6 +80,10 @@ These are design-study directions. Implementation must use original work or appr
 
 ## Evidence and remaining work
 
+[Eight further exact product identities](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/bedrock-final-references-identity-evidence.json) · [Preservation checks](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/bedrock-final-references-data-tests.json). These rows were unstarred and remain unstarred. Spark Pets Lite is distinct from Premium; Airplanes keeps its historical source name alongside the current official 2.0 title.
+
+Portal Blasters by Starfish Studios remains unresolved: the primary Marketplace route did not establish the product during this review. Third-party catalogues disagree about availability. It has not been merged with the similarly named Chewmingo world, marked available, or discarded.
+
 [Final eight starred identities in this source collection](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/bedrock-final-favorites-identity-evidence.json) · [Preservation checks](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/bedrock-final-favorites-data-tests.json). Other source collections still need reconciliation.
 
 [Four distinct blaster identities](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/bedrock-blaster-identity-evidence.json) · [Preservation checks](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/bedrock-blaster-data-tests.json). These four source rows were not starred; importing them does not add favorites.
@@ -92,4 +96,4 @@ These are design-study directions. Implementation must use original work or appr
 
 [First three identities](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/bedrock-project-identity-evidence.json) · [Five branded identities](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/bedrock-brand-identity-evidence.json) · [Sonic, SpongeBob and Tetris](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/bedrock-gameplay-identity-evidence.json)
 
-The catalogue retains the original source rows, creator/version claims and favorites alongside checked identity evidence. 9 unstarred Bedrock source-collection rows remain unresolved at this review; other source collections have separate work. No native verification flags were promoted.
+The catalogue retains the original source rows, creator/version claims and favorites alongside checked identity evidence. 1 unstarred Bedrock source-collection row remains unresolved at this review; other source collections have separate work. No native verification flags were promoted.
