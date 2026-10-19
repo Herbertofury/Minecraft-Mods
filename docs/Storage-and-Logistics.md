@@ -273,3 +273,34 @@ Before upgrades or removal, test a copied world with named/damaged/enchanted ite
 
 </details>
 
+
+## Nine storage playstyles to investigate
+
+These preserve useful ideas from the scattered collection while replacing blanket fit ratings with explicit qualification work. [Original observations and correction receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/storage-synergy-source-observations.json). No combination below has been certified in the user's pack.
+
+| Playstyle | Candidate combination | Test before adoption |
+|---|---|---|
+| Cozy visible storeroom | Wan’s Storage Shelves + Tom’s Simple Storage + optional Storage Finders | Container capability support, terminal reach, unloaded chunks and item-location behavior |
+| Bulk goods with autocrafting | Storage Drawers + AE2 + optional ME Requester | Drawer locks/void upgrades, storage priority, request limits and full-inventory behavior |
+| Lightweight searchable chests | Tom’s Simple Storage with one applicable performance companion | Pin matching loader and parent version; compare baseline and one patch at a time; do not assume two optimization mods compose safely |
+| Visible pipe factory | Pretty Pipes + Sophisticated Storage + optional Item Collectors | Filter semantics, nested inventory handling, overflow and simultaneous extraction |
+| Physical Create warehouse | Create logistics + suitable Create-themed storage + bulk drawers | Qualify Create major version, addon APIs, package delivery, chunk unloading and contraption storage |
+| Magical pantry | Occultism + Ars Nouveau + physical bulk storage | Whether intended inventories are exposed, ownership/access restrictions and transport-loop prevention |
+| Compact pipe distribution | Pipez + Functional Storage, with an optimizer only after qualification | Transfer limits, filtering, tick cost and conservation under full or disconnected destinations |
+| Vanilla-container convenience | ClientSort + Chest Search Bar + Shulker Box Tooltip | Exact client/server requirements, custom-screen compatibility, shared keybinds and server sorting rules |
+| Colony supply network | AE2 + MineColonies + a verified matching integration addon | Exact project identity, version/loader dependencies, requester ownership, courier behavior and restart recovery |
+
+### Important version correction
+
+An old source note said Create 6 logistics was newer than Minecraft 1.20.1. That blanket claim is incorrect: the official [Create 6.0.8 release](https://www.curseforge.com/minecraft/mc-mods/create/files/7178761) lists `create-1.20.1-6.0.8.jar` and Minecraft 1.20.1 support. This confirms that release exists; it does not certify every addon built for Create 0.5 or another loader against it. Pin the complete stack before changing a world.
+
+### Item-conservation acceptance checklist
+
+1. Use a disposable copied test world with exact dependency versions recorded.
+2. Count item identity, quantity, NBT/components and container contents before transport or crafting.
+3. Exercise full destinations, partial transfers, filtered items, locked drawers and invalid recipes.
+4. Unload/reload chunks, disconnect a player and restart at safe operation boundaries.
+5. Verify totals, ownership and request queues recover without duplication or loss.
+6. Measure the same warehouse workload before/after an optimizer; report tick/frame/startup costs separately.
+
+These are qualification scenarios, not claims that the named projects currently contain those bugs. Keep the original source suggestions as research history, with newer evidence clearly attached.

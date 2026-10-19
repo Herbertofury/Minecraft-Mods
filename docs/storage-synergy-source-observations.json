@@ -1,0 +1,125 @@
+{
+  "scope": "Preserved source ideas, not tested combinations. Original fit claims retained only as historical observations.",
+  "source_workbook_sha256": "eb36f04609cfe28ba93a52d5aa5a738382c13edec9a4195dca10acf71c840c1b",
+  "source_tab": "Synergies",
+  "ideas": [
+    {
+      "source_row": 5,
+      "name": "Cozy + Smart",
+      "core": "Wan's Storage Shelves",
+      "companion": "Tom's Simple Storage Mod",
+      "optional": "Storage Finders",
+      "source_goal": "A cute physical storeroom with one searchable terminal and a \u201cfind that chest\u201d fallback.",
+      "source_fit_claim": "Excellent",
+      "source_complexity": "Low-Medium",
+      "source_notes": "Great for a warm 1.20.1 pack where storage should remain visible.",
+      "compatibility_verified": false
+    },
+    {
+      "source_row": 6,
+      "name": "Bulk + Brain",
+      "core": "Storage Drawers",
+      "companion": "Applied Energistics 2",
+      "optional": "ME Requester",
+      "source_goal": "Visible bulk commodities feeding a powerful autocrafting network.",
+      "source_fit_claim": "Excellent",
+      "source_complexity": "High",
+      "source_notes": "Let drawers handle huge single-item counts while AE2 handles variety and recipes.",
+      "compatibility_verified": false
+    },
+    {
+      "source_row": 7,
+      "name": "Simple Network, Hardened",
+      "core": "Tom's Simple Storage Mod",
+      "companion": "Toms Storage Star Optimized",
+      "optional": "Tom's Performant Storage",
+      "source_goal": "The easiest chest-network workflow with performance patches available for heavy/older branches.",
+      "source_fit_claim": "Excellent",
+      "source_complexity": "Low",
+      "source_notes": "Use only the optimization companion matching loader/version; benchmark in your exact pack.",
+      "compatibility_verified": false
+    },
+    {
+      "source_row": 8,
+      "name": "Pretty Factory",
+      "core": "Pretty Pipes",
+      "companion": "Sophisticated Storage",
+      "optional": "Item Collectors",
+      "source_goal": "Visible pipes feeding upgradeable chests/barrels with easy farm intake.",
+      "source_fit_claim": "Excellent",
+      "source_complexity": "Medium",
+      "source_notes": "Fun to watch and pleasant to build around.",
+      "compatibility_verified": false
+    },
+    {
+      "source_row": 9,
+      "name": "Create Warehouse",
+      "core": "Create (Stock Logistics)",
+      "companion": "Create: Storage",
+      "optional": "Storage Drawers",
+      "source_goal": "Packaged physical logistics plus themed containers and bulk stock.",
+      "source_fit_claim": "Version-dependent",
+      "source_complexity": "Medium-High",
+      "source_notes": "The strongest \u201cactual warehouse\u201d fantasy; Create 6 logistics is newer than 1.20.1.",
+      "compatibility_verified": false
+    },
+    {
+      "source_row": 10,
+      "name": "Magic Pantry",
+      "core": "Occultism",
+      "companion": "Ars Nouveau",
+      "optional": "Storage Drawers",
+      "source_goal": "Dimensional/magical storage plus beautiful physical bulk storage.",
+      "source_fit_claim": "Excellent",
+      "source_complexity": "Medium",
+      "source_notes": "Keeps technology out of a magic-heavy pack.",
+      "compatibility_verified": false
+    },
+    {
+      "source_row": 11,
+      "name": "Fast 1.20.1 Pipes",
+      "core": "Pipez",
+      "companion": "Pipez Optimizer",
+      "optional": "Functional Storage",
+      "source_goal": "Efficient resource transport into controller-accessed drawers.",
+      "source_fit_claim": "Excellent",
+      "source_complexity": "Low-Medium",
+      "source_notes": "New optimizer is worth testing, not blindly trusting.",
+      "compatibility_verified": false
+    },
+    {
+      "source_row": 12,
+      "name": "Vanilla Chests, Superpowers",
+      "core": "ClientSort",
+      "companion": "Chest Search Bar",
+      "optional": "Shulker Box Tooltip",
+      "source_goal": "Keep vanilla containers but make sorting, searching and box inspection painless with no server install.",
+      "source_fit_claim": "Excellent",
+      "source_complexity": "Low",
+      "source_notes": "Ideal when you do not want a new storage progression at all.",
+      "compatibility_verified": false
+    },
+    {
+      "source_row": 13,
+      "name": "Colony ME Warehouse",
+      "core": "Applied Energistics 2",
+      "companion": "MineColonies",
+      "optional": "AE2Colonies",
+      "source_goal": "Physical colony couriers backed by ME storage, autocrafting and Domum Ornamentum synthesis.",
+      "source_fit_claim": "No \u2014 current addon is NeoForge 1.21.1 only",
+      "source_complexity": "High",
+      "source_notes": "Use AE2Colonies only on its verified 1.21.1 branch; required GuideME + Domum Ornamentum. Backup and test before permanent adoption.",
+      "compatibility_verified": false
+    }
+  ],
+  "corrections": [
+    {
+      "source_row": 9,
+      "claim": "Create 6 logistics is newer than 1.20.1",
+      "status": "contradicted_by_official_release",
+      "evidence": "https://www.curseforge.com/minecraft/mc-mods/create/files/7178761",
+      "verified_fact": "Create 6.0.8 file create-1.20.1-6.0.8.jar explicitly supports Minecraft 1.20.1; this does not qualify all addons or a full pack.",
+      "checked_utc": "2026-10-19"
+    }
+  ]
+}
