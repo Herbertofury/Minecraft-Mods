@@ -67,3 +67,9 @@ For AoA, turn those role distinctions into explicit original design tests:
 - **Variant identity:** communicate changed role through silhouette, sound and projectile behavior while preserving the original-mode contract. A skin alone is not evidence of a functional conversion.
 
 These are proposed QA/design requirements, not claims of implemented AoA mechanics. Use the [confirmed-shot event audit](https://github.com/Herbertofury/Advent-of-Ascension/wiki/Confirmed-Shot-Presentation) and [complete weapon standard](https://github.com/Herbertofury/Advent-of-Ascension/wiki/Weapon-Completeness-Standard) when applying them.
+
+## Preserve sculpted shading through the loader
+
+[Actual released TML normal-fidelity study and local opt-in candidate](https://github.com/Herbertofury/Advent-of-Ascension/wiki/Mesh-Normal-Fidelity-and-Opt-In) checks Forge 1.20.1 TML 0.1.8. The stock baker forces flat normals even when a mesh contains authored smooth normals. This matters for curved armor and premium materials; parsing success alone is insufficient.
+
+A source candidate keeps the old flat default while optionally preserving authored normals at model load. Default fixture arrays remain bit-identical in Java 17/21 tests; native rendering, shader paths, old-pack compatibility and performance remain unaccepted. The proposed setting is not available in stock TML, and other loader/version variants must be checked separately. Keep this as a bounded implementation reference, not an installation recommendation or a blanket lighting fix.
