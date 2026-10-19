@@ -1,0 +1,50 @@
+# Bedrock design references
+
+[Research library](Minecraft-Mods) · [Weapons and Combat](Weapons-and-Combat) · [Engineering and Vehicles](Engineering-and-Vehicles) · [Favorites](Favorites)
+
+A focused reference shelf for presentation, movement, encounters, companions and customization. These are **Bedrock products**, not Java mod releases. Product identity is checked against official creator, Minecraft or Xbox pages. No purchase, extracted commercial assets, Java conversion or native compatibility is implied.
+
+## Pick the design problem
+
+| Design question | Reference | What to inspect next |
+|---|---|---|
+| Readable animation across ordinary gameplay | [Actions & Stuff — Oreville](https://orevillestudios.com/) | Transitions, motion silhouettes, particles and visual consistency; distinguish the animation pack from Flat Textures |
+| Cozy interactable environments | [Slice of Life](https://www.minecraft.net/fr-ca/article/marketplace-content-march-2026) | How furniture and companions support a coherent environment |
+| A themed weapon's visible identity | [Sulfur Blaster](https://www.minecraft.net/en-us/article/marketplace-spotlight-sulfur-cube) | Weapon feedback and recognizable material cues |
+| A large weapon family with upgrade variety | [Ultimate Blasters — Radium Studio](https://www.minecraft.net/en-us/article/marketplace-content-february-2026) | Consistent effect language, upgrade presentation and laboratory props; separate from Kubo's similarly named world |
+| Reward-driven decoration and storage | [Hello Kitty Furniture](https://www.minecraft.net/en-us/article/hello-kitty-and-friends-add-on) | Functional furniture, earned rewards and themed customization; separate from the original adventure DLC |
+| Fast vehicles and traversal challenges | [TRON Add-On](https://www.xbox.com/en-US/games/store/minecraft-tron-add-on/9PBDNJF84PPN/0010) | Readability of vehicle identity, movement challenges and gear upgrades |
+| Memorable rideable companions | [How to Train Your Dragon Add-On](https://www.minecraft.net/de-de/article/how-to-train-your-dragon-add-on) | Bonding, individual abilities and transitions between rider and creature states |
+| Transformations with distinct play styles | [Transformers Add-On](https://www.minecraft.net/de-de/article/transformers-add-on) | Character/vehicle form transitions, combat roles and configurable competitive modes |
+| Traversal equipment and transformation safety | [Sonic Add-On — Gamemode One](https://www.gamemodeone.com/sonic-add-on) | Traversal blocks, character abilities and progression, with the regression checklist below |
+| A cast that changes ordinary world play | [SpongeBob Add-On](https://www.minecraft.net/en-us/article/the-spongebob-add-on-is-here) | Companion personality, themed furnishings and ride presentation |
+| Encounters emerging from a simple world system | [Tetris Add-On — Jigarbov](https://www.minecraft.net/en-us/article/line-tetris-add) | Falling-block encounters, tameable creatures and tools with immediately legible purposes |
+
+The table identifies useful study questions, not a claim that each product excels in every area. Exact mechanics and visual quality still need direct inspection. Marketplace world DLC, add-ons, resource packs and unrelated community mods remain separate identities.
+
+## Concrete regression lessons for movement and transformations
+
+Gamemode One's [Sonic changelog](https://support.gamemodeone.com/hc/en-us/articles/33124348563483-Changelog-Sonic-Add-On) records fixes involving equipped helmets, rapid slot changes, transformation while riding, save/quit cleanup and incomplete transformations. Turn those documented failure classes into tests for our own movement/character systems:
+
+1. Equip valuable named/enchanted items, transform and revert, then compare item identity and data.
+2. Change active slots during the first transformation ticks; confirm a clean, authoritative state.
+3. Mount or dismount around the transition. Define supported behavior instead of allowing two incompatible controllers.
+4. Save and quit during every transition phase; reload without invisible helper entities or stranded control state.
+5. Interrupt with death, environmental hazards or cancellation; recover movement and abilities without duplicate rewards or lost equipment.
+6. Test the same cases in multiplayer with delayed messages and reconnects. These multiplayer extensions are our proposed tests, not claims that the cited changelog covers them.
+
+Documented upstream fixes are evidence of failure modes, not proof those bugs exist in our code or remain unfixed upstream.
+
+## Apply references to AoA and JetSetCraft
+
+- **AoA:** compare readable shot cues, upgrade silhouettes, inspect choreography, material detail and configurable effects. Keep every weapon's actual released projectile/resource contract intact in original mode.
+- **JetSetCraft:** study transitions among ordinary movement, ride modes, transformations and companions. Treat equipment preservation, cancellation and save/reload behavior as part of the fun, not cleanup work after visual polish.
+- **Both:** measure effect budgets and frame times in representative scenes. A slick trailer is not a benchmark or compatibility test. Preserve accessible reduced-effects settings and clear player feedback.
+
+These are design-study directions. Implementation must use original work or appropriately licensed assets/code; an official product link is not an asset license.
+
+## Evidence and remaining work
+
+[First three identities](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/bedrock-project-identity-evidence.json) · [Five branded identities](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/bedrock-brand-identity-evidence.json) · [Sonic, SpongeBob and Tetris](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/bedrock-gameplay-identity-evidence.json)
+
+The catalogue retains the original source rows, creator/version claims and favorites alongside checked identity evidence. Forty-four other starred Bedrock source rows remain unresolved at this review; other source collections have separate work. No native verification flags were promoted.

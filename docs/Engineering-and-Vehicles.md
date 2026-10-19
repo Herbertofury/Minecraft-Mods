@@ -1,5 +1,7 @@
 # Engineering and Vehicles
 
+[Bedrock design reference shelf](Bedrock-Design-References): official product identities, focused study questions and transformation regression lessons.
+
 [Home](https://github.com/Herbertofury/Minecraft-Mods/wiki/Minecraft-Mods) · [Search this category](https://herbertofury.github.io/Minecraft-Mods/?category=Engineering%20and%20Vehicles) · [Forever World Collection](https://github.com/Herbertofury/Minecraft-Mods/wiki/Forever-World-Collection)
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.

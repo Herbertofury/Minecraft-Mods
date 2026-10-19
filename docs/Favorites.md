@@ -1,5 +1,7 @@
 # Favorites
 
+[Bedrock design reference shelf](Bedrock-Design-References): official product identities, focused study questions and transformation regression lessons.
+
 [Home](Minecraft-Mods) · [Browse favorites](https://herbertofury.github.io/Minecraft-Mods/?favorites=1)
 
 The imported research explicitly marks these as personal favorites. Each receives its own maintained profile rather than being buried in a general table.
