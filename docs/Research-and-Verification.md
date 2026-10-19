@@ -22,3 +22,7 @@ The broad recommendations, gun research and creature-variety master views are im
 Refresh exact primary-source releases for the relevant loader/version, preserve earlier notes, and record what changed. Do not assume a project-wide latest release supports every lane. An author changelog, community issue report and reproduced test are different evidence. No scheduled updater is claimed to have been created here.
 
 [Home](Minecraft-Mods) · [Actual-file weapon research](Weapon-Research)
+
+## Resource-pack collection
+
+The 17-view resource-pack atlas is now preserved in the repository. Its 159 master observations include repeated ecosystem lanes and research gaps, so they are not 159 distinct installable packs. The first 37 exact project-route observations enrich 33 existing catalogue entries; 122 master observations still need identity review. Companion views, custom conversion proposals and stack notes remain source material rather than certified compatibility. [Browse the preserved collection](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-source-views.json) · [Import receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-import.json).

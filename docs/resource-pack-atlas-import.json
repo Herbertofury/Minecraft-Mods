@@ -1,0 +1,200 @@
+{
+  "date": "2026-10-19",
+  "source_sha256": "1208600a721e4daacb3f99b4e45bd4073e6d88779eb84a8562b0e2191cebdddf",
+  "master_rows": 159,
+  "exact_existing_observations_added": 37,
+  "unique_entries_enriched": 33,
+  "pending_master_observations": 122,
+  "display_entries": 2264,
+  "source_observations": 2646,
+  "favorites": 411,
+  "native_promotions": 0,
+  "all_prior_fields_preserved": true,
+  "applied": [
+    {
+      "row": 5,
+      "id": "aca2a1f1618be714",
+      "name": "Stay True Compats Reforged"
+    },
+    {
+      "row": 7,
+      "id": "194661dafc0f5769",
+      "name": "Excalibur"
+    },
+    {
+      "row": 8,
+      "id": "2788e4ff359f20f7",
+      "name": "F.M.R.P (Freshly Modded Resource Pack)"
+    },
+    {
+      "row": 35,
+      "id": "aca2a1f1618be714",
+      "name": "Stay True Compats Reforged \u2014 Biomes O\u2019 Plenty lane"
+    },
+    {
+      "row": 36,
+      "id": "aca2a1f1618be714",
+      "name": "Stay True Compats Reforged \u2014 Create lane"
+    },
+    {
+      "row": 37,
+      "id": "aca2a1f1618be714",
+      "name": "Stay True Compats Reforged \u2014 Quark lane"
+    },
+    {
+      "row": 41,
+      "id": "aca2a1f1618be714",
+      "name": "Stay True Compats Reforged \u2014 Farmer\u2019s Delight lane"
+    },
+    {
+      "row": 62,
+      "id": "1e5fb4f001397067",
+      "name": "Fresh Animations"
+    },
+    {
+      "row": 88,
+      "id": "076954de35fe4f42",
+      "name": "Fresh Animations: Extensions"
+    },
+    {
+      "row": 89,
+      "id": "3ab9d5cca143780a",
+      "name": "JICKLUS"
+    },
+    {
+      "row": 112,
+      "id": "d7b693d8bcac440b",
+      "name": "Seamless Glowing Ores"
+    },
+    {
+      "row": 113,
+      "id": "9d15f68cc63b62ee",
+      "name": "Revolution Vibrant Visuals | Static Light"
+    },
+    {
+      "row": 114,
+      "id": "88e4009f966307c5",
+      "name": "Mike Ultra Visuals"
+    },
+    {
+      "row": 115,
+      "id": "ade0d9f21026f5d4",
+      "name": "Better Vibrant Visuals | Static Light"
+    },
+    {
+      "row": 116,
+      "id": "0a25c083fb61b2b4",
+      "name": "Dreamy Visuals | Renewed Vibrant Visuals"
+    },
+    {
+      "row": 117,
+      "id": "ea05e7126aec6a9f",
+      "name": "Definitive Vibrant Visuals | Static Light Update"
+    },
+    {
+      "row": 118,
+      "id": "d1b23ccc4a4c7c62",
+      "name": "GUI Revision Expanded 1.5"
+    },
+    {
+      "row": 119,
+      "id": "bc973e312f8fec57",
+      "name": "N87 PBR Pack"
+    },
+    {
+      "row": 120,
+      "id": "faa4195f2c0c60ce",
+      "name": "Simple Grass Flowers"
+    },
+    {
+      "row": 121,
+      "id": "b7bcec948155d729",
+      "name": "Golden Age Textures"
+    },
+    {
+      "row": 122,
+      "id": "64e57aae4eb14fd9",
+      "name": "Infinity Visuals (Vibrant Visuals Pack)"
+    },
+    {
+      "row": 123,
+      "id": "053c397b472de2e5",
+      "name": "Mysteriel Fantasy Visuals"
+    },
+    {
+      "row": 124,
+      "id": "98b935e5c653dfdd",
+      "name": "Beyond Epic Fight MOB compat"
+    },
+    {
+      "row": 125,
+      "id": "2fb49e8aad6e36e3",
+      "name": "Beyond Epic Fight WEAPON compat"
+    },
+    {
+      "row": 126,
+      "id": "bbfd9b16365a3191",
+      "name": "Patrix 32x"
+    },
+    {
+      "row": 127,
+      "id": "1350a49ef00fcb4c",
+      "name": "Shrimp's Immersive Interfaces"
+    },
+    {
+      "row": 128,
+      "id": "9b8e20b67a267d69",
+      "name": "Immersive Interfaces - Mod Support Unofficial"
+    },
+    {
+      "row": 129,
+      "id": "3c3e41371eed875f",
+      "name": "Vibrant Legacy"
+    },
+    {
+      "row": 130,
+      "id": "d7091f357062812d",
+      "name": "Refined Torches"
+    },
+    {
+      "row": 131,
+      "id": "3f984b856a75d292",
+      "name": "Ultra Vibrant Visuals for Vibrant Visuals"
+    },
+    {
+      "row": 132,
+      "id": "7b86d8fd73d25cc2",
+      "name": "Optimum Realism"
+    },
+    {
+      "row": 133,
+      "id": "556f25513cd214d2",
+      "name": "Hyper Visuals Pack"
+    },
+    {
+      "row": 134,
+      "id": "97af2c78a308a2f0",
+      "name": "3D Remix"
+    },
+    {
+      "row": 135,
+      "id": "1ae7b478db068527",
+      "name": "Realistic Nature 3D"
+    },
+    {
+      "row": 136,
+      "id": "47c108131eff5338",
+      "name": "Realistic Flora 3D"
+    },
+    {
+      "row": 137,
+      "id": "4ea612c46854754c",
+      "name": "AutumnPack"
+    },
+    {
+      "row": 147,
+      "id": "891f52c3b41867a9",
+      "name": "Fresh Flowers and Plants"
+    }
+  ]
+}

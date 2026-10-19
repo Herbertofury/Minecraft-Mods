@@ -6,6 +6,10 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 
 **296 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
+## Resource-pack ecosystem research
+
+[The resource-pack atlas](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-source-views.json) preserves 17 views covering flowers, crops, magic, creatures, biomes, Create, Excalibur and Stay True ecosystems, conversion candidates and suggested pack stacks. The first 37 exact matches are attached to 33 existing catalogue entries. Another 122 master observations are being reconciled. Source scores, “native/drop-in” claims and suggested pack orders require exact-version testing; a design gap is not an available resource pack.
+
 <details>
 <summary><strong>Content Pack · 3</strong></summary>
 
