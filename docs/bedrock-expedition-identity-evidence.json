@@ -1,0 +1,59 @@
+{
+  "checked_utc": "2026-10-19",
+  "scope": "Primary product identities only; no runtime compatibility or asset access implied",
+  "matches": [
+    {
+      "row": 261,
+      "name": "Eternal Caves 1.1 Add-On",
+      "url": "https://www.minecraft.net/en-us/marketplace/pdp/panascais/eternal-caves-add--on/bb7d24f1-b9dd-4c0c-be41-8642459d10af",
+      "marketplace_uuid": "bb7d24f1-b9dd-4c0c-be41-8642459d10af",
+      "existing_ids": [],
+      "type": "content_pack",
+      "categories": [
+        "Worlds and Exploration",
+        "Creatures and Companions"
+      ],
+      "identity_sources": [
+        "https://www.minecraft.net/en-us/marketplace/pdp/panascais/eternal-caves-add--on/bb7d24f1-b9dd-4c0c-be41-8642459d10af",
+        "https://www.minecraft.net/pt-br/article/lets-play-eternal-caves"
+      ],
+      "method": "Exact add-on title, creator and product category verified on loaded official Minecraft Marketplace page on 2026-10-19.",
+      "reason": "Panascais Bedrock underground exploration, environment readability and creature-identification reference; versioned listing is not Java compatibility."
+    },
+    {
+      "row": 262,
+      "name": "Plushies 2.0.1",
+      "url": "https://www.minecraft.net/en-us/marketplace/pdp/scai-quest/plushies-2.0.1/39600c3f-6b46-4ae4-862f-d5f1f85a12fe",
+      "marketplace_uuid": "39600c3f-6b46-4ae4-862f-d5f1f85a12fe",
+      "existing_ids": [],
+      "type": "content_pack",
+      "categories": [
+        "Building and Decoration",
+        "Creatures and Companions"
+      ],
+      "identity_sources": [
+        "https://www.minecraft.net/en-us/marketplace/pdp/scai-quest/plushies-2.0.1/39600c3f-6b46-4ae4-862f-d5f1f85a12fe"
+      ],
+      "method": "Exact add-on title, creator and product category verified on loaded official Minecraft Marketplace page on 2026-10-19.",
+      "reason": "Scai Quest Bedrock collectible-mob decoration, adjustable sizes and manipulation-tool reference; visual/product claims need direct study."
+    },
+    {
+      "row": 263,
+      "name": "DragonFire Add-On",
+      "url": "https://www.minecraft.net/en-us/marketplace/pdp/spectral-studios/dragonfire-add--on/bed8e487-5a1d-4cd7-8f11-319791930407",
+      "marketplace_uuid": "bed8e487-5a1d-4cd7-8f11-319791930407",
+      "existing_ids": [],
+      "type": "content_pack",
+      "categories": [
+        "Creatures and Companions",
+        "Engineering and Vehicles",
+        "Weapons and Combat"
+      ],
+      "identity_sources": [
+        "https://www.minecraft.net/en-us/marketplace/pdp/spectral-studios/dragonfire-add--on/bed8e487-5a1d-4cd7-8f11-319791930407"
+      ],
+      "method": "Exact add-on title, creator and product category verified on loaded official Minecraft Marketplace page on 2026-10-19.",
+      "reason": "Spectral Studios full Bedrock add-on for dragon collection, growth and themed equipment; distinct from Lite, worlds, skin pack and Java mod."
+    }
+  ]
+}

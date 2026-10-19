@@ -1,0 +1,29 @@
+{
+  "scope": "Primary project identity only; source records and verification levels preserved",
+  "entries": 2231,
+  "source_records": 2569,
+  "favorites": 400,
+  "resolved_rows": 3,
+  "new_entries": 3,
+  "pending_starred_rows": 24,
+  "applied": [
+    {
+      "row": 261,
+      "id": "2e137abef30eeb94",
+      "name": "Eternal Caves 1.1 Add-On",
+      "new": true
+    },
+    {
+      "row": 262,
+      "id": "ff1a4c9a61cd7651",
+      "name": "Plushies 2.0.1",
+      "new": true
+    },
+    {
+      "row": 263,
+      "id": "92e0919c7cefd37d",
+      "name": "DragonFire Add-On",
+      "new": true
+    }
+  ]
+}

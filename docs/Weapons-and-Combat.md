@@ -6,10 +6,10 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**609 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**610 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
-<summary><strong>Content Pack · 91</strong></summary>
+<summary><strong>Content Pack · 92</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -66,6 +66,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Armor Magnum for TaCZ](https://curseforge.com/minecraft/customization/armor-magnum-for-tacz) | Relevant to the TaCZ gun/combat ecosystem; retained for comparison, expansion planning, or compatibility discovery. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=e46c360d290e7f13) |
 | [CheyTac M200 Pack for Vic's Point Blank](https://curseforge.com/minecraft/mc-addons/cheytac-m200-pack-for-vics-point-blank) | Focused single-platform CheyTac M200 pack with a known VPB 1.9.6 dependency; valuable for users wanting that rifle without a huge arsenal. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2a3ef0748a6083d5) |
 | [Cyberpunk 2077 Guns for Vic's Point Blank](https://curseforge.com/minecraft/customization/cyberpunk-2077-guns-for-vics-point-blank) | Large Cyberpunk 2077 weapon pack with a long-running VPB content line and 50+ gun scale on current branches. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=9d7750de132d5652) |
+| ★ [DragonFire Add-On](https://minecraft.net/en-us/marketplace/pdp/spectral-studios/dragonfire-add--on/bed8e487-5a1d-4cd7-8f11-319791930407) | Spectral Studios full Bedrock add-on for dragon collection, growth and themed equipment; distinct from Lite, worlds, skin pack and Java mod. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=92e0919c7cefd37d) |
 | [Halo Combat Evolved Guns for Vic's Point Blank](https://curseforge.com/minecraft/customization/halo-combat-evolved-guns-for-vics-point-blank) | Relevant to the Vic's Point Blank gun/combat ecosystem; retained for comparison, expansion planning, or compatibility discovery. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=e7306aabf7bb3727) |
 | [Helldivers 2 Gun Pack \| Vic's Point Blank](https://curseforge.com/minecraft/mc-addons/helldivers-2-gun-pack-vics-point-blank) | Adds iconic Helldivers 2 firearms with survival recipes and is explicitly designed to pair with Helldivers - Spread Democracy. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7eef246d7c80fb15) |
 | [Just Enough Guns New (unofficial port)](https://curseforge.com/minecraft/mc-mods/just-enough-guns-for-neoforge) | Standalone future JEG modern fork: guns, 4-chapter RPG career, SW-inspired vehicles, enemy gunners and raids. Not a JEG 1.20.1 addon, not a TaCZ compatibility patch. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0d1dcd2c994dc850) |
