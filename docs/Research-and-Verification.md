@@ -30,3 +30,9 @@ The 17-view resource-pack atlas is now preserved in the repository. Its 159 mast
 ## Stack planning and companion notes
 
 [Visual styles and resource-pack stacks](Visual-Styles-and-Pack-Stacks) explains version-specific dependencies, priority-order conflicts and a repeatable visual check. 120 companion rows are attached to 47 entries; 231 companion rows remain in review. These annotations do not inflate catalogue totals or promote native compatibility.
+
+## Keep published catalogue data fresh
+
+Index and detail requests share a revision derived from the current data files. Refresh it when publishing changes, then verify search and detail views after deployment. A successful build alone does not prove returning visitors see the latest records.
+
+[Deterministic cache-revision tool and four tests](https://github.com/Herbertofury/Minecraft-Mods/raw/refs/heads/main/docs/catalogue-cache-revision-tools.zip) checks all sixteen detail shards and the index together, rejects unexpected frontend request syntax and supports a non-mutating stale-revision check. It changes no project evidence or compatibility status.
