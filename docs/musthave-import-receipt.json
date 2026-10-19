@@ -1,0 +1,1975 @@
+{
+  "source_rows": 434,
+  "applied_rows": 280,
+  "pending_rows": 154,
+  "new_entries": 188,
+  "display_entries": 2123,
+  "source_record_count": 2439,
+  "catalogued_favorites": 277,
+  "previous_42_favorites_preserved": true,
+  "existing_sources_preserved": true,
+  "native_verification_promotions": 0,
+  "explicit_forever_world_flags_unchanged": true,
+  "applied": [
+    {
+      "source_row": 5,
+      "source_id": "rpg-series-spell-engine-paladins-priests-rpg-series",
+      "catalogue_id": "90f4d429de32323c",
+      "name": "Paladins & Priests (RPG Series)",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 7,
+      "source_id": "rpg-series-spell-engine-archers-rpg-series",
+      "catalogue_id": "8c18c7200c2209fb",
+      "name": "Archers (RPG Series)",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 8,
+      "source_id": "advent-of-ascension-advent-of-ascension-nevermine",
+      "catalogue_id": "61da8637a0872237",
+      "name": "Advent of Ascension (Nevermine)",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 9,
+      "source_id": "butchery",
+      "catalogue_id": "b411dfe30dd0cebb",
+      "name": "Butchery",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 10,
+      "source_id": "create-create-aeronautics",
+      "catalogue_id": "90648f635a5f9877",
+      "name": "Create Aeronautics",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 11,
+      "source_id": "do-a-barrel-roll",
+      "catalogue_id": "4a96a021b4b98c6a",
+      "name": "Do a Barrel Roll",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 12,
+      "source_id": "joosh-7889-critters-and-companions",
+      "catalogue_id": "4168ca25bbdaa3fe",
+      "name": "Critters and Companions",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 13,
+      "source_id": "iron-s-spells-iron-s-spells-n-spellbooks",
+      "catalogue_id": "14f1738c4db93b05",
+      "name": "Iron's Spells 'n Spellbooks",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 15,
+      "source_id": "punchy",
+      "catalogue_id": "a1d92dee45662a6e",
+      "name": "Punchy",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 16,
+      "source_id": "fresh-visuals-cyber-fresh-buckets",
+      "catalogue_id": "b16a49bb387c9907",
+      "name": "Fresh Buckets",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 18,
+      "source_id": "tacz-tacz-timeless-and-classics-zero",
+      "catalogue_id": "e353129a38c9054f",
+      "name": "[TaCZ] Timeless and Classics Zero",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 20,
+      "source_id": "mowzie-s-mobs-mowzie-s-mobs",
+      "catalogue_id": "07586b4820ad4f8f",
+      "name": "Mowzie's Mobs",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 21,
+      "source_id": "ryukusu-mushroom-quest",
+      "catalogue_id": "bfded76cc8403adf",
+      "name": "Mushroom Quest",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 22,
+      "source_id": "sophisticated-sophisticated-backpacks",
+      "catalogue_id": "8118870a522be5ba",
+      "name": "Sophisticated Backpacks",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 23,
+      "source_id": "sophisticated-sophisticated-storage",
+      "catalogue_id": "775e3f8734c8410d",
+      "name": "Sophisticated Storage",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 24,
+      "source_id": "mob-overhauls-spider-overhaul",
+      "catalogue_id": "3a32197bf90835ee",
+      "name": "Spider Overhaul",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 25,
+      "source_id": "joosh-7889-creeper-overhaul",
+      "catalogue_id": "b3d6c5908f730e3c",
+      "name": "Creeper Overhaul",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 26,
+      "source_id": "joosh-7889-enderman-overhaul",
+      "catalogue_id": "40a6207b24ba8e68",
+      "name": "Enderman Overhaul",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 27,
+      "source_id": "imb11-audio-sounds",
+      "catalogue_id": "d4e6e20b178190ca",
+      "name": "Sounds",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 28,
+      "source_id": "imb11-audio-more-sounds",
+      "catalogue_id": "199c9d9f32400abd",
+      "name": "More Sounds",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 29,
+      "source_id": "alex-s-alex-s-caves",
+      "catalogue_id": "0b881abcd4a9d9b4",
+      "name": "Alex's Caves",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 30,
+      "source_id": "alex-s-alex-s-mobs",
+      "catalogue_id": "97aae57597856bf3",
+      "name": "Alex's Mobs",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 31,
+      "source_id": "dimensions-the-undergarden",
+      "catalogue_id": "93c94fb5d84fe060",
+      "name": "The Undergarden",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 32,
+      "source_id": "too-many-bows",
+      "catalogue_id": "0106b576484cdce8",
+      "name": "Too Many Bows",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 33,
+      "source_id": "iron-s-spells-t-o-magic-n-extras-iron-s-spells-addon",
+      "catalogue_id": "86d65b2399f112c1",
+      "name": "T.O Magic 'n Extras - Iron's Spells Addon",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 34,
+      "source_id": "ziplines-rezipped",
+      "catalogue_id": "b62e32c3073a9e5b",
+      "name": "Ziplines: Rezipped!",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 35,
+      "source_id": "create-create-grind-rails",
+      "catalogue_id": "2eee8baec6ab83a0",
+      "name": "Create: Grind Rails",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 36,
+      "source_id": "l-ender-s-cataclysm-l-ender-s-cataclysm",
+      "catalogue_id": "0095fc6f72d7ea35",
+      "name": "L_Ender's Cataclysm",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 37,
+      "source_id": "iron-s-spells-cataclysm-cataclysm-spellbooks",
+      "catalogue_id": "45dca784ca2f6f09",
+      "name": "Cataclysm: Spellbooks",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 38,
+      "source_id": "shader-stack-iris-shaders",
+      "catalogue_id": "7df7fbf5d5e56f4d",
+      "name": "Iris Shaders",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 40,
+      "source_id": "ice-and-fire-iceandfire-community-edition",
+      "catalogue_id": "f6d65b5a26985186",
+      "name": "IceAndFire Community Edition",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 41,
+      "source_id": "aquatic-hybrid-aquatic",
+      "catalogue_id": "09d6ac0c9dc13708",
+      "name": "Hybrid Aquatic",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 42,
+      "source_id": "farmer-s-delight-farmer-s-delight",
+      "catalogue_id": "b45b832c6a508dda",
+      "name": "Farmer's Delight",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 43,
+      "source_id": "creature-cozy-fauna-orchestra",
+      "catalogue_id": "11c2550ad7614c93",
+      "name": "Fauna & Orchestra",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 44,
+      "source_id": "multiplayer-qol-essential-mod",
+      "catalogue_id": "609de1435b4de7a4",
+      "name": "Essential Mod",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 45,
+      "source_id": "dimensions-deeper-and-darker",
+      "catalogue_id": "1a7db0ce631bbd19",
+      "name": "Deeper and Darker",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 46,
+      "source_id": "create-create-hypertubes",
+      "catalogue_id": "4b08d78567d1c3ef",
+      "name": "Create: Hypertubes",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 47,
+      "source_id": "l-ender-s-cataclysm-cinematic-cataclysm",
+      "catalogue_id": "26361df0f0785799",
+      "name": "Cinematic Cataclysm",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 48,
+      "source_id": "cozy-ambience-windchimes",
+      "catalogue_id": "a9fca2dfc5f3c18a",
+      "name": "Windchimes",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 49,
+      "source_id": "diagnostics-crash-assistant",
+      "catalogue_id": "fbec180e1fbb45dc",
+      "name": "Crash Assistant",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 50,
+      "source_id": "vanilla-better-archeology",
+      "catalogue_id": "fcc8bd084065f371",
+      "name": "Better Archeology",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 51,
+      "source_id": "backports-vanilla-backport",
+      "catalogue_id": "ba8f8f9e32bdf50d",
+      "name": "Vanilla Backport",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 52,
+      "source_id": "food-cozy-cravings",
+      "catalogue_id": "d138b714cf7d54be",
+      "name": "Cravings!",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 53,
+      "source_id": "ambience-events-enhanced-celestials",
+      "catalogue_id": "38b985018bdc60e6",
+      "name": "Enhanced Celestials (Legacy)",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 54,
+      "source_id": "enhanced-celestials-2-core",
+      "catalogue_id": "223eb572077a4360",
+      "name": "Enhanced Celestials 2: Core",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 55,
+      "source_id": "enhanced-celestials-2-default-lunar-events",
+      "catalogue_id": "e0eb933623f61a9b",
+      "name": "Enhanced Celestials 2: Default Lunar Events",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 56,
+      "source_id": "enhanced-celestials-2-shader-support",
+      "catalogue_id": "301763bdb95ecfd1",
+      "name": "Enhanced Celestials 2: Shader Support",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 57,
+      "source_id": "enhanced-celestials-2-better-visuals",
+      "catalogue_id": "18525c9c5d3dfd4a",
+      "name": "Enhanced Celestials 2 Better Visuals",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 58,
+      "source_id": "chaos-moon-2",
+      "catalogue_id": "66ae78d7bbf27560",
+      "name": "Chaos Moon 2",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 59,
+      "source_id": "hunters-moon-2",
+      "catalogue_id": "de006e2b55c1b14f",
+      "name": "Hunter's Moon 2",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 60,
+      "source_id": "miners-moon-2",
+      "catalogue_id": "e8afc544a13e6fec",
+      "name": "Miner's Moon 2",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 61,
+      "source_id": "baby-horde-moon-2",
+      "catalogue_id": "b25bba20cecc8e5f",
+      "name": "Baby Horde Moon 2",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 62,
+      "source_id": "extreme-horde-moon-2",
+      "catalogue_id": "361b7f3171e460e7",
+      "name": "Extreme Horde Moon 2",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 63,
+      "source_id": "black-moon-2",
+      "catalogue_id": "3ee511ac3b82d674",
+      "name": "Black Moon 2",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 64,
+      "source_id": "peaceful-harvest-blue-moons-2-additional",
+      "catalogue_id": "5244db27bcc5a60c",
+      "name": "Peaceful Harvest and Blue Moons 2 - Additional",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 65,
+      "source_id": "peaceful-harvest-blue-moons-2-replace",
+      "catalogue_id": "0895a82df4f636ca",
+      "name": "Peaceful Harvest and Blue Moons 2 - Replace",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 66,
+      "source_id": "kaboom-moon-2",
+      "catalogue_id": "612df97b63578625",
+      "name": "Kaboom Moon 2",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 67,
+      "source_id": "spider-moon-2",
+      "catalogue_id": "0a6351d5c71d86d6",
+      "name": "Spider Moon 2",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 68,
+      "source_id": "ender-moon-2",
+      "catalogue_id": "5b1a1e00e855be99",
+      "name": "Ender Moon 2",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 69,
+      "source_id": "peaceful-moon-2",
+      "catalogue_id": "471150336581615e",
+      "name": "Peaceful Moon 2",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 70,
+      "source_id": "horde-moon-2",
+      "catalogue_id": "77e783e1250bc8f5",
+      "name": "Horde Moon 2",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 71,
+      "source_id": "cozy-decoration-fairy-lights",
+      "catalogue_id": "eae3d88f030dcf32",
+      "name": "Fairy Lights",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 72,
+      "source_id": "creature-cozy-faunify",
+      "catalogue_id": "2c8c2cdfc0f0aa23",
+      "name": "Faunify",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 73,
+      "source_id": "information-qol-field-guide",
+      "catalogue_id": "d1ad10a4974cfa31",
+      "name": "Field Guide",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 74,
+      "source_id": "visual-nature-grassier-grass",
+      "catalogue_id": "903982db7a38ca49",
+      "name": "Grassier Grass",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 75,
+      "source_id": "travel-utility-grand-teleport",
+      "catalogue_id": "8347ec0b3516a582",
+      "name": "Grand Teleport",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 76,
+      "source_id": "travel-utility-waystones",
+      "catalogue_id": "50d47d9cc26d2200",
+      "name": "Waystones",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 77,
+      "source_id": "legendary-workshop-legendary-farming",
+      "catalogue_id": "04a742713e481b22",
+      "name": "Legendary Farming",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 78,
+      "source_id": "qol-multi-mine",
+      "catalogue_id": "d8245f4c354667db",
+      "name": "Multi Mine",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 79,
+      "source_id": "movement-adventure-paragliders",
+      "catalogue_id": "21504647b1d618cf",
+      "name": "Paragliders",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 81,
+      "source_id": "rats-rats",
+      "catalogue_id": "395edbf4193031dd",
+      "name": "Rats",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 85,
+      "source_id": "creatures-snekcraft",
+      "catalogue_id": "b04651438d762349",
+      "name": "Snekcraft",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 86,
+      "source_id": "tacz-taczcurios",
+      "catalogue_id": "3662910d44f7a53c",
+      "name": "TaczCurios",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 87,
+      "source_id": "mapping-xaeroplus",
+      "catalogue_id": "30548dfd0de45b7a",
+      "name": "XaeroPlus",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 88,
+      "source_id": "tacz-tacz-turrets",
+      "catalogue_id": "75cb447fc0f448f4",
+      "name": "TaCZ Turrets",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 89,
+      "source_id": "ribbits-ecosystem-useful-ribbits",
+      "catalogue_id": "1aa04902779d7748",
+      "name": "Useful Ribbits",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 90,
+      "source_id": "movement-wall-jump-txf",
+      "catalogue_id": "508e6fa3b0b4d86a",
+      "name": "Wall-Jump TXF",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 91,
+      "source_id": "tacz-tacz-applied-ammo-box",
+      "catalogue_id": "25af3ebb53c3612f",
+      "name": "[TaCZ] Applied Ammo Box",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 92,
+      "source_id": "creature-cozy-adorable-hamster-pets",
+      "catalogue_id": "c0568917253bea09",
+      "name": "Adorable Hamster Pets",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 93,
+      "source_id": "artifacts-artifacts-3d",
+      "catalogue_id": "24e48abd3c7e5fce",
+      "name": "Artifacts 3D",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 94,
+      "source_id": "quests-rpg-bountiful",
+      "catalogue_id": "89c27883b41133cc",
+      "name": "Bountiful",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 95,
+      "source_id": "performance-c2me",
+      "catalogue_id": "05d697b602bb7276",
+      "name": "C2ME",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 96,
+      "source_id": "elytra-movement-pyrotechnic-elytra",
+      "catalogue_id": "2a5a05e3bcdfb9a3",
+      "name": "Pyrotechnic Elytra",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 97,
+      "source_id": "animation-combat-casual-swing",
+      "catalogue_id": "19ce3c8839b516db",
+      "name": "Casual Swing",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 98,
+      "source_id": "config-ui-catalogue",
+      "catalogue_id": "789accc38b8d4bb8",
+      "name": "Catalogue",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 99,
+      "source_id": "create-performance-create-better-fps",
+      "catalogue_id": "40f4eea0bba90e7a",
+      "name": "Create Better FPS",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 100,
+      "source_id": "valkyrien-skies-vs-clockwork",
+      "catalogue_id": "7ce567ab8ed453cb",
+      "name": "VS: Clockwork",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 103,
+      "source_id": "tacz-iron-s-spells-tacz-ironsarms",
+      "catalogue_id": "2a576ba9039f7f07",
+      "name": "[TaCZ] IronsArms",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 104,
+      "source_id": "dimensions-blue-skies",
+      "catalogue_id": "ba977920b5d1da6a",
+      "name": "Blue Skies",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 106,
+      "source_id": "performance-collections-of-optimizations",
+      "catalogue_id": "2768f2a0643d1753",
+      "name": "Collections of Optimizations",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 107,
+      "source_id": "creatures-and-beasts-creatures-and-beasts-continued",
+      "catalogue_id": "7030bb1825cc9a20",
+      "name": "Creatures and Beasts: Continued",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 108,
+      "source_id": "aquatic-adventure-aquamirae",
+      "catalogue_id": "a94578819ab7a0bb",
+      "name": "Aquamirae",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 109,
+      "source_id": "farmer-s-delight-brewin-and-chewin",
+      "catalogue_id": "5887828dc5ab3d42",
+      "name": "Brewin' and Chewin'",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 110,
+      "source_id": "mowzie-s-mobs-cataclysm-mowzie-s-cataclysm",
+      "catalogue_id": "06f9a0f9586b2662",
+      "name": "Mowzie's Cataclysm",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 111,
+      "source_id": "ars-nouveau-ars-creo",
+      "catalogue_id": "b71c8272afa289bc",
+      "name": "Ars Creo",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 114,
+      "source_id": "let-s-do-satisfyu-let-s-do-vinery",
+      "catalogue_id": "952886be5db323ac",
+      "name": "[Let's Do] Vinery",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 115,
+      "source_id": "let-s-do-satisfyu-let-s-do-herbalbrews",
+      "catalogue_id": "05376b10f87271f2",
+      "name": "[Let's Do] HerbalBrews",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 118,
+      "source_id": "let-s-do-satisfyu-let-s-do-meadow",
+      "catalogue_id": "846d7d7a4d895b79",
+      "name": "[Let's Do] Meadow",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 170,
+      "source_id": "nocube-realm-rpg-realm-rpg-treasure-balloons",
+      "catalogue_id": "024e8e47a0d8666d",
+      "name": "Realm RPG: Treasure Balloons",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 171,
+      "source_id": "nocube-realm-rpg-realm-rpg-fallen-adventurers",
+      "catalogue_id": "274d614e7f1f0c31",
+      "name": "Realm RPG: Fallen Adventurers",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 172,
+      "source_id": "nocube-realm-rpg-realm-rpg-dragon-wyrms",
+      "catalogue_id": "8e9890433eb19eab",
+      "name": "Realm RPG: Dragon Wyrms",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 173,
+      "source_id": "nocube-realm-rpg-realm-rpg-quests-rewards",
+      "catalogue_id": "4ca36c857427d22c",
+      "name": "Realm RPG: Quests & Rewards",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 174,
+      "source_id": "nocube-realm-rpg-realm-rpg-imps-demons",
+      "catalogue_id": "05292990ff51b74f",
+      "name": "Realm RPG: Imps & Demons",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 175,
+      "source_id": "nocube-realm-rpg-realm-rpg-pots-mimics",
+      "catalogue_id": "db1ac40312fef6c0",
+      "name": "Realm RPG: Pots & Mimics",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 176,
+      "source_id": "nocube-realm-rpg-realm-rpg-minotaurs",
+      "catalogue_id": "2e1666defb452066",
+      "name": "Realm RPG: Minotaurs",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 186,
+      "source_id": "kaleidoscope-bmtultra-kaleidoscope-end",
+      "catalogue_id": "2e443467748287be",
+      "name": "Kaleidoscope End",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 191,
+      "source_id": "kaleidoscope-bmtultra-kaleidoscope-twilight",
+      "catalogue_id": "ae636bd5566cf7b6",
+      "name": "Kaleidoscope Twilight",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 192,
+      "source_id": "kaleidoscope-bmtultra-dream-stone",
+      "catalogue_id": "234249093d912723",
+      "name": "Dream Stone",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 196,
+      "source_id": "kaleidoscope-bmtultra-compostbin",
+      "catalogue_id": "651601e49fc55694",
+      "name": "Compostbin",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 197,
+      "source_id": "kaleidoscope-bmtultra-kind-seagull",
+      "catalogue_id": "2bb9de7a31ecc96c",
+      "name": "Kind Seagull",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 201,
+      "source_id": "fresh-visuals-cyber-fresh-food",
+      "catalogue_id": "7d81da12770fdffa",
+      "name": "Fresh Food",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 202,
+      "source_id": "fresh-visuals-cyber-fresh-flowers-and-plants",
+      "catalogue_id": "891f52c3b41867a9",
+      "name": "Fresh Flowers and Plants",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 203,
+      "source_id": "fresh-visuals-cyber-fresh-music-discs",
+      "catalogue_id": "5bc4c4ddf7f522d2",
+      "name": "Fresh Music Discs",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 204,
+      "source_id": "fresh-visuals-cyber-bray-cyber-s-better-fresher-3d-books",
+      "catalogue_id": "0e65703aa668b98d",
+      "name": "Bray & Cyber's Better, Fresher 3D Books",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 205,
+      "source_id": "fresh-visuals-cyber-fresh-seeds",
+      "catalogue_id": "d92306e2cb4a6781",
+      "name": "Fresh Seeds",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 206,
+      "source_id": "fresh-visuals-cyber-fresh-ores-and-ingots",
+      "catalogue_id": "a94d36806f3ed38c",
+      "name": "Fresh Ores and Ingots",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 207,
+      "source_id": "fresh-visuals-cyber-fresh-paintings",
+      "catalogue_id": "25d87b4a47680923",
+      "name": "Fresh Paintings",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 208,
+      "source_id": "fresh-visuals-cyber-fresh-end-crystal-x-punchy",
+      "catalogue_id": "357087c147ad4722",
+      "name": "Fresh End Crystal x Punchy!",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 210,
+      "source_id": "fresh-visuals-cyber-fresh-buckets-vr",
+      "catalogue_id": "0a10bdd72f398575",
+      "name": "Fresh Buckets VR",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 215,
+      "source_id": "fresh-visuals-cyber-glowing-fresh-3d-armor-stands",
+      "catalogue_id": "877d2ec96241a455",
+      "name": "Glowing Fresh 3D Armor Stands",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 216,
+      "source_id": "fresh-visuals-cyber-create-fresh-items",
+      "catalogue_id": "f4b18fb9f355034a",
+      "name": "Create: Fresh Items",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 220,
+      "source_id": "artifacts-base",
+      "catalogue_id": "96a276ab4caa7fe8",
+      "name": "Artifacts",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 221,
+      "source_id": "apotheosis-base",
+      "catalogue_id": "2322a7bdb6f035ca",
+      "name": "Apotheosis",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 222,
+      "source_id": "born-in-chaos-base",
+      "catalogue_id": "cc70db74b7c72452",
+      "name": "Born in Chaos",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 223,
+      "source_id": "aether-base",
+      "catalogue_id": "1d0b41377febbb9a",
+      "name": "The Aether",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 224,
+      "source_id": "deep-aether-base",
+      "catalogue_id": "e86030f66fe71701",
+      "name": "Deep Aether",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 225,
+      "source_id": "twilight-forest-base",
+      "catalogue_id": "9b0f7f1469f8110b",
+      "name": "The Twilight Forest",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 226,
+      "source_id": "create-steam-n-rails",
+      "catalogue_id": "00c7528efae179d9",
+      "name": "Create: Steam 'n' Rails",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 227,
+      "source_id": "create-copycats-plus",
+      "catalogue_id": "667e5b5d0d7c4b75",
+      "name": "Create: Copycats+",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 228,
+      "source_id": "tide-2-base",
+      "catalogue_id": "67996ef724eac15e",
+      "name": "Tide 2",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 229,
+      "source_id": "delightful-base",
+      "catalogue_id": "ce2c9c008f2b8796",
+      "name": "Delightful",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 230,
+      "source_id": "legendary-tooltips-base",
+      "catalogue_id": "5ab80fac77c9a42e",
+      "name": "Legendary Tooltips",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 231,
+      "source_id": "jade-base",
+      "catalogue_id": "7c49d125cae21528",
+      "name": "Jade",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 232,
+      "source_id": "polymorph-base",
+      "catalogue_id": "fa446db7178d7b42",
+      "name": "Polymorph",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 288,
+      "source_id": "solo-leveling-reawakening",
+      "catalogue_id": "904405fd631048b5",
+      "name": "Solo Leveling: Reawakening [SLR]",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 289,
+      "source_id": "solo-leveling-system",
+      "catalogue_id": "7f8ba3199b7e024b",
+      "name": "Solo Leveling: System",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 290,
+      "source_id": "slr-auras",
+      "catalogue_id": "95ebb7668ad13b90",
+      "name": "SLR Auras",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 291,
+      "source_id": "solo-leveling-gate-compass",
+      "catalogue_id": "0ac0e4aae90b815b",
+      "name": "Solo Leveling: Gate Compass",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 292,
+      "source_id": "buddycards-core",
+      "catalogue_id": "567a71c43ac7b4e8",
+      "name": "Buddycards",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 293,
+      "source_id": "buddycards-expansions-legacy",
+      "catalogue_id": "a79282ece96caab6",
+      "name": "Buddycards Expansions (Legacy)",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 294,
+      "source_id": "create-buddycards",
+      "catalogue_id": "f6e0dcd9baafa919",
+      "name": "Create Buddycards",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 295,
+      "source_id": "delightful-buddycards",
+      "catalogue_id": "85d91d10a5b63d08",
+      "name": "Delightful Buddycards",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 296,
+      "source_id": "ae2-buddycards",
+      "catalogue_id": "a87d569f225c7f59",
+      "name": "AE2 Buddycards",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 297,
+      "source_id": "malum-buddycards",
+      "catalogue_id": "3c859e7c3e757249",
+      "name": "Malum Buddycards",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 298,
+      "source_id": "rpg-series-spell-engine-better-combat",
+      "catalogue_id": "88a65dfac03f1928",
+      "name": "Better Combat",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 299,
+      "source_id": "rpg-series-spell-engine-combat-roll",
+      "catalogue_id": "8c6e5d128fa2f7f0",
+      "name": "Combat Roll",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 301,
+      "source_id": "rpg-series-spell-engine-spell-power-attributes",
+      "catalogue_id": "5dadd5cb1fadafc1",
+      "name": "Spell Power Attributes",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 302,
+      "source_id": "rpg-series-spell-engine-runes",
+      "catalogue_id": "ff9ae906cd7ed176",
+      "name": "Runes",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 303,
+      "source_id": "rpg-series-spell-engine-ranged-weapon-api",
+      "catalogue_id": "184c89f85d4f7f7b",
+      "name": "Ranged Weapon API",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 304,
+      "source_id": "rpg-series-spell-engine-structure-pool-api",
+      "catalogue_id": "64093d89a564c0b1",
+      "name": "Structure Pool API",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 305,
+      "source_id": "rpg-series-spell-engine-jewelry-rpg-series",
+      "catalogue_id": "909703fe1ec8efbc",
+      "name": "Jewelry (RPG Series)",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 306,
+      "source_id": "rpg-series-spell-engine-projectile-damage-attribute",
+      "catalogue_id": "abf46d80c5bd3e2b",
+      "name": "Projectile Damage Attribute",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 307,
+      "source_id": "rpg-series-spell-engine-gazebos-rpg-series",
+      "catalogue_id": "eabc37e5711d92f4",
+      "name": "Gazebos (RPG Series)",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 308,
+      "source_id": "rpg-series-spell-engine-dungeon-difficulty",
+      "catalogue_id": "75f681b1ee2cb974",
+      "name": "Dungeon Difficulty",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 309,
+      "source_id": "rpg-series-spell-engine-relics-rpg-series",
+      "catalogue_id": "ebae2c43b8ef37a3",
+      "name": "Relics (RPG Series)",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 310,
+      "source_id": "rpg-series-spell-engine-arsenal-rpg-series",
+      "catalogue_id": "bac2c701fa2a6a58",
+      "name": "Arsenal (RPG Series)",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 311,
+      "source_id": "rpg-series-spell-engine-village-taverns-rpg-series",
+      "catalogue_id": "bdf984871df3db7f",
+      "name": "Village Taverns (RPG Series)",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 313,
+      "source_id": "rpg-series-spell-engine-skill-tree-rpg-series",
+      "catalogue_id": "7694b00083d7d0d5",
+      "name": "Skill Tree (RPG Series)",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 314,
+      "source_id": "rpg-series-spell-engine-critical-strike",
+      "catalogue_id": "116067dbb3a84b5c",
+      "name": "Critical Strike",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 315,
+      "source_id": "rpg-series-spell-engine-attribute-icons-rpg-series",
+      "catalogue_id": "9655d8bd422a8aed",
+      "name": "Attribute Icons (RPG Series)",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 316,
+      "source_id": "rpg-tweaks-sensible-survival-rpg-tweaks",
+      "catalogue_id": "129044db9b3a21c6",
+      "name": "Sensible Survival (RPG Tweaks)",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 317,
+      "source_id": "rpg-tweaks-enchant-limiter-rpg-tweaks",
+      "catalogue_id": "7eb36c9dfb1fd306",
+      "name": "Enchant Limiter (RPG Tweaks)",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 318,
+      "source_id": "rpg-tweaks-hunger-tweaks-rpg-tweaks",
+      "catalogue_id": "c2b1c4485a78bfff",
+      "name": "Hunger Tweaks (RPG Tweaks)",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 319,
+      "source_id": "rpg-series-spell-engine-quest-items",
+      "catalogue_id": "c44d406fc5e01396",
+      "name": "Quest Items",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 320,
+      "source_id": "rpg-series-spell-engine-armor-model-api",
+      "catalogue_id": "b8cd7d39d344b8d6",
+      "name": "Armor Model API",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 321,
+      "source_id": "rpg-series-spell-engine-tiny-config",
+      "catalogue_id": "ef62d200c4df4384",
+      "name": "Tiny Config",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 322,
+      "source_id": "rpg-series-plus-more-rpg-more-rpg-library",
+      "catalogue_id": "0efe85728e50859f",
+      "name": "More RPG Library",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 323,
+      "source_id": "rpg-series-plus-more-rpg-archers-expansion-more-rpg-classes",
+      "catalogue_id": "d68c03251174791d",
+      "name": "Archers Expansion (More RPG Classes)",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 324,
+      "source_id": "rpg-series-plus-more-rpg-elemental-wizards-more-rpg-classes",
+      "catalogue_id": "30d1ab8d8afa6e62",
+      "name": "Elemental Wizards (More RPG Classes)",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 325,
+      "source_id": "rpg-series-plus-more-rpg-forcemaster-more-rpg-classes",
+      "catalogue_id": "5f57330c2dd73b80",
+      "name": "Forcemaster (More RPG Classes)",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 326,
+      "source_id": "rpg-series-plus-more-rpg-additional-jewelry-rpg-series-plus",
+      "catalogue_id": "2a78feea24b6cd7a",
+      "name": "Additional Jewelry (RPG Series Plus)",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 327,
+      "source_id": "rpg-series-plus-more-rpg-berserker-more-rpg-classes",
+      "catalogue_id": "dd3ddc01d9989dd2",
+      "name": "Berserker (More RPG Classes)",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 328,
+      "source_id": "rpg-series-plus-more-rpg-witcher-more-rpg-classes",
+      "catalogue_id": "5bbdcb560400f719",
+      "name": "Witcher (More RPG Classes)",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 329,
+      "source_id": "rpg-series-plus-more-rpg-bard-rpg-series-plus",
+      "catalogue_id": "58cdd802b9ce3ca1",
+      "name": "Bard (RPG Series Plus)",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 330,
+      "source_id": "rpg-series-plus-more-rpg-loot-explore-more-rpg-content",
+      "catalogue_id": "0977b8ed588fc60a",
+      "name": "Loot & Explore (More RPG Content)",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 331,
+      "source_id": "rpg-series-plus-more-rpg-lne-wizards-add-on",
+      "catalogue_id": "ffbf042fb75729d5",
+      "name": "LNE Wizards Add-On",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 332,
+      "source_id": "rpg-series-plus-more-rpg-lne-archers-add-on",
+      "catalogue_id": "c4ced0230f2893b4",
+      "name": "LNE Archers Add-On",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 333,
+      "source_id": "rpg-series-plus-more-rpg-lne-rogues-warriors-add-on",
+      "catalogue_id": "b3ea1975e6f7ea77",
+      "name": "LNE Rogues & Warriors Add-On",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 334,
+      "source_id": "rpg-series-plus-more-rpg-lne-paladins-priests-add-on",
+      "catalogue_id": "2087c9b0d65a98ef",
+      "name": "LNE Paladins & Priests Add-On",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 335,
+      "source_id": "rpg-series-plus-more-rpg-soulmaster",
+      "catalogue_id": "236093d53d90c2ba",
+      "name": "Soulmaster",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 336,
+      "source_id": "rpg-series-plus-more-rpg-more-relics-more-rpg-content",
+      "catalogue_id": "8f93a3611d86bdce",
+      "name": "More Relics (More RPG Content)",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 337,
+      "source_id": "rpg-series-plus-more-rpg-more-rpg-classes-skill-tree",
+      "catalogue_id": "de3fed036039355a",
+      "name": "More RPG Classes - Skill Tree",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 338,
+      "source_id": "rpg-series-plus-more-rpg-loot-explore-rpg-series-loot-compat",
+      "catalogue_id": "8a29d7fb41b9583a",
+      "name": "Loot & Explore - RPG Series Loot Compat",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 339,
+      "source_id": "rpg-series-plus-more-rpg-witcher-rpg-series-loot-compat",
+      "catalogue_id": "bd7700469563420d",
+      "name": "Witcher - RPG Series Loot Compat",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 340,
+      "source_id": "rpg-series-plus-more-rpg-more-rpg-series-thermoo-compat",
+      "catalogue_id": "ddc86edac1dbb0ef",
+      "name": "More RPG Series - Thermoo Compat",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 341,
+      "source_id": "rpg-series-plus-more-rpg-more-rpg-classes-environmentz-compat",
+      "catalogue_id": "fc25226955d41ded",
+      "name": "More RPG Classes - EnvironmentZ Compat",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 342,
+      "source_id": "rpg-series-plus-more-rpg-loot-explore-dehydration-compat",
+      "catalogue_id": "27593483a3470fd7",
+      "name": "Loot & Explore - Dehydration Compat",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 343,
+      "source_id": "rpg-series-spell-engine-death-knights-rpg-series",
+      "catalogue_id": "6a42b8b77f8cb209",
+      "name": "Death Knights (RPG Series)",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 344,
+      "source_id": "ars-nouveau-ars-nouveau",
+      "catalogue_id": "6d235f747de0b5ea",
+      "name": "Ars Nouveau",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 345,
+      "source_id": "ars-nouveau-ars-elemental",
+      "catalogue_id": "e38bf3755014bc9b",
+      "name": "Ars Elemental",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 346,
+      "source_id": "ars-nouveau-ars-ocultas",
+      "catalogue_id": "894d00c61756a10d",
+      "name": "Ars Ocultas",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 347,
+      "source_id": "ars-nouveau-ars-nouveau-s-flavors-delight",
+      "catalogue_id": "b0b17e16bd5e33d0",
+      "name": "Ars Nouveau's Flavors & Delight",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 348,
+      "source_id": "ars-nouveau-ars-elixirum-forge-edition",
+      "catalogue_id": "91f88712194dfed5",
+      "name": "Ars Elixirum [Forge Edition]",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 349,
+      "source_id": "ars-nouveau-ars-additions",
+      "catalogue_id": "afcdbefbfb24498e",
+      "name": "Ars Additions",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 350,
+      "source_id": "ars-nouveau-too-many-glyphs",
+      "catalogue_id": "2940ef35ccf54253",
+      "name": "Too Many Glyphs",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 351,
+      "source_id": "ars-nouveau-ars-instrumentum",
+      "catalogue_id": "e8d23a3dbffca2f7",
+      "name": "Ars Instrumentum",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 352,
+      "source_id": "ars-nouveau-tome-of-blood-rebirth",
+      "catalogue_id": "be893ceb19194ab9",
+      "name": "Tome of Blood: Rebirth",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 353,
+      "source_id": "iron-s-spells-alshanex-alshanex-s-familiars",
+      "catalogue_id": "1f34bb5f2f8f37c9",
+      "name": "Alshanex's Familiars",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 354,
+      "source_id": "iron-s-spells-alshanex-familiarslib",
+      "catalogue_id": "6e1625135c57b39b",
+      "name": "Familiarslib",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 355,
+      "source_id": "the-aether-aether-addon-beyond-parity",
+      "catalogue_id": "12e1c5ed8c5f16e7",
+      "name": "Aether Addon: Beyond Parity",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 356,
+      "source_id": "the-aether-aether-addon-emissivity",
+      "catalogue_id": "0b13c17132bb8c4b",
+      "name": "Aether Addon: Emissivity",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 357,
+      "source_id": "the-aether-aether-addon-overworld-ores",
+      "catalogue_id": "d2dc8a60dbde393a",
+      "name": "Aether Addon: Overworld Ores",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 358,
+      "source_id": "the-aether-aether-addon-protect-your-moa",
+      "catalogue_id": "1217a4c020795895",
+      "name": "Aether Addon: Protect Your Moa",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 359,
+      "source_id": "the-aether-aether-addon-enhanced-extinguishing",
+      "catalogue_id": "14c070eed1626ac2",
+      "name": "Aether Addon: Enhanced Extinguishing",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 360,
+      "source_id": "the-aether-aether-addon-treasure-reforging",
+      "catalogue_id": "75c0bd3878ea59e9",
+      "name": "Aether Addon: Treasure Reforging",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 361,
+      "source_id": "the-aether-the-aether-ii",
+      "catalogue_id": "3821dd06c26d607e",
+      "name": "The Aether II",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 362,
+      "source_id": "the-aether-the-aether-redux",
+      "catalogue_id": "370a3514fedb303e",
+      "name": "The Aether: Redux",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 363,
+      "source_id": "the-aether-ancient-aether",
+      "catalogue_id": "b7033079f8ad76f8",
+      "name": "Ancient Aether",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 364,
+      "source_id": "the-aether-aether-lost-content-addon",
+      "catalogue_id": "5e51282fa34e1aa8",
+      "name": "Aether: Lost Content Addon",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 365,
+      "source_id": "the-aether-aether-delight-a-farmer-s-delight-add-on",
+      "catalogue_id": "7470a7311dc542d5",
+      "name": "Aether Delight (A Farmer's Delight Add-on)",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 366,
+      "source_id": "the-aether-aethersteel",
+      "catalogue_id": "4a327b82a5772e8e",
+      "name": "Aethersteel",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 367,
+      "source_id": "the-aether-aether-villages",
+      "catalogue_id": "3b7abd099db74939",
+      "name": "Aether Villages",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 368,
+      "source_id": "the-aether-aethersteel-in-the-aether",
+      "catalogue_id": "7fbcfe86f977aec3",
+      "name": "Aethersteel in the Aether",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 369,
+      "source_id": "celestisynth-celestisynth-wishes-and-hells",
+      "catalogue_id": "c62a227acdbb5c62",
+      "name": "Celestisynth: Wishes and Hells",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 370,
+      "source_id": "celestisynth-celestisynth-official-1-21-1-port",
+      "catalogue_id": "c96ed4b2fe6f2acb",
+      "name": "Celestisynth [Official 1.21.1 Port]",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 371,
+      "source_id": "celestisynth-celestisynth-official-fabric-port",
+      "catalogue_id": "51cceffdf33edcd0",
+      "name": "Celestisynth [Official Fabric Port]",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 372,
+      "source_id": "iron-s-spells-irons-apothic-invaders",
+      "catalogue_id": "e84ec4fa480d89a2",
+      "name": "Iron's Apothic Invaders",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 373,
+      "source_id": "feywild-feywild",
+      "catalogue_id": "d199a46ef0aee61f",
+      "name": "Feywild",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 374,
+      "source_id": "tacz-koei-create-armorer",
+      "catalogue_id": "9c13c4c03cb7f7b2",
+      "name": "[TaCZ]Create Armorer",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 375,
+      "source_id": "tacz-koei-immersive-armorer",
+      "catalogue_id": "64d16c74442d0477",
+      "name": "[TaCZ]Immersive Armorer",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 376,
+      "source_id": "tacz-koei-ars-armorer",
+      "catalogue_id": "bcf413b97749cce5",
+      "name": "[TaCZ]Ars Armorer",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 377,
+      "source_id": "tacz-koei-cyber-armorer",
+      "catalogue_id": "b3a545bdd9435cb1",
+      "name": "[TaCZ]Cyber Armorer",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 378,
+      "source_id": "tacz-koei-tti-gun-pack",
+      "catalogue_id": "c844fe3d64764f0f",
+      "name": "[TaCZ]TTI Gun Pack",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 379,
+      "source_id": "tacz-koei-applied-armorer",
+      "catalogue_id": "434d9ba32817b8eb",
+      "name": "[TaCZ]Applied Armorer",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 380,
+      "source_id": "tacz-koei-helldivers2-gun-pack",
+      "catalogue_id": "20f57d2f9ca1ade8",
+      "name": "[TaCZ]Hell Divers2 Gun Pack",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 381,
+      "source_id": "tacz-koei-gucci-attachments",
+      "catalogue_id": "e597954f65ba9edb",
+      "name": "[TaCZ]Gucci Attachments",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 382,
+      "source_id": "tacz-koei-heavy-recoil",
+      "catalogue_id": "cfa00dc37a68c17b",
+      "name": "Heavy Recoil",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 383,
+      "source_id": "tacz-koei-exception-api-extension",
+      "catalogue_id": "921f233e8ba8ff20",
+      "name": "Exception API Extension",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 384,
+      "source_id": "create-core",
+      "catalogue_id": "8f335bc942b0ba36",
+      "name": "Create",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 385,
+      "source_id": "create-easy-structures",
+      "catalogue_id": "b3acd8907a0f39ed",
+      "name": "Create: Easy Structures",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 387,
+      "source_id": "create-rustic-structures",
+      "catalogue_id": "3d294058f2ddf1b8",
+      "name": "Create: Rustic Structures",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 389,
+      "source_id": "create-protection-pixel",
+      "catalogue_id": "0905942186371c33",
+      "name": "Create: Protection Pixel",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 390,
+      "source_id": "create-theme-armor-addon",
+      "catalogue_id": "6210b308e71199e5",
+      "name": "Create Theme Armor Addon",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 391,
+      "source_id": "create-gunsmithing",
+      "catalogue_id": "5ca6da6279795f39",
+      "name": "Create: Gunsmithing",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 392,
+      "source_id": "scorched-guns-2",
+      "catalogue_id": "3d8683f612a226e6",
+      "name": "~SCORCHED GUNS 2",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 393,
+      "source_id": "create-big-cannons",
+      "catalogue_id": "7c04e06bd3bdb035",
+      "name": "Create Big Cannons",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 394,
+      "source_id": "raids-enhanced",
+      "catalogue_id": "b0581c3b0a91a2a0",
+      "name": "Raids:Enhanced",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 395,
+      "source_id": "create-automotives",
+      "catalogue_id": "70422bacd6f0a8b7",
+      "name": "Create: Automotives",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 396,
+      "source_id": "create-bionics",
+      "catalogue_id": "de80a8373af53ef6",
+      "name": "Create: Bionics",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 397,
+      "source_id": "rustic-engineer",
+      "catalogue_id": "9911632cb8420782",
+      "name": "Rustic Engineer",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 398,
+      "source_id": "valkyrien-skies-eureka-ships",
+      "catalogue_id": "472e2ad68bf2b712",
+      "name": "Eureka! Ships! for Valkyrien Skies",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 399,
+      "source_id": "create-steam-powered",
+      "catalogue_id": "3cf0a3b6c7f899eb",
+      "name": "Create: Steam Powered",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 400,
+      "source_id": "create-the-factory-must-grow",
+      "catalogue_id": "61d329174051b0ff",
+      "name": "Create: The Factory Must Grow",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 401,
+      "source_id": "supplementaries",
+      "catalogue_id": "140376d85181d093",
+      "name": "Supplementaries",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 402,
+      "source_id": "goety-the-dark-arts",
+      "catalogue_id": "4cf9282f9da12df4",
+      "name": "Goety - The Dark Arts",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 403,
+      "source_id": "ares-hud",
+      "catalogue_id": "03cc6d2220209be2",
+      "name": "Ares-HUD",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 404,
+      "source_id": "elytra-physics",
+      "catalogue_id": "834be265a557a207",
+      "name": "Elytra Physics",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 405,
+      "source_id": "stellarity",
+      "catalogue_id": "df330914e82a4c65",
+      "name": "Stellarity",
+      "favorite_in_source": false
+    },
+    {
+      "source_row": 406,
+      "source_id": "ticex-tinkers-construct-ex",
+      "catalogue_id": "07c020f3e5f69d36",
+      "name": "TiCEX - Tinkers Construct EX",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 407,
+      "source_id": "create-alloyed",
+      "catalogue_id": "34596145ea3a751c",
+      "name": "Create: Alloyed / Alloyed",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 408,
+      "source_id": "enchancement",
+      "catalogue_id": "60af35879f4b8e81",
+      "name": "Enchancement",
+      "favorite_in_source": false
+    },
+    {
+      "source_row": 409,
+      "source_id": "keyvision",
+      "catalogue_id": "342bf1dbdbc5affc",
+      "name": "KeyVision",
+      "favorite_in_source": false
+    },
+    {
+      "source_row": 410,
+      "source_id": "fullscreen-tweaks",
+      "catalogue_id": "882bb61173707c04",
+      "name": "Fullscreen Tweaks",
+      "favorite_in_source": false
+    },
+    {
+      "source_row": 411,
+      "source_id": "companions-xylonity",
+      "catalogue_id": "8c516130dd166ea1",
+      "name": "Companions!",
+      "favorite_in_source": false
+    },
+    {
+      "source_row": 412,
+      "source_id": "universal-bone-meal-fuzs",
+      "catalogue_id": "589e58c30dac363c",
+      "name": "Universal Bone Meal",
+      "favorite_in_source": false
+    },
+    {
+      "source_row": 413,
+      "source_id": "rpg-attribute-system",
+      "catalogue_id": "db0550d1669bd187",
+      "name": "RPG Attribute System",
+      "favorite_in_source": false
+    },
+    {
+      "source_row": 414,
+      "source_id": "nuclearcraft-neoteric",
+      "catalogue_id": "9a0205afc051de22",
+      "name": "NuclearCraft: Neoteric",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 415,
+      "source_id": "shippy-ships",
+      "catalogue_id": "9d50f0cd9068bd1a",
+      "name": "Shippy Ships",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 416,
+      "source_id": "multi-mine",
+      "catalogue_id": "d8245f4c354667db",
+      "name": "Multi Mine",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 417,
+      "source_id": "fps-overlay",
+      "catalogue_id": "78033bcb81754bd0",
+      "name": "FPS Overlay",
+      "favorite_in_source": true
+    },
+    {
+      "source_row": 418,
+      "source_id": "custom-nether-portals-thewizard",
+      "catalogue_id": "209cdd41a8b475a2",
+      "name": "Custom Nether Portals [Any Shape Nether Portals]",
+      "favorite_in_source": false
+    },
+    {
+      "source_row": 419,
+      "source_id": "unusual-prehistory-2",
+      "catalogue_id": "2c1f0ba96651fbd8",
+      "name": "Unusual Prehistory 2",
+      "favorite_in_source": false
+    },
+    {
+      "source_row": 420,
+      "source_id": "sodium-embeddium-dynamic-lights",
+      "catalogue_id": "42c220595464e2f5",
+      "name": "Sodium/Embeddium Dynamic Lights",
+      "favorite_in_source": false
+    },
+    {
+      "source_row": 421,
+      "source_id": "tooltip-overhaul-xylonity",
+      "catalogue_id": "98ae82a3c5520ae6",
+      "name": "Tooltip Overhaul",
+      "favorite_in_source": false
+    },
+    {
+      "source_row": 422,
+      "source_id": "dynamic-render-distance-nikrecs",
+      "catalogue_id": "beb93ef3a28a8f4b",
+      "name": "DynamicRenderDistance",
+      "favorite_in_source": false
+    },
+    {
+      "source_row": 423,
+      "source_id": "incendium-starmute",
+      "catalogue_id": "b4c9782169eb837d",
+      "name": "Incendium",
+      "favorite_in_source": false
+    },
+    {
+      "source_row": 424,
+      "source_id": "azurelib-azuredoomc",
+      "catalogue_id": "aff17fb746d8d542",
+      "name": "AzureLib",
+      "favorite_in_source": false
+    },
+    {
+      "source_row": 425,
+      "source_id": "bookshelf-darkhax",
+      "catalogue_id": "2bce7fd2d3638b97",
+      "name": "Bookshelf",
+      "favorite_in_source": false
+    },
+    {
+      "source_row": 426,
+      "source_id": "curios-api-theillusivec4",
+      "catalogue_id": "86b3a1ea181b5784",
+      "name": "Curios API",
+      "favorite_in_source": false
+    },
+    {
+      "source_row": 427,
+      "source_id": "architectury-api",
+      "catalogue_id": "2295dc990d5d2587",
+      "name": "Architectury API",
+      "favorite_in_source": false
+    },
+    {
+      "source_row": 428,
+      "source_id": "balm-blaytheninth",
+      "catalogue_id": "aae4ef8f87597b51",
+      "name": "Balm",
+      "favorite_in_source": false
+    },
+    {
+      "source_row": 429,
+      "source_id": "baguettelib-project8gbderam",
+      "catalogue_id": "b3a9405fb44efeaf",
+      "name": "BaguetteLib",
+      "favorite_in_source": false
+    },
+    {
+      "source_row": 430,
+      "source_id": "modularui-brachy84",
+      "catalogue_id": "af67bb5ec4396f34",
+      "name": "ModularUI",
+      "favorite_in_source": false
+    },
+    {
+      "source_row": 431,
+      "source_id": "create-crafts-additions-mrhminer",
+      "catalogue_id": "0da26915d97a45d2",
+      "name": "Create Crafts & Additions",
+      "favorite_in_source": false
+    },
+    {
+      "source_row": 432,
+      "source_id": "toms-simple-storage-tom54541",
+      "catalogue_id": "a80c64ca4d493885",
+      "name": "Tom's Simple Storage Mod",
+      "favorite_in_source": false
+    },
+    {
+      "source_row": 433,
+      "source_id": "epicfight-awaken-shelmarow",
+      "catalogue_id": "8e145772a8fb22b0",
+      "name": "EpicFight-Awaken",
+      "favorite_in_source": false
+    },
+    {
+      "source_row": 434,
+      "source_id": "fast-noise-zenxarch",
+      "catalogue_id": "77efefe12c3d9cd6",
+      "name": "Fast Noise",
+      "favorite_in_source": false
+    },
+    {
+      "source_row": 435,
+      "source_id": "compatlink-epic-fight-weapons-compat-sho09",
+      "catalogue_id": "cbbb5d1aee22f682",
+      "name": "CompatLink - Epic Fight Weapons Compat",
+      "favorite_in_source": false
+    },
+    {
+      "source_row": 436,
+      "source_id": "buildcraft-community-edition-bcce-team",
+      "catalogue_id": "77bc23f0ea0225a8",
+      "name": "BuildCraft Community Edition",
+      "favorite_in_source": false
+    },
+    {
+      "source_row": 437,
+      "source_id": "modern-content-backport-n0thingness",
+      "catalogue_id": "e9105c5765c9922e",
+      "name": "Modern Content Backport",
+      "favorite_in_source": false
+    }
+  ]
+}

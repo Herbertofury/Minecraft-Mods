@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "baseline_commit": "4be37f7",
+  "entries": 2123,
+  "attached_sources": 2439,
+  "catalogued_favorites": 277,
+  "old_entries_preserved": 1935,
+  "all_earlier_sources_and_favorites_preserved": true,
+  "source_rows_partitioned_without_loss_or_overlap": 434,
+  "new_runtime_verification_claims": 0
+}
