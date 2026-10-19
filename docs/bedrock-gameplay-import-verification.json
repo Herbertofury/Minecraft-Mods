@@ -1,0 +1,29 @@
+{
+  "scope": "Primary project identity only; source records and verification levels preserved",
+  "entries": 2211,
+  "source_records": 2549,
+  "favorites": 380,
+  "resolved_rows": 3,
+  "new_entries": 3,
+  "pending_starred_rows": 44,
+  "applied": [
+    {
+      "row": 241,
+      "id": "60d6987f4bd642e7",
+      "name": "Sonic Add-On",
+      "new": true
+    },
+    {
+      "row": 242,
+      "id": "4da044be3a68625e",
+      "name": "SpongeBob SquarePants Add-On",
+      "new": true
+    },
+    {
+      "row": 243,
+      "id": "4cb3c92f16dbd788",
+      "name": "Tetris Add-On",
+      "new": true
+    }
+  ]
+}
