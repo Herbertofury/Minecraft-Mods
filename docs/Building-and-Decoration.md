@@ -7,19 +7,11 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 **84 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
-<summary><strong>Data Pack · 1</strong></summary>
+<summary><strong>Data Pack · 2</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
 | ★ [Kaleidoscope Deco](https://modrinth.com/mod/kaleidoscope-deco) | A decorative Datapack targeting newer versions 1.21.5 and above. Add a touch of Fantasy to the World! | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=73c95ed1887473bc) |
-
-</details>
-
-<details>
-<summary><strong>Data Pack · 1</strong></summary>
-
-| Project / target | Purpose | Evidence |
-|---|---|---|
 | [Storage Pots](https://modrinth.com/datapack/storage-pots) | Interactive bulk single-item pots storing up to 16,384 items with hopper/comparator support. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b874386471cd632b) |
 
 </details>

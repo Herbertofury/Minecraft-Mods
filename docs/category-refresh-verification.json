@@ -6,8 +6,8 @@
       "category": "Building and Decoration",
       "entries": 84,
       "unique_detail_links": 84,
-      "previous_sha256": "9218668c420c278c2e0566c0869793fda1cc8c9a5af90c479f5edef1837acbf1",
-      "updated_sha256": "f3880fee490e230a91000f612d7907df660c82aefbea4ed482a4536e7f732f2a"
+      "previous_sha256": "f3880fee490e230a91000f612d7907df660c82aefbea4ed482a4536e7f732f2a",
+      "updated_sha256": "c5e5c4b531ec68ebc8c1fa45f9664eef9a6cf7a7d175ba266914f1e49c1a3341"
     },
     {
       "page": "Creatures-and-Companions.md",
@@ -30,7 +30,7 @@
       "category": "Farming and Survival",
       "entries": 107,
       "unique_detail_links": 107,
-      "previous_sha256": "767b6a9aa75c6d0d3cb55eb764cd395b5ff0e06b5ff63a21d2d9d954864f0a3b",
+      "previous_sha256": "c994cda4b46711c611e1a634e35ec7f2cde0da23c11ba1183612a2be5e2351ce",
       "updated_sha256": "c994cda4b46711c611e1a634e35ec7f2cde0da23c11ba1183612a2be5e2351ce"
     },
     {
@@ -38,7 +38,7 @@
       "category": "Interface and Accessibility",
       "entries": 208,
       "unique_detail_links": 208,
-      "previous_sha256": "20fab04ed3996ae01156ed0d9d544fdc7d2c1b4aaaf3770cf058807280a14851",
+      "previous_sha256": "b70b7da47f4623d93c6078d570896481bc3daa64496879f43d05e642d6bdbfed",
       "updated_sha256": "b70b7da47f4623d93c6078d570896481bc3daa64496879f43d05e642d6bdbfed"
     },
     {
@@ -46,7 +46,7 @@
       "category": "Magic and Progression",
       "entries": 232,
       "unique_detail_links": 232,
-      "previous_sha256": "e94804de7a825c1dce572dbf86877bb4555afdf332571c538549fae544e1d762",
+      "previous_sha256": "cf3ecfc765d70cacbb910362264e97152a90b2b97588b9cdfac48a68443dce1f",
       "updated_sha256": "cf3ecfc765d70cacbb910362264e97152a90b2b97588b9cdfac48a68443dce1f"
     },
     {
@@ -54,7 +54,7 @@
       "category": "Multiplayer and Servers",
       "entries": 85,
       "unique_detail_links": 85,
-      "previous_sha256": "69e47c2be2d4eef90f3ee793f5b30e91d260b4882bcc53a4c34b0c451ce0c3a4",
+      "previous_sha256": "555a584cb38971d2df63349b3eda874396b1ad30e17e3343524080ddbe6f0d51",
       "updated_sha256": "555a584cb38971d2df63349b3eda874396b1ad30e17e3343524080ddbe6f0d51"
     },
     {
@@ -70,7 +70,7 @@
       "category": "Tools and Development",
       "entries": 215,
       "unique_detail_links": 215,
-      "previous_sha256": "5ac11dc1ffdc824492a6f229c653eebe7b3256ca547084e094441411c0e5ea7b",
+      "previous_sha256": "9c13bf12a7a5007962910c4a43784561f0ca12d6e25ca7e4fb40e000c4858bab",
       "updated_sha256": "9c13bf12a7a5007962910c4a43784561f0ca12d6e25ca7e4fb40e000c4858bab"
     },
     {
@@ -78,15 +78,15 @@
       "category": "Visuals and Resource Packs",
       "entries": 290,
       "unique_detail_links": 290,
-      "previous_sha256": "611b52642670f276c505699f81790911882f7e655e09e7d524d31c3ee4439e12",
-      "updated_sha256": "08436320f3035ff17d31fc923c7b6ffb1deb827889ac67c96d84830797284a9b"
+      "previous_sha256": "08436320f3035ff17d31fc923c7b6ffb1deb827889ac67c96d84830797284a9b",
+      "updated_sha256": "ec9db3b513686d61fa124b6fdd6c6bd574100de71375c7543f0ba540aff674f5"
     },
     {
       "page": "Weapons-and-Combat.md",
       "category": "Weapons and Combat",
       "entries": 595,
       "unique_detail_links": 595,
-      "previous_sha256": "5b50f9a67cd3bcf564c1c3cd8c49534bd20f4963c2e69084b3009f70cdd7c97f",
+      "previous_sha256": "66cfaf2a0d85a31bd52ca72f5057eabe047fd2a256fc609c6c752a427a6fc15f",
       "updated_sha256": "66cfaf2a0d85a31bd52ca72f5057eabe047fd2a256fc609c6c752a427a6fc15f"
     },
     {
@@ -94,7 +94,7 @@
       "category": "Worlds and Exploration",
       "entries": 289,
       "unique_detail_links": 289,
-      "previous_sha256": "1bdd4f61945eae5b6ffbad223ff8cedd0ee1a51563797484d7918c9534934d3b",
+      "previous_sha256": "09b417c7493d1a2c6bd53237ccfd9c4e1ad6d990fbba4cdb91baf7cce1e11cd1",
       "updated_sha256": "09b417c7493d1a2c6bd53237ccfd9c4e1ad6d990fbba4cdb91baf7cce1e11cd1"
     }
   ],

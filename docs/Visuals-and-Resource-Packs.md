@@ -224,23 +224,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Resource Pack · 8</strong></summary>
-
-| Project / target | Purpose | Evidence |
-|---|---|---|
-| ★ [Better, Fresher 3D Books VR](https://modrinth.com/resourcepack/better-fresher-3d-books-vr) | A resource pack that adds 3D book models and individual enchanted book textures tailored for Vivecraft! | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=f3c73ec99ccfce69) |
-| ★ [Fresh Flowers and Plants VR](https://modrinth.com/resourcepack/fresh-flowers-and-plants-vr) | Resource Pack adding 3D plant and flowers models tailored for Vivecraft! | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=1b0719fc8589fa23) |
-| ★ [Fresh Food VR](https://modrinth.com/resourcepack/fresh-food-vr) | A resource pack that adds 3D food models and eating animations tailored for Vivecraft! | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=8b5f276dd20ab6ff) |
-| ★ [Fresh Music Discs VR](https://modrinth.com/resourcepack/fresh-music-discs-vr) | A resource pack that adds 3D music discs tailored for Vivecraft! | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=6e3114c1d105da48) |
-| ★ [Fresh Ores and Ingots VR](https://modrinth.com/resourcepack/fresh-ores-and-ingots-vr) | Resource pack adding 3D models for ingots, ores, and minerals tailored for Vivecraft! | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0e91b82a35e28555) |
-| ★ [Fresh Paintings VR](https://modrinth.com/resourcepack/fresh-paintings-vr) | Resource Pack adding 3D paintings and item frame models tailored for Vivecraft! | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=5936e87e4c18f52a) |
-| ★ [Jetpack Bees \[Fresh Animations\]](https://modrinth.com/resourcepack/jetpack-bees-fresh-animations) | We gave the Bees Jetpacks!!! | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7f8769b2040088cc) |
-| ★ [Simply Swords - Vanilla Style](https://modrinth.com/resourcepack/simply-swords-vanilla-style) | Change look of weapons from Simply Swords mod | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d39c260bc7c61d86) |
-
-</details>
-
-<details>
-<summary><strong>Resource Pack · 95</strong></summary>
+<summary><strong>Resource Pack · 103</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -258,6 +242,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Better Dogs](https://curseforge.com/minecraft/texture-packs/better-dogs) | Huge domestic-dog appearance library built on tamed wolves, including breed and special texture variations. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0928c717c3c63c72) |
 | [Better Dogs - Bedrock Edition](https://curseforge.com/minecraft-bedrock/texture-packs/better-dogs-bedrock-edition) | Bedrock port of the well-known dog-breed visual expansion. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=73757c9d4ec3eaba) |
 | [Better Vibrant Visuals \| Static Light](https://curseforge.com/minecraft-bedrock/texture-packs/bettervibrantvisuals) | BEDROCK UPDATE / CLIENT-SAFE VISUAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=ade0d9f21026f5d4) |
+| ★ [Better, Fresher 3D Books VR](https://modrinth.com/resourcepack/better-fresher-3d-books-vr) | A resource pack that adds 3D book models and individual enchanted book textures tailored for Vivecraft! | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=f3c73ec99ccfce69) |
 | [Beyond Epic Fight MOB compat](https://curseforge.com/minecraft/texture-packs/beyond-epic-fight-mob-compat) | INSTALL/TEST 1.20.1 / HIGH CURRENT-PACK FIT / MATCH COMBAT STACK | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=98b935e5c653dfdd) |
 | [Beyond Epic Fight WEAPON compat](https://curseforge.com/minecraft/texture-packs/beyond-epic-fight-weapon-compat) | INSTALL/TEST 1.20.1 / HIGH CURRENT-PACK FIT / MATCH COMBAT STACK | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2fb49e8aad6e36e3) |
 | [Blue Frogs](https://modrinth.com/resourcepack/blue-frogs) | A focused five-variant frog visual pack. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d201ad42eab2b978) |
@@ -279,10 +264,15 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | ★ [Fresh Buckets VR](https://modrinth.com/resourcepack/fresh-buckets-vr) | Fresh creator-family visual pack | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0a10bdd72f398575) |
 | ★ [Fresh End Crystal x Punchy!](https://modrinth.com/resourcepack/fresh-end-crystal-x-punchy) | 3D animated End Crystal integration for Punchy! | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=357087c147ad4722) |
 | ★ [Fresh Flowers and Plants](https://modrinth.com/resourcepack/fresh-flowers-and-plants) | 3D held flowers, plants, saplings and corals | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=891f52c3b41867a9) |
+| ★ [Fresh Flowers and Plants VR](https://modrinth.com/resourcepack/fresh-flowers-and-plants-vr) | Resource Pack adding 3D plant and flowers models tailored for Vivecraft! | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=1b0719fc8589fa23) |
 | ★ [Fresh Food](https://modrinth.com/resourcepack/fresh-food) | 3D food models and eating animations | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7d81da12770fdffa) |
+| ★ [Fresh Food VR](https://modrinth.com/resourcepack/fresh-food-vr) | A resource pack that adds 3D food models and eating animations tailored for Vivecraft! | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=8b5f276dd20ab6ff) |
 | ★ [Fresh Music Discs](https://modrinth.com/resourcepack/fresh-music-discs) | 3D music-disc models | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=5bc4c4ddf7f522d2) |
+| ★ [Fresh Music Discs VR](https://modrinth.com/resourcepack/fresh-music-discs-vr) | A resource pack that adds 3D music discs tailored for Vivecraft! | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=6e3114c1d105da48) |
 | ★ [Fresh Ores and Ingots](https://modrinth.com/resourcepack/fresh-ores-and-ingots) | 3D ores, minerals, ingots and bricks | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a94d36806f3ed38c) |
+| ★ [Fresh Ores and Ingots VR](https://modrinth.com/resourcepack/fresh-ores-and-ingots-vr) | Resource pack adding 3D models for ingots, ores, and minerals tailored for Vivecraft! | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0e91b82a35e28555) |
 | ★ [Fresh Paintings](https://modrinth.com/resourcepack/fresh-paintings) | 3D painting and item-frame models | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=25d87b4a47680923) |
+| ★ [Fresh Paintings VR](https://modrinth.com/resourcepack/fresh-paintings-vr) | Resource Pack adding 3D paintings and item frame models tailored for Vivecraft! | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=5936e87e4c18f52a) |
 | ★ [Fresh Seeds](https://modrinth.com/resourcepack/fresh-seeds) | 3D bundled-style seed item models inspired by Actions & Stuff | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d92306e2cb4a6781) |
 | [GlowCraft](https://curseforge.com/minecraft-bedrock/texture-packs/glowcraft) | BEDROCK TEST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=cced39b653105aba) |
 | [Glowing Emissive Ores](https://curseforge.com/minecraft/texture-packs/glowing-emissive-ores) | INSTALL / TEST NOW | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=193df6c9fb5ecda5) |
@@ -293,6 +283,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Infinity Visuals (Vibrant Visuals Pack)](https://curseforge.com/minecraft-bedrock/texture-packs/infinity-visuals-vibrant-visuals-pack) | BEDROCK ONLY / OPTIONAL / CLIENT-SAFE / WORLD-SAFE / TEST DEVICE PERFORMANCE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=64e57aae4eb14fd9) |
 | [ItemBound: ReBound](https://modrinth.com/resourcepack/itembound-rebound) | FUTURE VERSION | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2288834ec00c4155) |
 | [Items 3D](https://curseforge.com/minecraft/texture-packs/items-3d) | OPTIONAL / FUTURE VERSION | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=17828c5200d6cd77) |
+| ★ [Jetpack Bees \[Fresh Animations\]](https://modrinth.com/resourcepack/jetpack-bees-fresh-animations) | We gave the Bees Jetpacks!!! | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7f8769b2040088cc) |
 | [JICKLUS](https://curseforge.com/minecraft/texture-packs/jicklus) | OPTIONAL VISUAL / CLIENT-SAFE / USE MATCHING VERSION | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=3ab9d5cca143780a) |
 | [Kaydicraft CIT](https://modrinth.com/resourcepack/kaydicraft-cit) | INSTALL / OPTIONAL VISUAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7f57d32c385383b3) |
 | [Menagerie: Earth Mob Variants and More!](https://herbertofury.github.io/Minecraft-Mods/?id=005237af8fa7e13d) | Excellent data-driven Java restoration of Minecraft Earth/franchise variants with biome spawning and many farm-animal breeds. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=005237af8fa7e13d) |
@@ -332,6 +323,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Seamless Glowing Ores](https://curseforge.com/minecraft/texture-packs/seamless-glowing-ores) | OPTIONAL / CLIENT-SAFE / INSTALL-TEST WITH FUSION | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d7b693d8bcac440b) |
 | [Shrimp's Immersive Interfaces](https://curseforge.com/minecraft/texture-packs/shrimps-immersive-interfaces) | INSTALL/OPTIONAL 1.20.1 / CLIENT-SAFE / WORLD-SAFE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=1350a49ef00fcb4c) |
 | [Simple Grass Flowers](https://curseforge.com/minecraft/texture-packs/simple-grass-flowers) | INSTALL NOW / OPTIONAL VISUAL / CLIENT-SAFE / WORLD-SAFE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=faa4195f2c0c60ce) |
+| ★ [Simply Swords - Vanilla Style](https://modrinth.com/resourcepack/simply-swords-vanilla-style) | Change look of weapons from Simply Swords mod | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d39c260bc7c61d86) |
 | [The FAYE Pet Furniture Set \| CIT](https://herbertofury.github.io/Minecraft-Mods/?id=7393344c4453b6f4) | INSTALL / OPTIONAL VISUAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7393344c4453b6f4) |
 | [The FAYE Rugs & Curtains Set \| CIT](https://herbertofury.github.io/Minecraft-Mods/?id=fc558a90d21a4a18) | INSTALL / OPTIONAL VISUAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=fc558a90d21a4a18) |
 | [The FAYE Wallpaper & Flooring Set \| CIT](https://herbertofury.github.io/Minecraft-Mods/?id=5c2ca8927d412ee6) | INSTALL / OPTIONAL VISUAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=5c2ca8927d412ee6) |
