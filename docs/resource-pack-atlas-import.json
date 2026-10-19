@@ -4,9 +4,9 @@
   "master_rows": 159,
   "exact_existing_observations_added": 37,
   "unique_entries_enriched": 33,
-  "pending_master_observations": 64,
-  "display_entries": 2322,
-  "source_observations": 2704,
+  "pending_master_observations": 60,
+  "display_entries": 2326,
+  "source_observations": 2708,
   "favorites": 411,
   "native_promotions": 0,
   "all_prior_fields_preserved": true,
@@ -197,7 +197,7 @@
       "name": "Fresh Flowers and Plants"
     }
   ],
-  "reviewed_new_identity_observations_added": 58,
+  "reviewed_new_identity_observations_added": 62,
   "reviewed_new_identities": [
     {
       "row": 2,
@@ -488,6 +488,26 @@
       "row": 67,
       "id": "8bc28b396f6d8cff",
       "name": "Dandelion X"
+    },
+    {
+      "row": 68,
+      "id": "cc919fa382351290",
+      "name": "Excalibur | Oh The Biomes We\u2019ve Gone Support"
+    },
+    {
+      "row": 69,
+      "id": "6165c272f02d6d8f",
+      "name": "Js_Leaves+ for Regions Unexplored"
+    },
+    {
+      "row": 70,
+      "id": "65b70f0ed655f6a3",
+      "name": "Bare Bones X Alex's Mobs"
+    },
+    {
+      "row": 71,
+      "id": "7c5faee86b0f6c9e",
+      "name": "Farmer\u2019s 3D"
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
   "date": "2026-10-19",
   "source_view_rows": 351,
-  "attached_view_rows": 217,
-  "entries_enriched": 86,
-  "pending_view_rows": 134,
-  "source_record_count_unchanged": 2704,
-  "display_entries_unchanged": 2322,
+  "attached_view_rows": 226,
+  "entries_enriched": 90,
+  "pending_view_rows": 125,
+  "source_record_count_unchanged": 2708,
+  "display_entries_unchanged": 2326,
   "native_promotions": 0,
   "attached": [
     {
@@ -1309,6 +1309,60 @@
       "master_row": 64,
       "sheet": "Conversion Queue",
       "row": 9
+    },
+    {
+      "id": "cc919fa382351290",
+      "master_row": 68,
+      "sheet": "Flowers & Botany",
+      "row": 38
+    },
+    {
+      "id": "6165c272f02d6d8f",
+      "master_row": 69,
+      "sheet": "Flowers & Botany",
+      "row": 39
+    },
+    {
+      "id": "7c5faee86b0f6c9e",
+      "master_row": 71,
+      "sheet": "Farming & Food",
+      "row": 23
+    },
+    {
+      "id": "65b70f0ed655f6a3",
+      "master_row": 70,
+      "sheet": "Mob & Animation",
+      "row": 13
+    },
+    {
+      "id": "cc919fa382351290",
+      "master_row": 68,
+      "sheet": "Biomes & Nature",
+      "row": 18
+    },
+    {
+      "id": "6165c272f02d6d8f",
+      "master_row": 69,
+      "sheet": "Biomes & Nature",
+      "row": 19
+    },
+    {
+      "id": "cc919fa382351290",
+      "master_row": 68,
+      "sheet": "Style Ecosystems",
+      "row": 35
+    },
+    {
+      "id": "65b70f0ed655f6a3",
+      "master_row": 70,
+      "sheet": "Style Ecosystems",
+      "row": 36
+    },
+    {
+      "id": "cc919fa382351290",
+      "master_row": 68,
+      "sheet": "Excalibur Ecosystem",
+      "row": 17
     }
   ],
   "pending": [
@@ -1357,30 +1411,6 @@
         "B": "Stupendous Visuals",
         "C": "Modded 16x compatibility; Polytone+EMF+ETF required; no full coverage claim",
         "D": "https://modrinth.com/resourcepack/stupendous-visuals"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Flowers & Botany",
-      "row": 38,
-      "name": "Excalibur | Oh The Biomes We\u2019ve Gone Support",
-      "fields": {
-        "A": "67.0",
-        "B": "Excalibur | Oh The Biomes We\u2019ve Gone Support",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-oh-the-biomes-weve-gone-support"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Flowers & Botany",
-      "row": 39,
-      "name": "Js Leaves+ for Regions Unexplored",
-      "fields": {
-        "A": "68.0",
-        "B": "Js Leaves+ for Regions Unexplored",
-        "C": "Native / drop-in",
-        "D": "https://modrinth.com/resourcepack/js_leaves%2B-for-regions-unexplored"
       },
       "matches": []
     },
@@ -1638,18 +1668,6 @@
     },
     {
       "sheet": "Farming & Food",
-      "row": 23,
-      "name": "Farmer\u2019s 3D",
-      "fields": {
-        "A": "70.0",
-        "B": "Farmer\u2019s 3D",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/farmers-3d"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Farming & Food",
       "row": 24,
       "name": "Mizuno\u2019s x Brewin\u2019 And Chewin\u2019",
       "fields": {
@@ -1854,18 +1872,6 @@
     },
     {
       "sheet": "Mob & Animation",
-      "row": 13,
-      "name": "Bare Bones X Alex's Mobs",
-      "fields": {
-        "A": "69.0",
-        "B": "Bare Bones X Alex's Mobs",
-        "C": "Native / drop-in",
-        "D": "https://modrinth.com/resourcepack/barebones-x-alexsmobs"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Mob & Animation",
       "row": 15,
       "name": "Alex's Caves: Crystal Palace",
       "fields": {
@@ -2004,30 +2010,6 @@
     },
     {
       "sheet": "Biomes & Nature",
-      "row": 18,
-      "name": "Excalibur | Oh The Biomes We\u2019ve Gone Support",
-      "fields": {
-        "A": "67.0",
-        "B": "Excalibur | Oh The Biomes We\u2019ve Gone Support",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-oh-the-biomes-weve-gone-support"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Biomes & Nature",
-      "row": 19,
-      "name": "Js Leaves+ for Regions Unexplored",
-      "fields": {
-        "A": "68.0",
-        "B": "Js Leaves+ for Regions Unexplored",
-        "C": "Native / drop-in",
-        "D": "https://modrinth.com/resourcepack/js_leaves%2B-for-regions-unexplored"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Biomes & Nature",
       "row": 20,
       "name": "Bare Bones x Oh The Biomes We\u2019ve Gone",
       "fields": {
@@ -2143,30 +2125,6 @@
         "B": "Mo's Vibrancy Pack",
         "C": "Mod-version asset port",
         "D": "https://www.planetminecraft.com/texture-pack/the-vibrancy-pack-1-13/"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Style Ecosystems",
-      "row": 35,
-      "name": "Excalibur | Oh The Biomes We\u2019ve Gone Support",
-      "fields": {
-        "A": "67.0",
-        "B": "Excalibur | Oh The Biomes We\u2019ve Gone Support",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-oh-the-biomes-weve-gone-support"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Style Ecosystems",
-      "row": 36,
-      "name": "Bare Bones X Alex's Mobs",
-      "fields": {
-        "A": "69.0",
-        "B": "Bare Bones X Alex's Mobs",
-        "C": "Native / drop-in",
-        "D": "https://modrinth.com/resourcepack/barebones-x-alexsmobs"
       },
       "matches": []
     },
@@ -2760,18 +2718,6 @@
         "B": "Iron\u2019s Botany \u2014 dedicated texture pack gap",
         "C": "Custom pack required",
         "D": "https://www.curseforge.com/minecraft/mc-mods/irons-botany"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Excalibur Ecosystem",
-      "row": 17,
-      "name": "Excalibur | Oh The Biomes We\u2019ve Gone Support",
-      "fields": {
-        "A": "67.0",
-        "B": "Excalibur | Oh The Biomes We\u2019ve Gone Support",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-oh-the-biomes-weve-gone-support"
       },
       "matches": []
     },

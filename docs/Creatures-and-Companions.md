@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**615 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**616 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Content Pack · 30</strong></summary>
@@ -617,13 +617,14 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Resource Pack · 43</strong></summary>
+<summary><strong>Resource Pack · 44</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
 | [\[Bedrock\] Human Player Mobs](https://curseforge.com/minecraft-bedrock/texture-packs/human-player-mobs-bedrock-port) | BEDROCK VISUAL / CLIENT-SAFE / TEST CURRENT STABLE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=89c1d488fc13b448) |
 | [Alexs Mobs Pocket](https://curseforge.com/minecraft-bedrock/addons/alexs-mobs-pocket) | BEDROCK TEST / BACKUP FIRST / HIGH-VALUE PARITY | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=f16d554440db1110) |
 | [Bare Bones & Stuff \[Cherry and Glow!\]](https://curseforge.com/minecraft-bedrock/texture-packs/barebonesnstuff) | BEDROCK ONLY / CLIENT-SAFE VISUAL / UPDATE NOW | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=cdee814c0c1e9794) |
+| [Bare Bones X Alex's Mobs](https://modrinth.com/resourcepack/barebones-x-alexsmobs) | Bare Bones/trailer-style presentation for Alex’s Mobs, listed for Minecraft 1.20.1. Resource-pack styling is distinct from changing mob AI, animations or gameplay. Exact entity/pat | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=65b70f0ed655f6a3) |
 | [Beefier Bovine](https://curseforge.com/minecraft/texture-packs/beefier-bovine) | The strongest match for the remembered biome-diverse smoothie cow look; themed names include Boba, Milkshake, Iced Cowffee, S-MOO-thie, Fruit, Sorbet and more. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0d39e0f1c11ac769) |
 | [Beefier Bovine - Bedrock Edition](https://curseforge.com/minecraft-bedrock/texture-packs/beefier-bovine) | Bedrock port of the giant bovine style system, including drink/dessert name variants and biome-dependent appearances. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7e5a98a3b14563a5) |
 | [Better Dogs](https://curseforge.com/minecraft/texture-packs/better-dogs) | Huge domestic-dog appearance library built on tamed wolves, including breed and special texture variations. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0928c717c3c63c72) |
@@ -638,7 +639,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [F.M.R.P / Freshly Modded](https://curseforge.com/minecraft/texture-packs/freshly-modded) | OPTIONAL / TEST / CLIENT-SAFE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2788e4ff359f20f7) |
 | [Flower Frogs](https://modrinth.com/resourcepack/flower-frogs) | Small but gorgeous flower-themed frog set. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=3f210a77186fd937) |
 | [Fresh Animations: Extensions](https://curseforge.com/minecraft/texture-packs/fresh-animations-extensions) | OPTIONAL VISUAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=076954de35fe4f42) |
-| [Fresh Mowzie's Mobs textures](https://modrinth.com/resourcepack/fresh-mowzies-mobs-textures) | Texture refresh for Minecraft 1.20–1.20.1: the page lists Frostmaw, Foliaath and baby, both Grottol variants, Naga, Ferrous Wroughtnaut and Lantern. More coverage is planned. The na | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=5af57ea7f308548e) |
+| [Fresh Mowzie's Mobs textures](https://modrinth.com/resourcepack/fresh-mowzies-mobs-textures) | Texture refresh for Minecraft 1.20–1.20.1: the page lists Frostmaw, Foliaath and baby, both Grottol variants, Naga, Ferrous Wroughtnaut and Lantern. More coverage is planned. The n | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=5af57ea7f308548e) |
 | [Golden Age Textures](https://curseforge.com/minecraft-bedrock/texture-packs/golden-age-textures) | BEDROCK ONLY / OPTIONAL / CLIENT-SAFE / WORLD-SAFE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b7bcec948155d729) |
 | [Menagerie: Earth Mob Variants and More!](https://herbertofury.github.io/Minecraft-Mods/?id=005237af8fa7e13d) | Excellent data-driven Java restoration of Minecraft Earth/franchise variants with biome spawning and many farm-animal breeds. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=005237af8fa7e13d) |
 | [Minecraft Earth Cows (Bedrock)](https://curseforge.com/minecraft-bedrock/texture-packs/minecraft-earth-cows) | Dedicated Bedrock cow pack with Albino, Magma, Cookie, Wooly, Pinto, Ashen, Moobloom, Moolip and more via nametags. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2464821286703f4c) |

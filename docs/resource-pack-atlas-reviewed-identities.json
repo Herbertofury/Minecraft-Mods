@@ -590,5 +590,49 @@
       "Building and Decoration"
     ],
     "note": "A 16x continuation of Steelfeathers\u2019 Dandelion with vanilla-friendly textures, animations and models plus optional enhanced features. Author guidance names EMF/ETF, Continuity and Polytone for portions of its enhanced support. Newer vanilla CIT support is version-specific, not a 1.20.1 guarantee; match release and feature dependencies."
+  },
+  {
+    "row": 68,
+    "name": "Excalibur | Oh The Biomes We\u2019ve Gone Support",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/excalibur-oh-the-biomes-weve-gone-support",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Worlds and Exploration"
+    ],
+    "note": "Unofficial work-in-progress Excalibur-style BWG patch with separate 1.20.1, 1.21.1 and 1.21.4 files. The page explicitly says wood types are still missing, qualifying its broad block-coverage wording. Its asset terms restrict modifications and redistribution; do not assume permission to reuse artwork."
+  },
+  {
+    "row": 69,
+    "name": "Js_Leaves+ for Regions Unexplored",
+    "url": "https://modrinth.com/resourcepack/js_leaves+-for-regions-unexplored",
+    "sources": [
+      "https://modrinth.com/resourcepack/js_leaves+-for-regions-unexplored",
+      "https://modrinth.com/resourcepack/js_leaves%2B-for-regions-unexplored"
+    ],
+    "categories": [
+      "Visuals and Resource Packs",
+      "Worlds and Exploration"
+    ],
+    "note": "Volumetric leaf-model replacement for Regions Unexplored, listed for 1.20.x and 1.21\u20131.21.1. This is a foliage presentation pack; the page does not establish complete plant coverage, cross-pack priority or native frame-time cost."
+  },
+  {
+    "row": 70,
+    "name": "Bare Bones X Alex's Mobs",
+    "url": "https://modrinth.com/resourcepack/barebones-x-alexsmobs",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Creatures and Companions"
+    ],
+    "note": "Bare Bones/trailer-style presentation for Alex\u2019s Mobs, listed for Minecraft 1.20.1. Resource-pack styling is distinct from changing mob AI, animations or gameplay. Exact entity/path coverage and interactions with other packs remain to be inspected."
+  },
+  {
+    "row": 71,
+    "name": "Farmer\u2019s 3D",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/farmers-3d",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Farming and Survival"
+    ],
+    "note": "3D food models for Farmer\u2019s Delight, with distinct Normal and cutting-board (CB) file variants. The author lists incremental item coverage across beta releases and support spanning 1.16.5, 1.18.2, 1.19.2 and 1.20.1; select the specific version and placement variant rather than assuming every file supports every target."
   }
 ]

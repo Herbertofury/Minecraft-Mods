@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**130 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**131 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Content Pack · 4</strong></summary>
@@ -133,7 +133,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Resource Pack · 20</strong></summary>
+<summary><strong>Resource Pack · 21</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -151,6 +151,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Excalibur \| Hearth and Harvest Delight Support](https://www.curseforge.com/minecraft/texture-packs/excalibur-hearth-and-harvest-support) | Hearth and Harvest visual support aligned with Excalibur Farmer’s Delight, including 3D crops and extra detail on some functional blocks. The page lists distinct Forge 1.20.1 and N | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a0fb1cfbb30421be) |
 | [Excalibur \| My Nether's Delight Support](https://www.curseforge.com/minecraft/texture-packs/excalibur-my-nethers-delight-support) | Visual support for My Nether's Delight, which is distinct from the older Nether's Delight mod. Separate 1.20.1 v2.1 and 1.21.1 v2.2 files are listed. Intended to match Excalibur an | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=97a14bb4324ce96b) |
 | [Excalibur \| Quark Delight Support](https://modrinth.com/resourcepack/quark-delight-excalibur-support) | Excalibur-style retextures for the Quark Delight add-on, with listed 1.20–1.20.1 and 1.21–1.21.1 lanes. The author links separate Farmer’s Delight and Quark support packs; this pat | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=e4f78f17466f8373) |
+| [Farmer’s 3D](https://www.curseforge.com/minecraft/texture-packs/farmers-3d) | 3D food models for Farmer’s Delight, with distinct Normal and cutting-board (CB) file variants. The author lists incremental item coverage across beta releases and support spanning | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7c5faee86b0f6c9e) |
 | ★ [Fresh Food](https://modrinth.com/resourcepack/fresh-food) | 3D food models and eating animations | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7d81da12770fdffa) |
 | ★ [Fresh Seeds](https://modrinth.com/resourcepack/fresh-seeds) | 3D bundled-style seed item models inspired by Actions & Stuff | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d92306e2cb4a6781) |
 | [Mizuno’s x Farmer’s Delight](https://www.curseforge.com/minecraft/texture-packs/mizunos-x-farmers-delight) | Mizuno-style Farmer’s Delight retexture. The author uses Refabricated and describes Forge support as possible rather than verified; do not promote this to tested Forge compatibilit | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=3fb973c08ebd46b9) |
