@@ -6,9 +6,9 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 
 ## Resource-pack ecosystem research
 
-[The resource-pack atlas](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-source-views.json) preserves 17 views covering flowers, crops, magic, creatures, biomes, Create, Excalibur and Stay True ecosystems, conversion candidates and suggested pack stacks. The first 37 exact matches are attached to 33 existing catalogue entries. Nineteen further project identities are now checked against official pages; another 103 master observations are being reconciled. Source scores, “native/drop-in” claims and suggested pack orders require exact-version testing; a design gap is not an available resource pack.
+[The resource-pack atlas](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-source-views.json) preserves 17 views covering flowers, crops, magic, creatures, biomes, Create, Excalibur and Stay True ecosystems, conversion candidates and suggested pack stacks. The first 37 exact matches are attached to 33 existing catalogue entries. Twenty-two further project identities are now checked against official pages; another 100 master observations are being reconciled. Source scores, “native/drop-in” claims and suggested pack orders require exact-version testing; a design gap is not an available resource pack.
 
-**315 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**318 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Content Pack · 3</strong></summary>
@@ -229,7 +229,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Resource Pack · 127</strong></summary>
+<summary><strong>Resource Pack · 130</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -239,6 +239,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | ★ [Actions & Stuff](https://www.minecraft.net/en-us/marketplace/pdp/oreville-studios/actions-%26-stuff-1.12/61c7a786-d7ad-49e0-a710-817121cd9795) | BEDROCK ONLY / VISUAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=67c19b190bebc6ee) |
 | [Alexs Mobs Pocket](https://curseforge.com/minecraft-bedrock/addons/alexs-mobs-pocket) | BEDROCK TEST / BACKUP FIRST / HIGH-VALUE PARITY | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=f16d554440db1110) |
 | [Ars Loafers](https://www.curseforge.com/minecraft/texture-packs/ars-loafers) | Official CurseForge project 1254524 by loafobucket is an Ars Nouveau resource pack with addon support. Current description targets 1.21.1, while older files list 1.20.1. Project-wi | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=4a3df3d6df8bb9f9) |
+| [Ars Naturae](https://www.curseforge.com/minecraft/texture-packs/ars-naturae) | Nature-themed Ars Nouveau visual pack using brown woods, mossy stone and blue Source styling. Author mentions addons without a complete support inventory. The inspected project lis | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=9789ec4d167d4b1a) |
 | [Ars Nouveau Refresh](https://modrinth.com/resourcepack/ars-nouveau-refresh) | Official Ars Nouveau Refresh page documents glyph, essence, charm/familiar and tablet icon redesigns. Mob/weapon/armor styling and addon item improvements appear on its roadmap; do | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=fc227c5780b3b100) |
 | ★ [Artifacts 3D](https://modrinth.com/resourcepack/x70SGc9M) | Makes Artifacts items 3D | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=24e48abd3c7e5fce) |
 | [AutumnPack](https://modrinth.com/resourcepack/autumnpack) | OPTIONAL / HIGH COZY FIT / CLIENT-SAFE / PACK-ONLY | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=4ea612c46854754c) |
@@ -263,6 +264,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Chaotix Apotheotic Tweaks](https://www.curseforge.com/minecraft/texture-packs/chaotix-apotheotic-tweaks) | Official Apotheosis texture pack targets gems, charms, tomes, rarity materials, arrows and relevant workstations/GUI. It needs Apotheosis to have an effect; its Fabric Zenith versi | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=9374d22d76abb693) |
 | [Cinematic Visuals Shader (Vibrant Visuals Pack)](https://curseforge.com/minecraft-bedrock/texture-packs/cinematic-visuals-shader-vibrant-visuals-pack) | BEDROCK TEST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=fba1386a56f94556) |
 | [Cluckier Chickens](https://curseforge.com/minecraft-bedrock/texture-packs/cluckier-chickens) | A spectacular species-variant pack: one of the largest chicken visual collections surfaced anywhere in the scour. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a313205849bc7d41) |
+| [Connected Paths](https://www.curseforge.com/minecraft/texture-packs/connected-paths) | Connected-texture resource pack; author requires OptiFine or Continuity. Support is version-scoped: several ecosystems are listed, while Create, Alex’s Caves and others remain plan | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=83cd0bd17d0aac90) |
 | ★ [Create: Fresh Items](https://modrinth.com/resourcepack/create-fresh-food) | 3D Create item models inspired by Fresh Food | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=f4b18fb9f355034a) |
 | ★ [Creeper Overhaul x Fresh Animations](https://curseforge.com/minecraft/texture-packs/creeper-overhaul-x-fresh-animations) | Fresh Animations support for the Creeper Overhaul resource pack. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=604d775235b82423) |
 | [Cute Mob Models: Resource Pack](https://curseforge.com/minecraft/texture-packs/cute-mob-models-resource-pack) | OPTIONAL VISUAL / CLIENT-SAFE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c8698752187dc546) |
@@ -353,6 +355,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Simple Grass Flowers](https://curseforge.com/minecraft/texture-packs/simple-grass-flowers) | INSTALL NOW / OPTIONAL VISUAL / CLIENT-SAFE / WORLD-SAFE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=faa4195f2c0c60ce) |
 | ★ [Simply Swords - Vanilla Style](https://modrinth.com/resourcepack/simply-swords-vanilla-style) | Change look of weapons from Simply Swords mod | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d39c260bc7c61d86) |
 | ★ [Simply Swords Classic](https://curseforge.com/minecraft/texture-packs/simply-swords-classic) | Legacy three-dimensional models for Simply Swords. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=354e3b9ca4649b36) |
+| [Stay True](https://www.curseforge.com/minecraft/texture-packs/stay-true) | Vanilla-style visual variation pack. Author lists OptiFine for connected textures, overlays and pink birch leaves, and advises fancy leaves plus appropriate connected-texture/alter | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=8195aa5182e19ee1) |
 | [The FAYE Pet Furniture Set \| CIT](https://herbertofury.github.io/Minecraft-Mods/?id=7393344c4453b6f4) | INSTALL / OPTIONAL VISUAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7393344c4453b6f4) |
 | [The FAYE Rugs & Curtains Set \| CIT](https://herbertofury.github.io/Minecraft-Mods/?id=fc558a90d21a4a18) | INSTALL / OPTIONAL VISUAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=fc558a90d21a4a18) |
 | [The FAYE Wallpaper & Flooring Set \| CIT](https://herbertofury.github.io/Minecraft-Mods/?id=5c2ca8927d412ee6) | INSTALL / OPTIONAL VISUAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=5c2ca8927d412ee6) |
@@ -399,4 +402,4 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 
 ## Stack planning and companion notes
 
-[Visual styles and resource-pack stacks](Visual-Styles-and-Pack-Stacks) explains version-specific dependencies, priority-order conflicts and a repeatable visual check. 120 companion rows are attached to 47 entries; 231 companion rows remain in review. These annotations do not inflate catalogue totals or promote native compatibility.
+[Visual styles and resource-pack stacks](Visual-Styles-and-Pack-Stacks) explains version-specific dependencies, priority-order conflicts and a repeatable visual check. 129 companion rows are attached to 50 entries; 222 companion rows remain in review. These annotations do not inflate catalogue totals or promote native compatibility.

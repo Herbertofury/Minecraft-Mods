@@ -1,11 +1,11 @@
 {
   "date": "2026-10-19",
   "source_view_rows": 351,
-  "attached_view_rows": 120,
-  "entries_enriched": 47,
-  "pending_view_rows": 231,
-  "source_record_count_unchanged": 2665,
-  "display_entries_unchanged": 2283,
+  "attached_view_rows": 129,
+  "entries_enriched": 50,
+  "pending_view_rows": 222,
+  "source_record_count_unchanged": 2668,
+  "display_entries_unchanged": 2286,
   "native_promotions": 0,
   "attached": [
     {
@@ -727,21 +727,63 @@
       "master_row": 15,
       "sheet": "Excalibur Ecosystem",
       "row": 5
+    },
+    {
+      "id": "83cd0bd17d0aac90",
+      "master_row": 13,
+      "sheet": "Mega Coverage",
+      "row": 12
+    },
+    {
+      "id": "8195aa5182e19ee1",
+      "master_row": 28,
+      "sheet": "Mega Coverage",
+      "row": 16
+    },
+    {
+      "id": "8195aa5182e19ee1",
+      "master_row": 28,
+      "sheet": "Flowers & Botany",
+      "row": 12
+    },
+    {
+      "id": "9789ec4d167d4b1a",
+      "master_row": 29,
+      "sheet": "Flowers & Botany",
+      "row": 13
+    },
+    {
+      "id": "9789ec4d167d4b1a",
+      "master_row": 29,
+      "sheet": "Magic & RPG",
+      "row": 13
+    },
+    {
+      "id": "83cd0bd17d0aac90",
+      "master_row": 13,
+      "sheet": "Biomes & Nature",
+      "row": 7
+    },
+    {
+      "id": "8195aa5182e19ee1",
+      "master_row": 28,
+      "sheet": "Style Ecosystems",
+      "row": 16
+    },
+    {
+      "id": "83cd0bd17d0aac90",
+      "master_row": 13,
+      "sheet": "Conversion Queue",
+      "row": 5
+    },
+    {
+      "id": "8195aa5182e19ee1",
+      "master_row": 28,
+      "sheet": "Stay True Ecosystem",
+      "row": 3
     }
   ],
   "pending": [
-    {
-      "sheet": "Mega Coverage",
-      "row": 12,
-      "name": "Connected Paths",
-      "fields": {
-        "A": "12.0",
-        "B": "Connected Paths",
-        "C": "Simple pack-format conversion",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/connected-paths"
-      },
-      "matches": []
-    },
     {
       "sheet": "Mega Coverage",
       "row": 14,
@@ -763,18 +805,6 @@
         "B": "Excalibur | Clarent Edition",
         "C": "Native / drop-in",
         "D": "https://www.curseforge.com/minecraft/texture-packs/clarent-excalibur-patch"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Mega Coverage",
-      "row": 16,
-      "name": "Stay True",
-      "fields": {
-        "A": "27.0",
-        "B": "Stay True",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/stay-true"
       },
       "matches": []
     },
@@ -883,30 +913,6 @@
         "B": "Excalibur | My Nether\u2019s Delight Support",
         "C": "Native / drop-in",
         "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-my-nethers-delight-support"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Flowers & Botany",
-      "row": 12,
-      "name": "Stay True",
-      "fields": {
-        "A": "27.0",
-        "B": "Stay True",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/stay-true"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Flowers & Botany",
-      "row": 13,
-      "name": "Ars Naturae",
-      "fields": {
-        "A": "28.0",
-        "B": "Ars Naturae",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/ars-naturae"
       },
       "matches": []
     },
@@ -1704,18 +1710,6 @@
     },
     {
       "sheet": "Magic & RPG",
-      "row": 13,
-      "name": "Ars Naturae",
-      "fields": {
-        "A": "28.0",
-        "B": "Ars Naturae",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/ars-naturae"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Magic & RPG",
       "row": 14,
       "name": "The Rename Compat Project",
       "fields": {
@@ -2065,18 +2059,6 @@
         "B": "Terran Villagers + Fresh Animations",
         "C": "Anim bridge, base Terran >=6.6 and EMF/ETF/Fresh Animations",
         "D": "https://www.curseforge.com/minecraft/texture-packs/terran-villagers-fresh-animations/files/8734449"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Biomes & Nature",
-      "row": 7,
-      "name": "Connected Paths",
-      "fields": {
-        "A": "12.0",
-        "B": "Connected Paths",
-        "C": "Simple pack-format conversion",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/connected-paths"
       },
       "matches": []
     },
@@ -2437,18 +2419,6 @@
         "B": "Excalibur | My Nether\u2019s Delight Support",
         "C": "Native / drop-in",
         "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-my-nethers-delight-support"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Style Ecosystems",
-      "row": 16,
-      "name": "Stay True",
-      "fields": {
-        "A": "27.0",
-        "B": "Stay True",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/stay-true"
       },
       "matches": []
     },
@@ -2891,18 +2861,6 @@
     },
     {
       "sheet": "Conversion Queue",
-      "row": 5,
-      "name": "Connected Paths",
-      "fields": {
-        "A": "12.0",
-        "B": "Connected Paths",
-        "C": "Simple pack-format conversion",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/connected-paths"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Conversion Queue",
       "row": 6,
       "name": "Faithful 32x Modded",
       "fields": {
@@ -3330,18 +3288,6 @@
         "B": "Excalibur | Oh The Biomes We\u2019ve Gone Support",
         "C": "Native / drop-in",
         "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-oh-the-biomes-weve-gone-support"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Stay True Ecosystem",
-      "row": 3,
-      "name": "Stay True",
-      "fields": {
-        "A": "27.0",
-        "B": "Stay True",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/stay-true"
       },
       "matches": []
     },

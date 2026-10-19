@@ -58,7 +58,7 @@ These are historical starting ideas awaiting full exact-file review, not certifi
 
 ## Import coverage
 
-The original 17 views and all 159 master observations are preserved in the repository. Fifty-six master observations are attached to catalogue identities: 37 exact matches to existing records and nineteen newly reviewed identities. The remaining 103 master observations and 231 unmatched companion-view rows remain in review. 120 companion rows are attached to 47 entries; they do not inflate the unique-project or source-record totals.
+The original 17 views and all 159 master observations are preserved in the repository. Fifty-nine master observations are attached to catalogue identities: 37 exact matches to existing records and twenty-two newly reviewed identities. The remaining 100 master observations and 222 unmatched companion-view rows remain in review. 129 companion rows are attached to 50 entries; they do not inflate the unique-project or source-record totals.
 
 [Preserved source views](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-source-views.json) · [Master import receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-import.json) · [Companion receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-companion-receipt.json)
 
@@ -69,3 +69,11 @@ Original scores and superlatives remain source opinions. No pack was installed, 
 [Pinnacle](https://www.curseforge.com/minecraft/texture-packs/pinnacle) refreshes Apotheosis alone. A 1.20.1 backport exists, while the author’s stated ongoing focus is 1.21.1+. [Excalibur Apotheosis](https://www.curseforge.com/minecraft/texture-packs/excalibur-apotheosis-support) is an alternative medieval treatment for its blocks, items and GUI. Both can target the same resources: choose the intended winner and inspect overlap rather than assuming they combine automatically.
 
 [Excalibur Farmer’s Delight](https://www.curseforge.com/minecraft/texture-packs/excalibur-farmers-delight-support) provides food/block textures; author-reported completion does not cover every third-party Delight addon. Both Excalibur support authors instruct placing their addon above base Excalibur. These are visual integrations, not substitutes for gameplay compatibility tests.
+
+## Connected textures are a renderer feature
+
+[Connected Paths](https://www.curseforge.com/minecraft/texture-packs/connected-paths) requires OptiFine or Continuity according to its author. A pack-format edit alone does not implement connected rendering, and planned support for an ecosystem is not shipped support. The similarly named dynamic-generation mod is a separate project.
+
+[Stay True](https://www.curseforge.com/minecraft/texture-packs/stay-true) has feature-specific renderer requirements and leaf/pack-order guidance. Its base pack is distinct from Stay True Compats Reforged. Verify the actual loader and renderer stack before promising identical leaves or connected surfaces.
+
+[Ars Naturae](https://www.curseforge.com/minecraft/texture-packs/ars-naturae) offers a wood/moss/blue-Source visual direction for Ars Nouveau. The inspected page lists 1.20.1; broad addon support and other releases still need checking. Decide precedence when combining it with other Ars visual packs.

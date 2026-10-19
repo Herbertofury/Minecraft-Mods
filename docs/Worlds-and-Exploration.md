@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**306 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**308 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Compatibility Target · 8</strong></summary>
@@ -352,10 +352,11 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Resource Pack · 9</strong></summary>
+<summary><strong>Resource Pack · 11</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
+| [Connected Paths](https://www.curseforge.com/minecraft/texture-packs/connected-paths) | Connected-texture resource pack; author requires OptiFine or Continuity. Support is version-scoped: several ecosystems are listed, while Create, Alex’s Caves and others remain plan | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=83cd0bd17d0aac90) |
 | [Definitive Vibrant Visuals \| Static Light Update](https://curseforge.com/minecraft-bedrock/texture-packs/definitive-vibrant-visuals) | BEDROCK UPDATE / CLIENT-SAFE VISUAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=ea05e7126aec6a9f) |
 | [Excalibur \| Aether Support](https://www.curseforge.com/minecraft/texture-packs/excalibur-aether-support) | Official Aether support pack covers the original Aether visual ecosystem and belongs above Excalibur. Aether addon coverage is planned with no ETA, not completed support. Exact fil | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=1b783efdda0fd559) |
 | [Mooblooms+](https://curseforge.com/minecraft/texture-packs/mooblooms) | A small but dedicated Moobloom-variant resource pack for 1.20-era flower-biome diversity. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=ae61250b20479ab0) |
@@ -365,6 +366,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Pig Biome Variants](https://curseforge.com/minecraft/texture-packs/pig-variants-1-22) | Backports biome-styled pig appearances across many older versions. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=890bf9a148278be3) |
 | [Prettier Sheep](https://curseforge.com/minecraft/texture-packs/prettier-sheep) | Remodels sheep and adds temperate, warm, cold and mountain-oriented forms. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a1e760e8484c7626) |
 | [Retextures o’ Plenty](https://www.curseforge.com/minecraft/texture-packs/retextures-o-plenty) | Official Biomes O Plenty resource pack by IcyCaeli. Author describes changes to over 300 textures and variants, currently for the base mod; addon support is planned rather than imp | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=229ec91a7d1c71c2) |
+| [Stay True](https://www.curseforge.com/minecraft/texture-packs/stay-true) | Vanilla-style visual variation pack. Author lists OptiFine for connected textures, overlays and pink birch leaves, and advises fancy leaves plus appropriate connected-texture/alter | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=8195aa5182e19ee1) |
 
 </details>
 

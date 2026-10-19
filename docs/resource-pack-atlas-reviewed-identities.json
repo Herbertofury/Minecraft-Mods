@@ -194,5 +194,36 @@
       "Magic and Progression"
     ],
     "note": "Apotheosis-only visual refresh; requires Apotheosis to have an effect. Page lists a 1.20.1 3.0.0.5 backport and a separate 1.21.1 3.0.0 release, while the author states ongoing focus is 1.21.1+. Do not treat availability of the backport as a promise of future maintenance. Shares Apotheosis texture targets with other visual packs, so choose precedence and inspect overlaps."
+  },
+  {
+    "row": 13,
+    "name": "Connected Paths",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/connected-paths",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Building and Decoration",
+      "Worlds and Exploration"
+    ],
+    "note": "Connected-texture resource pack; author requires OptiFine or Continuity. Support is version-scoped: several ecosystems are listed, while Create, Alex\u2019s Caves and others remain planned. A pack-format edit alone does not implement the required connected-texture renderer. The similarly named Connected Paths Mod is a separate dynamic-generation project, not this resource pack."
+  },
+  {
+    "row": 28,
+    "name": "Stay True",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/stay-true",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Worlds and Exploration"
+    ],
+    "note": "Vanilla-style visual variation pack. Author lists OptiFine for connected textures, overlays and pink birch leaves, and advises fancy leaves plus appropriate connected-texture/alternate-block settings. The page has pack-priority advice for Fabric users; renderer alternatives and a specific Forge/Vulkan stack need separate validation. Distinct from Stay True Compats Reforged."
+  },
+  {
+    "row": 29,
+    "name": "Ars Naturae",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/ars-naturae",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Magic and Progression"
+    ],
+    "note": "Nature-themed Ars Nouveau visual pack using brown woods, mossy stone and blue Source styling. Author mentions addons without a complete support inventory. The inspected project lists a 1.20.1 file; do not infer 1.21.1 support or coverage of every Ars addon. Compare overlapping texture targets with other Ars visual packs."
   }
 ]

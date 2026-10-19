@@ -4,9 +4,9 @@
   "master_rows": 159,
   "exact_existing_observations_added": 37,
   "unique_entries_enriched": 33,
-  "pending_master_observations": 103,
-  "display_entries": 2283,
-  "source_observations": 2665,
+  "pending_master_observations": 100,
+  "display_entries": 2286,
+  "source_observations": 2668,
   "favorites": 411,
   "native_promotions": 0,
   "all_prior_fields_preserved": true,
@@ -197,7 +197,7 @@
       "name": "Fresh Flowers and Plants"
     }
   ],
-  "reviewed_new_identity_observations_added": 19,
+  "reviewed_new_identity_observations_added": 22,
   "reviewed_new_identities": [
     {
       "row": 2,
@@ -293,6 +293,21 @@
       "row": 17,
       "id": "b95da1f7f5ae00f0",
       "name": "Pinnacle (for Apotheosis)"
+    },
+    {
+      "row": 13,
+      "id": "83cd0bd17d0aac90",
+      "name": "Connected Paths"
+    },
+    {
+      "row": 28,
+      "id": "8195aa5182e19ee1",
+      "name": "Stay True"
+    },
+    {
+      "row": 29,
+      "id": "9789ec4d167d4b1a",
+      "name": "Ars Naturae"
     }
   ]
 }
