@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**211 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**212 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Discovery · 39</strong></summary>
@@ -63,10 +63,11 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Library · 51</strong></summary>
+<summary><strong>Library · 52</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
+| ★ [\[Let's Do\] API](https://modrinth.com/mod/do-api) | A Library for Forge and Fabric with utilities such as Render Features, Recipe Books and Wood API | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7c2c149e40faabf4) |
 | [ApricityUI](https://curseforge.com/minecraft/mc-mods/apricityui) | TOOL / INSTALL WHEN REQUIRED / FORGE 1.20.1 READY / VERSION-MATCH DEPENDENTS | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=e34ecca5b2db2c70) |
 | [Architectury API](https://curseforge.com/minecraft/mc-mods/architectury-api) | TOOL / DEPENDENCY / INSTALL WHEN REQUIRED / PIN EXACT BRANCH | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2295dc990d5d2587) |
 | [Axiomata](https://curseforge.com/minecraft/mc-mods/axiomata) | TEST/WATCH 1.20.1 / SERVER-MATCHED / DEPENDENCY PLATFORM | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=f5a3a70032a42344) |

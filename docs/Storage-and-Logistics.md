@@ -17,7 +17,7 @@ Use **Link to these filters** in the catalogue to bookmark a custom view. Detail
 
 ## Current collection
 
-**202 entries in this category.** The 2026-10-19 consolidation preserved all 156 storage-master observations: 139 were attached to resolved catalogue routes and 17 remain in an [identity-review queue](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/storage-import-pending-identities.json). It added 106 catalogue entries across relevant categories and preserved all 42 existing favorites. Other source tabs and collections still need reconciliation.
+**207 entries in this category.** The 2026-10-19 consolidation preserved all 156 storage-master observations: 139 were attached to resolved catalogue routes and 17 remain in an [identity-review queue](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/storage-import-pending-identities.json). It added 106 catalogue entries across relevant categories and preserved all 42 existing favorites. Other source tabs and collections still need reconciliation.
 
 [Import verification](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/storage-import-verification.json) · [Cross-host project identity checks](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/storage-project-identity-checks.json)
 
@@ -63,10 +63,11 @@ Before upgrades or removal, test a copied world with named/damaged/enchanted ite
 </details>
 
 <details>
-<summary><strong>Library · 3</strong></summary>
+<summary><strong>Library · 4</strong></summary>
 
 | Project / research entry | Purpose | Evidence |
 |---|---|---|
+| ★ [\[Let's Do\] API](https://modrinth.com/mod/do-api) | A Library for Forge and Fabric with utilities such as Render Features, Recipe Books and Wood API | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7c2c149e40faabf4) |
 | [BaguetteLib](https://curseforge.com/minecraft/mc-mods/baguettelib) | TOOL / DEPENDENCY / PIN EXACT BRANCH / LICENSE MANUAL-AUDIT | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b3a9405fb44efeaf) |
 | [Common Capabilities](https://curseforge.com/minecraft/mc-mods/common-capabilities) | INSTALL IF REQUIRED / PIN EXACT BRANCH | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b6f387c6e2dd8a12) |
 | [Sophisticated Core](https://curseforge.com/minecraft/mc-mods/sophisticated-core) | REQUIRED DEPENDENCY / INSTALL WITH SOPHISTICATED MODS / PIN EXACT BRANCH | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=770c102d07375398) |
@@ -74,11 +75,14 @@ Before upgrades or removal, test a copied world with named/damaged/enchanted ite
 </details>
 
 <details>
-<summary><strong>Mod · 196</strong></summary>
+<summary><strong>Mod · 200</strong></summary>
 
 | Project / research entry | Purpose | Evidence |
 |---|---|---|
 | [\[LDS\] Lazy Display Stand](https://curseforge.com/minecraft/mc-mods/lazy-display-stand) | INSTALL/TEST 1.20.1 / SERVER-MATCHED / BACKUP DISPLAY BLOCKS | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=53b2dbf19f0fb69e) |
+| ★ [\[Let's Do\] Camping](https://modrinth.com/mod/lets-do-camping) | How about we sleep outside today? Grab your backpack, pack the tent, grill, and sleeping bag, and let's go! | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=02348d52878f341e) |
+| ★ [\[Let's Do\] Furniture](https://modrinth.com/mod/lets-do-furniture) | Let's expand your world with a whole set of new and exciting furnitures! All in the style of the Let's Do Mods. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=bb971680fcc28f6b) |
+| ★ [\[Let's Do\] NetherVinery](https://modrinth.com/mod/lets-do-nethervinery) | NetherVinery is an Addon all about the Nether for Vinery. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7d27bc7b68a8052a) |
 | ★ [\[TaCZ\] Applied Ammo Box](https://curseforge.com/minecraft/mc-mods/tacz-applied-ammo-box) | AE2-backed TaCZ ammo storage | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=25af3ebb53c3612f) |
 | [\[Tacz\] Slings](https://modrinth.com/mod/tacz-slings) | Official descriptions disagree on default bind (older B, recent X); always inspect actual mod configuration. Check Keyset/Smart Key Prompts and custom bind handling, Epic Fight equ | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=ddd8f6114f487d8f) |
 | [Absolute Order](https://modrinth.com/mod/absolute-order) | Define visual priority filters per container, then one-click deposit or pull while the chest keeps matching items ordered in assigned slots. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=37c0c290527371a9) |
@@ -172,6 +176,7 @@ Before upgrades or removal, test a copied world with named/damaged/enchanted ite
 | [Jack It To Me (JEI/REI/EMI)](https://curseforge.com/minecraft/mc-mods/jack-it-to-me) | Strong recipe-crafting convenience with advanced storage backends. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7ed2c70a091715f0) |
 | [LaserIO](https://curseforge.com/minecraft/mc-mods/laserio) | INSTALL/TEST 1.20.1 / SERVER-MATCHED / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=75e2e20cf7bcdf4b) |
 | [LaserIO (Fabric)](https://curseforge.com/minecraft/mc-mods/laserio-fabric) | WATCH/FUTURE / TEST COPY / VERIFY EXACT ARTIFACT BEFORE 1.20.1 USE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=cc40ca0ff92909f2) |
+| ★ [Legacy: \[Let's Do\] Bakery](https://modrinth.com/mod/lets-do-bakery) | Bake many variations of Bread, Cupcakes and Cakes! Eatable, placeable. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=172628f1f0446764) |
 | [Legendary Inventory](https://curseforge.com/minecraft/mc-mods/legendary-inventory) | High-interest large modpack experiment but not a drop-in fix; significant persistent playerdata changes | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=905492f58c704a5b) |
 | [Logistics Network](https://curseforge.com/minecraft/mc-mods/logistics-network) | INSTALL/TEST 1.20.1 / SERVER-MATCHED / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=6f38f151d81cfe57) |
 | [Logistics Pipes](https://modrinth.com/mod/logistics-pipes) | Historic smart routed item-pipe system and spiritual ancestor of many modern logistics mods. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=1411fdee7926a525) |
@@ -311,4 +316,4 @@ These are qualification scenarios, not claims that the named projects currently 
 
 ## Companion-view reconciliation
 
-The same collection contained useful notes outside its master view. The follow-on pass attached **118 companion-view observations to 57 already identified catalogue entries**, preserving unique cautions, use cases and historical version claims without inventing new mods or promoting verification. **14 observations remain pending identity resolution.** These annotations are visible in the existing detail cards; original source dates and conflicting claims remain labeled as history. [Reconciliation receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/storage-companion-import-receipt.json). That companion-note pass preserved the then-current 1,935 entries and 42 favorites. The later starred-collection import brings the full catalogue to 2,123 entries and 279 catalogued favorites, without changing the explicit Forever World flags.
+The same collection contained useful notes outside its master view. The follow-on pass attached **118 companion-view observations to 57 already identified catalogue entries**, preserving unique cautions, use cases and historical version claims without inventing new mods or promoting verification. **14 observations remain pending identity resolution.** These annotations are visible in the existing detail cards; original source dates and conflicting claims remain labeled as history. [Reconciliation receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/storage-companion-import-receipt.json). That companion-note pass preserved the then-current 1,935 entries and 42 favorites. The later starred-collection import brings the full catalogue to 2,140 entries and 298 catalogued favorites, without changing the explicit Forever World flags.

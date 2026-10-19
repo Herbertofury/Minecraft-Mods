@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**86 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**96 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Content Pack · 1</strong></summary>
@@ -16,15 +16,22 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Mod · 81</strong></summary>
+<summary><strong>Mod · 91</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
 | [\[FABRIC\] Crop Cows](https://curseforge.com/minecraft/mc-mods/fabric-crop-cows) | Unique cow-as-farmland concept: water/fertility states and four plant slots let crops grow directly on the cow. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=e862fd1b3d49e92b) |
-| [\[Let's Do\] Bakery - Farm&Charm Compat](https://curseforge.com/minecraft/mc-mods/lets-do-bakery-farm-charm-compat) | INSTALL/TEST 1.20.1 / COZY / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=05118c4f4b94c977) |
+| ★ [\[Let's Do\] Bakery - Farm&Charm Compat](https://curseforge.com/minecraft/mc-mods/lets-do-bakery-farm-charm-compat) | INSTALL/TEST 1.20.1 / COZY / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=05118c4f4b94c977) |
+| ★ [\[Let's Do\] Beachparty](https://modrinth.com/mod/lets-do-beachparty) | Get your Suncream out! We're going to the beach. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=fdb985a204357cb5) |
+| ★ [\[Let's Do\] Brewery - Farm&Charm Compat](https://modrinth.com/mod/lets-do-brewery-farmcharm-compat) | Foaming mugs, copper kettles and the smell of fresh pretzels. Brew your own beer, cook hearty food and throw an Oktoberfest to remember. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=424a343edc034f74) |
+| ★ [\[Let's Do\] Candlelight - Farm&Charm compat](https://modrinth.com/mod/lets-do-candlelight-farmcharm-compat) | Welcome to Candlelight! This version was made for improved compat with \[Let's Do\] Farm & Charm | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=4589feffcfedcf56) |
+| ★ [\[Let's Do\] Farm & Charm](https://modrinth.com/mod/lets-do-farm-charm) | The farm calls: Experience the art of advanced agriculture and farmhouse cuisine! Use mincers, cooking pots, as well as new grains and fruit varieties to enhance your culinary and  | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=803bc67b5f8b8d9f) |
 | ★ [\[Let's Do\] HerbalBrews](https://modrinth.com/mod/lets-do-herbalbrews) | Let’s Do ecosystem project | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=05376b10f87271f2) |
+| ★ [\[Let's Do\] Lili's Lucky Lures](https://modrinth.com/mod/lets-do-lilis-lucky-lures) | Let's go fishing! We pack our Gear: A Fishing Rod, Fishing Hat, Dynamite... Dynamite? Lili's Lucky Lures adds extra ways to catch Fish, complete with Fish & Rubble Pools and a mode | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2eeddd3297512df6) |
 | ★ [\[Let's Do\] Meadow](https://modrinth.com/mod/lets-do-meadow) | Let’s Do ecosystem project | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=846d7d7a4d895b79) |
+| ★ [\[Let's Do\] NetherVinery](https://modrinth.com/mod/lets-do-nethervinery) | NetherVinery is an Addon all about the Nether for Vinery. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7d27bc7b68a8052a) |
 | ★ [\[Let's Do\] Vinery](https://modrinth.com/mod/lets-do-vinery) | Let’s Do ecosystem project | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=952886be5db323ac) |
+| ★ [\[Let's Do\] WilderNature](https://curseforge.com/minecraft/mc-mods/lets-do-wildernature) | The modern return of WilderNature with a broad animal roster, refreshed visuals and current multi-loader support. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=dd08cc23f6f1f093) |
 | ★ [Adorable Hamster Pets](https://curseforge.com/minecraft/mc-mods/adorable-hamster-pets) | Deep pet/genetics/utility hamster system | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c0568917253bea09) |
 | ★ [Aether Addon: Protect Your Moa](https://curseforge.com/minecraft/mc-mods/aether-protect-your-moa) | Moa armor/storage and extra Aether mobility features | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=1217a4c020795895) |
 | ★ [Aether Delight (A Farmer's Delight Add-on)](https://curseforge.com/minecraft/mc-mods/aether-delight) | Farmer’s Delight cooking/knife integration for Aether, Deep Aether, Redux and Lost Content | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7470a7311dc542d5) |
@@ -70,6 +77,9 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | ★ [Kaleidoscope End](https://curseforge.com/minecraft/mc-mods/kaleidoscope-end) | BmtUltra project | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2e443467748287be) |
 | ★ [Kaleidoscope Twilight](https://curseforge.com/minecraft/mc-mods/kaleidoscope-twilight) | BmtUltra project | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=ae636bd5566cf7b6) |
 | ★ [Kind Seagull](https://curseforge.com/minecraft/mc-mods/kind-seagull) | BmtUltra project | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2bb9de7a31ecc96c) |
+| ★ [Legacy: \[Let's Do\] Bakery](https://modrinth.com/mod/lets-do-bakery) | Bake many variations of Bread, Cupcakes and Cakes! Eatable, placeable. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=172628f1f0446764) |
+| ★ [Legacy: \[Let's Do\] Brewery](https://modrinth.com/mod/lets-do-brewery) | Ozapft is! Brau Bier, beiss in a Bretzn – willkomme zum Braufescht! | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=aa68a20b71a4efb0) |
+| ★ [Legacy: \[Let's Do\] Candlelight](https://modrinth.com/mod/lets-do-candlelight) | Ever dreamed of the perfect dinner in Minecraft?  Candlelight Dinner provides almost everything necessary to make it happen. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a27b05c12652a131) |
 | ★ [Legendary Farming](https://curseforge.com/minecraft/mc-mods/legendary-farming) | Mega-crop farming expansion | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=04a742713e481b22) |
 | [Manure](https://curseforge.com/minecraft/mc-mods/manure) | INSTALL/OPTIONAL 1.20.1 / SERVER-MATCHED / COZY+FARMING / CLEAN ITEMS BEFORE REMOVAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=6f20ef995e8add4c) |
 | [Mo'creatures Awakened](https://curseforge.com/minecraft/mc-mods/mocreatures-awakened) | An unusually ambitious revival branch that extends beyond animals into genetics and world systems. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=6c193e47f2d0afa5) |

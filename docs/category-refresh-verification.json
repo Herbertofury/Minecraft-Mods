@@ -4,41 +4,41 @@
     {
       "page": "Building-and-Decoration.md",
       "category": "Building and Decoration",
-      "entries": 60,
-      "unique_detail_links": 60,
-      "previous_sha256": "2c2f1acdcff3dcb4f0964a1af922a6f81b50744bb29cd663537f6215d1e4232f",
-      "updated_sha256": "959bd87fc9d07a846d4890a19489b47bc7db13bfdd63aa2a2ec079ab39e1802a"
+      "entries": 75,
+      "unique_detail_links": 75,
+      "previous_sha256": "959bd87fc9d07a846d4890a19489b47bc7db13bfdd63aa2a2ec079ab39e1802a",
+      "updated_sha256": "9218668c420c278c2e0566c0869793fda1cc8c9a5af90c479f5edef1837acbf1"
     },
     {
       "page": "Creatures-and-Companions.md",
       "category": "Creatures and Companions",
-      "entries": 569,
-      "unique_detail_links": 569,
-      "previous_sha256": "23b3f46bd8dba56ab0a9ad2f5832e81e382ff9c6dc670e79fba8c2ed6e92deac",
-      "updated_sha256": "3ea9ffaa5301e4cabc4d286a798f1f074d28fd6f2756c65869d8ca0a79b9caae"
+      "entries": 573,
+      "unique_detail_links": 573,
+      "previous_sha256": "3ea9ffaa5301e4cabc4d286a798f1f074d28fd6f2756c65869d8ca0a79b9caae",
+      "updated_sha256": "2283177762e474f0d2806277be7ead2bc0356eb76436ef56b9d0fd2523c5500a"
     },
     {
       "page": "Engineering-and-Vehicles.md",
       "category": "Engineering and Vehicles",
       "entries": 294,
       "unique_detail_links": 294,
-      "previous_sha256": "0afca79a2039be0683546dc45b9b116e83f18a8fb99ad176a0c3bb3c3ba7118c",
+      "previous_sha256": "7fa1ff5a9e5675e804ba3246e0409ce62d8c48ff20c37717d54970a6d8652cb6",
       "updated_sha256": "7fa1ff5a9e5675e804ba3246e0409ce62d8c48ff20c37717d54970a6d8652cb6"
     },
     {
       "page": "Farming-and-Survival.md",
       "category": "Farming and Survival",
-      "entries": 86,
-      "unique_detail_links": 86,
-      "previous_sha256": "99e755b0ac2cd345318a1164798ff0cc867f02f564ef92e21b0ec2e51f4a1cbb",
-      "updated_sha256": "d448d153d7cbf4349abb4c089d963db70ef0d56ae3a2e996a0a56d0ae33afae7"
+      "entries": 96,
+      "unique_detail_links": 96,
+      "previous_sha256": "d448d153d7cbf4349abb4c089d963db70ef0d56ae3a2e996a0a56d0ae33afae7",
+      "updated_sha256": "e71b3d951a25bf9a461bfd62c27e03a5c8054799b03824bfde09174d2105840d"
     },
     {
       "page": "Interface-and-Accessibility.md",
       "category": "Interface and Accessibility",
       "entries": 206,
       "unique_detail_links": 206,
-      "previous_sha256": "022dbf186f42aa2ed59eda5514d2d79b7eb4862fe0d0a7ff3f33c6acbb5a90d6",
+      "previous_sha256": "74a84f1984df54e860271bec2fc7d690928b9e7c693e348050d7b44d714bc704",
       "updated_sha256": "74a84f1984df54e860271bec2fc7d690928b9e7c693e348050d7b44d714bc704"
     },
     {
@@ -46,7 +46,7 @@
       "category": "Magic and Progression",
       "entries": 217,
       "unique_detail_links": 217,
-      "previous_sha256": "8eb15bc023b6305f3982ea3b1dba327db5e5ff9d6a677873e6ae997fc4d477d5",
+      "previous_sha256": "dce4ac216b7626ca694c9d079ec8f4639f6a7b3a581194df42bbc04f08c8e880",
       "updated_sha256": "dce4ac216b7626ca694c9d079ec8f4639f6a7b3a581194df42bbc04f08c8e880"
     },
     {
@@ -54,7 +54,7 @@
       "category": "Multiplayer and Servers",
       "entries": 84,
       "unique_detail_links": 84,
-      "previous_sha256": "44c03f23c1ed5a8b29f9a54b7cda3ea0114708ffa688a8112a73098c02c18576",
+      "previous_sha256": "69e47c2be2d4eef90f3ee793f5b30e91d260b4882bcc53a4c34b0c451ce0c3a4",
       "updated_sha256": "69e47c2be2d4eef90f3ee793f5b30e91d260b4882bcc53a4c34b0c451ce0c3a4"
     },
     {
@@ -62,23 +62,23 @@
       "category": "Performance and Stability",
       "entries": 177,
       "unique_detail_links": 177,
-      "previous_sha256": "05870c0a94fa5df14e6daf115b7854337032dc0772fd9b69045dc6e6706c8a7d",
+      "previous_sha256": "5aa7d2d5847dbfecbf7156a0024fb1ea2434d449bafbd4bca8e4caf95b145a72",
       "updated_sha256": "5aa7d2d5847dbfecbf7156a0024fb1ea2434d449bafbd4bca8e4caf95b145a72"
     },
     {
       "page": "Tools-and-Development.md",
       "category": "Tools and Development",
-      "entries": 211,
-      "unique_detail_links": 211,
-      "previous_sha256": "5b6f17830eb4b693a32d99ea08e7c81130d811dd0f870b4a52db0d392f2b450c",
-      "updated_sha256": "9f0f6515246a48f42747754adbea9ee8fd02227b29776bffd77b43ff0658d630"
+      "entries": 212,
+      "unique_detail_links": 212,
+      "previous_sha256": "9f0f6515246a48f42747754adbea9ee8fd02227b29776bffd77b43ff0658d630",
+      "updated_sha256": "5267bd275b0d83bdd27370b7f8c9b01464ad0dad58ea9e81053e5313cf004b2e"
     },
     {
       "page": "Visuals-and-Resource-Packs.md",
       "category": "Visuals and Resource Packs",
       "entries": 278,
       "unique_detail_links": 278,
-      "previous_sha256": "8cab8cbade3bc900c85209718ad300270bf028e2cc6197a6346d5933d634a8ed",
+      "previous_sha256": "b8dbeb5ce4cd918782bbe24c036b1a83d640e21a94b1b5ea81e4a4a8753041b5",
       "updated_sha256": "b8dbeb5ce4cd918782bbe24c036b1a83d640e21a94b1b5ea81e4a4a8753041b5"
     },
     {
@@ -86,16 +86,16 @@
       "category": "Weapons and Combat",
       "entries": 586,
       "unique_detail_links": 586,
-      "previous_sha256": "7a6289eedc6450c7f87b32c9a12719a12e073d1f038cdc17dfca56a8d68f3e3c",
+      "previous_sha256": "33bcce9ec03bc5aa7f84aa410da8747c4953734eaad4301b178829b72e5ccc7e",
       "updated_sha256": "33bcce9ec03bc5aa7f84aa410da8747c4953734eaad4301b178829b72e5ccc7e"
     },
     {
       "page": "Worlds-and-Exploration.md",
       "category": "Worlds and Exploration",
-      "entries": 274,
-      "unique_detail_links": 274,
-      "previous_sha256": "069db84c52ee7308e4997fcfeb1ff38e9c3039f400de36e69ccb7b819115a171",
-      "updated_sha256": "9889fab1e1b10166ef5ea1235c6ea47805ae06973835879b25c1dac16bd87ac8"
+      "entries": 285,
+      "unique_detail_links": 285,
+      "previous_sha256": "9889fab1e1b10166ef5ea1235c6ea47805ae06973835879b25c1dac16bd87ac8",
+      "updated_sha256": "8472b69faa617fd1ba6c56c5d2d666a2f0916ea399be6212909734bb93ee15fb"
     }
   ],
   "native_verification_promotions": 0

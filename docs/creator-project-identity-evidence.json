@@ -1,0 +1,415 @@
+{
+  "url": "https://api.modrinth.com/v2/user/satisfyu/projects",
+  "checked_utc": "2026-10-19",
+  "response_sha256": "3a3b43ded899d8043157265312e1a3e7819f2bd8df9c36722dc4ec756a744625",
+  "scope": "Public creator-project identity only; no exact-release or native compatibility verification",
+  "projects": [
+    {
+      "id": "4XJZeZbM",
+      "slug": "do-api",
+      "title": "[Let's Do] API",
+      "project_type": "mod",
+      "source_url": "https://github.com/Cristelknight999/DoAPI",
+      "status": "archived",
+      "team": "owKp4sJx",
+      "description": "A Library for Forge and Fabric with utilities such as Render Features, Recipe Books and Wood API",
+      "categories": [
+        "library"
+      ],
+      "additional_categories": [
+        "storage",
+        "utility"
+      ]
+    },
+    {
+      "id": "cV5LQXKx",
+      "slug": "lets-do-brewery",
+      "title": "Legacy: [Let's Do] Brewery",
+      "project_type": "mod",
+      "source_url": "https://github.com/satisfyu/Brewery/tree/1.20.1-farmandcharm",
+      "status": "archived",
+      "team": "9phzS9d1",
+      "description": "Ozapft is! Brau Bier, beiss in a Bretzn \u2013 willkomme zum Braufescht!",
+      "categories": [
+        "decoration",
+        "food"
+      ],
+      "additional_categories": [
+        "equipment"
+      ]
+    },
+    {
+      "id": "d7LLnfx8",
+      "slug": "sleepy-hollows",
+      "title": "Sleepy Hollows",
+      "project_type": "mod",
+      "source_url": "https://github.com/Cursee-Development/Sleepy-Hollows",
+      "status": "approved",
+      "team": "fkLXW6fX",
+      "description": "Darkness falls, a boss to dread, armor strong - don\u2019t lose your head!",
+      "categories": [
+        "adventure",
+        "mobs"
+      ],
+      "additional_categories": [
+        "equipment",
+        "worldgen"
+      ]
+    },
+    {
+      "id": "sHiqiJIU",
+      "slug": "lets-do-lilis-pottery",
+      "title": "[Let's Do] Lili's Pottery",
+      "project_type": "mod",
+      "source_url": "https://github.com/Let-s-Do-Collection/LilisPottery",
+      "status": "approved",
+      "team": "lqjxY92i",
+      "description": "Lili\u2019s Pottery brings handcrafted ceramics to Minecraft, turning clay and glaze into carefully made pottery pieces.",
+      "categories": [
+        "decoration"
+      ],
+      "additional_categories": []
+    },
+    {
+      "id": "1DWmBJVA",
+      "slug": "lets-do-vinery",
+      "title": "[Let's Do] Vinery",
+      "project_type": "mod",
+      "source_url": "https://github.com/Let-s-Do-Collection/vinery",
+      "status": "approved",
+      "team": "S5MKtl8I",
+      "description": "Sun-warmed vineyards, creaking barrels and dusty bottles in a cool cellar. Grow your grapes, press your own wine and build the winery of your dreams.",
+      "categories": [
+        "decoration",
+        "food",
+        "utility"
+      ],
+      "additional_categories": [
+        "adventure",
+        "game-mechanics",
+        "mobs"
+      ]
+    },
+    {
+      "id": "paO4gjmE",
+      "slug": "lets-do-hearth-timber",
+      "title": "[Let's Do] Hearth & Timber",
+      "project_type": "mod",
+      "source_url": "https://github.com/Let-s-Do-Collection/HearthAndTimber",
+      "status": "approved",
+      "team": "CY9RqS6j",
+      "description": "Craft timber houses with beams, frames and sturdy wooden details that make every home feel hand-built and storied.",
+      "categories": [
+        "decoration"
+      ],
+      "additional_categories": []
+    },
+    {
+      "id": "ra7o6Sl7",
+      "slug": "lets-do-meadow",
+      "title": "[Let's Do] Meadow",
+      "project_type": "mod",
+      "source_url": "https://github.com/Let-s-Do-Collection/Meadow",
+      "status": "approved",
+      "team": "Go8fGgLS",
+      "description": "A Mod offering a slight overhaul for the meadow biome by adding two new sub biomes and introducing the process of crafting cheese.",
+      "categories": [
+        "decoration",
+        "food",
+        "mobs"
+      ],
+      "additional_categories": [
+        "equipment",
+        "game-mechanics",
+        "utility",
+        "worldgen"
+      ]
+    },
+    {
+      "id": "DP7M2DdM",
+      "slug": "lets-do-legacy",
+      "title": "[Let's Do] Legacy",
+      "project_type": "mod",
+      "source_url": "https://github.com/Let-s-Do-Collection/Legacy",
+      "status": "approved",
+      "team": "w170NC7f",
+      "description": "Earn titles by playing and wear them above your name. Keep a personal journey of your first times and race for server milestones. Purely cosmetic.",
+      "categories": [
+        "adventure"
+      ],
+      "additional_categories": [
+        "social"
+      ]
+    },
+    {
+      "id": "j6CTL5tN",
+      "slug": "lets-do-smoker",
+      "title": "[Let's Do] Smoker",
+      "project_type": "mod",
+      "source_url": null,
+      "status": "approved",
+      "team": "E8Fp7ALQ",
+      "description": "The Smoker - an often overlooked, rarely used, yet versatile block. Feed the new Smoking Station different types of wood to smoke your food for bonus saturation, nutrition, healing or potion effects. Cook, smoke, and discover new possibilities!",
+      "categories": [
+        "food"
+      ],
+      "additional_categories": []
+    },
+    {
+      "id": "oNB5jhlA",
+      "slug": "lets-do-bakery-farmcharm-compat",
+      "title": "[Let's Do] Bakery - Farm&Charm Compat",
+      "project_type": "mod",
+      "source_url": "https://github.com/Let-s-Do-Collection/Bakery",
+      "status": "approved",
+      "team": "x5oGyIAV",
+      "description": "Bake many variations of Bread, Cupcakes and Cakes! Eatable, placeable.\n\nThis version was made for improved compat with [Let's Do] Farm & Charm",
+      "categories": [
+        "food"
+      ],
+      "additional_categories": [
+        "decoration",
+        "worldgen"
+      ]
+    },
+    {
+      "id": "4TTDxtOx",
+      "slug": "lets-do-nethervinery",
+      "title": "[Let's Do] NetherVinery",
+      "project_type": "mod",
+      "source_url": "https://github.com/satisfyu/NetherVinery",
+      "status": "archived",
+      "team": "ULxTBnAf",
+      "description": "NetherVinery is an Addon all about the Nether for Vinery.",
+      "categories": [
+        "adventure",
+        "decoration",
+        "food"
+      ],
+      "additional_categories": [
+        "storage"
+      ]
+    },
+    {
+      "id": "DMDVFZSF",
+      "slug": "lets-do-lilis-lucky-lures",
+      "title": "[Let's Do] Lili's Lucky Lures",
+      "project_type": "mod",
+      "source_url": "https://github.com/Let-s-Do-Collection/LilisLuckyLures",
+      "status": "approved",
+      "team": "SQt9bBlH",
+      "description": "Let's go fishing! We pack our Gear: A Fishing Rod, Fishing Hat, Dynamite... Dynamite? Lili's Lucky Lures adds extra ways to catch Fish, complete with Fish & Rubble Pools and a modest Collection of Decorative Blocks.",
+      "categories": [
+        "adventure"
+      ],
+      "additional_categories": [
+        "decoration",
+        "food"
+      ]
+    },
+    {
+      "id": "HJetCzWo",
+      "slug": "lets-do-farm-charm",
+      "title": "[Let's Do] Farm & Charm",
+      "project_type": "mod",
+      "source_url": "https://github.com/Let-s-Do-Collection/FarmAndCharm",
+      "status": "approved",
+      "team": "fWBS7YHz",
+      "description": "The farm calls: Experience the art of advanced agriculture and farmhouse cuisine! Use mincers, cooking pots, as well as new grains and fruit varieties to enhance your culinary and agricultural skills.",
+      "categories": [
+        "food"
+      ],
+      "additional_categories": [
+        "decoration",
+        "transportation",
+        "worldgen"
+      ]
+    },
+    {
+      "id": "4Vno77MY",
+      "slug": "lets-do-bloomingnature",
+      "title": "[Let's Do] BloomingNature",
+      "project_type": "mod",
+      "source_url": "https://github.com/Let-s-Do-Collection/BloomingNature",
+      "status": "approved",
+      "team": "t5T0l1mH",
+      "description": "Transform your overworld with enhanced terrain, expanded plant life, and handcrafted sub-biomes that make each region feel more immersive. The environment tells a deeper story, filled with small details to uncover.",
+      "categories": [
+        "worldgen"
+      ],
+      "additional_categories": [
+        "adventure",
+        "decoration",
+        "mobs"
+      ]
+    },
+    {
+      "id": "SSPTBIrB",
+      "slug": "lets-do-alpine-whispers",
+      "title": "[Let's Do] Alpine Whispers",
+      "project_type": "mod",
+      "source_url": "https://github.com/Let-s-Do-Collection/AlpineWhispers",
+      "status": "approved",
+      "team": "ez5QdMDu",
+      "description": "Alpine Whispers enhances cold and mountainous regions with new Alpine biomes, unique wildlife, Alpine trees, and a variety of flowers and grasses, as well as fresh building materials inspired by the European highlands.",
+      "categories": [
+        "worldgen"
+      ],
+      "additional_categories": [
+        "decoration",
+        "mobs"
+      ]
+    },
+    {
+      "id": "mPND0Adp",
+      "slug": "lets-do-candlelight",
+      "title": "Legacy: [Let's Do] Candlelight",
+      "project_type": "mod",
+      "source_url": "https://github.com/satisfyu/Candlelight-Dinner",
+      "status": "archived",
+      "team": "PSCQlSKc",
+      "description": "Ever dreamed of the perfect dinner in Minecraft?\n\nCandlelight Dinner provides almost everything necessary to make it happen.",
+      "categories": [
+        "decoration",
+        "food",
+        "worldgen"
+      ],
+      "additional_categories": [
+        "game-mechanics",
+        "utility"
+      ]
+    },
+    {
+      "id": "Eh11TaTm",
+      "slug": "lets-do-herbalbrews",
+      "title": "[Let's Do] HerbalBrews",
+      "project_type": "mod",
+      "source_url": "https://github.com/Let-s-Do-Collection/HerbalBrews",
+      "status": "approved",
+      "team": "sagl8qX4",
+      "description": "It's Tea Time! Brew Tea, Coffee and Flasks.",
+      "categories": [
+        "decoration",
+        "food"
+      ],
+      "additional_categories": [
+        "adventure",
+        "worldgen"
+      ]
+    },
+    {
+      "id": "b7NV2plI",
+      "slug": "lets-do-brewery-farmcharm-compat",
+      "title": "[Let's Do] Brewery - Farm&Charm Compat",
+      "project_type": "mod",
+      "source_url": "https://github.com/Let-s-Do-Collection/Brewery",
+      "status": "approved",
+      "team": "6tN6ZiI5",
+      "description": "Foaming mugs, copper kettles and the smell of fresh pretzels. Brew your own beer, cook hearty food and throw an Oktoberfest to remember.",
+      "categories": [],
+      "additional_categories": []
+    },
+    {
+      "id": "qwbArkQk",
+      "slug": "lets-do-candlelight-farmcharm-compat",
+      "title": "[Let's Do] Candlelight - Farm&Charm compat",
+      "project_type": "mod",
+      "source_url": "https://github.com/Let-s-Do-Collection/Candlelight",
+      "status": "approved",
+      "team": "HK84yjWY",
+      "description": "Welcome to Candlelight! This version was made for improved compat with [Let's Do] Farm & Charm",
+      "categories": [
+        "food"
+      ],
+      "additional_categories": [
+        "decoration"
+      ]
+    },
+    {
+      "id": "GyKzAh3l",
+      "slug": "lets-do-beachparty",
+      "title": "[Let's Do] Beachparty",
+      "project_type": "mod",
+      "source_url": "https://github.com/Let-s-Do-Collection/Beachparty",
+      "status": "approved",
+      "team": "K6O7q67n",
+      "description": "Get your Suncream out! We're going to the beach.",
+      "categories": [
+        "food",
+        "worldgen"
+      ],
+      "additional_categories": [
+        "adventure",
+        "decoration",
+        "equipment",
+        "mobs"
+      ]
+    },
+    {
+      "id": "WFwYiVoG",
+      "slug": "lets-do-bakery",
+      "title": "Legacy: [Let's Do] Bakery",
+      "project_type": "mod",
+      "source_url": "https://github.com/satisfyu/Bakery",
+      "status": "archived",
+      "team": "hcymCUgR",
+      "description": "Bake many variations of Bread, Cupcakes and Cakes! Eatable, placeable.",
+      "categories": [
+        "decoration",
+        "food"
+      ],
+      "additional_categories": [
+        "storage",
+        "worldgen"
+      ]
+    },
+    {
+      "id": "3JQDJrYW",
+      "slug": "lets-do-furniture",
+      "title": "[Let's Do] Furniture",
+      "project_type": "mod",
+      "source_url": "https://github.com/Let-s-Do-Collection/Furniture",
+      "status": "approved",
+      "team": "20QVFxUu",
+      "description": "Let's expand your world with a whole set of new and exciting furnitures! All in the style of the Let's Do Mods.",
+      "categories": [
+        "decoration"
+      ],
+      "additional_categories": [
+        "storage"
+      ]
+    },
+    {
+      "id": "uJXTNuf0",
+      "slug": "lets-do-camping",
+      "title": "[Let's Do] Camping",
+      "project_type": "mod",
+      "source_url": "https://github.com/Let-s-Do-Collection/Camping",
+      "status": "approved",
+      "team": "zospLU20",
+      "description": "How about we sleep outside today? Grab your backpack, pack the tent, grill, and sleeping bag, and let's go!",
+      "categories": [
+        "storage"
+      ],
+      "additional_categories": [
+        "decoration"
+      ]
+    },
+    {
+      "id": "AAiRU4aQ",
+      "slug": "lets-do-wildernature",
+      "title": "[Let's Do] WilderNature",
+      "project_type": "mod",
+      "source_url": "https://github.com/Let-s-Do-Collection/WilderNature",
+      "status": "approved",
+      "team": "d0nmgu0q",
+      "description": "Wilder Nature introduces immersive wildlife, hunting systems, bounties, and trophies, bringing dynamic creatures and adventure-driven rewards into your world.",
+      "categories": [
+        "mobs"
+      ],
+      "additional_categories": [
+        "food"
+      ]
+    }
+  ]
+}

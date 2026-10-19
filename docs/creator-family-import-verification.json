@@ -1,0 +1,145 @@
+{
+  "scope": "Official creator identity resolution; no native compatibility promotion",
+  "entries": 2140,
+  "source_records": 2464,
+  "catalogued_favorites": 298,
+  "resolved_rows": 19,
+  "new_entries": 17,
+  "remaining_pending": 129,
+  "all_previous_sources_preserved": true,
+  "applied": [
+    {
+      "source_row": 116,
+      "catalogue_id": "fdb985a204357cb5",
+      "project_id": "GyKzAh3l",
+      "name": "[Let's Do] Beachparty",
+      "new_entry": true
+    },
+    {
+      "source_row": 117,
+      "catalogue_id": "803bc67b5f8b8d9f",
+      "project_id": "HJetCzWo",
+      "name": "[Let's Do] Farm & Charm",
+      "new_entry": true
+    },
+    {
+      "source_row": 119,
+      "catalogue_id": "4589feffcfedcf56",
+      "project_id": "qwbArkQk",
+      "name": "[Let's Do] Candlelight - Farm&Charm compat",
+      "new_entry": true
+    },
+    {
+      "source_row": 120,
+      "catalogue_id": "05118c4f4b94c977",
+      "project_id": "oNB5jhlA",
+      "name": "[Let's Do] Bakery - Farm&Charm Compat",
+      "new_entry": false
+    },
+    {
+      "source_row": 121,
+      "catalogue_id": "424a343edc034f74",
+      "project_id": "b7NV2plI",
+      "name": "[Let's Do] Brewery - Farm&Charm Compat",
+      "new_entry": true
+    },
+    {
+      "source_row": 122,
+      "catalogue_id": "6b5a927e22031195",
+      "project_id": "4Vno77MY",
+      "name": "[Let's Do] BloomingNature",
+      "new_entry": true
+    },
+    {
+      "source_row": 123,
+      "catalogue_id": "dd08cc23f6f1f093",
+      "project_id": "AAiRU4aQ",
+      "name": "[Let's Do] WilderNature",
+      "new_entry": false
+    },
+    {
+      "source_row": 124,
+      "catalogue_id": "bb971680fcc28f6b",
+      "project_id": "3JQDJrYW",
+      "name": "[Let's Do] Furniture",
+      "new_entry": true
+    },
+    {
+      "source_row": 125,
+      "catalogue_id": "02348d52878f341e",
+      "project_id": "uJXTNuf0",
+      "name": "[Let's Do] Camping",
+      "new_entry": true
+    },
+    {
+      "source_row": 126,
+      "catalogue_id": "2eeddd3297512df6",
+      "project_id": "DMDVFZSF",
+      "name": "[Let's Do] Lili's Lucky Lures",
+      "new_entry": true
+    },
+    {
+      "source_row": 127,
+      "catalogue_id": "983ccec1c22ff2df",
+      "project_id": "paO4gjmE",
+      "name": "[Let's Do] Hearth & Timber",
+      "new_entry": true
+    },
+    {
+      "source_row": 128,
+      "catalogue_id": "6fb1594707dfff4b",
+      "project_id": "sHiqiJIU",
+      "name": "[Let's Do] Lili's Pottery",
+      "new_entry": true
+    },
+    {
+      "source_row": 129,
+      "catalogue_id": "b597f9c1947ac975",
+      "project_id": "SSPTBIrB",
+      "name": "[Let's Do] Alpine Whispers",
+      "new_entry": true
+    },
+    {
+      "source_row": 130,
+      "catalogue_id": "05a6b72ccda0ef61",
+      "project_id": "d7LLnfx8",
+      "name": "Sleepy Hollows",
+      "new_entry": true
+    },
+    {
+      "source_row": 131,
+      "catalogue_id": "7c2c149e40faabf4",
+      "project_id": "4XJZeZbM",
+      "name": "[Let's Do] API",
+      "new_entry": true
+    },
+    {
+      "source_row": 132,
+      "catalogue_id": "7d27bc7b68a8052a",
+      "project_id": "4TTDxtOx",
+      "name": "[Let's Do] NetherVinery",
+      "new_entry": true
+    },
+    {
+      "source_row": 133,
+      "catalogue_id": "aa68a20b71a4efb0",
+      "project_id": "cV5LQXKx",
+      "name": "Legacy: [Let's Do] Brewery",
+      "new_entry": true
+    },
+    {
+      "source_row": 134,
+      "catalogue_id": "172628f1f0446764",
+      "project_id": "WFwYiVoG",
+      "name": "Legacy: [Let's Do] Bakery",
+      "new_entry": true
+    },
+    {
+      "source_row": 135,
+      "catalogue_id": "a27b05c12652a131",
+      "project_id": "mPND0Adp",
+      "name": "Legacy: [Let's Do] Candlelight",
+      "new_entry": true
+    }
+  ]
+}

@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**569 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**573 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Content Pack · 2</strong></summary>
@@ -40,13 +40,16 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Mod · 518</strong></summary>
+<summary><strong>Mod · 522</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
 | [\[ANGRY PIXEL\] The Betweenlands](https://curseforge.com/minecraft/mc-mods/angry-pixel-the-betweenlands-mod) | One of the finest fully self-contained legacy ecosystems, with strange creatures built specifically for its hostile dimension. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=fcf120ae041a34c4) |
 | [\[FABRIC\] Crop Cows](https://curseforge.com/minecraft/mc-mods/fabric-crop-cows) | Unique cow-as-farmland concept: water/fertility states and four plant slots let crops grow directly on the cow. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=e862fd1b3d49e92b) |
-| [\[Let's Do\] WilderNature](https://curseforge.com/minecraft/mc-mods/lets-do-wildernature) | The modern return of WilderNature with a broad animal roster, refreshed visuals and current multi-loader support. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=dd08cc23f6f1f093) |
+| ★ [\[Let's Do\] Alpine Whispers](https://modrinth.com/mod/lets-do-alpine-whispers) | Alpine Whispers enhances cold and mountainous regions with new Alpine biomes, unique wildlife, Alpine trees, and a variety of flowers and grasses, as well as fresh building materia | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b597f9c1947ac975) |
+| ★ [\[Let's Do\] Beachparty](https://modrinth.com/mod/lets-do-beachparty) | Get your Suncream out! We're going to the beach. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=fdb985a204357cb5) |
+| ★ [\[Let's Do\] BloomingNature](https://modrinth.com/mod/lets-do-bloomingnature) | Transform your overworld with enhanced terrain, expanded plant life, and handcrafted sub-biomes that make each region feel more immersive. The environment tells a deeper story, fil | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=6b5a927e22031195) |
+| ★ [\[Let's Do\] WilderNature](https://curseforge.com/minecraft/mc-mods/lets-do-wildernature) | The modern return of WilderNature with a broad animal roster, refreshed visuals and current multi-loader support. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=dd08cc23f6f1f093) |
 | [\[TaCZ/SBW\] Combined Arms](https://curseforge.com/minecraft/mc-mods/tacz-combined-arms) | Bridges TaCZ: Simple Enemy NPCs with Superb Warfare vehicles and turns the stack into a configurable combined-arms sandbox; 0.1.6 adds FOBs, helipads, optional generated structures | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b553b38dbfeaee8f) |
 | [\[TACZ\] Biome Soldiers](https://modrinth.com/mod/tacz-biome-soldiers) | Three hostile soldier patrol variants, three levels of player-controlled guards, optional protected-area zones; excellent world-combat integration with substantial saved content. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0d0e873f11ca65d5) |
 | [\[TACZ\] No Mindless Shooting](https://curseforge.com/minecraft/mc-mods/no-mindless-shooting) | GunId/AmmoId-specific noise point accumulation, per-silencer attenuation and The Hordes 1.6.3g fix; tactical gun stealth stakes. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=4504aefc2b7fd66a) |
@@ -444,6 +447,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Siegeworks](https://curseforge.com/minecraft/mc-mods/siegeworks) | Blueprint-built destructible siege sandbox with towable engines and Villager Recruits crew support; unusually deep concept but too young for install-now status. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=293df3ba6c98632a) |
 | [Simply Cats](https://curseforge.com/minecraft/mc-mods/simply-cats) | A deep cat-specialist project with inherited traits and meaningful coat variation; a major domestic-animal omission from the old catalog. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a39fa2e9a3471e34) |
 | [Skarrier Mobs](https://curseforge.com/minecraft/mc-mods/skarrier-mobs) | WATCH / TEST COPY / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b8d81897480b9684) |
+| ★ [Sleepy Hollows](https://modrinth.com/mod/sleepy-hollows) | Darkness falls, a boss to dread, armor strong - don’t lose your head! | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=05a6b72ccda0ef61) |
 | [Smartmaid](https://curseforge.com/minecraft/mc-mods/smartmaid) | FUTURE/HIGH-VALUE / WATCH / 26.2-26.3 FABRIC ONLY / SERVER-BEHAVIOR TEST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=ff7eea3bd11dd504) |
 | ★ [Snekcraft](https://curseforge.com/minecraft/mc-mods/snekcraft) | Snake content | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b04651438d762349) |
 | [Snow's Bosses: Mechasent](https://curseforge.com/minecraft/mc-mods/snows-bosses-mechasent) | INSTALL/OPTIONAL 1.20.1 / SERVER-MATCHED / BACK UP BEFORE ACTIVE-RAID CHANGES | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7425367cbab3465a) |

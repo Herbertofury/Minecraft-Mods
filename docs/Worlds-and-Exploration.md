@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**274 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**285 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Compatibility Target · 8</strong></summary>
@@ -59,11 +59,19 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Mod · 246</strong></summary>
+<summary><strong>Mod · 257</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
 | [\[ANGRY PIXEL\] The Betweenlands](https://curseforge.com/minecraft/mc-mods/angry-pixel-the-betweenlands-mod) | One of the finest fully self-contained legacy ecosystems, with strange creatures built specifically for its hostile dimension. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=fcf120ae041a34c4) |
+| ★ [\[Let's Do\] Alpine Whispers](https://modrinth.com/mod/lets-do-alpine-whispers) | Alpine Whispers enhances cold and mountainous regions with new Alpine biomes, unique wildlife, Alpine trees, and a variety of flowers and grasses, as well as fresh building materia | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b597f9c1947ac975) |
+| ★ [\[Let's Do\] Bakery - Farm&Charm Compat](https://curseforge.com/minecraft/mc-mods/lets-do-bakery-farm-charm-compat) | INSTALL/TEST 1.20.1 / COZY / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=05118c4f4b94c977) |
+| ★ [\[Let's Do\] Beachparty](https://modrinth.com/mod/lets-do-beachparty) | Get your Suncream out! We're going to the beach. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=fdb985a204357cb5) |
+| ★ [\[Let's Do\] BloomingNature](https://modrinth.com/mod/lets-do-bloomingnature) | Transform your overworld with enhanced terrain, expanded plant life, and handcrafted sub-biomes that make each region feel more immersive. The environment tells a deeper story, fil | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=6b5a927e22031195) |
+| ★ [\[Let's Do\] Camping](https://modrinth.com/mod/lets-do-camping) | How about we sleep outside today? Grab your backpack, pack the tent, grill, and sleeping bag, and let's go! | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=02348d52878f341e) |
+| ★ [\[Let's Do\] Farm & Charm](https://modrinth.com/mod/lets-do-farm-charm) | The farm calls: Experience the art of advanced agriculture and farmhouse cuisine! Use mincers, cooking pots, as well as new grains and fruit varieties to enhance your culinary and  | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=803bc67b5f8b8d9f) |
+| ★ [\[Let's Do\] Lili's Lucky Lures](https://modrinth.com/mod/lets-do-lilis-lucky-lures) | Let's go fishing! We pack our Gear: A Fishing Rod, Fishing Hat, Dynamite... Dynamite? Lili's Lucky Lures adds extra ways to catch Fish, complete with Fish & Rubble Pools and a mode | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2eeddd3297512df6) |
+| ★ [\[Let's Do\] NetherVinery](https://modrinth.com/mod/lets-do-nethervinery) | NetherVinery is an Addon all about the Nether for Vinery. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7d27bc7b68a8052a) |
 | [\[TACZ\] Biome Soldiers](https://modrinth.com/mod/tacz-biome-soldiers) | Three hostile soldier patrol variants, three levels of player-controlled guards, optional protected-area zones; excellent world-combat integration with substantial saved content. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0d0e873f11ca65d5) |
 | [\[TACZ\] NPCs](https://modrinth.com/mod/tacz-npcs) | TaCZ gun-equipped humanoid NPCs with configurable factions, mobs and loot. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=91bf2b17bcc791a2) |
 | [\[W\] WildCamps](https://modrinth.com/mod/w-wildcamps) | OPTIONAL / HIGH COZY FIT / BACKUP FIRST / FILE PIN PENDING | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=f4939cce3f14844a) |
@@ -185,6 +193,8 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Koifee's Mobs - Equipment](https://curseforge.com/minecraft/mc-mods/koifees-mobs-equipment) | OPTIONAL / TEST 1.1.6 / REQUIRES KOIFEE'S MOBS / SERVER-MATCHED / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=341c1a5bb761fac0) |
 | [KumoDesu: Ascension](https://curseforge.com/minecraft/mc-mods/kumodesu-ascension) | Elroe creatures, custom progression, multiple evolution races; three hard deps CustomHitboxLib/GeckoLib/TerraBlender; ARR; Oct06 release, Oct15 discovery. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c6607a0bd7cce705) |
 | [Lazy Chunk Load](https://modrinth.com/mod/lazy-chunk-load) | TEST BRANCH / SPARK BENCHMARK / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=9a697b0bb5546db2) |
+| ★ [Legacy: \[Let's Do\] Bakery](https://modrinth.com/mod/lets-do-bakery) | Bake many variations of Bread, Cupcakes and Cakes! Eatable, placeable. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=172628f1f0446764) |
+| ★ [Legacy: \[Let's Do\] Candlelight](https://modrinth.com/mod/lets-do-candlelight) | Ever dreamed of the perfect dinner in Minecraft?  Candlelight Dinner provides almost everything necessary to make it happen. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a27b05c12652a131) |
 | [Let There Be Atmosphere!](https://curseforge.com/minecraft/mc-mods/let-there-be-atmosphere) | INSTALL/TEST 1.20.1 / CLIENT-SAFE / NO-SHADER VISUALS | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=4c4669aff81be3b4) |
 | [Lios Seafaring Dungeons](https://curseforge.com/minecraft/mc-mods/lios-seafaring-dungeons) | INSTALL/TEST 1.20.1 / SERVER-SIDE / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=9fd014c1cbcd9ce1) |
 | ★ [LNE Archers Add-On](https://modrinth.com/mod/Zl6rTul9) | Loot & Explore structures/equipment for Archers | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c4ced0230f2893b4) |
@@ -252,6 +262,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Sheep Variety](https://modrinth.com/mod/sheep-variety) | Gives sheep the climate-aware treatment cows, pigs and chickens now receive: cold woolly forms, warm horned forms and other biome-matched appearances. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=22254a4eb0587ba9) |
 | ★ [Shippy Ships](https://curseforge.com/minecraft/mc-mods/shippy-ships) | TEST 201.25.1 ON COPIED FORGE1.20.1 WORLD; pin 201.25/1.0.15.5 for rollback; verify ship inventory persistence | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=9d50f0cd9068bd1a) |
 | [Sift Dimension Backport](https://curseforge.com/minecraft/mc-mods/sift-backport) | WATCH / FUTURE-HIGH-VALUE / SERVER-MATCHED / BACKUP FIRST / SNAPSHOT-INTERPRETATION | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=40f429b0610e0bf6) |
+| ★ [Sleepy Hollows](https://modrinth.com/mod/sleepy-hollows) | Darkness falls, a boss to dread, armor strong - don’t lose your head! | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=05a6b72ccda0ef61) |
 | ★ [Solo Leveling: Reawakening \[SLR\]](https://curseforge.com/minecraft/mc-mods/solo-craft-reawakening) | Solo Leveling progression, Gates, dungeons, quests and Shadow Army foundation | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=904405fd631048b5) |
 | [Spawn](https://curseforge.com/minecraft/mc-mods/spawn-mod) | A major omission from earlier passes: a current overworld wilderness overhaul built around many animals, ambience and biomes. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b3b79473b2cc3c8f) |
 | ★ [Spider Moon 2](https://curseforge.com/minecraft/mc-mods/spider-moon-2) | Spider-swarm lunar event | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0a6351d5c71d86d6) |

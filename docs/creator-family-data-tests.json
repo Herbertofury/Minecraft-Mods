@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "baseline_commit": "5a65ba0",
+  "entries": 2140,
+  "source_records": 2464,
+  "catalogued_favorites": 298,
+  "new_entries": 17,
+  "resolved_rows": 19,
+  "remaining_pending_rows": 129,
+  "all_prior_source_observations_preserved": true,
+  "forever_world_flags_unchanged": true,
+  "native_verification_promotions": 0
+}

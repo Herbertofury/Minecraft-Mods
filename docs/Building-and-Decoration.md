@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**60 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**75 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Data Pack · 1</strong></summary>
@@ -16,14 +16,26 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Mod · 55</strong></summary>
+<summary><strong>Mod · 70</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
 | [\[LDS\] Lazy Display Stand](https://curseforge.com/minecraft/mc-mods/lazy-display-stand) | INSTALL/TEST 1.20.1 / SERVER-MATCHED / BACKUP DISPLAY BLOCKS | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=53b2dbf19f0fb69e) |
-| [\[Let's Do\] Bakery - Farm&Charm Compat](https://curseforge.com/minecraft/mc-mods/lets-do-bakery-farm-charm-compat) | INSTALL/TEST 1.20.1 / COZY / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=05118c4f4b94c977) |
+| ★ [\[Let's Do\] Alpine Whispers](https://modrinth.com/mod/lets-do-alpine-whispers) | Alpine Whispers enhances cold and mountainous regions with new Alpine biomes, unique wildlife, Alpine trees, and a variety of flowers and grasses, as well as fresh building materia | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b597f9c1947ac975) |
+| ★ [\[Let's Do\] Bakery - Farm&Charm Compat](https://curseforge.com/minecraft/mc-mods/lets-do-bakery-farm-charm-compat) | INSTALL/TEST 1.20.1 / COZY / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=05118c4f4b94c977) |
+| ★ [\[Let's Do\] Beachparty](https://modrinth.com/mod/lets-do-beachparty) | Get your Suncream out! We're going to the beach. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=fdb985a204357cb5) |
+| ★ [\[Let's Do\] BloomingNature](https://modrinth.com/mod/lets-do-bloomingnature) | Transform your overworld with enhanced terrain, expanded plant life, and handcrafted sub-biomes that make each region feel more immersive. The environment tells a deeper story, fil | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=6b5a927e22031195) |
+| ★ [\[Let's Do\] Brewery - Farm&Charm Compat](https://modrinth.com/mod/lets-do-brewery-farmcharm-compat) | Foaming mugs, copper kettles and the smell of fresh pretzels. Brew your own beer, cook hearty food and throw an Oktoberfest to remember. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=424a343edc034f74) |
+| ★ [\[Let's Do\] Camping](https://modrinth.com/mod/lets-do-camping) | How about we sleep outside today? Grab your backpack, pack the tent, grill, and sleeping bag, and let's go! | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=02348d52878f341e) |
+| ★ [\[Let's Do\] Candlelight - Farm&Charm compat](https://modrinth.com/mod/lets-do-candlelight-farmcharm-compat) | Welcome to Candlelight! This version was made for improved compat with \[Let's Do\] Farm & Charm | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=4589feffcfedcf56) |
+| ★ [\[Let's Do\] Farm & Charm](https://modrinth.com/mod/lets-do-farm-charm) | The farm calls: Experience the art of advanced agriculture and farmhouse cuisine! Use mincers, cooking pots, as well as new grains and fruit varieties to enhance your culinary and  | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=803bc67b5f8b8d9f) |
+| ★ [\[Let's Do\] Furniture](https://modrinth.com/mod/lets-do-furniture) | Let's expand your world with a whole set of new and exciting furnitures! All in the style of the Let's Do Mods. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=bb971680fcc28f6b) |
+| ★ [\[Let's Do\] Hearth & Timber](https://modrinth.com/mod/lets-do-hearth-timber) | Craft timber houses with beams, frames and sturdy wooden details that make every home feel hand-built and storied. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=983ccec1c22ff2df) |
 | ★ [\[Let's Do\] HerbalBrews](https://modrinth.com/mod/lets-do-herbalbrews) | Let’s Do ecosystem project | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=05376b10f87271f2) |
+| ★ [\[Let's Do\] Lili's Lucky Lures](https://modrinth.com/mod/lets-do-lilis-lucky-lures) | Let's go fishing! We pack our Gear: A Fishing Rod, Fishing Hat, Dynamite... Dynamite? Lili's Lucky Lures adds extra ways to catch Fish, complete with Fish & Rubble Pools and a mode | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2eeddd3297512df6) |
+| ★ [\[Let's Do\] Lili's Pottery](https://modrinth.com/mod/lets-do-lilis-pottery) | Lili’s Pottery brings handcrafted ceramics to Minecraft, turning clay and glaze into carefully made pottery pieces. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=6fb1594707dfff4b) |
 | ★ [\[Let's Do\] Meadow](https://modrinth.com/mod/lets-do-meadow) | Let’s Do ecosystem project | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=846d7d7a4d895b79) |
+| ★ [\[Let's Do\] NetherVinery](https://modrinth.com/mod/lets-do-nethervinery) | NetherVinery is an Addon all about the Nether for Vinery. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7d27bc7b68a8052a) |
 | ★ [\[Let's Do\] Vinery](https://modrinth.com/mod/lets-do-vinery) | Let’s Do ecosystem project | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=952886be5db323ac) |
 | ★ [Alshanex's Familiars](https://curseforge.com/minecraft/mc-mods/alshanexs-familiars) | Tameable spellcasting familiars for Iron’s Spells | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=1f34bb5f2f8f37c9) |
 | [Amendments](https://curseforge.com/minecraft/mc-mods/amendments) | INSTALL/TEST 1.20.1 / SERVER-MATCHED / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=59f5d60a200f35cf) |
@@ -53,6 +65,9 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Gooblideco](https://curseforge.com/minecraft-bedrock/addons/gooblideco) | BEDROCK TEST / COZY BUILDING / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=939bce6604877c70) |
 | [Jerry's Colonies \| Build your Civilization](https://curseforge.com/minecraft-bedrock/addons/jerrys-colonies) | BEDROCK ONLY / INSTALL-TEST / BACKUP FIRST / MULTIPLAYER-HIGH-VALUE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=af47a8ac07181088) |
 | [Jurassic Revived](https://modrinth.com/mod/jurassic-revived) | Genetic reconstruction, dinosaur species breeding and fossil machine progression; 0.215.0 includes AI/spawn/feed adjustments. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c9516c614d40d7b3) |
+| ★ [Legacy: \[Let's Do\] Bakery](https://modrinth.com/mod/lets-do-bakery) | Bake many variations of Bread, Cupcakes and Cakes! Eatable, placeable. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=172628f1f0446764) |
+| ★ [Legacy: \[Let's Do\] Brewery](https://modrinth.com/mod/lets-do-brewery) | Ozapft is! Brau Bier, beiss in a Bretzn – willkomme zum Braufescht! | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=aa68a20b71a4efb0) |
+| ★ [Legacy: \[Let's Do\] Candlelight](https://modrinth.com/mod/lets-do-candlelight) | Ever dreamed of the perfect dinner in Minecraft?  Candlelight Dinner provides almost everything necessary to make it happen. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a27b05c12652a131) |
 | ★ [Legendary Farming](https://curseforge.com/minecraft/mc-mods/legendary-farming) | Mega-crop farming expansion | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=04a742713e481b22) |
 | [MineColonies](https://curseforge.com/minecraft/mc-mods/minecolonies) | UPDATE NOW 1.20.1 IF OLDER / SERVER-MATCHED / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0264d320b238ea75) |
 | ★ [Mushroom Quest](https://curseforge.com/minecraft/mc-mods/mushroom-quest) | Mushroom-themed exploration | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=bfded76cc8403adf) |

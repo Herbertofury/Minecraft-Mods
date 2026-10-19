@@ -24,22 +24,22 @@ The original Physics Mod, Punchy! and Grassier Grass favorites remain. Version-s
 
 ## Starred collection, organized by purpose
 
-The current consolidated catalogue has **279 catalogued favorites**. This includes all 42 earlier favorites plus resolved entries marked with a star in the imported collection. A source star records a preference from that source; it does not certify compatibility, confirm a new owner instruction or automatically add a project to the explicit Forever World target list.
+The current consolidated catalogue has **298 catalogued favorites**. This preserves all earlier favorites and adds resolved entries marked with a star in the source collection. A source star is a source preference, not native compatibility certification, a new owner instruction or automatic membership of the explicit Forever World target list.
 
 | Purpose | Starred entries | Browse |
 |---|---:|---|
-| Building and Decoration | 16 | [Open favorites](https://herbertofury.github.io/Minecraft-Mods/?favorites=1&category=Building+and+Decoration) |
-| Creatures and Companions | 52 | [Open favorites](https://herbertofury.github.io/Minecraft-Mods/?favorites=1&category=Creatures+and+Companions) |
+| Building and Decoration | 32 | [Open favorites](https://herbertofury.github.io/Minecraft-Mods/?favorites=1&category=Building+and+Decoration) |
+| Creatures and Companions | 57 | [Open favorites](https://herbertofury.github.io/Minecraft-Mods/?favorites=1&category=Creatures+and+Companions) |
 | Engineering and Vehicles | 38 | [Open favorites](https://herbertofury.github.io/Minecraft-Mods/?favorites=1&category=Engineering+and+Vehicles) |
-| Farming and Survival | 27 | [Open favorites](https://herbertofury.github.io/Minecraft-Mods/?favorites=1&category=Farming+and+Survival) |
+| Farming and Survival | 38 | [Open favorites](https://herbertofury.github.io/Minecraft-Mods/?favorites=1&category=Farming+and+Survival) |
 | Interface and Accessibility | 49 | [Open favorites](https://herbertofury.github.io/Minecraft-Mods/?favorites=1&category=Interface+and+Accessibility) |
 | Magic and Progression | 90 | [Open favorites](https://herbertofury.github.io/Minecraft-Mods/?favorites=1&category=Magic+and+Progression) |
 | Multiplayer and Servers | 6 | [Open favorites](https://herbertofury.github.io/Minecraft-Mods/?favorites=1&category=Multiplayer+and+Servers) |
 | Performance and Stability | 8 | [Open favorites](https://herbertofury.github.io/Minecraft-Mods/?favorites=1&category=Performance+and+Stability) |
-| Storage and Logistics | 8 | [Open favorites](https://herbertofury.github.io/Minecraft-Mods/?favorites=1&category=Storage+and+Logistics) |
-| Tools and Development | 27 | [Open favorites](https://herbertofury.github.io/Minecraft-Mods/?favorites=1&category=Tools+and+Development) |
+| Storage and Logistics | 13 | [Open favorites](https://herbertofury.github.io/Minecraft-Mods/?favorites=1&category=Storage+and+Logistics) |
+| Tools and Development | 28 | [Open favorites](https://herbertofury.github.io/Minecraft-Mods/?favorites=1&category=Tools+and+Development) |
 | Visuals and Resource Packs | 25 | [Open favorites](https://herbertofury.github.io/Minecraft-Mods/?favorites=1&category=Visuals+and+Resource+Packs) |
 | Weapons and Combat | 47 | [Open favorites](https://herbertofury.github.io/Minecraft-Mods/?favorites=1&category=Weapons+and+Combat) |
-| Worlds and Exploration | 88 | [Open favorites](https://herbertofury.github.io/Minecraft-Mods/?favorites=1&category=Worlds+and+Exploration) |
+| Worlds and Exploration | 99 | [Open favorites](https://herbertofury.github.io/Minecraft-Mods/?favorites=1&category=Worlds+and+Exploration) |
 
-Category counts overlap. [Initial import receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/musthave-import-receipt.json) · [Six resolved project identities](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/musthave-identity-resolution.json) · [148 unresolved source observations](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/musthave-pending-identities.json). Identity checks do not certify exact releases or native compatibility.
+Category counts overlap. [Initial import](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/musthave-import-receipt.json) · [Six official identities](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/musthave-identity-resolution.json) · [Nineteen creator-project matches](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/creator-family-import-verification.json) · [129 unresolved source observations](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/musthave-pending-identities.json). The legacy and Farm&Charm compatibility branches remain separate.
