@@ -11,15 +11,15 @@ A content-organized home for mod discovery, comparison, compatibility notes and 
 - **[Building and Decoration](https://github.com/Herbertofury/Minecraft-Mods/wiki/Building-and-Decoration)** — 85 project/feature/target entries; overlapping categories.
 - **[Creatures and Companions](https://github.com/Herbertofury/Minecraft-Mods/wiki/Creatures-and-Companions)** — 581 project/feature/target entries; overlapping categories.
 - **[Engineering and Vehicles](https://github.com/Herbertofury/Minecraft-Mods/wiki/Engineering-and-Vehicles)** — 296 project/feature/target entries; overlapping categories.
-- **[Farming and Survival](https://github.com/Herbertofury/Minecraft-Mods/wiki/Farming-and-Survival)** — 107 project/feature/target entries; overlapping categories.
-- **[Interface and Accessibility](https://github.com/Herbertofury/Minecraft-Mods/wiki/Interface-and-Accessibility)** — 208 project/feature/target entries; overlapping categories.
-- **[Magic and Progression](https://github.com/Herbertofury/Minecraft-Mods/wiki/Magic-and-Progression)** — 233 project/feature/target entries; overlapping categories.
+- **[Farming and Survival](https://github.com/Herbertofury/Minecraft-Mods/wiki/Farming-and-Survival)** — 110 project/feature/target entries; overlapping categories.
+- **[Interface and Accessibility](https://github.com/Herbertofury/Minecraft-Mods/wiki/Interface-and-Accessibility)** — 209 project/feature/target entries; overlapping categories.
+- **[Magic and Progression](https://github.com/Herbertofury/Minecraft-Mods/wiki/Magic-and-Progression)** — 234 project/feature/target entries; overlapping categories.
 - **[Multiplayer and Servers](https://github.com/Herbertofury/Minecraft-Mods/wiki/Multiplayer-and-Servers)** — 85 project/feature/target entries; overlapping categories.
 - **[Performance and Stability](https://github.com/Herbertofury/Minecraft-Mods/wiki/Performance-and-Stability)** — 178 project/feature/target entries; overlapping categories.
 - **[Storage and Logistics](https://github.com/Herbertofury/Minecraft-Mods/wiki/Storage-and-Logistics)** — 212 project/feature/target entries; overlapping categories.
 - **[Tools and Development](https://github.com/Herbertofury/Minecraft-Mods/wiki/Tools-and-Development)** — 215 project/feature/target entries; overlapping categories.
-- **[Visuals and Resource Packs](https://github.com/Herbertofury/Minecraft-Mods/wiki/Visuals-and-Resource-Packs)** — 293 project/feature/target entries; overlapping categories.
-- **[Weapons and Combat](https://github.com/Herbertofury/Minecraft-Mods/wiki/Weapons-and-Combat)** — 596 project/feature/target entries; overlapping categories.
+- **[Visuals and Resource Packs](https://github.com/Herbertofury/Minecraft-Mods/wiki/Visuals-and-Resource-Packs)** — 294 project/feature/target entries; overlapping categories.
+- **[Weapons and Combat](https://github.com/Herbertofury/Minecraft-Mods/wiki/Weapons-and-Combat)** — 597 project/feature/target entries; overlapping categories.
 - **[Worlds and Exploration](https://github.com/Herbertofury/Minecraft-Mods/wiki/Worlds-and-Exploration)** — 290 project/feature/target entries; overlapping categories.
 
 ## Favorite deep dives
@@ -36,11 +36,11 @@ These three are explicitly marked favorites in the imported catalogue. The owner
 
 ## Current import coverage
 
-**2,196 research entries · 2,532 attached source observations · 363 catalogued favorites.** 336 repeated source observations are consolidated without dropping their notes. Entries include mods, resource packs, tools, targets and discovery routes; these are not counts of tested compatible mods.
+**2,201 research entries · 2,538 attached source observations · 369 catalogued favorites.** 337 repeated source observations are consolidated without dropping their notes. Entries include mods, resource packs, tools, targets and discovery routes; these are not counts of tested compatible mods.
 
 The broad recommendations, gun research, creature variety, storage/sorting and starred/conversion collections are being brought together. Remaining HTML, document collections and unique source tabs still need reconciliation. Source files remain intact. Imported source stars and version claims remain distinct from explicit Forever World targets, freshly checked releases and native gameplay tests.
 
-**61 starred/conversion source rows still need exact project identities.** Storage identity questions are tracked separately. [Unresolved starred rows](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/musthave-pending-identities.json) · [Unresolved storage rows](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/storage-import-pending-identities.json).
+**55 starred/conversion source rows still need exact project identities.** Storage identity questions are tracked separately. [Unresolved starred rows](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/musthave-pending-identities.json) · [Unresolved storage rows](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/storage-import-pending-identities.json).
 
 ### Import evidence and preservation checks
 
@@ -51,5 +51,7 @@ The broad recommendations, gun research, creature variety, storage/sorting and s
 - [Thirty-four Simply, Kaleidoscope, RPG Series and VR identities](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/multifamily-data-tests.json): 27 new entries and seven cross-host matches using shared official repositories. Refabricated projects remain distinct; datapacks and resource packs retain their own types.
 
 Sixteen further source rows are connected to official creature, decoration, physics, animation and spell-integration projects. [Identity and preservation tests](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/remaining-identities-data-tests.json). The two joosh Clockwork source rows share one catalogue entry and remain distinct from unrelated Clockwork projects.
+
+The last six Java-oriented identity questions in this starred source collection are resolved. [Evidence](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/java-identities-data-tests.json). Remaining unresolved rows are 55 explicitly labeled Bedrock Marketplace research/conversion targets. This does not mean every separate source collection or release is verified.
 
 Every pass preserves earlier source observations, favorites and explicit compatibility-target flags. Identity resolution does not certify a particular Minecraft build or native compatibility.
