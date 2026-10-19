@@ -58,7 +58,7 @@ These are historical starting ideas awaiting full exact-file review, not certifi
 
 ## Import coverage
 
-The original 17 views and all 159 master observations are preserved in the repository. Seventy-nine master observations are attached to catalogue identities: 37 exact matches to existing records and forty-two newly reviewed identities. The remaining 80 master observations and 168 unmatched companion-view rows remain in review. 183 companion rows are attached to 70 entries; they do not inflate the unique-project or source-record totals.
+The original 17 views and all 159 master observations are preserved in the repository. Eighty-three master observations are attached to catalogue identities: 37 exact matches to existing records and forty-six newly reviewed identities. The remaining 76 master observations and 158 unmatched companion-view rows remain in review. 193 companion rows are attached to 74 entries; they do not inflate the unique-project or source-record totals.
 
 [Preserved source views](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-source-views.json) · [Master import receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-import.json) · [Companion receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-companion-receipt.json)
 
@@ -107,3 +107,9 @@ Original scores and superlatives remain source opinions. No pack was installed, 
 [Crops 3D Reploughed](https://www.curseforge.com/minecraft/texture-packs/crops-3d-reploughed) separates crops, flowers and saplings, making selective stacking possible. Its author directs all-in-one users to [Crops 3D Reforged](https://www.curseforge.com/minecraft/texture-packs/crops-3d-reforged). Choose the exact game-version file and inspect overlapping model paths before combining packs; the names do not mean duplicate identities or automatically compatible layers.
 
 [Biomes You’ll Go 3D Flora](https://www.curseforge.com/minecraft/texture-packs/biomes-youll-go-3d-flora) targets vines and mushrooms, not every plant. Confirm the actual BYG/BWG registry names for each file. [Excalibur | Quark Delight Support](https://modrinth.com/resourcepack/quark-delight-excalibur-support) is for that add-on; Quark and Farmer’s Delight have separate support packs.
+
+## Style families are not completeness guarantees
+
+[Whimscape × BWG](https://www.curseforge.com/minecraft/texture-packs/whimscape-x-oh-the-biomes-weve-gone) covers the author’s wood/ground targets and All The Wood We’ve Got, while most extra plants are still untouched. [BareBones × BetterEnd](https://modrinth.com/resourcepack/barebones-x-betterend) offers another visual direction, but exact asset coverage still needs comparison against the chosen BetterEnd build.
+
+[3D Crops Revamped](https://modrinth.com/resourcepack/3d-crops) is a distinct crop-model option with author-described readability/floating-texture improvements. It should not be merged with the similarly named Reforged/Reploughed projects. [Mekanism BDCraft](https://www.curseforge.com/minecraft/texture-packs/mekanism-bdcraft) offers multiple resolutions and recommends the separate PureBDCraft base pack. Choose a measured texture-memory budget rather than assuming the largest resolution is best.

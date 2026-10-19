@@ -6,9 +6,9 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 
 ## Resource-pack ecosystem research
 
-[The resource-pack atlas](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-source-views.json) preserves 17 views covering flowers, crops, magic, creatures, biomes, Create, Excalibur and Stay True ecosystems, conversion candidates and suggested pack stacks. The first 37 exact matches are attached to 33 existing catalogue entries. Forty-two further project identities are now checked against official pages; another 80 master observations are being reconciled. Source scores, “native/drop-in” claims and suggested pack orders require exact-version testing; a design gap is not an available resource pack.
+[The resource-pack atlas](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-source-views.json) preserves 17 views covering flowers, crops, magic, creatures, biomes, Create, Excalibur and Stay True ecosystems, conversion candidates and suggested pack stacks. The first 37 exact matches are attached to 33 existing catalogue entries. Forty-six further project identities are now checked against official pages; another 76 master observations are being reconciled. Source scores, “native/drop-in” claims and suggested pack orders require exact-version testing; a design gap is not an available resource pack.
 
-**338 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**342 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Content Pack · 3</strong></summary>
@@ -229,10 +229,11 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Resource Pack · 150</strong></summary>
+<summary><strong>Resource Pack · 154</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
+| [3D Crops Revamped](https://modrinth.com/resourcepack/3d-crops) | NinthWorld-derived crop/plant model refresh, distinct from Reforged and Reploughed. The author describes clearer growth stages, reduced repetition, colored stems and floating-textu | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2037d104afed5516) |
 | [3D Default](https://modrinth.com/resourcepack/3d-default) | INSTALL / TEST NOW | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=41cb3e380ee9adbe) |
 | [3D Remix](https://modrinth.com/resourcepack/3d-remix) | FUTURE / HIGH-VALUE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=97af2c78a308a2f0) |
 | [\[Bedrock\] Human Player Mobs](https://curseforge.com/minecraft-bedrock/texture-packs/human-player-mobs-bedrock-port) | BEDROCK VISUAL / CLIENT-SAFE / TEST CURRENT STABLE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=89c1d488fc13b448) |
@@ -247,6 +248,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Bare Bones x Farmer’s Delight](https://modrinth.com/resourcepack/bare-bones-x-farmers-delight) | Official Bare Bones compatibility resource pack for Farmer’s Delight and several Delight addons. Author-listed completion differs by addon; do not promote the whole family to fully | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=9e890ace92db3272) |
 | [Bare Bones x Mods](https://modrinth.com/resourcepack/bare-bones-x-mods) | Official Modrinth project identifies a modded Bare Bones resource pack; author lists many supported mods and instructs placing it above its base and overlays. Pack order is author  | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d89e87e5fa530a1c) |
 | [Bare Bones x The Aether](https://modrinth.com/resourcepack/bare-bones-x-the-aether) | Minecraft 1.20.1 Bare Bones-style Aether textures. The author lists The Aether, Lost Content, Enhanced Extinguishing, Treasure Reforging and Protect Your Moa. Aether Redux and Deep | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=4d8bc250e61f8b30) |
+| [BareBones x BetterEnd](https://modrinth.com/resourcepack/barebones-x-betterend) | Bare Bones-style BetterEnd retextures. Listings include 1.19.x, 1.20–1.20.4 and 1.21–1.21.1. The title’s broad coverage statement is an author claim; exact asset completeness again | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=01a879f0a440bcfe) |
 | [Barely Default by Mickey Joe](https://curseforge.com/minecraft/texture-packs/mickey-joes-relatively-improved-default) | FUTURE VERSION / OPTIONAL VISUAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0978786b84646345) |
 | [Beefier Bovine](https://curseforge.com/minecraft/texture-packs/beefier-bovine) | The strongest match for the remembered biome-diverse smoothie cow look; themed names include Boba, Milkshake, Iced Cowffee, S-MOO-thie, Fruit, Sorbet and more. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0d39e0f1c11ac769) |
 | [Beefier Bovine - Bedrock Edition](https://curseforge.com/minecraft-bedrock/texture-packs/beefier-bovine) | Bedrock port of the giant bovine style system, including drink/dessert name variants and biome-dependent appearances. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7e5a98a3b14563a5) |
@@ -330,6 +332,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [JICKLUS](https://curseforge.com/minecraft/texture-packs/jicklus) | OPTIONAL VISUAL / CLIENT-SAFE / USE MATCHING VERSION | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=3ab9d5cca143780a) |
 | [Kaydicraft CIT](https://modrinth.com/resourcepack/kaydicraft-cit) | INSTALL / OPTIONAL VISUAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7f57d32c385383b3) |
 | [L_Ender’s Cataclysm Reimagined](https://www.curseforge.com/minecraft/texture-packs/cataclysm-reimagined) | Official description limits this pack to GUI, HUD and item icons. It explicitly does not change world models, blocks or gameplay. Separate Forge and NeoForge file lanes are listed; | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=6d8c67c99b997dbe) |
+| [Mekanism BDCraft](https://www.curseforge.com/minecraft/texture-packs/mekanism-bdcraft) | BDCraft-style Mekanism texture patch with 1.20/1.21 file lanes and 32x, 64x, 128x, 256x and 512x resolutions. The author recommends the separate PureBDCraft base-game pack. Pick th | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=03b997da5db85045) |
 | [Menagerie: Earth Mob Variants and More!](https://herbertofury.github.io/Minecraft-Mods/?id=005237af8fa7e13d) | Excellent data-driven Java restoration of Minecraft Earth/franchise variants with biome spawning and many farm-animal breeds. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=005237af8fa7e13d) |
 | [Mike Ultra Visuals](https://curseforge.com/minecraft-bedrock/texture-packs/mike-ultra-visuals) | BEDROCK OPTIONAL / CLIENT-SAFE VISUAL / HIGH-END | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=88e4009f966307c5) |
 | [Minecraft Earth Cows (Bedrock)](https://curseforge.com/minecraft-bedrock/texture-packs/minecraft-earth-cows) | Dedicated Bedrock cow pack with Albino, Magma, Cookie, Wooly, Pinto, Ashen, Moobloom, Moolip and more via nametags. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2464821286703f4c) |
@@ -383,6 +386,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Unbound Visuals](https://curseforge.com/minecraft-bedrock/texture-packs/unbound-visuals) | BEDROCK TEST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b5fa41bc007a40f6) |
 | [Vanilla 3D Extension](https://curseforge.com/minecraft/texture-packs/vanilla-3d-extension) | OPTIONAL / FUTURE VERSION | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=567abea89d0f58f7) |
 | [Vibrant Legacy](https://curseforge.com/minecraft-bedrock/texture-packs/vibrant-legacy) | BEDROCK ONLY / OPTIONAL / CLIENT-VISUAL / CURRENT 26.x | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=3c3e41371eed875f) |
+| [Whimscape x Oh The Biomes We’ve Gone](https://www.curseforge.com/minecraft/texture-packs/whimscape-x-oh-the-biomes-weve-gone) | Whimscape-style BWG patch with 1.20.1 and 1.21.1 listings. The author says wood and ground types are retextured and All The Wood We’ve Got is included, while most extra plants rema | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=55e06e065f89b2db) |
 
 </details>
 
@@ -422,4 +426,4 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 
 ## Stack planning and companion notes
 
-[Visual styles and resource-pack stacks](Visual-Styles-and-Pack-Stacks) explains version-specific dependencies, priority-order conflicts and a repeatable visual check. 183 companion rows are attached to 70 entries; 168 companion rows remain in review. These annotations do not inflate catalogue totals or promote native compatibility.
+[Visual styles and resource-pack stacks](Visual-Styles-and-Pack-Stacks) explains version-specific dependencies, priority-order conflicts and a repeatable visual check. 193 companion rows are attached to 74 entries; 158 companion rows remain in review. These annotations do not inflate catalogue totals or promote native compatibility.

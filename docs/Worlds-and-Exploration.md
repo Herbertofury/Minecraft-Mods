@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**312 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**314 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Compatibility Target · 8</strong></summary>
@@ -352,11 +352,12 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Resource Pack · 15</strong></summary>
+<summary><strong>Resource Pack · 17</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
 | [Bare Bones x The Aether](https://modrinth.com/resourcepack/bare-bones-x-the-aether) | Minecraft 1.20.1 Bare Bones-style Aether textures. The author lists The Aether, Lost Content, Enhanced Extinguishing, Treasure Reforging and Protect Your Moa. Aether Redux and Deep | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=4d8bc250e61f8b30) |
+| [BareBones x BetterEnd](https://modrinth.com/resourcepack/barebones-x-betterend) | Bare Bones-style BetterEnd retextures. Listings include 1.19.x, 1.20–1.20.4 and 1.21–1.21.1. The title’s broad coverage statement is an author claim; exact asset completeness again | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=01a879f0a440bcfe) |
 | [Biomes You’ll Go 3D Flora](https://www.curseforge.com/minecraft/texture-packs/biomes-youll-go-3d-flora) | Selected 3D vine and mushroom models for the Biomes You’ll Go family. The listing offers 1.19.2 and 1.20.1 files, says no backports before 1.19.2, and ties later ports to the autho | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d8943a646b26f494) |
 | [Connected Paths](https://www.curseforge.com/minecraft/texture-packs/connected-paths) | Connected-texture resource pack; author requires OptiFine or Continuity. Support is version-scoped: several ecosystems are listed, while Create, Alex’s Caves and others remain plan | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=83cd0bd17d0aac90) |
 | [Definitive Vibrant Visuals \| Static Light Update](https://curseforge.com/minecraft-bedrock/texture-packs/definitive-vibrant-visuals) | BEDROCK UPDATE / CLIENT-SAFE VISUAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=ea05e7126aec6a9f) |
@@ -371,6 +372,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Prettier Sheep](https://curseforge.com/minecraft/texture-packs/prettier-sheep) | Remodels sheep and adds temperate, warm, cold and mountain-oriented forms. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a1e760e8484c7626) |
 | [Retextures o’ Plenty](https://www.curseforge.com/minecraft/texture-packs/retextures-o-plenty) | Official Biomes O Plenty resource pack by IcyCaeli. Author describes changes to over 300 textures and variants, currently for the base mod; addon support is planned rather than imp | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=229ec91a7d1c71c2) |
 | [Stay True](https://www.curseforge.com/minecraft/texture-packs/stay-true) | Vanilla-style visual variation pack. Author lists OptiFine for connected textures, overlays and pink birch leaves, and advises fancy leaves plus appropriate connected-texture/alter | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=8195aa5182e19ee1) |
+| [Whimscape x Oh The Biomes We’ve Gone](https://www.curseforge.com/minecraft/texture-packs/whimscape-x-oh-the-biomes-weve-gone) | Whimscape-style BWG patch with 1.20.1 and 1.21.1 listings. The author says wood and ground types are retextured and All The Wood We’ve Got is included, while most extra plants rema | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=55e06e065f89b2db) |
 
 </details>
 

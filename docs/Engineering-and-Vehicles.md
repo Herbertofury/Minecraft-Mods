@@ -6,7 +6,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**312 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**313 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Content Pack · 12</strong></summary>
@@ -363,13 +363,14 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Resource Pack · 3</strong></summary>
+<summary><strong>Resource Pack · 4</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
-| [Create BDCraft](https://www.curseforge.com/minecraft/texture-packs/create-bdcraft) | BDCraft-style Create patch. Author lists Minecraft 1.20/1.21 and separate Create 5/6 coverage at 32x, 64x, 128x, 256x and 512x. Select the matching Create/game file and intended resolu | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c5fdb0d032c794d3) |
+| [Create BDCraft](https://www.curseforge.com/minecraft/texture-packs/create-bdcraft) | BDCraft-style Create patch. Author lists Minecraft 1.20/1.21 and separate Create 5/6 coverage at 32x, 64x, 128x, 256x and 512x. Select the matching Create/game file and intended re | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c5fdb0d032c794d3) |
 | ★ [Create: Fresh Items](https://modrinth.com/resourcepack/create-fresh-food) | 3D Create item models inspired by Fresh Food | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=f4b18fb9f355034a) |
 | [Excalibur \| Create Support](https://www.curseforge.com/minecraft/texture-packs/excalibur-create-support) | Official Create-to-Excalibur texture/model support pack by BoFill_Pablito. Author places it above Excalibur and publishes distinct Forge 1.20.1 and NeoForge 1.21.1 archives; exact  | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=89a3b19c36e4de16) |
+| [Mekanism BDCraft](https://www.curseforge.com/minecraft/texture-packs/mekanism-bdcraft) | BDCraft-style Mekanism texture patch with 1.20/1.21 file lanes and 32x, 64x, 128x, 256x and 512x resolutions. The author recommends the separate PureBDCraft base-game pack. Pick th | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=03b997da5db85045) |
 
 </details>
 

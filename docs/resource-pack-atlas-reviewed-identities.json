@@ -429,5 +429,45 @@
       "Farming and Survival"
     ],
     "note": "Excalibur-style retextures for the Quark Delight add-on, with listed 1.20\u20131.20.1 and 1.21\u20131.21.1 lanes. The author links separate Farmer\u2019s Delight and Quark support packs; this patch does not imply it includes either base mod\u2019s complete retexture or gameplay compatibility."
+  },
+  {
+    "row": 51,
+    "name": "Whimscape x Oh The Biomes We\u2019ve Gone",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/whimscape-x-oh-the-biomes-weve-gone",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Worlds and Exploration"
+    ],
+    "note": "Whimscape-style BWG patch with 1.20.1 and 1.21.1 listings. The author says wood and ground types are retextured and All The Wood We\u2019ve Got is included, while most extra plants remain untouched. Broad biome coverage is not complete flora coverage; confirm the exact mod and file versions."
+  },
+  {
+    "row": 52,
+    "name": "3D Crops Revamped",
+    "url": "https://modrinth.com/resourcepack/3d-crops",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Farming and Survival"
+    ],
+    "note": "NinthWorld-derived crop/plant model refresh, distinct from Reforged and Reploughed. The author describes clearer growth stages, reduced repetition, colored stems and floating-texture fixes, with a separate Barebones version linked. Lightweight and shader-supported are author descriptions, not measured performance or exact renderer qualification."
+  },
+  {
+    "row": 53,
+    "name": "BareBones x BetterEnd",
+    "url": "https://modrinth.com/resourcepack/barebones-x-betterend",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Worlds and Exploration"
+    ],
+    "note": "Bare Bones-style BetterEnd retextures. Listings include 1.19.x, 1.20\u20131.20.4 and 1.21\u20131.21.1. The title\u2019s broad coverage statement is an author claim; exact asset completeness against a particular BetterEnd release has not been audited. This is a visual resource pack, not a loader port or gameplay compatibility patch."
+  },
+  {
+    "row": 54,
+    "name": "Mekanism BDCraft",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/mekanism-bdcraft",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Engineering and Vehicles"
+    ],
+    "note": "BDCraft-style Mekanism texture patch with 1.20/1.21 file lanes and 32x, 64x, 128x, 256x and 512x resolutions. The author recommends the separate PureBDCraft base-game pack. Pick the matching mod/game version and resolution; higher resolution is not automatically better performance, and whole-mod coverage remains an author claim until asset auditing."
   }
 ]

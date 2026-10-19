@@ -4,9 +4,9 @@
   "master_rows": 159,
   "exact_existing_observations_added": 37,
   "unique_entries_enriched": 33,
-  "pending_master_observations": 80,
-  "display_entries": 2306,
-  "source_observations": 2688,
+  "pending_master_observations": 76,
+  "display_entries": 2310,
+  "source_observations": 2692,
   "favorites": 411,
   "native_promotions": 0,
   "all_prior_fields_preserved": true,
@@ -197,7 +197,7 @@
       "name": "Fresh Flowers and Plants"
     }
   ],
-  "reviewed_new_identity_observations_added": 42,
+  "reviewed_new_identity_observations_added": 46,
   "reviewed_new_identities": [
     {
       "row": 2,
@@ -408,6 +408,26 @@
       "row": 50,
       "id": "e4f78f17466f8373",
       "name": "Excalibur | Quark Delight Support"
+    },
+    {
+      "row": 51,
+      "id": "55e06e065f89b2db",
+      "name": "Whimscape x Oh The Biomes We\u2019ve Gone"
+    },
+    {
+      "row": 52,
+      "id": "2037d104afed5516",
+      "name": "3D Crops Revamped"
+    },
+    {
+      "row": 53,
+      "id": "01a879f0a440bcfe",
+      "name": "BareBones x BetterEnd"
+    },
+    {
+      "row": 54,
+      "id": "03b997da5db85045",
+      "name": "Mekanism BDCraft"
     }
   ]
 }
