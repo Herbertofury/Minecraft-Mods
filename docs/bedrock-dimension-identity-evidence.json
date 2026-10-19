@@ -1,59 +1,58 @@
 {
   "checked_utc": "2026-10-19",
-  "scope": "Primary identities only; no native compatibility or release promotion",
+  "scope": "Primary identities only; no native release or compatibility promotion",
   "matches": [
     {
-      "row": 246,
-      "name": "Armor Expansion (King Cube)",
-      "url": "https://www.minecraft.net/en-us/marketplace/pdp?id=9f2f21e6-3584-4479-8b5a-b21a971ffc26",
-      "marketplace_uuid": "9f2f21e6-3584-4479-8b5a-b21a971ffc26",
+      "row": 249,
+      "name": "Silly Vehicles Add-On",
+      "url": "https://www.minecraft.net/en-us/marketplace/pdp?id=0bdc9c91-d2d2-4a41-9d29-03f9c0e6e8f2",
+      "marketplace_uuid": "0bdc9c91-d2d2-4a41-9d29-03f9c0e6e8f2",
       "existing_ids": [],
       "type": "content_pack",
       "categories": [
-        "Weapons and Combat",
+        "Engineering and Vehicles"
+      ],
+      "identity_sources": [
+        "https://www.minecraft.net/en-us/marketplace/pdp?id=0bdc9c91-d2d2-4a41-9d29-03f9c0e6e8f2"
+      ],
+      "method": "Live official Marketplace title and creator verified after client-side page loading; Ghost Pets additionally linked by official Minecraft editorial article.",
+      "reason": "Bedrock playful cars, boats and planes with distinct silhouettes and abilities; a visual/traversal reference, not an available Java conversion."
+    },
+    {
+      "row": 250,
+      "name": "Capybara Add-On (Dodo Studios)",
+      "url": "https://www.minecraft.net/pt-br/marketplace/pdp/dodo-studios/capybara-add--on/aa39b42e-46f0-4de1-88a7-5d269091b0dc",
+      "marketplace_uuid": "aa39b42e-46f0-4de1-88a7-5d269091b0dc",
+      "existing_ids": [],
+      "type": "content_pack",
+      "categories": [
+        "Creatures and Companions",
         "Magic and Progression"
       ],
       "identity_sources": [
-        "https://www.minecraft.net/en-us/marketplace/pdp?id=9f2f21e6-3584-4479-8b5a-b21a971ffc26"
+        "https://www.minecraft.net/pt-br/marketplace/pdp/dodo-studios/capybara-add--on/aa39b42e-46f0-4de1-88a7-5d269091b0dc"
       ],
-      "method": "Live official Marketplace product page confirms exact title and creator after client-side rendering. Discovery sources were not used as sole identity evidence.",
-      "reason": "Bedrock craftable armor ability and equipment presentation reference; distinct from the similarly named Kubo Studios world."
+      "method": "Live official Marketplace title and creator verified after client-side page loading; Ghost Pets additionally linked by official Minecraft editorial article.",
+      "reason": "Bedrock capybara leveling and companion abilities; exact Dodo Studios identity, kept separate from other Capybara add-ons."
     },
     {
-      "row": 247,
-      "name": "MECHS Add-On",
-      "url": "https://www.minecraft.net/en-us/marketplace/pdp/aypierre/mechs-add--on/ce8f5b87-4b54-4962-b2dd-dd13aae22e20",
-      "marketplace_uuid": "ce8f5b87-4b54-4962-b2dd-dd13aae22e20",
+      "row": 251,
+      "name": "Ghost Pets Add-On",
+      "url": "https://www.minecraft.net/en-us/marketplace/pdp?id=500dbac8-209a-4a55-9643-829fd6f8989f",
+      "marketplace_uuid": "500dbac8-209a-4a55-9643-829fd6f8989f",
       "existing_ids": [],
       "type": "content_pack",
       "categories": [
-        "Engineering and Vehicles",
-        "Weapons and Combat"
+        "Creatures and Companions",
+        "Magic and Progression",
+        "Visuals and Resource Packs"
       ],
       "identity_sources": [
-        "https://www.minecraft.net/en-us/marketplace/pdp/aypierre/mechs-add--on/ce8f5b87-4b54-4962-b2dd-dd13aae22e20"
+        "https://www.minecraft.net/pt-br/article/beyond-the-pale-garden",
+        "https://www.minecraft.net/en-us/marketplace/pdp?id=500dbac8-209a-4a55-9643-829fd6f8989f"
       ],
-      "method": "Live official Marketplace product page confirms exact title and creator after client-side rendering. Discovery sources were not used as sole identity evidence.",
-      "reason": "Bedrock titanium-to-mech crafting, role differentiation and transformation/combat reference; no Java conversion or native certification implied."
-    },
-    {
-      "row": 248,
-      "name": "Liminal Dimension Add-On",
-      "url": "https://www.minecraft.net/fr-fr/marketplace/pdp/cloud-corp/liminal-dimension-add--on-v1.1/8a4ef929-2ffa-4dea-8a06-fdd3b2743b4f",
-      "marketplace_uuid": "8a4ef929-2ffa-4dea-8a06-fdd3b2743b4f",
-      "existing_ids": [],
-      "type": "content_pack",
-      "categories": [
-        "Worlds and Exploration",
-        "Building and Decoration",
-        "Weapons and Combat",
-        "Creatures and Companions"
-      ],
-      "identity_sources": [
-        "https://www.minecraft.net/fr-fr/marketplace/pdp/cloud-corp/liminal-dimension-add--on-v1.1/8a4ef929-2ffa-4dea-8a06-fdd3b2743b4f"
-      ],
-      "method": "Live official Marketplace product page confirms exact title and creator after client-side rendering. Discovery sources were not used as sole identity evidence.",
-      "reason": "Bedrock procedural furniture-dimension, trap and encounter design reference; title version remains a listing observation."
+      "method": "Live official Marketplace title and creator verified after client-side page loading; Ghost Pets additionally linked by official Minecraft editorial article.",
+      "reason": "Bedrock customizable glowing pets, wand summoning and companion-menu reference; display title 2.1 is not an independently tested build."
     }
   ]
 }

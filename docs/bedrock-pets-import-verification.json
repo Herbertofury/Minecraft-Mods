@@ -1,0 +1,29 @@
+{
+  "scope": "Primary project identity only; source records and verification levels preserved",
+  "entries": 2219,
+  "source_records": 2557,
+  "favorites": 388,
+  "resolved_rows": 3,
+  "new_entries": 3,
+  "pending_starred_rows": 36,
+  "applied": [
+    {
+      "row": 249,
+      "id": "09d2f9cb7a418374",
+      "name": "Silly Vehicles Add-On",
+      "new": true
+    },
+    {
+      "row": 250,
+      "id": "99bd9e66c1ce06ce",
+      "name": "Capybara Add-On (Dodo Studios)",
+      "new": true
+    },
+    {
+      "row": 251,
+      "id": "041dc72e40dc25ea",
+      "name": "Ghost Pets Add-On",
+      "new": true
+    }
+  ]
+}

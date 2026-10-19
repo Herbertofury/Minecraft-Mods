@@ -4,13 +4,15 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**587 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**589 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
-<summary><strong>Content Pack · 8</strong></summary>
+<summary><strong>Content Pack · 10</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
+| ★ [Capybara Add-On (Dodo Studios)](https://minecraft.net/pt-br/marketplace/pdp/dodo-studios/capybara-add--on/aa39b42e-46f0-4de1-88a7-5d269091b0dc) | Bedrock capybara leveling and companion abilities; exact Dodo Studios identity, kept separate from other Capybara add-ons. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=99bd9e66c1ce06ce) |
+| ★ [Ghost Pets Add-On](https://minecraft.net/en-us/marketplace/pdp?id=500dbac8-209a-4a55-9643-829fd6f8989f) | Bedrock customizable glowing pets, wand summoning and companion-menu reference; display title 2.1 is not an independently tested build. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=041dc72e40dc25ea) |
 | ★ [How to Train Your Dragon Add-On](https://minecraft.net/en-us/marketplace/pdp?id=10b469b6-f196-428c-b98e-c572cc55e83e) | Bedrock rideable dragon bonding and abilities reference; no Java compatibility or conversion claim. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c23b39cfaad7f770) |
 | ★ [Liminal Dimension Add-On](https://minecraft.net/fr-fr/marketplace/pdp/cloud-corp/liminal-dimension-add--on-v1.1/8a4ef929-2ffa-4dea-8a06-fdd3b2743b4f) | Bedrock procedural furniture-dimension, trap and encounter design reference; title version remains a listing observation. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=29461c1d07606c0e) |
 | ★ [Slice of Life Add-On](https://minecraft.net/en-us/marketplace/pdp/starfish-studios/slice-of-life-add--on/b34587c5-e453-4fad-b2d5-95629f2ce0af) | Bedrock cozy building and companion reference; source conversion ambitions do not establish a Java release. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=e3f5e0884272a4c6) |

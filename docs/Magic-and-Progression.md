@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**238 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**240 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Compatibility Target · 2</strong></summary>
@@ -17,12 +17,14 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Content Pack · 8</strong></summary>
+<summary><strong>Content Pack · 10</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
 | ★ [\[TaCZ\] Ars Armorer](https://curseforge.com/minecraft/customization/tacz-ars-armorer-koei) | Ars Nouveau-themed craftable firearms with attachable 'Spell' components and dedicated bench; theme-based content, not verified direct Ars Nouveau spellcasting. | [Actual-file study](https://github.com/Herbertofury/Advent-of-Ascension/wiki/Ars-Armorer-Direct-Study) · [details](https://herbertofury.github.io/Minecraft-Mods/?id=bcf413b97749cce5) |
 | ★ [Armor Expansion (King Cube)](https://minecraft.net/en-us/marketplace/pdp?id=9f2f21e6-3584-4479-8b5a-b21a971ffc26) | Bedrock craftable armor ability and equipment presentation reference; distinct from the similarly named Kubo Studios world. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=3cebadcf427cfe2c) |
+| ★ [Capybara Add-On (Dodo Studios)](https://minecraft.net/pt-br/marketplace/pdp/dodo-studios/capybara-add--on/aa39b42e-46f0-4de1-88a7-5d269091b0dc) | Bedrock capybara leveling and companion abilities; exact Dodo Studios identity, kept separate from other Capybara add-ons. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=99bd9e66c1ce06ce) |
+| ★ [Ghost Pets Add-On](https://minecraft.net/en-us/marketplace/pdp?id=500dbac8-209a-4a55-9643-829fd6f8989f) | Bedrock customizable glowing pets, wand summoning and companion-menu reference; display title 2.1 is not an independently tested build. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=041dc72e40dc25ea) |
 | [Legends: Anime](https://curseforge.com/minecraft/mc-mods/legends-anime) | TEST 1.20.1 / LEGENDS CORE REQUIRED / SERVER-MATCHED / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7a0a5f0646e58429) |
 | [Legends: Superheroes Unlimited](https://curseforge.com/minecraft/mc-mods/legends-superheroes-unlimited) | TEST/INSTALL 1.20.1 / LEGENDS CORE REQUIRED / SERVER-MATCHED / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=764ca5c41c709168) |
 | ★ [Sonic Add-On](https://minecraft.net/de-de/marketplace/pdp/gamemode-one/sonic-add--on/f3e0a4be-8858-44d3-9ae8-91643db1b3f6) | Bedrock character transformation, traversal blocks and progression reference. Creator changelog supplies useful equipment-preservation and interrupted-transformation regression cas | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=60d6987f4bd642e7) |
