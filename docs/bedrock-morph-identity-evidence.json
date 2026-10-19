@@ -1,0 +1,61 @@
+{
+  "checked_utc": "2026-10-19",
+  "scope": "Primary identities and research purposes only; no native certification",
+  "matches": [
+    {
+      "row": 252,
+      "name": "SCP: Uncaged Add-On",
+      "url": "https://www.minecraft.net/en-us/marketplace/pdp/cloud-corp/scp%3A-uncaged-add-on/af77b37a-dcd6-4a98-b3da-efb7f1764ab5",
+      "marketplace_uuid": "af77b37a-dcd6-4a98-b3da-efb7f1764ab5",
+      "existing_ids": [],
+      "type": "content_pack",
+      "categories": [
+        "Worlds and Exploration",
+        "Creatures and Companions",
+        "Building and Decoration"
+      ],
+      "identity_sources": [
+        "https://www.minecraft.net/en-us/marketplace/pdp/cloud-corp/scp%3A-uncaged-add-on/af77b37a-dcd6-4a98-b3da-efb7f1764ab5"
+      ],
+      "method": "Exact title, creator and Add-On type read on the official live Marketplace page. Same-name world products are not used as substitutes.",
+      "reason": "Bedrock containment objectives, facilities and encounter/tool presentation reference; exact product identity only."
+    },
+    {
+      "row": 253,
+      "name": "Mob Companions Add-On",
+      "url": "https://www.minecraft.net/en-us/marketplace/pdp?id=44419736-4522-401a-8977-b8e80721621c",
+      "marketplace_uuid": "44419736-4522-401a-8977-b8e80721621c",
+      "existing_ids": [],
+      "type": "content_pack",
+      "categories": [
+        "Creatures and Companions",
+        "Magic and Progression",
+        "Weapons and Combat"
+      ],
+      "identity_sources": [
+        "https://pixelbiester.net/project/mob-companions",
+        "https://www.minecraft.net/en-us/marketplace/pdp?id=44419736-4522-401a-8977-b8e80721621c"
+      ],
+      "method": "Exact title, creator and Add-On type read on the official live Marketplace page. Same-name world products are not used as substitutes.",
+      "reason": "Bedrock armor-linked companion progression, command staff and dungeon encounter reference; creator article provides detailed design context."
+    },
+    {
+      "row": 254,
+      "name": "Enderman Morph Add-On",
+      "url": "https://www.minecraft.net/en-us/marketplace/pdp?id=22530c8e-4ba5-46ca-b756-a274b54eab86",
+      "marketplace_uuid": "22530c8e-4ba5-46ca-b756-a274b54eab86",
+      "existing_ids": [],
+      "type": "content_pack",
+      "categories": [
+        "Creatures and Companions",
+        "Magic and Progression",
+        "Worlds and Exploration"
+      ],
+      "identity_sources": [
+        "https://www.minecraft.net/en-us/marketplace/pdp?id=22530c8e-4ba5-46ca-b756-a274b54eab86"
+      ],
+      "method": "Exact title, creator and Add-On type read on the official live Marketplace page. Same-name world products are not used as substitutes.",
+      "reason": "Bedrock distinct Enderman forms and abilities, End encounter structures and transformation reference; kept separate from the older Enderman Morph world."
+    }
+  ]
+}

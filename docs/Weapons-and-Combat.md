@@ -6,10 +6,10 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**606 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**607 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
-<summary><strong>Content Pack · 88</strong></summary>
+<summary><strong>Content Pack · 89</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -74,6 +74,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Legends: Power Rangers](https://curseforge.com/minecraft/mc-mods/legends-power-rangers) | TEST/INSTALL 1.20.1 / LEGENDS CORE REQUIRED / SERVER-MATCHED / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d349cda5d606b37d) |
 | ★ [Liminal Dimension Add-On](https://minecraft.net/fr-fr/marketplace/pdp/cloud-corp/liminal-dimension-add--on-v1.1/8a4ef929-2ffa-4dea-8a06-fdd3b2743b4f) | Bedrock procedural furniture-dimension, trap and encounter design reference; title version remains a listing observation. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=29461c1d07606c0e) |
 | ★ [MECHS Add-On](https://minecraft.net/en-us/marketplace/pdp/aypierre/mechs-add--on/ce8f5b87-4b54-4962-b2dd-dd13aae22e20) | Bedrock titanium-to-mech crafting, role differentiation and transformation/combat reference; no Java conversion or native certification implied. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0692d1dfa39bb27e) |
+| ★ [Mob Companions Add-On](https://minecraft.net/en-us/marketplace/pdp?id=44419736-4522-401a-8977-b8e80721621c) | Bedrock armor-linked companion progression, command staff and dungeon encounter reference; creator article provides detailed design context. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=be860821012a0376) |
 | [Point Blank 1900's Guns Content Pack!](https://curseforge.com/minecraft/mc-addons/a-1900s-guns-point-blank-content-pack) | A dedicated early-20th-century firearm pack that fills a historical niche in the VPB ecosystem and received a final compatibility update before discontinuation. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=924f5aed1b8f3972) |
 | [Point Blank Official Extension \|\| Doom Pack](https://curseforge.com/minecraft/customization/point-blank-official-extension-doom-pack) | Official Doom weapons pack with iconic special-effect weapons; also serves as a pack-authoring example. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7a1f7364db2ddf82) |
 | [Point Blank Official Extension \|\| Half Life Pack](https://curseforge.com/minecraft/customization/point-blank-official-extension-half-life-pack) | Official Half-Life themed weapons including crossbow, pulse rifle and crowbar. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=1e3bf033fcdfbbac) |

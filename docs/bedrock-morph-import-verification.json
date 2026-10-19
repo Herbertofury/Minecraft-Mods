@@ -1,0 +1,29 @@
+{
+  "scope": "Primary project identity only; source records and verification levels preserved",
+  "entries": 2222,
+  "source_records": 2560,
+  "favorites": 391,
+  "resolved_rows": 3,
+  "new_entries": 3,
+  "pending_starred_rows": 33,
+  "applied": [
+    {
+      "row": 252,
+      "id": "bb81df95362b12db",
+      "name": "SCP: Uncaged Add-On",
+      "new": true
+    },
+    {
+      "row": 253,
+      "id": "be860821012a0376",
+      "name": "Mob Companions Add-On",
+      "new": true
+    },
+    {
+      "row": 254,
+      "id": "63364e97a668e0f3",
+      "name": "Enderman Morph Add-On",
+      "new": true
+    }
+  ]
+}

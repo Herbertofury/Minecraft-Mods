@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**293 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**295 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Compatibility Target · 8</strong></summary>
@@ -23,12 +23,14 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Content Pack · 4</strong></summary>
+<summary><strong>Content Pack · 6</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
+| ★ [Enderman Morph Add-On](https://minecraft.net/en-us/marketplace/pdp?id=22530c8e-4ba5-46ca-b756-a274b54eab86) | Bedrock distinct Enderman forms and abilities, End encounter structures and transformation reference; kept separate from the older Enderman Morph world. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=63364e97a668e0f3) |
 | [Legends: Revenant's Miscellaneous](https://curseforge.com/minecraft/mc-mods/legends-revenants-miscellaneous) | OPTIONAL/TEST 1.20.1 / LEGENDS CORE REQUIRED / SERVER-MATCHED / BACKUP WORLD | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=37600cd20455f57b) |
 | ★ [Liminal Dimension Add-On](https://minecraft.net/fr-fr/marketplace/pdp/cloud-corp/liminal-dimension-add--on-v1.1/8a4ef929-2ffa-4dea-8a06-fdd3b2743b4f) | Bedrock procedural furniture-dimension, trap and encounter design reference; title version remains a listing observation. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=29461c1d07606c0e) |
+| ★ [SCP: Uncaged Add-On](https://minecraft.net/en-us/marketplace/pdp/cloud-corp/scp%3a-uncaged-add-on/af77b37a-dcd6-4a98-b3da-efb7f1764ab5) | Bedrock containment objectives, facilities and encounter/tool presentation reference; exact product identity only. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=bb81df95362b12db) |
 | ★ [Soul Craft Add-On](https://minecraft.net/es-es/marketplace/pdp/snail-studios/soul-craft-add--on/242aa206-079c-4650-90ef-e8e50013e9aa) | Bedrock soul-powered progression, fantasy equipment and encounter reference; historical version claims remain source observations. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d4979d54e8322b69) |
 | ★ [The Hollow Dimension](https://minecraft.net/fr-ca/marketplace/pdp/radium-studio/the-hollow-dimension/e9e19e4d-417a-4375-a007-590948adddbb) | Bedrock otherworld survival, return-home progression and encounter presentation reference; no available Java conversion is implied. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c9f798d72d53d141) |
 

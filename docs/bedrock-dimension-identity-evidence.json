@@ -1,58 +1,61 @@
 {
   "checked_utc": "2026-10-19",
-  "scope": "Primary identities only; no native release or compatibility promotion",
+  "scope": "Primary identities and research purposes only; no native certification",
   "matches": [
     {
-      "row": 249,
-      "name": "Silly Vehicles Add-On",
-      "url": "https://www.minecraft.net/en-us/marketplace/pdp?id=0bdc9c91-d2d2-4a41-9d29-03f9c0e6e8f2",
-      "marketplace_uuid": "0bdc9c91-d2d2-4a41-9d29-03f9c0e6e8f2",
+      "row": 252,
+      "name": "SCP: Uncaged Add-On",
+      "url": "https://www.minecraft.net/en-us/marketplace/pdp/cloud-corp/scp%3A-uncaged-add-on/af77b37a-dcd6-4a98-b3da-efb7f1764ab5",
+      "marketplace_uuid": "af77b37a-dcd6-4a98-b3da-efb7f1764ab5",
       "existing_ids": [],
       "type": "content_pack",
       "categories": [
-        "Engineering and Vehicles"
-      ],
-      "identity_sources": [
-        "https://www.minecraft.net/en-us/marketplace/pdp?id=0bdc9c91-d2d2-4a41-9d29-03f9c0e6e8f2"
-      ],
-      "method": "Live official Marketplace title and creator verified after client-side page loading; Ghost Pets additionally linked by official Minecraft editorial article.",
-      "reason": "Bedrock playful cars, boats and planes with distinct silhouettes and abilities; a visual/traversal reference, not an available Java conversion."
-    },
-    {
-      "row": 250,
-      "name": "Capybara Add-On (Dodo Studios)",
-      "url": "https://www.minecraft.net/pt-br/marketplace/pdp/dodo-studios/capybara-add--on/aa39b42e-46f0-4de1-88a7-5d269091b0dc",
-      "marketplace_uuid": "aa39b42e-46f0-4de1-88a7-5d269091b0dc",
-      "existing_ids": [],
-      "type": "content_pack",
-      "categories": [
+        "Worlds and Exploration",
         "Creatures and Companions",
-        "Magic and Progression"
+        "Building and Decoration"
       ],
       "identity_sources": [
-        "https://www.minecraft.net/pt-br/marketplace/pdp/dodo-studios/capybara-add--on/aa39b42e-46f0-4de1-88a7-5d269091b0dc"
+        "https://www.minecraft.net/en-us/marketplace/pdp/cloud-corp/scp%3A-uncaged-add-on/af77b37a-dcd6-4a98-b3da-efb7f1764ab5"
       ],
-      "method": "Live official Marketplace title and creator verified after client-side page loading; Ghost Pets additionally linked by official Minecraft editorial article.",
-      "reason": "Bedrock capybara leveling and companion abilities; exact Dodo Studios identity, kept separate from other Capybara add-ons."
+      "method": "Exact title, creator and Add-On type read on the official live Marketplace page. Same-name world products are not used as substitutes.",
+      "reason": "Bedrock containment objectives, facilities and encounter/tool presentation reference; exact product identity only."
     },
     {
-      "row": 251,
-      "name": "Ghost Pets Add-On",
-      "url": "https://www.minecraft.net/en-us/marketplace/pdp?id=500dbac8-209a-4a55-9643-829fd6f8989f",
-      "marketplace_uuid": "500dbac8-209a-4a55-9643-829fd6f8989f",
+      "row": 253,
+      "name": "Mob Companions Add-On",
+      "url": "https://www.minecraft.net/en-us/marketplace/pdp?id=44419736-4522-401a-8977-b8e80721621c",
+      "marketplace_uuid": "44419736-4522-401a-8977-b8e80721621c",
       "existing_ids": [],
       "type": "content_pack",
       "categories": [
         "Creatures and Companions",
         "Magic and Progression",
-        "Visuals and Resource Packs"
+        "Weapons and Combat"
       ],
       "identity_sources": [
-        "https://www.minecraft.net/pt-br/article/beyond-the-pale-garden",
-        "https://www.minecraft.net/en-us/marketplace/pdp?id=500dbac8-209a-4a55-9643-829fd6f8989f"
+        "https://pixelbiester.net/project/mob-companions",
+        "https://www.minecraft.net/en-us/marketplace/pdp?id=44419736-4522-401a-8977-b8e80721621c"
       ],
-      "method": "Live official Marketplace title and creator verified after client-side page loading; Ghost Pets additionally linked by official Minecraft editorial article.",
-      "reason": "Bedrock customizable glowing pets, wand summoning and companion-menu reference; display title 2.1 is not an independently tested build."
+      "method": "Exact title, creator and Add-On type read on the official live Marketplace page. Same-name world products are not used as substitutes.",
+      "reason": "Bedrock armor-linked companion progression, command staff and dungeon encounter reference; creator article provides detailed design context."
+    },
+    {
+      "row": 254,
+      "name": "Enderman Morph Add-On",
+      "url": "https://www.minecraft.net/en-us/marketplace/pdp?id=22530c8e-4ba5-46ca-b756-a274b54eab86",
+      "marketplace_uuid": "22530c8e-4ba5-46ca-b756-a274b54eab86",
+      "existing_ids": [],
+      "type": "content_pack",
+      "categories": [
+        "Creatures and Companions",
+        "Magic and Progression",
+        "Worlds and Exploration"
+      ],
+      "identity_sources": [
+        "https://www.minecraft.net/en-us/marketplace/pdp?id=22530c8e-4ba5-46ca-b756-a274b54eab86"
+      ],
+      "method": "Exact title, creator and Add-On type read on the official live Marketplace page. Same-name world products are not used as substitutes.",
+      "reason": "Bedrock distinct Enderman forms and abilities, End encounter structures and transformation reference; kept separate from the older Enderman Morph world."
     }
   ]
 }
