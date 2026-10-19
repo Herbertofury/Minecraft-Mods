@@ -1,0 +1,57 @@
+{
+  "checked_utc": "2026-10-19",
+  "scope": "Primary Marketplace product identity only",
+  "matches": [
+    {
+      "row": 258,
+      "name": "Ore Beetles Add-On",
+      "url": "https://www.minecraft.net/en-us/marketplace/pdp/scai-quest/ore-beetles-add--on/7298f3c1-ef98-4195-b95c-a5fec6438f7e",
+      "marketplace_uuid": "7298f3c1-ef98-4195-b95c-a5fec6438f7e",
+      "existing_ids": [],
+      "type": "content_pack",
+      "categories": [
+        "Creatures and Companions",
+        "Farming and Survival"
+      ],
+      "identity_sources": [
+        "https://www.minecraft.net/en-us/marketplace/pdp/scai-quest/ore-beetles-add--on/7298f3c1-ef98-4195-b95c-a5fec6438f7e"
+      ],
+      "method": "Exact add-on name and creator verified on loaded official Minecraft Marketplace product page on 2026-10-19; no native runtime tests.",
+      "reason": "Bedrock living-resource loop reference: ore-bearing beetles and portable jars; creator claims require gameplay study."
+    },
+    {
+      "row": 259,
+      "name": "Backpacks 2.0.2",
+      "url": "https://www.minecraft.net/en-us/marketplace/pdp/scai-quest/backpacks-2.0.2/96d44e78-c0c9-4214-afe0-e5b4a77767cb",
+      "marketplace_uuid": "96d44e78-c0c9-4214-afe0-e5b4a77767cb",
+      "existing_ids": [],
+      "type": "content_pack",
+      "categories": [
+        "Storage and Logistics",
+        "Building and Decoration"
+      ],
+      "identity_sources": [
+        "https://www.minecraft.net/en-us/marketplace/pdp/scai-quest/backpacks-2.0.2/96d44e78-c0c9-4214-afe0-e5b4a77767cb"
+      ],
+      "method": "Exact add-on name and creator verified on loaded official Minecraft Marketplace product page on 2026-10-19; no native runtime tests.",
+      "reason": "Scai Quest Bedrock backpack customization, locator and offhand presentation reference; distinct from similarly named Java mods."
+    },
+    {
+      "row": 260,
+      "name": "Mini Soldiers Add-On",
+      "url": "https://www.minecraft.net/en-us/marketplace/pdp/team-vaeron/mini-soldiers-add-on/bbb9a93b-5aef-4614-b791-302fa11534af",
+      "marketplace_uuid": "bbb9a93b-5aef-4614-b791-302fa11534af",
+      "existing_ids": [],
+      "type": "content_pack",
+      "categories": [
+        "Creatures and Companions",
+        "Weapons and Combat"
+      ],
+      "identity_sources": [
+        "https://www.minecraft.net/en-us/marketplace/pdp/team-vaeron/mini-soldiers-add-on/bbb9a93b-5aef-4614-b791-302fa11534af"
+      ],
+      "method": "Exact add-on name and creator verified on loaded official Minecraft Marketplace product page on 2026-10-19; no native runtime tests.",
+      "reason": "Team Vaeron Bedrock tiny-crew customization and tactical battle reference; distinct from Mini Soldiers Arena world."
+    }
+  ]
+}

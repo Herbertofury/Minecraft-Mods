@@ -4,10 +4,10 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**592 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**594 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
-<summary><strong>Content Pack · 13</strong></summary>
+<summary><strong>Content Pack · 15</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -16,7 +16,9 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | ★ [Ghost Pets Add-On](https://minecraft.net/en-us/marketplace/pdp?id=500dbac8-209a-4a55-9643-829fd6f8989f) | Bedrock customizable glowing pets, wand summoning and companion-menu reference; display title 2.1 is not an independently tested build. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=041dc72e40dc25ea) |
 | ★ [How to Train Your Dragon Add-On](https://minecraft.net/en-us/marketplace/pdp?id=10b469b6-f196-428c-b98e-c572cc55e83e) | Bedrock rideable dragon bonding and abilities reference; no Java compatibility or conversion claim. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c23b39cfaad7f770) |
 | ★ [Liminal Dimension Add-On](https://minecraft.net/fr-fr/marketplace/pdp/cloud-corp/liminal-dimension-add--on-v1.1/8a4ef929-2ffa-4dea-8a06-fdd3b2743b4f) | Bedrock procedural furniture-dimension, trap and encounter design reference; title version remains a listing observation. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=29461c1d07606c0e) |
+| ★ [Mini Soldiers Add-On](https://minecraft.net/en-us/marketplace/pdp/team-vaeron/mini-soldiers-add-on/bbb9a93b-5aef-4614-b791-302fa11534af) | Team Vaeron Bedrock tiny-crew customization and tactical battle reference; distinct from Mini Soldiers Arena world. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=bb82eeaeba65e62b) |
 | ★ [Mob Companions Add-On](https://minecraft.net/en-us/marketplace/pdp?id=44419736-4522-401a-8977-b8e80721621c) | Bedrock armor-linked companion progression, command staff and dungeon encounter reference; creator article provides detailed design context. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=be860821012a0376) |
+| ★ [Ore Beetles Add-On](https://minecraft.net/en-us/marketplace/pdp/scai-quest/ore-beetles-add--on/7298f3c1-ef98-4195-b95c-a5fec6438f7e) | Bedrock living-resource loop reference: ore-bearing beetles and portable jars; creator claims require gameplay study. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=16afee55b2e6ac5e) |
 | ★ [SCP: Uncaged Add-On](https://minecraft.net/en-us/marketplace/pdp/cloud-corp/scp%3a-uncaged-add-on/af77b37a-dcd6-4a98-b3da-efb7f1764ab5) | Bedrock containment objectives, facilities and encounter/tool presentation reference; exact product identity only. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=bb81df95362b12db) |
 | ★ [Slice of Life Add-On](https://minecraft.net/en-us/marketplace/pdp/starfish-studios/slice-of-life-add--on/b34587c5-e453-4fad-b2d5-95629f2ce0af) | Bedrock cozy building and companion reference; source conversion ambitions do not establish a Java release. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=e3f5e0884272a4c6) |
 | ★ [Soul Craft Add-On](https://minecraft.net/es-es/marketplace/pdp/snail-studios/soul-craft-add--on/242aa206-079c-4650-90ef-e8e50013e9aa) | Bedrock soul-powered progression, fantasy equipment and encounter reference; historical version claims remain source observations. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d4979d54e8322b69) |

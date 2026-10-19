@@ -8,18 +8,18 @@ A content-organized home for mod discovery, comparison, compatibility notes and 
 
 ## Browse by what you want to do
 
-- **[Building and Decoration](Building-and-Decoration)** — 93 project/feature/target entries; overlapping categories.
-- **[Creatures and Companions](Creatures-and-Companions)** — 592 project/feature/target entries; overlapping categories.
+- **[Building and Decoration](Building-and-Decoration)** — 94 project/feature/target entries; overlapping categories.
+- **[Creatures and Companions](Creatures-and-Companions)** — 594 project/feature/target entries; overlapping categories.
 - **[Engineering and Vehicles](Engineering-and-Vehicles)** — 302 project/feature/target entries; overlapping categories.
-- **[Farming and Survival](Farming-and-Survival)** — 111 project/feature/target entries; overlapping categories.
+- **[Farming and Survival](Farming-and-Survival)** — 112 project/feature/target entries; overlapping categories.
 - **[Interface and Accessibility](Interface-and-Accessibility)** — 209 project/feature/target entries; overlapping categories.
 - **[Magic and Progression](Magic-and-Progression)** — 245 project/feature/target entries; overlapping categories.
 - **[Multiplayer and Servers](Multiplayer-and-Servers)** — 85 project/feature/target entries; overlapping categories.
 - **[Performance and Stability](Performance-and-Stability)** — 178 project/feature/target entries; overlapping categories.
-- **[Storage and Logistics](Storage-and-Logistics)** — 214 project/feature/target entries; overlapping categories.
+- **[Storage and Logistics](Storage-and-Logistics)** — 215 project/feature/target entries; overlapping categories.
 - **[Tools and Development](Tools-and-Development)** — 215 project/feature/target entries; overlapping categories.
 - **[Visuals and Resource Packs](Visuals-and-Resource-Packs)** — 296 project/feature/target entries; overlapping categories.
-- **[Weapons and Combat](Weapons-and-Combat)** — 608 project/feature/target entries; overlapping categories.
+- **[Weapons and Combat](Weapons-and-Combat)** — 609 project/feature/target entries; overlapping categories.
 - **[Worlds and Exploration](Worlds-and-Exploration)** — 296 project/feature/target entries; overlapping categories.
 
 ## Favorite deep dives
@@ -36,11 +36,11 @@ These three are explicitly marked favorites in the imported catalogue. The owner
 
 ## Current import coverage
 
-**2,225 research entries · 2,563 attached source observations · 394 catalogued favorites.** 338 repeated source observations are consolidated without dropping their notes. Entries include mods, resource packs, tools, targets and discovery routes; these are not counts of tested compatible mods.
+**2,228 research entries · 2,566 attached source observations · 397 catalogued favorites.** 338 repeated source observations are consolidated without dropping their notes. Entries include mods, resource packs, tools, targets and discovery routes; these are not counts of tested compatible mods.
 
 The broad recommendations, gun research, creature variety, storage/sorting and starred/conversion collections are being brought together. Remaining HTML, document collections and unique source tabs still need reconciliation. Source files remain intact. Imported source stars and version claims remain distinct from explicit Forever World targets, freshly checked releases and native gameplay tests.
 
-**30 starred/conversion source rows still need exact project identities.** Storage identity questions are tracked separately. [Unresolved starred rows](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/musthave-pending-identities.json) · [Unresolved storage rows](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/storage-import-pending-identities.json).
+**27 starred/conversion source rows still need exact project identities.** Storage identity questions are tracked separately. [Unresolved starred rows](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/musthave-pending-identities.json) · [Unresolved storage rows](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/storage-import-pending-identities.json).
 
 ### Import evidence and preservation checks
 
@@ -52,7 +52,7 @@ The broad recommendations, gun research, creature variety, storage/sorting and s
 
 Sixteen further source rows are connected to official creature, decoration, physics, animation and spell-integration projects. [Identity and preservation tests](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/remaining-identities-data-tests.json). The two joosh Clockwork source rows share one catalogue entry and remain distinct from unrelated Clockwork projects.
 
-The last six Java-oriented identity questions in this starred source collection are resolved. [Evidence](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/java-identities-data-tests.json). Remaining unresolved rows are 30 explicitly labeled Bedrock Marketplace research/conversion targets. This does not mean every separate source collection or release is verified.
+The last six Java-oriented identity questions in this starred source collection are resolved. [Evidence](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/java-identities-data-tests.json). Remaining unresolved rows are 27 explicitly labeled Bedrock Marketplace research/conversion targets. This does not mean every separate source collection or release is verified.
 
 [Three official Bedrock identities](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/bedrock-identities-data-tests.json) now connect Actions & Stuff, Slice of Life and Sulfur Blaster to their official Marketplace products. Actions & Stuff is correctly classified as a resource pack. Bedrock identity does not imply an available Java conversion.
 
@@ -69,5 +69,7 @@ Five further Bedrock branded/weapon references now have [official product identi
 [SCP: Uncaged, Mob Companions and Enderman Morph Add-On](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/bedrock-morph-data-tests.json) now have official identity checks. The Enderman add-on remains separate from the older world product.
 
 [Mob Weapons and Warp Lamps, plus the historical LUSH Bath Bombs reference](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/bedrock-tools-data-tests.json), now have primary identity evidence. LUSH’s current acquisition availability remains unresolved; its old free promotion is not a present-day promise.
+
+[Ore Beetles, Scai Quest Backpacks and Mini Soldiers](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/bedrock-utility-data-tests.json) now have exact official add-on identities. Similar Java projects and world products remain separate.
 
 Every pass preserves earlier source observations, favorites and explicit compatibility-target flags. Identity resolution does not certify a particular Minecraft build or native compatibility.

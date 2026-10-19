@@ -4,13 +4,14 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**93 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**94 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
-<summary><strong>Content Pack · 8</strong></summary>
+<summary><strong>Content Pack · 9</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
+| ★ [Backpacks 2.0.2](https://minecraft.net/en-us/marketplace/pdp/scai-quest/backpacks-2.0.2/96d44e78-c0c9-4214-afe0-e5b4a77767cb) | Scai Quest Bedrock backpack customization, locator and offhand presentation reference; distinct from similarly named Java mods. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=3dbb6fbba783ae75) |
 | ★ [Hello Kitty and Friends Furniture](https://minecraft.net/en-us/marketplace/pdp?id=9b344947-df7e-4688-b447-b7cb98e4ad43) | Bedrock furniture, functional storage and themed achievement reference. Historical promotional freebies are not treated as currently available. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=473ec0d1e2e8da89) |
 | ★ [Liminal Dimension Add-On](https://minecraft.net/fr-fr/marketplace/pdp/cloud-corp/liminal-dimension-add--on-v1.1/8a4ef929-2ffa-4dea-8a06-fdd3b2743b4f) | Bedrock procedural furniture-dimension, trap and encounter design reference; title version remains a listing observation. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=29461c1d07606c0e) |
 | ★ [SCP: Uncaged Add-On](https://minecraft.net/en-us/marketplace/pdp/cloud-corp/scp%3a-uncaged-add-on/af77b37a-dcd6-4a98-b3da-efb7f1764ab5) | Bedrock containment objectives, facilities and encounter/tool presentation reference; exact product identity only. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=bb81df95362b12db) |

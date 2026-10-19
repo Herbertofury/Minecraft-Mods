@@ -1,0 +1,29 @@
+{
+  "scope": "Primary project identity only; source records and verification levels preserved",
+  "entries": 2228,
+  "source_records": 2566,
+  "favorites": 397,
+  "resolved_rows": 3,
+  "new_entries": 3,
+  "pending_starred_rows": 27,
+  "applied": [
+    {
+      "row": 258,
+      "id": "16afee55b2e6ac5e",
+      "name": "Ore Beetles Add-On",
+      "new": true
+    },
+    {
+      "row": 259,
+      "id": "3dbb6fbba783ae75",
+      "name": "Backpacks 2.0.2",
+      "new": true
+    },
+    {
+      "row": 260,
+      "id": "bb82eeaeba65e62b",
+      "name": "Mini Soldiers Add-On",
+      "new": true
+    }
+  ]
+}

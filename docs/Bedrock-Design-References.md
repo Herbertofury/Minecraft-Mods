@@ -33,6 +33,9 @@ A focused reference shelf for presentation, movement, encounters, companions and
 | Mob identity expressed through weapon handling | [Mob Weapons Add-On — Logdotzip](https://logdotzipgames.com/mob-weapons-add-on/) | Study distinctive silhouettes, attack animations and upgrades. This add-on is separate from the older same-name world. |
 | Travel tools with readable per-location customization | [Warp Lamps — formerly Telelanterns](https://www.minecraft.net/de-de/marketplace/pdp/logdotzip/telelanterns-add--on/581ac520-536b-4d79-83d8-0d2c03262e8e) | Study quick-warp navigation, pet/item transport and per-lamp effects; test ownership, cross-dimension recovery and item conservation separately. |
 | Calm/buff items with memorable particles | [LUSH Bath Bombs — historical official article](https://www.minecraft.net/en-us/article/minecraft-x-lush) | Study gathering, crafting and temporary effect presentation. The 2024 free promotion is historical; the tested store route returned not found, so current acquisition is unresolved. |
+| A renewable resource loop with living creatures | [Ore Beetles Add-On](https://www.minecraft.net/en-us/marketplace/pdp/scai-quest/ore-beetles-add--on/7298f3c1-ef98-4195-b95c-a5fec6438f7e) | Study ore growth, capture/release feedback and conservation when moving a beetle; avoid duplication and uncontrolled resource acceleration. |
+| Storage that stays visible and individually identifiable | [Backpacks 2.0.2](https://www.minecraft.net/en-us/marketplace/pdp/scai-quest/backpacks-2.0.2/96d44e78-c0c9-4214-afe0-e5b4a77767cb) | Study dye variants, offhand/chest-equipment coexistence and locating a placed bag; test unique inventory identity across death, transfer and reconnect. |
+| Small crews with readable sides and progression | [Mini Soldiers Add-On](https://www.minecraft.net/en-us/marketplace/pdp/team-vaeron/mini-soldiers-add-on/bbb9a93b-5aef-4614-b791-302fa11534af) | Study tiny silhouettes, team colors, upgrades and support units; test command ownership and bounded AI/effect costs before adopting similar systems. |
 
 The table identifies useful study questions, not a claim that each product excels in every area. Exact mechanics and visual quality still need direct inspection. Marketplace world DLC, add-ons, resource packs and unrelated community mods remain separate identities.
 
@@ -59,6 +62,8 @@ These are design-study directions. Implementation must use original work or appr
 
 ## Evidence and remaining work
 
+[Ore Beetles, Backpacks and Mini Soldiers identity evidence](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/bedrock-utility-identity-evidence.json) · [Preservation checks](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/bedrock-utility-data-tests.json)
+
 [First three identities](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/bedrock-project-identity-evidence.json) · [Five branded identities](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/bedrock-brand-identity-evidence.json) · [Sonic, SpongeBob and Tetris](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/bedrock-gameplay-identity-evidence.json)
 
-The catalogue retains the original source rows, creator/version claims and favorites alongside checked identity evidence. Forty-two other starred Bedrock source rows remain unresolved at this review; other source collections have separate work. No native verification flags were promoted.
+The catalogue retains the original source rows, creator/version claims and favorites alongside checked identity evidence. 27 other starred Bedrock source rows remain unresolved at this review; other source collections have separate work. No native verification flags were promoted.

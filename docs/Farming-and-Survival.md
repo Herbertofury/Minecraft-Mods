@@ -4,15 +4,16 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**111 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**112 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
-<summary><strong>Content Pack · 2</strong></summary>
+<summary><strong>Content Pack · 3</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
 | [Armed And Ready - VPB/PBJ addon](https://curseforge.com/minecraft/customization/armed-and-ready-vpb-pbj-addon) | Over 100 weapons with a Tarkov-like modular attachment system, caliber families, melee/bayonet support and survival/PvP balancing. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d9dd84c291134d61) |
 | ★ [LUSH Bath Bombs Add-On](https://minecraft.net/en-us/article/minecraft-x-lush) | Historical Bedrock craftable effect-item and calming/buff presentation reference. The official 2024 promotion does not establish present acquisition availability; tested store rout | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b23dc4f7da5a7188) |
+| ★ [Ore Beetles Add-On](https://minecraft.net/en-us/marketplace/pdp/scai-quest/ore-beetles-add--on/7298f3c1-ef98-4195-b95c-a5fec6438f7e) | Bedrock living-resource loop reference: ore-bearing beetles and portable jars; creator claims require gameplay study. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=16afee55b2e6ac5e) |
 
 </details>
 
