@@ -1,0 +1,76 @@
+{
+  "checked_date": "2026-10-19",
+  "scope": "Project identity only; no exact-build or native compatibility promotion",
+  "pairs": [
+    {
+      "name": "Sophisticated Storage",
+      "modrinth": "https://modrinth.com/mod/sophisticated-storage",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage",
+      "shared_source_link": "https://github.com/P3pp3rF1y/SophisticatedStorage",
+      "note": "Both hosting pages link this source repository"
+    },
+    {
+      "name": "Storage Drawers",
+      "modrinth": "https://modrinth.com/mod/storagedrawers",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/storage-drawers",
+      "shared_source_link": "https://github.com/jaquadro/StorageDrawers",
+      "note": "Both hosting pages link this source repository"
+    },
+    {
+      "name": "Occultism",
+      "modrinth": "https://modrinth.com/mod/occultism",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/occultism",
+      "shared_source_link": "https://github.com/klikli-dev/occultism",
+      "note": "Both hosting pages link this source repository"
+    },
+    {
+      "name": "Tom's Simple Storage Mod",
+      "modrinth": "https://modrinth.com/mod/toms-storage",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/toms-storage",
+      "shared_source_link": "https://github.com/tom5454/Toms-Storage",
+      "note": "Both hosting pages link this source repository"
+    },
+    {
+      "name": "Ars Nouveau",
+      "modrinth": "https://modrinth.com/mod/ars-nouveau",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/ars-nouveau",
+      "shared_source_link": "https://github.com/baileyholl/Ars-Nouveau",
+      "note": "Both hosting pages link this source repository"
+    },
+    {
+      "name": "Create: Storage",
+      "modrinth": "https://modrinth.com/mod/create-storage-neo-forge",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/create-storage-neo-forge",
+      "shared_source_link": "https://github.com/ausmez/create-storage-neo-forge",
+      "note": "Both hosting pages link this source repository"
+    },
+    {
+      "name": "Inventory Profiles Next",
+      "modrinth": "https://modrinth.com/mod/inventory-profiles-next",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next",
+      "shared_source_link": "https://github.com/blackd/Inventory-Profiles",
+      "note": "Both hosting descriptions link this legacy source; current Codeberg targets were not readable in this check"
+    },
+    {
+      "name": "Shulker Box Tooltip",
+      "modrinth": "https://modrinth.com/mod/shulkerboxtooltip",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/shulkerboxtooltip",
+      "shared_source_link": "https://github.com/MisterPeModder/ShulkerBoxTooltip",
+      "note": "Both hosting pages link this source repository"
+    },
+    {
+      "name": "Inventory Essentials",
+      "modrinth": "https://modrinth.com/mod/inventory-essentials",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/inventory-essentials",
+      "shared_source_link": "https://github.com/TwelveIterations/InventoryEssentials",
+      "note": "Both hosting pages link this source repository"
+    },
+    {
+      "name": "Mouse Tweaks",
+      "modrinth": "https://modrinth.com/mod/mouse-tweaks",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks",
+      "shared_source_link": "https://github.com/YaLTeR/MouseTweaks",
+      "note": "Both hosting pages link this source repository"
+    }
+  ]
+}

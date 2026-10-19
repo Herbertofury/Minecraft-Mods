@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "master_rows_preserved": 156,
+  "imported_observations": 139,
+  "pending_identity_observations": 17,
+  "old_entries": 1829,
+  "new_total_entries": 1935,
+  "favorites_preserved": 42,
+  "old_source_observations_preserved": 2020,
+  "native_verification_promotions": 0
+}
