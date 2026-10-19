@@ -36,7 +36,7 @@ These three are explicitly marked favorites in the imported catalogue. The owner
 
 ## Current import coverage
 
-**2,254 research entries · 2,596 attached source observations · 411 catalogued favorites.** 342 repeated source observations are consolidated without dropping their notes. Entries include mods, resource packs, tools, targets and discovery routes; these are not counts of tested compatible mods.
+**2,254 research entries · 2,599 attached source observations · 411 catalogued favorites.** 345 repeated source observations are consolidated without dropping their notes. Entries include mods, resource packs, tools, targets and discovery routes; these are not counts of tested compatible mods.
 
 The broad recommendations, gun research, creature variety, storage/sorting and starred/conversion collections are being brought together. Remaining HTML, document collections and unique source tabs still need reconciliation. Source files remain intact. Imported source stars and version claims remain distinct from explicit Forever World targets, freshly checked releases and native gameplay tests.
 
