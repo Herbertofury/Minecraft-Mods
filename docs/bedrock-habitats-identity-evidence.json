@@ -1,0 +1,59 @@
+{
+  "checked_utc": "2026-10-19",
+  "scope": "Primary product identity only; no edition conversion or runtime proof",
+  "matches": [
+    {
+      "row": 264,
+      "name": "Eternal End 1.1 Add-On",
+      "url": "https://www.minecraft.net/en-us/marketplace/pdp?id=fa3d4ba2-fdfd-4b85-9a53-ebea89e2bdac",
+      "marketplace_uuid": "fa3d4ba2-fdfd-4b85-9a53-ebea89e2bdac",
+      "existing_ids": [],
+      "type": "content_pack",
+      "categories": [
+        "Worlds and Exploration",
+        "Creatures and Companions"
+      ],
+      "identity_sources": [
+        "https://www.minecraft.net/en-us/marketplace/pdp?id=fa3d4ba2-fdfd-4b85-9a53-ebea89e2bdac"
+      ],
+      "method": "Exact title, creator and Add-On category verified on loaded official Minecraft Marketplace page on 2026-10-19.",
+      "reason": "Panascais Bedrock End-biome, structure and encounter reference; existing-world application is a publisher claim requiring preservation tests."
+    },
+    {
+      "row": 265,
+      "name": "Mermaid Life Add-On",
+      "url": "https://www.minecraft.net/en-us/marketplace/pdp/noxcrew/mermaid-life-add--on/0b8134ca-c682-422b-9a17-1d4a8f91bb8c",
+      "marketplace_uuid": "0b8134ca-c682-422b-9a17-1d4a8f91bb8c",
+      "existing_ids": [],
+      "type": "content_pack",
+      "categories": [
+        "Worlds and Exploration",
+        "Creatures and Companions",
+        "Building and Decoration"
+      ],
+      "identity_sources": [
+        "https://www.minecraft.net/en-us/marketplace/pdp/noxcrew/mermaid-life-add--on/0b8134ca-c682-422b-9a17-1d4a8f91bb8c",
+        "https://noxcrew.com/creations/mermaid-life-addon"
+      ],
+      "method": "Exact title, creator and Add-On category verified on loaded official Minecraft Marketplace page on 2026-10-19.",
+      "reason": "Noxcrew Bedrock aquatic movement, companion and underwater encounter reference; distinct from older Mermaid Life world."
+    },
+    {
+      "row": 266,
+      "name": "Hamsters+ Add-On",
+      "url": "https://www.minecraft.net/fr-ca/marketplace/pdp/starfish-studios/hamsters%2B-add--on/f057adbd-0ada-474d-bb76-bed951284b63",
+      "marketplace_uuid": "f057adbd-0ada-474d-bb76-bed951284b63",
+      "existing_ids": [],
+      "type": "content_pack",
+      "categories": [
+        "Creatures and Companions",
+        "Building and Decoration"
+      ],
+      "identity_sources": [
+        "https://www.minecraft.net/fr-ca/marketplace/pdp/starfish-studios/hamsters%2B-add--on/f057adbd-0ada-474d-bb76-bed951284b63"
+      ],
+      "method": "Exact title, creator and Add-On category verified on loaded official Minecraft Marketplace page on 2026-10-19.",
+      "reason": "Starfish Studios Bedrock hamster interaction, toys and habitat reference; officially related to Hamsters Plus Java but a separate edition/artifact."
+    }
+  ]
+}

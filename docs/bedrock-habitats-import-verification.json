@@ -1,0 +1,29 @@
+{
+  "scope": "Primary project identity only; source records and verification levels preserved",
+  "entries": 2234,
+  "source_records": 2572,
+  "favorites": 403,
+  "resolved_rows": 3,
+  "new_entries": 3,
+  "pending_starred_rows": 21,
+  "applied": [
+    {
+      "row": 264,
+      "id": "f48bbaacbead0d1b",
+      "name": "Eternal End 1.1 Add-On",
+      "new": true
+    },
+    {
+      "row": 265,
+      "id": "36a29a523aa7ab8c",
+      "name": "Mermaid Life Add-On",
+      "new": true
+    },
+    {
+      "row": 266,
+      "id": "9bb22a2a7973487a",
+      "name": "Hamsters+ Add-On",
+      "new": true
+    }
+  ]
+}

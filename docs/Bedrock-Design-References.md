@@ -39,6 +39,9 @@ A focused reference shelf for presentation, movement, encounters, companions and
 | Layered underground environments with readable discoveries | [Eternal Caves 1.1 Add-On](https://www.minecraft.net/en-us/marketplace/pdp/panascais/eternal-caves-add--on/bb7d24f1-b9dd-4c0c-be41-8642459d10af) | Study distinct cave silhouettes, navigation and identification feedback; benchmark generation and entity density separately. |
 | Collectible character objects with useful editing controls | [Plushies 2.0.1](https://www.minecraft.net/en-us/marketplace/pdp/scai-quest/plushies-2.0.1/39600c3f-6b46-4ae4-862f-d5f1f85a12fe) | Study rotate, resize and move interactions, plus clear variant presentation; test placement ownership and saved customization. |
 | Collectable mounts with growth and themed equipment | [DragonFire Add-On](https://www.minecraft.net/en-us/marketplace/pdp/spectral-studios/dragonfire-add--on/bed8e487-5a1d-4cd7-8f11-319791930407) | Study egg/hatchling/adult progression, ride transitions and equipment identity; qualify spawn density, save/reload and multiplayer ownership. The full add-on is separate from Lite and world DLC. |
+| A dimension overhaul that respects existing worlds | [Eternal End 1.1 Add-On](https://www.minecraft.net/en-us/marketplace/pdp?id=fa3d4ba2-fdfd-4b85-9a53-ebea89e2bdac) | Study biome transitions, landmarks and soundscape; test existing structures and return routes before relying on the existing-world claim. |
+| Underwater movement, roleplay and encounters | [Mermaid Life Add-On](https://www.minecraft.net/en-us/marketplace/pdp/noxcrew/mermaid-life-add--on/0b8134ca-c682-422b-9a17-1d4a8f91bb8c) | Study tail transitions, mounted swimming and underwater combat; test equipment retention, oxygen rules, death and reconnect. This is the add-on, not the older world. |
+| Small companion habitats and interactive toys | [Hamsters+ Add-On](https://www.minecraft.net/fr-ca/marketplace/pdp/starfish-studios/hamsters%2B-add--on/f057adbd-0ada-474d-bb76-bed951284b63) | Study pet interaction and toy/state readability; keep Java and Bedrock builds separate even where the creator identifies a shared project lineage. |
 
 The table identifies useful study questions, not a claim that each product excels in every area. Exact mechanics and visual quality still need direct inspection. Marketplace world DLC, add-ons, resource packs and unrelated community mods remain separate identities.
 
@@ -65,10 +68,12 @@ These are design-study directions. Implementation must use original work or appr
 
 ## Evidence and remaining work
 
+[Eternal End, Mermaid Life and Hamsters identities](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/bedrock-habitats-identity-evidence.json) · [Preservation checks](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/bedrock-habitats-data-tests.json)
+
 [Eternal Caves, Plushies and DragonFire identities](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/bedrock-expedition-identity-evidence.json) · [Preservation checks](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/bedrock-expedition-data-tests.json)
 
 [Ore Beetles, Backpacks and Mini Soldiers identity evidence](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/bedrock-utility-identity-evidence.json) · [Preservation checks](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/bedrock-utility-data-tests.json)
 
 [First three identities](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/bedrock-project-identity-evidence.json) · [Five branded identities](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/bedrock-brand-identity-evidence.json) · [Sonic, SpongeBob and Tetris](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/bedrock-gameplay-identity-evidence.json)
 
-The catalogue retains the original source rows, creator/version claims and favorites alongside checked identity evidence. 24 other starred Bedrock source rows remain unresolved at this review; other source collections have separate work. No native verification flags were promoted.
+The catalogue retains the original source rows, creator/version claims and favorites alongside checked identity evidence. 21 other starred Bedrock source rows remain unresolved at this review; other source collections have separate work. No native verification flags were promoted.

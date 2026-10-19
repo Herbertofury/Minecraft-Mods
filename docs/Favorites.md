@@ -26,12 +26,12 @@ The original Physics Mod, Punchy! and Grassier Grass favorites remain. Version-s
 
 ## Starred collection, organized by purpose
 
-The current catalogue has **400 catalogued favorites**. All earlier favorites are preserved. Source stars remain preferences, not runtime certification or automatic Forever World targets.
+The current catalogue has **403 catalogued favorites**. All earlier favorites are preserved. Source stars remain preferences, not runtime certification or automatic Forever World targets.
 
 | Purpose | Starred entries | Browse |
 |---|---:|---|
-| Building and Decoration | 52 | [Open favorites](https://herbertofury.github.io/Minecraft-Mods/?favorites=1&category=Building+and+Decoration) |
-| Creatures and Companions | 82 | [Open favorites](https://herbertofury.github.io/Minecraft-Mods/?favorites=1&category=Creatures+and+Companions) |
+| Building and Decoration | 54 | [Open favorites](https://herbertofury.github.io/Minecraft-Mods/?favorites=1&category=Building+and+Decoration) |
+| Creatures and Companions | 85 | [Open favorites](https://herbertofury.github.io/Minecraft-Mods/?favorites=1&category=Creatures+and+Companions) |
 | Engineering and Vehicles | 48 | [Open favorites](https://herbertofury.github.io/Minecraft-Mods/?favorites=1&category=Engineering+and+Vehicles) |
 | Farming and Survival | 54 | [Open favorites](https://herbertofury.github.io/Minecraft-Mods/?favorites=1&category=Farming+and+Survival) |
 | Interface and Accessibility | 53 | [Open favorites](https://herbertofury.github.io/Minecraft-Mods/?favorites=1&category=Interface+and+Accessibility) |
@@ -42,6 +42,6 @@ The current catalogue has **400 catalogued favorites**. All earlier favorites ar
 | Tools and Development | 32 | [Open favorites](https://herbertofury.github.io/Minecraft-Mods/?favorites=1&category=Tools+and+Development) |
 | Visuals and Resource Packs | 46 | [Open favorites](https://herbertofury.github.io/Minecraft-Mods/?favorites=1&category=Visuals+and+Resource+Packs) |
 | Weapons and Combat | 73 | [Open favorites](https://herbertofury.github.io/Minecraft-Mods/?favorites=1&category=Weapons+and+Combat) |
-| Worlds and Exploration | 113 | [Open favorites](https://herbertofury.github.io/Minecraft-Mods/?favorites=1&category=Worlds+and+Exploration) |
+| Worlds and Exploration | 115 | [Open favorites](https://herbertofury.github.io/Minecraft-Mods/?favorites=1&category=Worlds+and+Exploration) |
 
-Counts overlap across categories. [Initial import](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/musthave-import-receipt.json) · [Six direct identities](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/musthave-identity-resolution.json) · [Nineteen Let’s Do matches](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/creator-family-import-verification.json) · [Eighteen Relics/Octo matches](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/relics-family-import-verification.json) · [Thirty-four more creator-family matches](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/multifamily-import-verification.json) · [Sixteen further primary identities](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/remaining-identities-data-tests.json) · [Final six Java identities](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/java-identities-data-tests.json) · [24 unresolved Bedrock source rows](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/musthave-pending-identities.json). Legacy and compatibility branches remain distinct.
+Counts overlap across categories. [Initial import](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/musthave-import-receipt.json) · [Six direct identities](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/musthave-identity-resolution.json) · [Nineteen Let’s Do matches](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/creator-family-import-verification.json) · [Eighteen Relics/Octo matches](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/relics-family-import-verification.json) · [Thirty-four more creator-family matches](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/multifamily-import-verification.json) · [Sixteen further primary identities](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/remaining-identities-data-tests.json) · [Final six Java identities](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/java-identities-data-tests.json) · [21 unresolved Bedrock source rows](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/musthave-pending-identities.json). Legacy and compatibility branches remain distinct.
