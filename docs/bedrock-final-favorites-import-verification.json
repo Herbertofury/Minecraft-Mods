@@ -1,0 +1,59 @@
+{
+  "scope": "Primary project identity only; source records and verification levels preserved",
+  "entries": 2246,
+  "source_records": 2584,
+  "favorites": 411,
+  "resolved_rows": 8,
+  "new_entries": 8,
+  "pending_starred_rows": 9,
+  "applied": [
+    {
+      "row": 267,
+      "id": "d00bf0754a0104f0",
+      "name": "Tiny Takeover: Mini Mania",
+      "new": true
+    },
+    {
+      "row": 268,
+      "id": "6977da1c47cbe9d4",
+      "name": "Owls Add-On",
+      "new": true
+    },
+    {
+      "row": 269,
+      "id": "ee5ef5eafa1802e3",
+      "name": "Abyss Dimension",
+      "new": true
+    },
+    {
+      "row": 270,
+      "id": "516c12589f9cba27",
+      "name": "AdventureCraft 1.2 Add-On",
+      "new": true
+    },
+    {
+      "row": 271,
+      "id": "ceeaff71c978adf5",
+      "name": "CRAFTYMON Add-On",
+      "new": true
+    },
+    {
+      "row": 280,
+      "id": "168564ebcaa9973f",
+      "name": "Biome Pets 1.4 Add-On",
+      "new": true
+    },
+    {
+      "row": 281,
+      "id": "a57e86e00319f2f0",
+      "name": "Planes Pro 2.0 Add-On",
+      "new": true
+    },
+    {
+      "row": 283,
+      "id": "f13d900bbe373af7",
+      "name": "Monster Food Add-On",
+      "new": true
+    }
+  ]
+}

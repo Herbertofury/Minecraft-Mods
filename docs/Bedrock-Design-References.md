@@ -46,6 +46,14 @@ A focused reference shelf for presentation, movement, encounters, companions and
 | Weapon roles and abilities with creator documentation | [BLASTERS Add-On (Pixelusion)](https://www.minecraft.net/en-us/marketplace/pdp/pixelusion/blasters-add--on/c051b523-88e7-4e0c-a6a5-ac120c456d3e) | Use the official Pixelusion wiki to compare weapon-role descriptions, recipes and effect choices, then validate any proposed adaptation independently. |
 | Customizable weapon-family presentation | [Advanced Blasters Add-On](https://www.minecraft.net/en-us/marketplace/pdp/wonder/advanced-blasters-add--on/cb09e0e2-5ce1-4875-9122-17ffcf2164b8) | Study how upgrades remain recognizable across a large family. Publisher quantity claims do not establish quality, compatibility or performance. |
 | Readable laser-weapon feedback | [Laser Blasters Add-On](https://www.minecraft.net/en-us/marketplace/pdp/horizonblocks/laser-blasters-add--on/3b0affd8-2d66-432f-bf28-3f39411fb63e) | Study beam/tracer readability and target feedback separately from gameplay logic; preserve source licenses and distinguish this pack from other Blasters products. |
+| Cooperative challenges feeding a collection journal | [Tiny Takeover: Mini Mania](https://www.minecraft.net/en-us/marketplace/pdp/jwolf-creations/tiny-takeover:-mini-mania/cdf6c886-a6c6-4167-9d35-2c26c8840d92) | Study short repeatable events and reward clarity; keep the Bedrock minigame distinct from Java Tiny Takeover Backport. |
+| Equipment-driven companion roles | [Owls Add-On](https://www.minecraft.net/en-us/marketplace/pdp/noxcrew/owls-add--on/4c7436ae-412a-489f-a71e-86ae0eb3661b) | Study readable tool/equipment role changes and safe flying transitions. |
+| Dark-realm discovery through a special tool | [Abyss Dimension](https://www.minecraft.net/en-us/marketplace/pdp?id=54fa35de-b3a4-4553-87c1-9a3bc7d4a860) | Study lantern-revealed encounters and return routes without making darkness unreadable. |
+| Connected exploration, spells and equipment | [AdventureCraft 1.2 Add-On](https://www.minecraft.net/en-us/marketplace/pdp?id=da11d052-dfa7-46e0-b212-3ddd6db42bfd) | Study how structures, NPCs and equipment support a coherent progression loop. |
+| Collectible teams with evolution and role matchups | [CRAFTYMON Add-On](https://www.minecraft.net/es-mx/marketplace/pdp/starfish-studios/craftymon-1.1-add--on/6f8dd993-295b-4697-a309-1ff33b611b6d) | Study collection readability, elemental roles and clear evolution choices; test save ownership separately. |
+| Biome discovery and evolving pets | [Biome Pets 1.4 Add-On](https://www.minecraft.net/en-us/marketplace/pdp?id=7194f8ba-5436-4714-aea3-fba62bbb2714) | Live official display is 1.4 while the source row says 1.3; preserve both and avoid inferring an installed version. |
+| Customizable stunt-friendly flight | [Planes Pro 2.0 Add-On](https://www.minecraft.net/en-us/marketplace/pdp?id=3a8a8c98-85eb-4d86-8310-c61d839bd53c) | Study stunts, passenger/cargo ownership and configuration; test dismounts, collisions and recovery separately. |
+| Monster drops feeding cooking and effects | [Monster Food Add-On](https://www.minecraft.net/en-us/marketplace/pdp?id=c3f19cc3-ef8e-4e9f-bf47-a7c1a2a3ada6) | Study ingredient conservation, readable cooking outcomes and optional decorative plating; original item/resource semantics remain authoritative. |
 
 The table identifies useful study questions, not a claim that each product excels in every area. Exact mechanics and visual quality still need direct inspection. Marketplace world DLC, add-ons, resource packs and unrelated community mods remain separate identities.
 
@@ -72,6 +80,8 @@ These are design-study directions. Implementation must use original work or appr
 
 ## Evidence and remaining work
 
+[Final eight starred identities in this source collection](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/bedrock-final-favorites-identity-evidence.json) · [Preservation checks](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/bedrock-final-favorites-data-tests.json). Other source collections still need reconciliation.
+
 [Four distinct blaster identities](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/bedrock-blaster-identity-evidence.json) · [Preservation checks](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/bedrock-blaster-data-tests.json). These four source rows were not starred; importing them does not add favorites.
 
 [Eternal End, Mermaid Life and Hamsters identities](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/bedrock-habitats-identity-evidence.json) · [Preservation checks](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/bedrock-habitats-data-tests.json)
@@ -82,4 +92,4 @@ These are design-study directions. Implementation must use original work or appr
 
 [First three identities](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/bedrock-project-identity-evidence.json) · [Five branded identities](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/bedrock-brand-identity-evidence.json) · [Sonic, SpongeBob and Tetris](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/bedrock-gameplay-identity-evidence.json)
 
-The catalogue retains the original source rows, creator/version claims and favorites alongside checked identity evidence. 17 other Bedrock source-collection rows remain unresolved at this review; other source collections have separate work. No native verification flags were promoted.
+The catalogue retains the original source rows, creator/version claims and favorites alongside checked identity evidence. 9 unstarred Bedrock source-collection rows remain unresolved at this review; other source collections have separate work. No native verification flags were promoted.

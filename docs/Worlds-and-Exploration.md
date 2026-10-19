@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**299 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**301 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Compatibility Target · 8</strong></summary>
@@ -23,10 +23,12 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Content Pack · 10</strong></summary>
+<summary><strong>Content Pack · 12</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
+| ★ [Abyss Dimension](https://minecraft.net/en-us/marketplace/pdp?id=54fa35de-b3a4-4553-87c1-9a3bc7d4a860) | Cyclone Bedrock realm discovery and lantern-revealed structures reference; distinct from Java Abyss projects. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=ee5ef5eafa1802e3) |
+| ★ [AdventureCraft 1.2 Add-On](https://minecraft.net/en-us/marketplace/pdp?id=da11d052-dfa7-46e0-b212-3ddd6db42bfd) | Octovon Bedrock connected exploration, equipment and spell progression reference; exact title does not establish Java availability. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=516c12589f9cba27) |
 | ★ [Enderman Morph Add-On](https://minecraft.net/en-us/marketplace/pdp?id=22530c8e-4ba5-46ca-b756-a274b54eab86) | Bedrock distinct Enderman forms and abilities, End encounter structures and transformation reference; kept separate from the older Enderman Morph world. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=63364e97a668e0f3) |
 | ★ [Eternal Caves 1.1 Add-On](https://minecraft.net/en-us/marketplace/pdp/panascais/eternal-caves-add--on/bb7d24f1-b9dd-4c0c-be41-8642459d10af) | Panascais Bedrock underground exploration, environment readability and creature-identification reference; versioned listing is not Java compatibility. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2e137abef30eeb94) |
 | ★ [Eternal End 1.1 Add-On](https://minecraft.net/en-us/marketplace/pdp?id=fa3d4ba2-fdfd-4b85-9a53-ebea89e2bdac) | Panascais Bedrock End-biome, structure and encounter reference; existing-world application is a publisher claim requiring preservation tests. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=f48bbaacbead0d1b) |

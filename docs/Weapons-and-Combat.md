@@ -6,10 +6,10 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**614 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**615 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
-<summary><strong>Content Pack · 96</strong></summary>
+<summary><strong>Content Pack · 97</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -62,6 +62,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [\[Vic's Point Blank\] WH40K BoltGuns](https://curseforge.com/minecraft/customization/vics-point-blank-wh40k-boltguns) | Relevant to the Vic's Point Blank gun/combat ecosystem; retained for comparison, expansion planning, or compatibility discovery. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=49fcc41b07de3e3e) |
 | [\[VPB\] R.O.C. Taiwan Firearm for Vic's Point Blank](https://curseforge.com/minecraft/customization/vics-point-blank-roc-pack) | Relevant to the Vic's Point Blank gun/combat ecosystem; retained for comparison, expansion planning, or compatibility discovery. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b88f0f69a65d8156) |
 | [Advanced Blasters Add-On](https://minecraft.net/en-us/marketplace/pdp/wonder/advanced-blasters-add--on/cb09e0e2-5ce1-4875-9122-17ffcf2164b8) | Wonder Bedrock weapon customization and upgrade-family reference; quantity claims are publisher descriptions, not quality/performance tests. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=66c2b4c2730c08eb) |
+| ★ [AdventureCraft 1.2 Add-On](https://minecraft.net/en-us/marketplace/pdp?id=da11d052-dfa7-46e0-b212-3ddd6db42bfd) | Octovon Bedrock connected exploration, equipment and spell progression reference; exact title does not establish Java availability. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=516c12589f9cba27) |
 | [Armed And Ready - VPB/PBJ addon](https://curseforge.com/minecraft/customization/armed-and-ready-vpb-pbj-addon) | Over 100 weapons with a Tarkov-like modular attachment system, caliber families, melee/bayonet support and survival/PvP balancing. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d9dd84c291134d61) |
 | ★ [Armor Expansion (King Cube)](https://minecraft.net/en-us/marketplace/pdp?id=9f2f21e6-3584-4479-8b5a-b21a971ffc26) | Bedrock craftable armor ability and equipment presentation reference; distinct from the similarly named Kubo Studios world. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=3cebadcf427cfe2c) |
 | [Armor Magnum for TaCZ](https://curseforge.com/minecraft/customization/armor-magnum-for-tacz) | Relevant to the TaCZ gun/combat ecosystem; retained for comparison, expansion planning, or compatibility discovery. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=e46c360d290e7f13) |

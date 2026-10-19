@@ -6,10 +6,10 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**304 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**305 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
-<summary><strong>Content Pack · 9</strong></summary>
+<summary><strong>Content Pack · 10</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -18,6 +18,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | ★ [DragonFire Add-On](https://minecraft.net/en-us/marketplace/pdp/spectral-studios/dragonfire-add--on/bed8e487-5a1d-4cd7-8f11-319791930407) | Spectral Studios full Bedrock add-on for dragon collection, growth and themed equipment; distinct from Lite, worlds, skin pack and Java mod. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=92e0919c7cefd37d) |
 | ★ [How to Train Your Dragon Add-On](https://minecraft.net/en-us/marketplace/pdp?id=10b469b6-f196-428c-b98e-c572cc55e83e) | Bedrock rideable dragon bonding and abilities reference; no Java compatibility or conversion claim. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c23b39cfaad7f770) |
 | ★ [MECHS Add-On](https://minecraft.net/en-us/marketplace/pdp/aypierre/mechs-add--on/ce8f5b87-4b54-4962-b2dd-dd13aae22e20) | Bedrock titanium-to-mech crafting, role differentiation and transformation/combat reference; no Java conversion or native certification implied. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0692d1dfa39bb27e) |
+| ★ [Planes Pro 2.0 Add-On](https://minecraft.net/en-us/marketplace/pdp?id=3a8a8c98-85eb-4d86-8310-c61d839bd53c) | AriaCreations Bedrock configurable flight, stunt and airport-building reference; mechanics/performance require direct study. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a57e86e00319f2f0) |
 | ★ [Silly Vehicles Add-On](https://minecraft.net/en-us/marketplace/pdp?id=0bdc9c91-d2d2-4a41-9d29-03f9c0e6e8f2) | Bedrock playful cars, boats and planes with distinct silhouettes and abilities; a visual/traversal reference, not an available Java conversion. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=09d2f9cb7a418374) |
 | ★ [Sonic Add-On](https://minecraft.net/de-de/marketplace/pdp/gamemode-one/sonic-add--on/f3e0a4be-8858-44d3-9ae8-91643db1b3f6) | Bedrock character transformation, traversal blocks and progression reference. Creator changelog supplies useful equipment-preservation and interrupted-transformation regression cas | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=60d6987f4bd642e7) |
 | ★ [Transformers Add-On](https://xbox.com/en-us/games/store/transformers-add-on/9p9fwk2bj82c) | Bedrock transformation, vehicle abilities and PvP mode reference; distinct from unrelated Transformers community mods. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2239bf845a4fc0ac) |

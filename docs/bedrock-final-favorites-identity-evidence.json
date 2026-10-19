@@ -1,0 +1,143 @@
+{
+  "checked_utc": "2026-10-19",
+  "scope": "Final eight starred rows of this source collection, not all project sources; primary identity only",
+  "matches": [
+    {
+      "row": 267,
+      "name": "Tiny Takeover: Mini Mania",
+      "url": "https://www.minecraft.net/en-us/marketplace/pdp/jwolf-creations/tiny-takeover:-mini-mania/cdf6c886-a6c6-4167-9d35-2c26c8840d92",
+      "marketplace_uuid": "cdf6c886-a6c6-4167-9d35-2c26c8840d92",
+      "existing_ids": [],
+      "type": "content_pack",
+      "categories": [
+        "Creatures and Companions",
+        "Multiplayer and Servers"
+      ],
+      "identity_sources": [
+        "https://www.minecraft.net/en-us/marketplace/pdp/jwolf-creations/tiny-takeover:-mini-mania/cdf6c886-a6c6-4167-9d35-2c26c8840d92"
+      ],
+      "method": "Exact title, creator and Add-On category verified on the loaded official Marketplace page on 2026-10-19. Source observations remain preserved.",
+      "reason": "JWolf Creations Bedrock cooperative minigame and collectible-reward reference; distinct from Java Tiny Takeover Backport."
+    },
+    {
+      "row": 268,
+      "name": "Owls Add-On",
+      "url": "https://www.minecraft.net/en-us/marketplace/pdp/noxcrew/owls-add--on/4c7436ae-412a-489f-a71e-86ae0eb3661b",
+      "marketplace_uuid": "4c7436ae-412a-489f-a71e-86ae0eb3661b",
+      "existing_ids": [],
+      "type": "content_pack",
+      "categories": [
+        "Creatures and Companions",
+        "Magic and Progression"
+      ],
+      "identity_sources": [
+        "https://www.minecraft.net/en-us/marketplace/pdp/noxcrew/owls-add--on/4c7436ae-412a-489f-a71e-86ae0eb3661b"
+      ],
+      "method": "Exact title, creator and Add-On category verified on the loaded official Marketplace page on 2026-10-19. Source observations remain preserved.",
+      "reason": "Noxcrew Bedrock equipment-driven companion roles and assisted movement reference."
+    },
+    {
+      "row": 269,
+      "name": "Abyss Dimension",
+      "url": "https://www.minecraft.net/en-us/marketplace/pdp?id=54fa35de-b3a4-4553-87c1-9a3bc7d4a860",
+      "marketplace_uuid": "54fa35de-b3a4-4553-87c1-9a3bc7d4a860",
+      "existing_ids": [],
+      "type": "content_pack",
+      "categories": [
+        "Worlds and Exploration",
+        "Creatures and Companions"
+      ],
+      "identity_sources": [
+        "https://www.minecraft.net/en-us/marketplace/pdp?id=54fa35de-b3a4-4553-87c1-9a3bc7d4a860"
+      ],
+      "method": "Exact title, creator and Add-On category verified on the loaded official Marketplace page on 2026-10-19. Source observations remain preserved.",
+      "reason": "Cyclone Bedrock realm discovery and lantern-revealed structures reference; distinct from Java Abyss projects."
+    },
+    {
+      "row": 270,
+      "name": "AdventureCraft 1.2 Add-On",
+      "url": "https://www.minecraft.net/en-us/marketplace/pdp?id=da11d052-dfa7-46e0-b212-3ddd6db42bfd",
+      "marketplace_uuid": "da11d052-dfa7-46e0-b212-3ddd6db42bfd",
+      "existing_ids": [],
+      "type": "content_pack",
+      "categories": [
+        "Worlds and Exploration",
+        "Magic and Progression",
+        "Weapons and Combat"
+      ],
+      "identity_sources": [
+        "https://www.minecraft.net/en-us/marketplace/pdp?id=da11d052-dfa7-46e0-b212-3ddd6db42bfd"
+      ],
+      "method": "Exact title, creator and Add-On category verified on the loaded official Marketplace page on 2026-10-19. Source observations remain preserved.",
+      "reason": "Octovon Bedrock connected exploration, equipment and spell progression reference; exact title does not establish Java availability."
+    },
+    {
+      "row": 271,
+      "name": "CRAFTYMON Add-On",
+      "url": "https://www.minecraft.net/es-mx/marketplace/pdp/starfish-studios/craftymon-1.1-add--on/6f8dd993-295b-4697-a309-1ff33b611b6d",
+      "marketplace_uuid": "6f8dd993-295b-4697-a309-1ff33b611b6d",
+      "existing_ids": [],
+      "type": "content_pack",
+      "categories": [
+        "Creatures and Companions",
+        "Magic and Progression"
+      ],
+      "identity_sources": [
+        "https://www.minecraft.net/es-mx/marketplace/pdp/starfish-studios/craftymon-1.1-add--on/6f8dd993-295b-4697-a309-1ff33b611b6d"
+      ],
+      "method": "Exact title, creator and Add-On category verified on the loaded official Marketplace page on 2026-10-19. Source observations remain preserved.",
+      "reason": "Starfish Studios Bedrock collection, growth, evolution and elemental-role reference; direct native study remains open."
+    },
+    {
+      "row": 280,
+      "name": "Biome Pets 1.4 Add-On",
+      "url": "https://www.minecraft.net/en-us/marketplace/pdp?id=7194f8ba-5436-4714-aea3-fba62bbb2714",
+      "marketplace_uuid": "7194f8ba-5436-4714-aea3-fba62bbb2714",
+      "existing_ids": [],
+      "type": "content_pack",
+      "categories": [
+        "Creatures and Companions",
+        "Magic and Progression"
+      ],
+      "identity_sources": [
+        "https://www.minecraft.net/en-us/marketplace/pdp?id=7194f8ba-5436-4714-aea3-fba62bbb2714"
+      ],
+      "method": "Exact title, creator and Add-On category verified on the loaded official Marketplace page on 2026-10-19. Source observations remain preserved.",
+      "reason": "Logdotzip Bedrock biome discovery and pet growth reference. Source row named 1.3; live official listing displays 1.4, without establishing an installed artifact version."
+    },
+    {
+      "row": 281,
+      "name": "Planes Pro 2.0 Add-On",
+      "url": "https://www.minecraft.net/en-us/marketplace/pdp?id=3a8a8c98-85eb-4d86-8310-c61d839bd53c",
+      "marketplace_uuid": "3a8a8c98-85eb-4d86-8310-c61d839bd53c",
+      "existing_ids": [],
+      "type": "content_pack",
+      "categories": [
+        "Engineering and Vehicles"
+      ],
+      "identity_sources": [
+        "https://www.minecraft.net/en-us/marketplace/pdp?id=3a8a8c98-85eb-4d86-8310-c61d839bd53c"
+      ],
+      "method": "Exact title, creator and Add-On category verified on the loaded official Marketplace page on 2026-10-19. Source observations remain preserved.",
+      "reason": "AriaCreations Bedrock configurable flight, stunt and airport-building reference; mechanics/performance require direct study."
+    },
+    {
+      "row": 283,
+      "name": "Monster Food Add-On",
+      "url": "https://www.minecraft.net/en-us/marketplace/pdp?id=c3f19cc3-ef8e-4e9f-bf47-a7c1a2a3ada6",
+      "marketplace_uuid": "c3f19cc3-ef8e-4e9f-bf47-a7c1a2a3ada6",
+      "existing_ids": [],
+      "type": "content_pack",
+      "categories": [
+        "Farming and Survival",
+        "Creatures and Companions"
+      ],
+      "identity_sources": [
+        "https://www.minecraft.net/en-us/marketplace/pdp?id=c3f19cc3-ef8e-4e9f-bf47-a7c1a2a3ada6"
+      ],
+      "method": "Exact product title, Noxcrew creator, Add-On category and description verified on the fully loaded official product page after UUID-query navigation. An initial slug navigation and the creator-article route failed; those failed routes are not used as acquisition links.",
+      "reason": "Noxcrew Bedrock creature-linked food, crockpot recipes and effect presentation reference; exact official product page verified.",
+      "unavailable_store_route": "https://www.minecraft.net/en-us/marketplace/pdp/noxcrew/monster-food-add--on/c3f19cc3-ef8e-4e9f-bf47-a7c1a2a3ada6"
+    }
+  ]
+}

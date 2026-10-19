@@ -4,15 +4,16 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**85 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**86 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
-<summary><strong>Content Pack · 2</strong></summary>
+<summary><strong>Content Pack · 3</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
 | [Legends: Anime](https://curseforge.com/minecraft/mc-mods/legends-anime) | TEST 1.20.1 / LEGENDS CORE REQUIRED / SERVER-MATCHED / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7a0a5f0646e58429) |
 | [Legends: Power Rangers](https://curseforge.com/minecraft/mc-mods/legends-power-rangers) | TEST/INSTALL 1.20.1 / LEGENDS CORE REQUIRED / SERVER-MATCHED / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d349cda5d606b37d) |
+| ★ [Tiny Takeover: Mini Mania](https://minecraft.net/en-us/marketplace/pdp/jwolf-creations/tiny-takeover:-mini-mania/cdf6c886-a6c6-4167-9d35-2c26c8840d92) | JWolf Creations Bedrock cooperative minigame and collectible-reward reference; distinct from Java Tiny Takeover Backport. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d00bf0754a0104f0) |
 
 </details>
 
