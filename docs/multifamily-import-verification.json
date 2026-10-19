@@ -1,0 +1,250 @@
+{
+  "scope": "Official creator identity resolution; no native compatibility promotion",
+  "entries": 2185,
+  "source_records": 2516,
+  "catalogued_favorites": 349,
+  "resolved_rows": 34,
+  "new_entries": 27,
+  "remaining_pending": 77,
+  "all_previous_sources_preserved": true,
+  "applied": [
+    {
+      "source_row": 177,
+      "catalogue_id": "8cb0c173a11ceabb",
+      "project_id": "v17FatAc",
+      "name": "Kaleidoscope Cookery",
+      "new_entry": false
+    },
+    {
+      "source_row": 178,
+      "catalogue_id": "35d4f65885ffbb00",
+      "project_id": "vQLjjxNs",
+      "name": "Kaleidoscope Doll",
+      "new_entry": true
+    },
+    {
+      "source_row": 179,
+      "catalogue_id": "ac303fc3e19c5632",
+      "project_id": "r9RZvhiJ",
+      "name": "Kaleidoscope Tavern",
+      "new_entry": true
+    },
+    {
+      "source_row": 180,
+      "catalogue_id": "ccc06a4fafb1bd97",
+      "project_id": "Ct11Kuii",
+      "name": "Kaleidoscope Cookery Refabricated",
+      "new_entry": true
+    },
+    {
+      "source_row": 181,
+      "catalogue_id": "a85ebea6fbec929e",
+      "project_id": "UMblNdlF",
+      "name": "Kaleidoscope Tavern Refabricated",
+      "new_entry": true
+    },
+    {
+      "source_row": 182,
+      "catalogue_id": "73c95ed1887473bc",
+      "project_id": "FRT0g2ye",
+      "name": "Kaleidoscope Deco",
+      "new_entry": true
+    },
+    {
+      "source_row": 152,
+      "catalogue_id": "0469a741d39f18a7",
+      "project_id": "bK3Ubu9p",
+      "name": "Simply Swords",
+      "new_entry": true
+    },
+    {
+      "source_row": 153,
+      "catalogue_id": "15d7bfc6a56b34c7",
+      "project_id": "lyvwxqAy",
+      "name": "Simply Skills",
+      "new_entry": true
+    },
+    {
+      "source_row": 154,
+      "catalogue_id": "7042a5eea4aa3c52",
+      "project_id": "zhpyD8Y0",
+      "name": "Simply More",
+      "new_entry": false
+    },
+    {
+      "source_row": 155,
+      "catalogue_id": "8e28a1824befdf7d",
+      "project_id": "6avVoBVB",
+      "name": "Simply Tooltips",
+      "new_entry": false
+    },
+    {
+      "source_row": 156,
+      "catalogue_id": "76d3dd499d92d377",
+      "project_id": "lkqOlxmM",
+      "name": "Simply Bows",
+      "new_entry": true
+    },
+    {
+      "source_row": 157,
+      "catalogue_id": "929855be4e5ff93b",
+      "project_id": "45g5CJFm",
+      "name": "WynnAnimated",
+      "new_entry": true
+    },
+    {
+      "source_row": 158,
+      "catalogue_id": "d39c260bc7c61d86",
+      "project_id": "3X4CW8NL",
+      "name": "Simply Swords - Vanilla Style",
+      "new_entry": true
+    },
+    {
+      "source_row": 209,
+      "catalogue_id": "8b5f276dd20ab6ff",
+      "project_id": "OpRu0tix",
+      "name": "Fresh Food VR",
+      "new_entry": true
+    },
+    {
+      "source_row": 211,
+      "catalogue_id": "f3c73ec99ccfce69",
+      "project_id": "K9zQ68Mm",
+      "name": "Better, Fresher 3D Books VR",
+      "new_entry": true
+    },
+    {
+      "source_row": 212,
+      "catalogue_id": "1b0719fc8589fa23",
+      "project_id": "XB4qI5ou",
+      "name": "Fresh Flowers and Plants VR",
+      "new_entry": true
+    },
+    {
+      "source_row": 213,
+      "catalogue_id": "0e91b82a35e28555",
+      "project_id": "wLGXn5MK",
+      "name": "Fresh Ores and Ingots VR",
+      "new_entry": true
+    },
+    {
+      "source_row": 214,
+      "catalogue_id": "6e3114c1d105da48",
+      "project_id": "7cebigY3",
+      "name": "Fresh Music Discs VR",
+      "new_entry": true
+    },
+    {
+      "source_row": 217,
+      "catalogue_id": "5936e87e4c18f52a",
+      "project_id": "pPquNUr6",
+      "name": "Fresh Paintings VR",
+      "new_entry": true
+    },
+    {
+      "source_row": 218,
+      "catalogue_id": "7f8769b2040088cc",
+      "project_id": "jBYtPpyJ",
+      "name": "Jetpack Bees [Fresh Animations]",
+      "new_entry": true
+    },
+    {
+      "source_row": 183,
+      "catalogue_id": "3cdc3433d3c46e4b",
+      "project_id": "ePVLCraM",
+      "name": "Kaleidoscope World Liquor",
+      "new_entry": true
+    },
+    {
+      "source_row": 184,
+      "catalogue_id": "c79263ce35182adc",
+      "project_id": "cuIIkdlx",
+      "name": "KaleidoscopeChineseFood",
+      "new_entry": true
+    },
+    {
+      "source_row": 185,
+      "catalogue_id": "9739b56e6d1e2409",
+      "project_id": "Xm1eP54z",
+      "name": "Kaleidoscope Compat",
+      "new_entry": true
+    },
+    {
+      "source_row": 187,
+      "catalogue_id": "2459c3c7fd96a1d9",
+      "project_id": "zU7VvEmB",
+      "name": "Dream Relics",
+      "new_entry": true
+    },
+    {
+      "source_row": 188,
+      "catalogue_id": "dc72762267d23b5c",
+      "project_id": "laatdxjH",
+      "name": "Cornucopia Reborn",
+      "new_entry": true
+    },
+    {
+      "source_row": 189,
+      "catalogue_id": "47628081b8884f5d",
+      "project_id": "O4YuhMsI",
+      "name": "Kaleidoscope Nether",
+      "new_entry": true
+    },
+    {
+      "source_row": 190,
+      "catalogue_id": "72b32fb71c3e4853",
+      "project_id": "di8feIAZ",
+      "name": "Convenient Malum",
+      "new_entry": true
+    },
+    {
+      "source_row": 193,
+      "catalogue_id": "aef352b98e3fad18",
+      "project_id": "Fv5Ox14V",
+      "name": "Kaleidoscope Addons",
+      "new_entry": true
+    },
+    {
+      "source_row": 194,
+      "catalogue_id": "ec52f098b3c97a7d",
+      "project_id": "ejnAyt7b",
+      "name": "Garden Farming",
+      "new_entry": true
+    },
+    {
+      "source_row": 195,
+      "catalogue_id": "d6c427f8326eb2d8",
+      "project_id": "eGawC8TJ",
+      "name": "Dream Enchantment",
+      "new_entry": true
+    },
+    {
+      "source_row": 4,
+      "catalogue_id": "968d404ed7e35a2b",
+      "project_id": "NkGaQMDA",
+      "name": "Wizards (RPG Series)",
+      "new_entry": false
+    },
+    {
+      "source_row": 6,
+      "catalogue_id": "0156f6855ca6fbad",
+      "project_id": "3MKqoGuP",
+      "name": "Rogues & Warriors (RPG Series)",
+      "new_entry": false
+    },
+    {
+      "source_row": 300,
+      "catalogue_id": "ddf9cee651063b5f",
+      "project_id": "XvoWJaA2",
+      "name": "Spell Engine",
+      "new_entry": false
+    },
+    {
+      "source_row": 312,
+      "catalogue_id": "6874b9af5e30714f",
+      "project_id": "PJvJUdGw",
+      "name": "Armory (RPG Series)",
+      "new_entry": false
+    }
+  ]
+}

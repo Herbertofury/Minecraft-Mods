@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**225 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**232 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Compatibility Target · 2</strong></summary>
@@ -65,12 +65,12 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | Project / target | Purpose | Evidence |
 |---|---|---|
 | ★ [Curios API](https://curseforge.com/minecraft/mc-mods/curios) | TOOL / DEPENDENCY / INSTALL WHEN REQUIRED / PIN EXACT BRANCH | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=86b3a1ea181b5784) |
-| [Spell Engine](https://curseforge.com/minecraft/mc-mods/spell-engine) | UPDATE ONLY AS FULL RPG-SERIES SET / BACKUP FIRST / TEST COPY | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=ddf9cee651063b5f) |
+| ★ [Spell Engine](https://curseforge.com/minecraft/mc-mods/spell-engine) | UPDATE ONLY AS FULL RPG-SERIES SET / BACKUP FIRST / TEST COPY | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=ddf9cee651063b5f) |
 
 </details>
 
 <details>
-<summary><strong>Mod · 204</strong></summary>
+<summary><strong>Mod · 211</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -95,7 +95,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | ★ [Ares-HUD](https://curseforge.com/minecraft/mc-mods/ares-hud) | INSTALL/TEST 1.20.1 / CLIENT-SAFE / HIGH CURRENT-PACK FIT | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=03cc6d2220209be2) |
 | [Armed N' Dangerous — Just Enough Guns addon](https://curseforge.com/minecraft/mc-mods/armed-n-dangerous) | Expansion designed around JEG survival balance and new guns; v0.1.2 fixes critical MixinExtras crash. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0a680cea4753ecb5) |
 | ★ [Armor Model API](https://modrinth.com/mod/onz2NN2n) | Geo/Bedrock armor-model rendering API | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b8cd7d39d344b8d6) |
-| [Armory (RPG Series)](https://curseforge.com/minecraft/mc-mods/armory-rpg-series) | INSTALL/TEST 1.20.1 / UPDATE RPG SERIES TOGETHER / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=6874b9af5e30714f) |
+| ★ [Armory (RPG Series)](https://curseforge.com/minecraft/mc-mods/armory-rpg-series) | INSTALL/TEST 1.20.1 / UPDATE RPG SERIES TOGETHER / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=6874b9af5e30714f) |
 | [Ars 'n Spells](https://curseforge.com/minecraft/mc-mods/ars-n-spells) | INSTALL/TEST 1.20.1 / HIGH CURRENT-PACK FIT / SERVER-MATCHED | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0ff203a422c9b6e7) |
 | ★ [Ars Additions](https://curseforge.com/minecraft/mc-mods/ars-additions) | Immersion and quality-of-life Ars addon | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=afcdbefbfb24498e) |
 | ★ [Ars Elemental](https://curseforge.com/minecraft/mc-mods/ars-elemental) | INSTALL/TEST 1.20.1 / SERVER-MATCHED / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=e38bf3755014bc9b) |
@@ -122,6 +122,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Companions!](https://curseforge.com/minecraft/mc-mods/companions-mod) | INSTALL/TEST 1.20.1 / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=8c516130dd166ea1) |
 | [Concurrent Chunk Management Engine - Forge](https://curseforge.com/minecraft/mc-mods/concurrent-chunk-management-engine-forge) | TEST BRANCH / SPARK A-B / BACKUP FIRST / EXACT-PACK REGRESSION | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a18920198edcba05) |
 | [Confluence: Otherworld](https://curseforge.com/minecraft/mc-mods/confluence) | UPDATE CANDIDATE / TEST COPIED WORLD / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=6fa115b4112b6537) |
+| ★ [Convenient Malum](https://modrinth.com/mod/convenient-malum) | Convenient Malum is a practical mod that adds some useful features to the Malum mod. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=72b32fb71c3e4853) |
 | [Create Enchantment Industry](https://curseforge.com/minecraft/mc-mods/create-enchantment-industry) | Automates experience, enchanting, grinding and forging through Create; useful in full Create progression packs beyond weapons. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=44132429f7e190de) |
 | ★ [Create Theme Armor Addon](https://curseforge.com/minecraft/mc-mods/create-theme-armor-addon) | Legacy Create-themed engineer armor | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=6210b308e71199e5) |
 | ★ [Create: Gunsmithing](https://curseforge.com/minecraft/mc-mods/cgs) | Animated steampunk gun crafting through Create production, with gun-pack extensibility. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=5ca6da6279795f39) |
@@ -129,6 +130,8 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | ★ [Critical Strike](https://modrinth.com/mod/ilvNBzFn) | Chance-based melee and ranged critical-hit framework | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=116067dbb3a84b5c) |
 | ★ [Death Knights (RPG Series)](https://curseforge.com/minecraft/mc-mods/death-knights) | Death Knight class using Frost, Blood and Unholy magic | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=6a42b8b77f8cb209) |
 | [Dragon Survival](https://curseforge.com/minecraft/mc-mods/dragons-survival) | INSTALL/TEST stable 1.20.1 / BACKUP FIRST; ALPHA = NEW-WORLD/EXPERIMENTAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=31be92d1f85c65b4) |
+| ★ [Dream Enchantment](https://modrinth.com/mod/dream-enchantment) | Adds custom enchantments to Minecraft. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d6c427f8326eb2d8) |
+| ★ [Dream Relics](https://modrinth.com/mod/dream-relics) | Dream Relics is a mod that adds unique accessories and items to Minecraft. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2459c3c7fd96a1d9) |
 | ★ [Dungeon Difficulty](https://modrinth.com/mod/ENZmbSFZ) | Location-aware dungeon difficulty and reward scaling | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=75f681b1ee2cb974) |
 | [Ecliptic Seasons](https://curseforge.com/minecraft/mc-mods/ecliptic-seasons) | INSTALL/TEST 1.20.1 / SERVER-MATCHED / BACKUP FIRST / FARM-WORLD SYSTEM TEST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=661bebafe5d05d33) |
 | ★ [Elemental Wizards (More RPG Classes)](https://modrinth.com/mod/PeZ4h4i0) | Earth, Water and Wind wizard subclasses | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=30d1ab8d8afa6e62) |
@@ -215,7 +218,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | ★ [Reliquified Iron's Spells 'n Spellbooks](https://modrinth.com/mod/reliquified-irons-spells-n-spellbooks) | Compatibility addon between Relics and Iron's Spells 'n Spellbooks | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=1a32466b0e75cb85) |
 | ★ [Reliquified L_Ender 's Cataclysm](https://modrinth.com/mod/reliquified-l-ender-s-cataclysm) | Compatibility addon between Relics & L_Ender 's Cataclysm | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=383826cb810e0e42) |
 | ★ [Reliquified Twilight Forest](https://modrinth.com/mod/reliquified-twilight-forest) | Compatibility addon between Relics & Twilight Forest | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2a270401018333ce) |
-| [Rogues & Warriors (RPG Series)](https://curseforge.com/minecraft/mc-mods/rogues-and-warriors) | INSTALL/UPDATE ONLY AS MATCHED RPG-SERIES SET / BACKUP FIRST / SERVER-MATCHED | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0156f6855ca6fbad) |
+| ★ [Rogues & Warriors (RPG Series)](https://curseforge.com/minecraft/mc-mods/rogues-and-warriors) | INSTALL/UPDATE ONLY AS MATCHED RPG-SERIES SET / BACKUP FIRST / SERVER-MATCHED | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0156f6855ca6fbad) |
 | [Roots 4](https://curseforge.com/minecraft/mc-mods/roots) | WATCH / FUTURE VERSION | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=5454206dd5c7f340) |
 | [Roots Classic](https://curseforge.com/minecraft/mc-mods/roots-classic) | INSTALL/TEST 1.20.1 / SERVER-MATCHED / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a35190f6ec071d18) |
 | [RPG Attribute System](https://curseforge.com/minecraft/mc-mods/rpg-attribute-system) | INSTALL/TEST 1.20.1 / SERVER VERSION MATCH | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=db0550d1669bd187) |
@@ -227,6 +230,10 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | ★ [Sensible Survival (RPG Tweaks)](https://modrinth.com/mod/HWQeS7qe) | Server-side survival and repair QoL tweaks | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=129044db9b3a21c6) |
 | [SERP Pokédrock (Pokémon Addon)](https://curseforge.com/minecraft-bedrock/addons/serp-pokemon-addon) | BEDROCK ONLY / INSTALL-TEST / SERVER-WORLD PACK / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=e73c1840631802f4) |
 | [Simple RPG Addon](https://curseforge.com/minecraft-bedrock/addons/simple-rpg-addon) | BEDROCK ONLY / INSTALL-TEST / EXPERIMENTAL FEATURES / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=fd90a956ca563996) |
+| ★ [Simply Bows](https://modrinth.com/mod/simply-bows) | Adds unique bows with powerful abilities | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=76d3dd499d92d377) |
+| ★ [Simply More](https://curseforge.com/minecraft/mc-mods/simply-more) | INSTALL/TEST 1.20.1; WATCH modern alpha | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7042a5eea4aa3c52) |
+| ★ [Simply Skills](https://modrinth.com/mod/simply-skills) | A comprehensive skill tree mod with a focus on combat specialisations (classes) | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=15d7bfc6a56b34c7) |
+| ★ [Simply Swords](https://modrinth.com/mod/simply-swords) | Adds Spears, Glaives, Chakrams, Katanas, Greathammer/axes, Rapiers, and many more weapons! | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0469a741d39f18a7) |
 | [Skarrier Mobs](https://curseforge.com/minecraft/mc-mods/skarrier-mobs) | WATCH / TEST COPY / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b8d81897480b9684) |
 | ★ [Skill Tree (RPG Series)](https://modrinth.com/mod/PjDhruSC) | 100+ node class specialization skill tree | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7694b00083d7d0d5) |
 | ★ [SLR Auras](https://curseforge.com/minecraft/mc-mods/slr-auras) | Custom aura expansion for the Reawakening aura mechanic | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=95ebb7668ad13b90) |
@@ -275,7 +282,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | ★ [Village Taverns (RPG Series)](https://modrinth.com/mod/bj4a8NjJ) | Cozy RPG taverns and village content | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=bdf984871df3db7f) |
 | [Winefox's Spellbooks](https://curseforge.com/minecraft/mc-mods/winefoxs-spellbooks) | FUTURE/HIGH-VALUE / TEST BRANCH / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=6246a14e3325bc25) |
 | ★ [Witcher (More RPG Classes)](https://modrinth.com/mod/4eW1c7Gj) | Witcher-inspired signs, techniques and class progression | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=5bbdcb560400f719) |
-| [Wizards (RPG Series)](https://curseforge.com/minecraft/mc-mods/wizards) | INSTALL/UPDATE ONLY AS MATCHED RPG-SERIES SET / BACKUP FIRST / SERVER-MATCHED | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=968d404ed7e35a2b) |
+| ★ [Wizards (RPG Series)](https://curseforge.com/minecraft/mc-mods/wizards) | INSTALL/UPDATE ONLY AS MATCHED RPG-SERIES SET / BACKUP FIRST / SERVER-MATCHED | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=968d404ed7e35a2b) |
 | [Xiaoxiang Cultivation World](https://curseforge.com/minecraft/mc-mods/xiaoxiang-cultivation-world) | TEST/OPTIONAL 1.20.1 / SERVER-MATCHED / NEW WORLD PREFERRED / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b9d59a3fba873c68) |
 | [ZombieApocalypseAddon](https://curseforge.com/minecraft/mc-mods/zombieapocalypseaddon) | INSTALL/TEST 1.20.1 / SERVER-MATCHED / BACKUP BEFORE SIEGE FEATURES | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=94fd3c15f21f0948) |
 

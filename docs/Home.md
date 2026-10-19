@@ -8,19 +8,19 @@ A content-organized home for mod discovery, comparison, compatibility notes and 
 
 ## Browse by what you want to do
 
-- **[Building and Decoration](Building-and-Decoration)** — 44 project/feature/target entries; overlapping categories.
-- **[Creatures and Companions](Creatures-and-Companions)** — 545 project/feature/target entries; overlapping categories.
-- **[Engineering and Vehicles](Engineering-and-Vehicles)** — 273 project/feature/target entries; overlapping categories.
-- **[Farming and Survival](Farming-and-Survival)** — 65 project/feature/target entries; overlapping categories.
-- **[Interface and Accessibility](Interface-and-Accessibility)** — 149 project/feature/target entries; overlapping categories.
-- **[Magic and Progression](Magic-and-Progression)** — 145 project/feature/target entries; overlapping categories.
-- **[Multiplayer and Servers](Multiplayer-and-Servers)** — 79 project/feature/target entries; overlapping categories.
-- **[Performance and Stability](Performance-and-Stability)** — 174 project/feature/target entries; overlapping categories.
-- **[Storage and Logistics](Storage-and-Logistics)** — 198 project/feature/target entries; overlapping categories.
-- **[Tools and Development](Tools-and-Development)** — 184 project/feature/target entries; overlapping categories.
-- **[Visuals and Resource Packs](Visuals-and-Resource-Packs)** — 257 project/feature/target entries; overlapping categories.
-- **[Weapons and Combat](Weapons-and-Combat)** — 554 project/feature/target entries; overlapping categories.
-- **[Worlds and Exploration](Worlds-and-Exploration)** — 213 project/feature/target entries; overlapping categories.
+- **[Building and Decoration](Building-and-Decoration)** — 84 project/feature/target entries; overlapping categories.
+- **[Creatures and Companions](Creatures-and-Companions)** — 577 project/feature/target entries; overlapping categories.
+- **[Engineering and Vehicles](Engineering-and-Vehicles)** — 294 project/feature/target entries; overlapping categories.
+- **[Farming and Survival](Farming-and-Survival)** — 107 project/feature/target entries; overlapping categories.
+- **[Interface and Accessibility](Interface-and-Accessibility)** — 208 project/feature/target entries; overlapping categories.
+- **[Magic and Progression](Magic-and-Progression)** — 232 project/feature/target entries; overlapping categories.
+- **[Multiplayer and Servers](Multiplayer-and-Servers)** — 85 project/feature/target entries; overlapping categories.
+- **[Performance and Stability](Performance-and-Stability)** — 178 project/feature/target entries; overlapping categories.
+- **[Storage and Logistics](Storage-and-Logistics)** — 212 project/feature/target entries; overlapping categories.
+- **[Tools and Development](Tools-and-Development)** — 215 project/feature/target entries; overlapping categories.
+- **[Visuals and Resource Packs](Visuals-and-Resource-Packs)** — 290 project/feature/target entries; overlapping categories.
+- **[Weapons and Combat](Weapons-and-Combat)** — 595 project/feature/target entries; overlapping categories.
+- **[Worlds and Exploration](Worlds-and-Exploration)** — 289 project/feature/target entries; overlapping categories.
 
 ## Favorite deep dives
 
@@ -36,24 +36,18 @@ These three are explicitly marked favorites in the imported catalogue. The owner
 
 ## Current import coverage
 
-The first import contains **1,981 source records**, reconciled into **1,814 research entries**. 167 repeated source rows were merged by exact project routes while preserving their notes. 306 entries are discovery routes rather than confirmed installable mods. This is not a count of unique, tested mods.
+**2,185 research entries · 2,516 attached source observations · 349 catalogued favorites.** 331 repeated source observations are consolidated without dropping their notes. Entries include mods, resource packs, tools, targets and discovery routes; these are not counts of tested compatible mods.
 
-The broad, weapon and creature-variety catalogues are imported; the storage/sorting master view has now been reconciled separately. The remaining indexed collections, unique update notes, HTML and Google Docs are still being reconciled. Original files remain intact. Version claims copied from a source are distinguished from newly checked official releases and native testing.
+The broad recommendations, gun research, creature variety, storage/sorting and starred/conversion collections are being brought together. Remaining HTML, document collections and unique source tabs still need reconciliation. Source files remain intact. Imported source stars and version claims remain distinct from explicit Forever World targets, freshly checked releases and native gameplay tests.
 
-The current catalogue contains **2,158 research entries and 316 catalogued favorites**, retaining all 39 owner-selected target observations. Targets without a resolved release route remain visibly labeled compatibility targets.
+**77 starred/conversion source rows still need exact project identities.** Storage identity questions are tracked separately. [Unresolved starred rows](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/musthave-pending-identities.json) · [Unresolved storage rows](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/storage-import-pending-identities.json).
 
-## Storage research consolidation
+### Import evidence and preservation checks
 
-The 2026-10-19 pass preserved 156 current storage-master observations: **139 imported observations, 106 new catalogue entries and 17 pending identity reviews**. Existing observations and favorites were preserved. That storage pass brought the catalogue to 2,159 attached source observations; the 17 unresolved observations are retained separately rather than guessed into project identities.
+- [Storage master import](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/storage-import-receipt.json) and [companion research notes](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/storage-companion-import-receipt.json).
+- [Starred/conversion collection import](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/musthave-import-receipt.json) and [six direct target identities](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/musthave-identity-resolution.json).
+- [Nineteen Let’s Do identities](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/creator-family-data-tests.json), with legacy and compatibility branches kept separate.
+- [Eighteen Relics/Octo identities](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/relics-family-data-tests.json), categorized by described purpose.
+- [Thirty-four Simply, Kaleidoscope, RPG Series and VR identities](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/multifamily-data-tests.json): 27 new entries and seven cross-host matches using shared official repositories. Refabricated projects remain distinct; datapacks and resource packs retain their own types.
 
-[Explore storage by role](https://github.com/Herbertofury/Minecraft-Mods/wiki/Storage-and-Logistics) · [Review unresolved identities](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/storage-import-pending-identities.json). Other source tabs and collections remain in progress. Imported version, compatibility and performance notes are not fresh native tests.
-
-## More research brought together
-
-The next pass added **188 project entries and 280 source observations** from the current starred/conversion collection. The catalogue now contains **2,158 entries and 2,482 attached source observations**. All earlier favorites and explicit Forever World flags survive. The **316 catalogued favorites** include imported source stars; they are preferences, not runtime certification. **111 source rows** await exact project identity or a direct project route and remain separately preserved. [Evidence](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/musthave-import-receipt.json) · [Organized favorites](https://github.com/Herbertofury/Minecraft-Mods/wiki/Favorites).
-
-Six formerly unresolved targets now link to their verified official project pages: Terramity, Malum, The Midnight, Gateways to Eternity, Oculus and Create Jetpack. Their source observations are attached to the existing entries; no duplicate project or native compatibility claim was created. [Identity evidence](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/musthave-identity-resolution.json).
-
-The official public creator-project list resolved 19 more source rows in the Let’s Do collection: 17 project entries were added and two existing cross-host entries were matched through their shared upstream repositories. Legacy releases and Farm&Charm compatibility projects stay distinct. [Identity and preservation tests](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/creator-family-data-tests.json).
-
-Eighteen additional source rows now have official project identities from the SSKirillSS public creator-project list, including Relics compatibility bridges, Octo libraries, UI/visual tools and creature/storage projects. They are categorized by their actual described role. [Preservation tests](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/relics-family-data-tests.json). Project identity is not exact-version compatibility certification.
+Every pass preserves earlier source observations, favorites and explicit compatibility-target flags. Identity resolution does not certify a particular Minecraft build or native compatibility.

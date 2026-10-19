@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**98 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**107 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Content Pack · 1</strong></summary>
@@ -16,7 +16,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Mod · 93</strong></summary>
+<summary><strong>Mod · 102</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -47,6 +47,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Comfortable Campfires](https://modrinth.com/mod/comfortable-campfires) | OPTIONAL / COZY HIGH-FIT / SERVER-AUTHORITY / TEST BALANCE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=ae7a53395b650046) |
 | ★ [Compostbin](https://curseforge.com/minecraft/mc-mods/compostbin) | BmtUltra project | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=651601e49fc55694) |
 | [Core Craft - A Vanilla Expansion](https://curseforge.com/minecraft-bedrock/addons/core-craft) | BEDROCK ONLY / TEST BRANCH / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=e750292714f35d69) |
+| ★ [Cornucopia Reborn](https://modrinth.com/mod/cornucopia-reborn) | This is the sequel to Cornucopia. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=dc72762267d23b5c) |
 | [Crabber's Delight](https://curseforge.com/minecraft/mc-mods/crabbers-delight) | INSTALL NOW 1.20.1 / SERVER-MATCHED / BACKUP FIRST FOR EXISTING CONTENT | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=21484032a7dea3b9) |
 | ★ [Cravings!](https://curseforge.com/minecraft/mc-mods/cravings-dyrohc) | Random food cravings with configurable rewards | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d138b714cf7d54be) |
 | [Create Integrated Farming \[Unofficial\]](https://curseforge.com/minecraft/mc-mods/create-integrated-farming-unofficial) | INSTALL/TEST 1.20.1 / SERVER-MATCHED / BACKUP FIRST / VERSION-MATCH CREATE STACK | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0030df6080b95c88) |
@@ -71,12 +72,20 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Food Healing RPG](https://curseforge.com/minecraft/mc-mods/foodhealingrpgmod) | TEST/OPTIONAL 1.20.1 / HIGH BALANCE IMPACT / BACKUP FIRST / TACZ VERSION-PIN | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=4fd00bcb974a66c3) |
 | [Forsaken Odyssey](https://curseforge.com/minecraft-bedrock/addons/forsaken-odyssey) | BEDROCK ONLY / TEST BRANCH | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=9186c1802748b5de) |
 | [FTB Ultimine (NeoForge)](https://curseforge.com/minecraft/mc-mods/ftb-ultimine-forge) | INSTALL NOW 1.20.1 / SERVER-MATCHED / CONFIGURE LIMITS & SHAPES | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=5fd6834d13be3cd6) |
+| ★ [Garden Farming](https://modrinth.com/mod/garden-farming) | adding some items and blocks related to agriculture. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=ec52f098b3c97a7d) |
 | [GeOre](https://curseforge.com/minecraft/mc-mods/geore) | INSTALL/TEST 1.20.1 / SERVER-MATCHED / BACKUP FIRST / WORLDGEN | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=02c6406b9306494d) |
 | [Haunted Harvest](https://curseforge.com/minecraft/mc-mods/haunted-harvest) | INSTALL/TEST 1.20.1 / COZY / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=1fe946551625c31c) |
 | ★ [Hunger Tweaks (RPG Tweaks)](https://modrinth.com/mod/2ygSk5sW) | Server-side hunger/exhaustion tuning | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c2b1c4485a78bfff) |
+| ★ [Kaleidoscope Compat](https://modrinth.com/mod/kaleidoscope-compat) | Provide compatibility for Kaleidoscope. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=9739b56e6d1e2409) |
 | ★ [Kaleidoscope Cookery](https://curseforge.com/minecraft/mc-mods/kaleidoscope-cookery) | INSTALL/TEST / BACKUP BEFORE REMOVAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=8cb0c173a11ceabb) |
+| ★ [Kaleidoscope Cookery Refabricated](https://modrinth.com/mod/kaleidoscope-cookery-refabricated) | The unofficial fabric continuation for Kaleidoscope Cookery mod | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=ccc06a4fafb1bd97) |
 | ★ [Kaleidoscope End](https://curseforge.com/minecraft/mc-mods/kaleidoscope-end) | BmtUltra project | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2e443467748287be) |
+| ★ [Kaleidoscope Nether](https://modrinth.com/mod/kaleidoscope-nether) | Brought an expansion about the Nether to Kaleidoscope Cookery. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=47628081b8884f5d) |
+| ★ [Kaleidoscope Tavern](https://modrinth.com/mod/kaleidoscopetavern) | Focused on tavern-themed content, adding a complete brewing system along with a rich selection of decorative blocks to bring your tavern to life. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=ac303fc3e19c5632) |
+| ★ [Kaleidoscope Tavern Refabricated](https://modrinth.com/mod/kaleidoscope-tavern-refabricated) | The unofficial fabric port for Kaleidoscope Tavern mod | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a85ebea6fbec929e) |
 | ★ [Kaleidoscope Twilight](https://curseforge.com/minecraft/mc-mods/kaleidoscope-twilight) | BmtUltra project | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=ae636bd5566cf7b6) |
+| ★ [Kaleidoscope World Liquor](https://modrinth.com/mod/kaleidoscope-world-liquor) | This mod adds more alcoholic drinks for the Kaleidoscope Tavern. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=3cdc3433d3c46e4b) |
+| ★ [KaleidoscopeChineseFood](https://modrinth.com/mod/kaleidoscopechinesefood) | Adds more Chinese dishes to Kaleidoscope Cookery. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c79263ce35182adc) |
 | ★ [Kind Seagull](https://curseforge.com/minecraft/mc-mods/kind-seagull) | BmtUltra project | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2bb9de7a31ecc96c) |
 | ★ [Legacy: \[Let's Do\] Bakery](https://modrinth.com/mod/lets-do-bakery) | Bake many variations of Bread, Cupcakes and Cakes! Eatable, placeable. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=172628f1f0446764) |
 | ★ [Legacy: \[Let's Do\] Brewery](https://modrinth.com/mod/lets-do-brewery) | Ozapft is! Brau Bier, beiss in a Bretzn – willkomme zum Braufescht! | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=aa68a20b71a4efb0) |

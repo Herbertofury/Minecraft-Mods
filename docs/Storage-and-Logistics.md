@@ -17,7 +17,7 @@ Use **Link to these filters** in the catalogue to bookmark a custom view. Detail
 
 ## Current collection
 
-**209 entries in this category.** The 2026-10-19 consolidation preserved all 156 storage-master observations: 139 were attached to resolved catalogue routes and 17 remain in an [identity-review queue](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/storage-import-pending-identities.json). It added 106 catalogue entries across relevant categories and preserved all 42 existing favorites. Other source tabs and collections still need reconciliation.
+**212 entries in this category.** The 2026-10-19 consolidation preserved all 156 storage-master observations: 139 were attached to resolved catalogue routes and 17 remain in an [identity-review queue](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/storage-import-pending-identities.json). It added 106 catalogue entries across relevant categories and preserved all 42 existing favorites. Other source tabs and collections still need reconciliation.
 
 [Import verification](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/storage-import-verification.json) · [Cross-host project identity checks](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/storage-project-identity-checks.json)
 
@@ -75,7 +75,7 @@ Before upgrades or removal, test a copied world with named/damaged/enchanted ite
 </details>
 
 <details>
-<summary><strong>Mod · 202</strong></summary>
+<summary><strong>Mod · 205</strong></summary>
 
 | Project / research entry | Purpose | Evidence |
 |---|---|---|
@@ -128,6 +128,8 @@ Before upgrades or removal, test a copied world with named/damaged/enchanted ite
 | [Companions - Dogfolk](https://modrinth.com/mod/companions-dogfolk) | OPTIONAL / HIGH COZY-MOB FIT / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b16fca488a90a6c6) |
 | [Container Indexer](https://modrinth.com/mod/container-indexer) | Nearby container search/transfer/highlighting, including minecart containers. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a7daafa629132fe3) |
 | [Container Search](https://modrinth.com/mod/container-search) | Simple client-side search for items inside containers, including shulker contents, with Forge 1.20.1 availability. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=6b7de4856f5b64fd) |
+| ★ [Convenient Malum](https://modrinth.com/mod/convenient-malum) | Convenient Malum is a practical mod that adds some useful features to the Malum mod. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=72b32fb71c3e4853) |
+| ★ [Cornucopia Reborn](https://modrinth.com/mod/cornucopia-reborn) | This is the sequel to Cornucopia. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=dc72762267d23b5c) |
 | [Craft & Find](https://curseforge.com/minecraft/mc-mods/craft-find) | Storage Workbench browses, searches, locates, sorts totals, and crafts directly from nearby storage with JEI/EMI support. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=82ffb7ced5413270) |
 | [Craft From Chests](https://modrinth.com/mod/craft-from-chests) | Recipe-book crafting at a table can consume ingredients from nearby chests, barrels, shulkers, and compatible containers. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=513717901df10b16) |
 | [Craft Nearby Chests](https://curseforge.com/minecraft/mc-mods/craft-nearby-chests) | Configurable nearby-container crafting with extraction priority controls and safer defaults around processing inventories. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=5e6dbf91d0762902) |
@@ -153,6 +155,7 @@ Before upgrades or removal, test a copied world with named/damaged/enchanted ite
 | [FindMe](https://curseforge.com/minecraft/mc-mods/findme) | Press Y over an item to particle-highlight nearby inventories containing it; keypad actions can extract one item or a stack. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d7a57f7f5f6c2719) |
 | [Functional Storage](https://modrinth.com/mod/functional-storage) | Modern drawer system with push/pull/collecting upgrades, controller access and ender-style options. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d2c882395592020e) |
 | [Furnitury - Vanilla Styled Furniture](https://curseforge.com/minecraft/mc-mods/reeves-furniture) | INSTALL/TEST 1.20.1 / SERVER-MATCHED / BACKUP FIRST IF USED | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=181a796ae02a8e56) |
+| ★ [Garden Farming](https://modrinth.com/mod/garden-farming) | adding some items and blocks related to agriculture. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=ec52f098b3c97a7d) |
 | [GregTech 6 NeoForge](https://curseforge.com/minecraft/mc-mods/gregtech-6-neoforge) | TEST BRANCH / FUTURE-HIGH-VALUE / NEW WORLD ONLY / BACKUP FIRST / SAVE-BREAK RISK | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2c3de242d6fceb7e) |
 | [Horseman](https://curseforge.com/minecraft/mc-mods/horseman) | INSTALL/TEST 1.20.1 / SERVER-MATCHED / CONFIG REVIEW | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b81ccea1edd76dbc) |
 | [Hot Deposit](https://modrinth.com/mod/hot_deposit) | Client-side hotkey deposits matching inventory items only into nearby containers you have opted into. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=268188647c9e3518) |
@@ -318,4 +321,4 @@ These are qualification scenarios, not claims that the named projects currently 
 
 ## Companion-view reconciliation
 
-The same collection contained useful notes outside its master view. The follow-on pass attached **118 companion-view observations to 57 already identified catalogue entries**, preserving unique cautions, use cases and historical version claims without inventing new mods or promoting verification. **14 observations remain pending identity resolution.** These annotations are visible in the existing detail cards; original source dates and conflicting claims remain labeled as history. [Reconciliation receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/storage-companion-import-receipt.json). That companion-note pass preserved the then-current 1,935 entries and 42 favorites. The later starred-collection import brings the full catalogue to 2,158 entries and 316 catalogued favorites, without changing the explicit Forever World flags.
+The same collection contained useful notes outside its master view. The follow-on pass attached **118 companion-view observations to 57 already identified catalogue entries**, preserving unique cautions, use cases and historical version claims without inventing new mods or promoting verification. **14 observations remain pending identity resolution.** These annotations are visible in the existing detail cards; original source dates and conflicting claims remain labeled as history. [Reconciliation receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/storage-companion-import-receipt.json). That companion-note pass preserved the then-current 1,935 entries and 42 favorites. The later starred-collection import brings the full catalogue to 2,185 entries and 349 catalogued favorites, without changing the explicit Forever World flags.

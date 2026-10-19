@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**84 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**85 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Content Pack · 2</strong></summary>
@@ -28,7 +28,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Mod · 76</strong></summary>
+<summary><strong>Mod · 77</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -103,6 +103,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Villager Trade Peek](https://curseforge.com/minecraft/mc-mods/villager-trade-peek) | WATCH/TEST 1.20.1 / SERVER-MATCHED / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0464661a2bd57a22) |
 | ★ [Wall-Jump TXF](https://curseforge.com/minecraft/mc-mods/wall-jump-txf) | INSTALL/OPTIONAL 1.20.1 / SERVER-MATCHED / MOVEMENT-STACK TEST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=508e6fa3b0b4d86a) |
 | ★ [Waystones](https://curseforge.com/minecraft/mc-mods/waystones) | INSTALL NOW/TEST 1.20.1 / BACKUP BEFORE REMOVAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=50d47d9cc26d2200) |
+| ★ [WynnAnimated](https://modrinth.com/mod/wynnanimated) | Character animations for Wynncraft | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=929855be4e5ff93b) |
 | [Xaero's Maps: Multiplayer+](https://curseforge.com/minecraft/mc-mods/xaeros-maps-multiplayer-plus) | TEST/WATCH 1.20.1 / SERVER-MATCHED / TRUSTED PRIVATE SERVERS ONLY / BACK UP MAP DATA | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2e2534cc93b14f91) |
 | [Xaero's Minimap](https://curseforge.com/minecraft/mc-mods/xaeros-minimap) | INSTALL NOW 1.20.1 / CLIENT-SAFE BASE / SERVER OPTIONAL / FAIR-PLAY POLICY REVIEW | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=4104f1ef3edf87ef) |
 | [Xaero's World Map](https://curseforge.com/minecraft/mc-mods/xaeros-world-map) | INSTALL NOW 1.20.1 / CLIENT-SAFE BASE / SERVER OPTIONAL / BACK UP LOCAL MAP CACHE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=411b42775e42d79d) |

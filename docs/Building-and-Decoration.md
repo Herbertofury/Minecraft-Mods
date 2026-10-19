@@ -4,7 +4,16 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**75 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**84 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+
+<details>
+<summary><strong>Data Pack · 1</strong></summary>
+
+| Project / target | Purpose | Evidence |
+|---|---|---|
+| ★ [Kaleidoscope Deco](https://modrinth.com/mod/kaleidoscope-deco) | A decorative Datapack targeting newer versions 1.21.5 and above. Add a touch of Fantasy to the World! | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=73c95ed1887473bc) |
+
+</details>
 
 <details>
 <summary><strong>Data Pack · 1</strong></summary>
@@ -16,7 +25,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Mod · 70</strong></summary>
+<summary><strong>Mod · 78</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -65,6 +74,14 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Gooblideco](https://curseforge.com/minecraft-bedrock/addons/gooblideco) | BEDROCK TEST / COZY BUILDING / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=939bce6604877c70) |
 | [Jerry's Colonies \| Build your Civilization](https://curseforge.com/minecraft-bedrock/addons/jerrys-colonies) | BEDROCK ONLY / INSTALL-TEST / BACKUP FIRST / MULTIPLAYER-HIGH-VALUE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=af47a8ac07181088) |
 | [Jurassic Revived](https://modrinth.com/mod/jurassic-revived) | Genetic reconstruction, dinosaur species breeding and fossil machine progression; 0.215.0 includes AI/spawn/feed adjustments. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c9516c614d40d7b3) |
+| ★ [Kaleidoscope Addons](https://modrinth.com/mod/kaleidoscope-addons) | Bring more dolls to Kaleidoscope Doll. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=aef352b98e3fad18) |
+| ★ [Kaleidoscope Cookery](https://curseforge.com/minecraft/mc-mods/kaleidoscope-cookery) | INSTALL/TEST / BACKUP BEFORE REMOVAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=8cb0c173a11ceabb) |
+| ★ [Kaleidoscope Cookery Refabricated](https://modrinth.com/mod/kaleidoscope-cookery-refabricated) | The unofficial fabric continuation for Kaleidoscope Cookery mod | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=ccc06a4fafb1bd97) |
+| ★ [Kaleidoscope Doll](https://modrinth.com/mod/kaleidoscope-doll) | Use the lottery machine to draw various dolls! | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=35d4f65885ffbb00) |
+| ★ [Kaleidoscope Tavern](https://modrinth.com/mod/kaleidoscopetavern) | Focused on tavern-themed content, adding a complete brewing system along with a rich selection of decorative blocks to bring your tavern to life. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=ac303fc3e19c5632) |
+| ★ [Kaleidoscope Tavern Refabricated](https://modrinth.com/mod/kaleidoscope-tavern-refabricated) | The unofficial fabric port for Kaleidoscope Tavern mod | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a85ebea6fbec929e) |
+| ★ [Kaleidoscope World Liquor](https://modrinth.com/mod/kaleidoscope-world-liquor) | This mod adds more alcoholic drinks for the Kaleidoscope Tavern. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=3cdc3433d3c46e4b) |
+| ★ [KaleidoscopeChineseFood](https://modrinth.com/mod/kaleidoscopechinesefood) | Adds more Chinese dishes to Kaleidoscope Cookery. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c79263ce35182adc) |
 | ★ [Legacy: \[Let's Do\] Bakery](https://modrinth.com/mod/lets-do-bakery) | Bake many variations of Bread, Cupcakes and Cakes! Eatable, placeable. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=172628f1f0446764) |
 | ★ [Legacy: \[Let's Do\] Brewery](https://modrinth.com/mod/lets-do-brewery) | Ozapft is! Brau Bier, beiss in a Bretzn – willkomme zum Braufescht! | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=aa68a20b71a4efb0) |
 | ★ [Legacy: \[Let's Do\] Candlelight](https://modrinth.com/mod/lets-do-candlelight) | Ever dreamed of the perfect dinner in Minecraft?  Candlelight Dinner provides almost everything necessary to make it happen. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a27b05c12652a131) |

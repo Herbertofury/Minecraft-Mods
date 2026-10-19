@@ -1,0 +1,58 @@
+[
+  {
+    "catalogue_id": "8cb0c173a11ceabb",
+    "source_page": "https://curseforge.com/minecraft/mc-mods/kaleidoscope-cookery",
+    "modrinth_project_id": "v17FatAc",
+    "shared_source_repository": "https://github.com/KaleidoscopeMods/KaleidoscopeCookery",
+    "checked_utc": "2026-10-19",
+    "method": "Opened the official CurseForge Source link; destination matches the official Modrinth source_url"
+  },
+  {
+    "catalogue_id": "7042a5eea4aa3c52",
+    "source_page": "https://curseforge.com/minecraft/mc-mods/simply-more",
+    "modrinth_project_id": "zhpyD8Y0",
+    "shared_source_repository": "https://github.com/jay-jay0101/Simply-More",
+    "checked_utc": "2026-10-19",
+    "method": "Opened the official CurseForge Source link; destination matches the official Modrinth source_url"
+  },
+  {
+    "catalogue_id": "8e28a1824befdf7d",
+    "source_page": "https://curseforge.com/minecraft/mc-mods/simply-tooltips",
+    "modrinth_project_id": "6avVoBVB",
+    "shared_source_repository": "https://github.com/Sweenus/simplytooltips",
+    "checked_utc": "2026-10-19",
+    "method": "Opened the official CurseForge Source link; destination matches the official Modrinth source_url"
+  },
+  {
+    "catalogue_id": "968d404ed7e35a2b",
+    "source_page": "https://curseforge.com/minecraft/mc-mods/wizards",
+    "modrinth_project_id": "NkGaQMDA",
+    "shared_source_repository": "https://github.com/ZsoltMolnarrr/Wizards",
+    "checked_utc": "2026-10-19",
+    "method": "Opened the official CurseForge Source link; destination matches the official Modrinth source_url"
+  },
+  {
+    "catalogue_id": "0156f6855ca6fbad",
+    "source_page": "https://curseforge.com/minecraft/mc-mods/rogues-and-warriors",
+    "modrinth_project_id": "3MKqoGuP",
+    "shared_source_repository": "https://github.com/ZsoltMolnarrr/Rogues",
+    "checked_utc": "2026-10-19",
+    "method": "Opened the official CurseForge Source link; destination matches the official Modrinth source_url"
+  },
+  {
+    "catalogue_id": "ddf9cee651063b5f",
+    "source_page": "https://curseforge.com/minecraft/mc-mods/spell-engine",
+    "modrinth_project_id": "XvoWJaA2",
+    "shared_source_repository": "https://github.com/ZsoltMolnarrr/SpellEngine",
+    "checked_utc": "2026-10-19",
+    "method": "Opened the official CurseForge Source link; destination matches the official Modrinth source_url"
+  },
+  {
+    "catalogue_id": "6874b9af5e30714f",
+    "source_page": "https://curseforge.com/minecraft/mc-mods/armory-rpg-series",
+    "modrinth_project_id": "PJvJUdGw",
+    "shared_source_repository": "https://github.com/ZsoltMolnarrr/Armory",
+    "checked_utc": "2026-10-19",
+    "method": "Opened the official CurseForge Source link; destination matches the official Modrinth source_url"
+  }
+]

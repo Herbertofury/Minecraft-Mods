@@ -1,0 +1,1386 @@
+{
+  "YSBB-projects": {
+    "url": "https://api.modrinth.com/v2/user/YSBB/projects",
+    "checked_utc": "2026-10-19",
+    "response_sha256": "81cfdb321c583b227e8fdd5057cbe40ae7671a726db05c4f08c2f6f92b4b6b9e",
+    "scope": "Public creator-project identity; no exact-release or native certification",
+    "projects": [
+      {
+        "id": "vQLjjxNs",
+        "slug": "kaleidoscope-doll",
+        "title": "Kaleidoscope Doll",
+        "project_type": "mod",
+        "source_url": "https://github.com/TartaricAcid/KaleidoscopeDoll",
+        "status": "approved",
+        "team": "1KDkoJ7m",
+        "description": "Use the lottery machine to draw various dolls!",
+        "categories": [
+          "decoration"
+        ],
+        "additional_categories": []
+      },
+      {
+        "id": "FRT0g2ye",
+        "slug": "kaleidoscope-deco",
+        "title": "Kaleidoscope Deco",
+        "project_type": "mod",
+        "source_url": "https://github.com/KaleidoscopeMods/KaleidoscopeDeco",
+        "status": "approved",
+        "team": "WBZQMXUA",
+        "description": "A decorative Datapack targeting newer versions 1.21.5 and above. Add a touch of Fantasy to the World!",
+        "categories": [
+          "decoration"
+        ],
+        "additional_categories": [
+          "food"
+        ]
+      },
+      {
+        "id": "v17FatAc",
+        "slug": "kaleidoscope-cookery",
+        "title": "Kaleidoscope Cookery",
+        "project_type": "mod",
+        "source_url": "https://github.com/KaleidoscopeMods/KaleidoscopeCookery",
+        "status": "approved",
+        "team": "P63Bq8ve",
+        "description": "Cook all kinds of delicious food!",
+        "categories": [
+          "decoration",
+          "food"
+        ],
+        "additional_categories": []
+      },
+      {
+        "id": "Ct11Kuii",
+        "slug": "kaleidoscope-cookery-refabricated",
+        "title": "Kaleidoscope Cookery Refabricated",
+        "project_type": "mod",
+        "source_url": "https://github.com/NightEpiphany/KaleidoscopeCookery",
+        "status": "approved",
+        "team": "XWHuZ7fB",
+        "description": "The unofficial fabric continuation for Kaleidoscope Cookery mod",
+        "categories": [
+          "decoration",
+          "food"
+        ],
+        "additional_categories": []
+      },
+      {
+        "id": "UMblNdlF",
+        "slug": "kaleidoscope-tavern-refabricated",
+        "title": "Kaleidoscope Tavern Refabricated",
+        "project_type": "mod",
+        "source_url": "https://github.com/NightEpiphany/KaleidoscopeTavern-Refabricated",
+        "status": "approved",
+        "team": "VFoZOkiD",
+        "description": "The unofficial fabric port for Kaleidoscope Tavern mod",
+        "categories": [
+          "decoration",
+          "food"
+        ],
+        "additional_categories": []
+      },
+      {
+        "id": "r9RZvhiJ",
+        "slug": "kaleidoscopetavern",
+        "title": "Kaleidoscope Tavern",
+        "project_type": "mod",
+        "source_url": "https://github.com/KaleidoscopeMods/KaleidoscopeTavern",
+        "status": "approved",
+        "team": "X00xxRXE",
+        "description": "Focused on tavern-themed content, adding a complete brewing system along with a rich selection of decorative blocks to bring your tavern to life.",
+        "categories": [
+          "decoration",
+          "food"
+        ],
+        "additional_categories": []
+      }
+    ]
+  },
+  "Sweenus-projects": {
+    "url": "https://api.modrinth.com/v2/user/Sweenus/projects",
+    "checked_utc": "2026-10-19",
+    "response_sha256": "842037724946019a75cc5c88e650b726d6b4f8d5929002dda2f93d7b4d2d1a12",
+    "scope": "Public creator-project identity; no exact-release or native certification",
+    "projects": [
+      {
+        "id": "zhpyD8Y0",
+        "slug": "simplymore",
+        "title": "Simply More",
+        "project_type": "mod",
+        "source_url": "https://github.com/jay-jay0101/Simply-More",
+        "status": "approved",
+        "team": "OwIn0ooi",
+        "description": "An addon to Simply Swords by Sweenus which adds additional Weapon Types and Unique Weapons.",
+        "categories": [
+          "adventure",
+          "equipment",
+          "magic"
+        ],
+        "additional_categories": []
+      },
+      {
+        "id": "45g5CJFm",
+        "slug": "wynnanimated",
+        "title": "WynnAnimated",
+        "project_type": "mod",
+        "source_url": "https://github.com/Sweenus/WynnAnimated",
+        "status": "approved",
+        "team": "juNGNiJ7",
+        "description": "Character animations for Wynncraft",
+        "categories": [
+          "game-mechanics",
+          "magic"
+        ],
+        "additional_categories": []
+      },
+      {
+        "id": "lkqOlxmM",
+        "slug": "simply-bows",
+        "title": "Simply Bows",
+        "project_type": "mod",
+        "source_url": "https://github.com/Sweenus/simplybows/tree/master",
+        "status": "approved",
+        "team": "LP9I7Ukl",
+        "description": "Adds unique bows with powerful abilities",
+        "categories": [
+          "adventure",
+          "equipment",
+          "magic"
+        ],
+        "additional_categories": []
+      },
+      {
+        "id": "3X4CW8NL",
+        "slug": "simply-swords-vanilla-style",
+        "title": "Simply Swords - Vanilla Style",
+        "project_type": "resourcepack",
+        "source_url": "https://github.com/Konsyliarz42/simplyswords-vanilla-style/tree/v1.1.0",
+        "status": "approved",
+        "team": "8Z6PnDLv",
+        "description": "Change look of weapons from Simply Swords mod",
+        "categories": [
+          "16x",
+          "modded",
+          "vanilla-like"
+        ],
+        "additional_categories": [
+          "128x",
+          "32x",
+          "combat",
+          "equipment",
+          "models"
+        ]
+      },
+      {
+        "id": "bK3Ubu9p",
+        "slug": "simply-swords",
+        "title": "Simply Swords",
+        "project_type": "mod",
+        "source_url": "https://github.com/Sweenus/SimplySwords",
+        "status": "approved",
+        "team": "G0gE0pDJ",
+        "description": "Adds Spears, Glaives, Chakrams, Katanas, Greathammer/axes, Rapiers, and many more weapons!",
+        "categories": [
+          "equipment",
+          "magic"
+        ],
+        "additional_categories": []
+      },
+      {
+        "id": "6avVoBVB",
+        "slug": "simply-tooltips",
+        "title": "Simply Tooltips",
+        "project_type": "mod",
+        "source_url": "https://github.com/Sweenus/simplytooltips",
+        "status": "approved",
+        "team": "oKhrVVSw",
+        "description": "Modern data driven tooltip rendering",
+        "categories": [
+          "library",
+          "utility"
+        ],
+        "additional_categories": []
+      },
+      {
+        "id": "lyvwxqAy",
+        "slug": "simply-skills",
+        "title": "Simply Skills",
+        "project_type": "mod",
+        "source_url": "https://github.com/Sweenus/SimplySkills",
+        "status": "approved",
+        "team": "IbeQpuaJ",
+        "description": "A comprehensive skill tree mod with a focus on combat specialisations (classes)",
+        "categories": [
+          "magic"
+        ],
+        "additional_categories": [
+          "adventure",
+          "game-mechanics"
+        ]
+      }
+    ]
+  },
+  "cyber-projects": {
+    "url": "https://api.modrinth.com/v2/user/cyber/projects",
+    "checked_utc": "2026-10-19",
+    "response_sha256": "b2ee10a960b0661b0b4c21f47ad463625697f9bb239cffb9b7f461458b52626c",
+    "scope": "Public creator-project identity; no exact-release or native certification",
+    "projects": [
+      {
+        "id": "OpRu0tix",
+        "slug": "fresh-food-vr",
+        "title": "Fresh Food VR",
+        "project_type": "resourcepack",
+        "source_url": "https://github.com/demistorm/fresh-food-vr",
+        "status": "approved",
+        "team": "FbLD7EIn",
+        "description": "A resource pack that adds 3D food models and eating animations tailored for Vivecraft!",
+        "categories": [
+          "items",
+          "models",
+          "simplistic"
+        ],
+        "additional_categories": [
+          "16x",
+          "vanilla-like"
+        ]
+      },
+      {
+        "id": "rDe65SM5",
+        "slug": "fresh-end-crystal-x-punchy",
+        "title": "Fresh End Crystal x Punchy!",
+        "project_type": "resourcepack",
+        "source_url": null,
+        "status": "approved",
+        "team": "CcYNnKzm",
+        "description": "A Punchy! resource pack that adds 3D End Crystal Model and Animations.",
+        "categories": [
+          "items",
+          "modded",
+          "models"
+        ],
+        "additional_categories": [
+          "16x",
+          "vanilla-like"
+        ]
+      },
+      {
+        "id": "koLlIzIB",
+        "slug": "fresh-seeds",
+        "title": "Fresh Seeds",
+        "project_type": "resourcepack",
+        "source_url": null,
+        "status": "approved",
+        "team": "BOhRchNB",
+        "description": "A recreation of the bundled seed models that are present in Actions & Stuff",
+        "categories": [
+          "gui",
+          "items",
+          "vanilla-like"
+        ],
+        "additional_categories": [
+          "models"
+        ]
+      },
+      {
+        "id": "14j9H0uo",
+        "slug": "fresh-buckets-vr",
+        "title": "Fresh Buckets VR",
+        "project_type": "resourcepack",
+        "source_url": "https://github.com/demistorm/Fresh-Buckets-VR",
+        "status": "approved",
+        "team": "hyi91SHD",
+        "description": "Resource pack that adds 3D bucket models tailored for Vivecraft!",
+        "categories": [
+          "items",
+          "models",
+          "simplistic"
+        ],
+        "additional_categories": [
+          "16x",
+          "vanilla-like"
+        ]
+      },
+      {
+        "id": "XB4qI5ou",
+        "slug": "fresh-flowers-and-plants-vr",
+        "title": "Fresh Flowers and Plants VR",
+        "project_type": "resourcepack",
+        "source_url": "https://github.com/demistorm/Fresh-Flowers-and-Plants-VR",
+        "status": "approved",
+        "team": "zROeVa8b",
+        "description": "Resource Pack adding 3D plant and flowers models tailored for Vivecraft!",
+        "categories": [
+          "items",
+          "models",
+          "simplistic"
+        ],
+        "additional_categories": [
+          "16x",
+          "vanilla-like"
+        ]
+      },
+      {
+        "id": "BZUceKlq",
+        "slug": "fresh-paintings",
+        "title": "Fresh Paintings",
+        "project_type": "resourcepack",
+        "source_url": "https://github.com/iamcyberia/fresh-paintings",
+        "status": "approved",
+        "team": "gg6Or4sw",
+        "description": "A Minecraft resource pack that adds 3D paintings and item frames models!",
+        "categories": [
+          "gui",
+          "items",
+          "vanilla-like"
+        ],
+        "additional_categories": [
+          "16x",
+          "models",
+          "tweaks"
+        ]
+      },
+      {
+        "id": "jBYtPpyJ",
+        "slug": "jetpack-bees-fresh-animations",
+        "title": "Jetpack Bees [Fresh Animations]",
+        "project_type": "resourcepack",
+        "source_url": null,
+        "status": "approved",
+        "team": "krMiHfR2",
+        "description": "We gave the Bees Jetpacks!!!",
+        "categories": [
+          "16x",
+          "cursed",
+          "vanilla-like"
+        ],
+        "additional_categories": [
+          "models"
+        ]
+      },
+      {
+        "id": "7cebigY3",
+        "slug": "fresh-music-discs-vr",
+        "title": "Fresh Music Discs VR",
+        "project_type": "resourcepack",
+        "source_url": "https://github.com/demistorm/Fresh-Music-Discs-VR",
+        "status": "approved",
+        "team": "bArY6z1x",
+        "description": "A resource pack that adds 3D music discs tailored for Vivecraft!",
+        "categories": [
+          "items",
+          "models",
+          "simplistic"
+        ],
+        "additional_categories": [
+          "16x",
+          "vanilla-like"
+        ]
+      },
+      {
+        "id": "iiESLHPz",
+        "slug": "create-fresh-food",
+        "title": "Create: Fresh Items",
+        "project_type": "resourcepack",
+        "source_url": null,
+        "status": "approved",
+        "team": "xeL4wxaD",
+        "description": "An addon for cyberia's fresh food and the create mod",
+        "categories": [
+          "items",
+          "modded",
+          "models"
+        ],
+        "additional_categories": [
+          "16x",
+          "decoration",
+          "vanilla-like"
+        ]
+      },
+      {
+        "id": "oX6d6nfH",
+        "slug": "glowing-fresh-3d-armor-stands",
+        "title": "Glowing Fresh 3D Armor Stands",
+        "project_type": "resourcepack",
+        "source_url": null,
+        "status": "approved",
+        "team": "A4oKK05p",
+        "description": "3D NPC armor stands! Rename/renamable variants, Punchy! compatibility and 3D armor stand items for all rename variants.",
+        "categories": [
+          "16x",
+          "entities",
+          "items"
+        ],
+        "additional_categories": []
+      },
+      {
+        "id": "wLGXn5MK",
+        "slug": "fresh-ores-and-ingots-vr",
+        "title": "Fresh Ores and Ingots VR",
+        "project_type": "resourcepack",
+        "source_url": "https://github.com/demistorm/Fresh-Ores-and-Ingots-VR",
+        "status": "approved",
+        "team": "nWW7zNER",
+        "description": "Resource pack adding 3D models for ingots, ores, and minerals tailored for Vivecraft!",
+        "categories": [
+          "items",
+          "simplistic",
+          "vanilla-like"
+        ],
+        "additional_categories": [
+          "16x",
+          "models"
+        ]
+      },
+      {
+        "id": "wyzOam9h",
+        "slug": "fresh-flowers-and-plants",
+        "title": "Fresh Flowers and Plants",
+        "project_type": "resourcepack",
+        "source_url": null,
+        "status": "approved",
+        "team": "ppMoOUtT",
+        "description": "A Minecraft resource pack that adds 3D plant and flowers models!",
+        "categories": [
+          "items",
+          "models",
+          "vanilla-like"
+        ],
+        "additional_categories": [
+          "16x",
+          "gui"
+        ]
+      },
+      {
+        "id": "pPquNUr6",
+        "slug": "fresh-paintings-vr",
+        "title": "Fresh Paintings VR",
+        "project_type": "resourcepack",
+        "source_url": "https://github.com/demistorm/Fresh-Paintings-VR",
+        "status": "approved",
+        "team": "mKjFV3e8",
+        "description": "Resource Pack adding 3D paintings and item frame models tailored for Vivecraft!",
+        "categories": [
+          "items",
+          "models",
+          "simplistic"
+        ],
+        "additional_categories": [
+          "16x",
+          "vanilla-like"
+        ]
+      },
+      {
+        "id": "qdNj7A1T",
+        "slug": "fresh-music-discs",
+        "title": "Fresh Music Discs",
+        "project_type": "resourcepack",
+        "source_url": "https://github.com/iamcyberia/fresh-music-discs",
+        "status": "approved",
+        "team": "QrDe4Obd",
+        "description": "A Minecraft resource pack that adds 3D music disc models!",
+        "categories": [
+          "gui",
+          "items",
+          "models"
+        ],
+        "additional_categories": [
+          "16x",
+          "simplistic",
+          "tweaks",
+          "vanilla-like"
+        ]
+      },
+      {
+        "id": "UoLAbzII",
+        "slug": "fresh-food",
+        "title": "Fresh Food",
+        "project_type": "resourcepack",
+        "source_url": "https://github.com/iamcyberia/fresh-food",
+        "status": "approved",
+        "team": "bve7Dgly",
+        "description": "A Minecraft resource pack that adds 3D food models and eating animations!",
+        "categories": [
+          "items",
+          "models",
+          "vanilla-like"
+        ],
+        "additional_categories": [
+          "16x",
+          "realistic"
+        ]
+      },
+      {
+        "id": "K9zQ68Mm",
+        "slug": "better-fresher-3d-books-vr",
+        "title": "Better, Fresher 3D Books VR",
+        "project_type": "resourcepack",
+        "source_url": "https://github.com/demistorm/Better-Fresher-3D-Books-VR",
+        "status": "approved",
+        "team": "OHXI6wQn",
+        "description": "A resource pack that adds 3D book models and individual enchanted book textures tailored for Vivecraft!",
+        "categories": [
+          "items",
+          "models",
+          "simplistic"
+        ],
+        "additional_categories": [
+          "16x",
+          "vanilla-like"
+        ]
+      },
+      {
+        "id": "PuwwhnS7",
+        "slug": "bray-cyber-3d-enchanted-books",
+        "title": "Bray & Cyber's Better, Fresher 3D Books",
+        "project_type": "resourcepack",
+        "source_url": null,
+        "status": "approved",
+        "team": "s85cJV1y",
+        "description": "A collaboration pack between Bray and Cyber to make 3D book models for all enchanted book variations!",
+        "categories": [
+          "16x",
+          "items",
+          "vanilla-like"
+        ],
+        "additional_categories": []
+      },
+      {
+        "id": "paf0m7bo",
+        "slug": "fresh-ores-and-ingots",
+        "title": "Fresh Ores and Ingots",
+        "project_type": "resourcepack",
+        "source_url": "https://github.com/iamcyberia/fresh-ores-and-ingots",
+        "status": "approved",
+        "team": "yAPn43AD",
+        "description": "Give ingots, bricks, and ores a 3D makeover for a nicer, more detailed look.",
+        "categories": [
+          "items",
+          "models",
+          "vanilla-like"
+        ],
+        "additional_categories": [
+          "16x",
+          "gui"
+        ]
+      },
+      {
+        "id": "Sb5mtr2w",
+        "slug": "fresh-buckets",
+        "title": "Fresh Buckets",
+        "project_type": "resourcepack",
+        "source_url": null,
+        "status": "approved",
+        "team": "gnIYeKR2",
+        "description": "A Minecraft resource pack that adds 3D bucket models!",
+        "categories": [
+          "16x",
+          "items",
+          "models"
+        ],
+        "additional_categories": [
+          "tweaks",
+          "vanilla-like"
+        ]
+      }
+    ]
+  },
+  "BmtUltra-projects": {
+    "url": "https://api.modrinth.com/v2/user/BmtUltra/projects",
+    "checked_utc": "2026-10-19",
+    "response_sha256": "02be6eba04014f739dfa4cc49ce2f89703dd7eee5c9014296b4f49fd71c322d0",
+    "scope": "Public creator-project identity; no exact-release or native certification",
+    "projects": [
+      {
+        "id": "eGawC8TJ",
+        "slug": "dream-enchantment",
+        "title": "Dream Enchantment",
+        "project_type": "mod",
+        "source_url": null,
+        "status": "approved",
+        "team": "vfZPTkMv",
+        "description": "Adds custom enchantments to Minecraft.",
+        "categories": [
+          "magic"
+        ],
+        "additional_categories": [
+          "equipment",
+          "utility"
+        ]
+      },
+      {
+        "id": "8GKUHBM6",
+        "slug": "kaleidoscope-end",
+        "title": "Kaleidoscope End",
+        "project_type": "mod",
+        "source_url": null,
+        "status": "approved",
+        "team": "osefEUIg",
+        "description": "Brought an expansion about the End to Kaleidoscope Cookery.",
+        "categories": [
+          "food"
+        ],
+        "additional_categories": [
+          "game-mechanics",
+          "utility"
+        ]
+      },
+      {
+        "id": "nr47S4Nz",
+        "slug": "compostbin",
+        "title": "Compostbin",
+        "project_type": "mod",
+        "source_url": null,
+        "status": "approved",
+        "team": "kQqAOpas",
+        "description": "Added a useful block compostbin.",
+        "categories": [
+          "utility"
+        ],
+        "additional_categories": [
+          "food",
+          "storage"
+        ]
+      },
+      {
+        "id": "di8feIAZ",
+        "slug": "convenient-malum",
+        "title": "Convenient Malum",
+        "project_type": "mod",
+        "source_url": "https://github.com/BmtUltra/Convenient-Malum",
+        "status": "approved",
+        "team": "e9lTrknD",
+        "description": "Convenient Malum is a practical mod that adds some useful features to the Malum mod.",
+        "categories": [
+          "magic",
+          "storage",
+          "utility"
+        ],
+        "additional_categories": []
+      },
+      {
+        "id": "cuIIkdlx",
+        "slug": "kaleidoscopechinesefood",
+        "title": "KaleidoscopeChineseFood",
+        "project_type": "mod",
+        "source_url": null,
+        "status": "approved",
+        "team": "4lPKiFP6",
+        "description": "Adds more Chinese dishes to Kaleidoscope Cookery.",
+        "categories": [
+          "decoration",
+          "food"
+        ],
+        "additional_categories": []
+      },
+      {
+        "id": "O4YuhMsI",
+        "slug": "kaleidoscope-nether",
+        "title": "Kaleidoscope Nether",
+        "project_type": "mod",
+        "source_url": null,
+        "status": "approved",
+        "team": "TcOakbHz",
+        "description": "Brought an expansion about the Nether to Kaleidoscope Cookery.",
+        "categories": [
+          "food"
+        ],
+        "additional_categories": [
+          "management",
+          "utility"
+        ]
+      },
+      {
+        "id": "ejnAyt7b",
+        "slug": "garden-farming",
+        "title": "Garden Farming",
+        "project_type": "mod",
+        "source_url": "https://github.com/BmtUltra/Garden-Farming",
+        "status": "approved",
+        "team": "Hj35WBXY",
+        "description": "adding some items and blocks related to agriculture.",
+        "categories": [
+          "utility"
+        ],
+        "additional_categories": [
+          "food",
+          "management",
+          "storage"
+        ]
+      },
+      {
+        "id": "uSH79VEy",
+        "slug": "kaleidoscope-twilight",
+        "title": "Kaleidoscope Twilight",
+        "project_type": "mod",
+        "source_url": null,
+        "status": "approved",
+        "team": "pMq4UzI4",
+        "description": "Brought an expansion about the The Twilight Forest to Kaleidoscope Cookery.",
+        "categories": [
+          "food"
+        ],
+        "additional_categories": [
+          "utility"
+        ]
+      },
+      {
+        "id": "Xf4sWprj",
+        "slug": "old-dream-story-cute-cat",
+        "title": "Old Dream Story \u2606 Cute Cat",
+        "project_type": "resourcepack",
+        "source_url": null,
+        "status": "approved",
+        "team": "XU8PbSU0",
+        "description": "A kit of cute cat textures that have changed the recipe book",
+        "categories": [
+          "gui",
+          "simplistic"
+        ],
+        "additional_categories": []
+      },
+      {
+        "id": "L0iBjc0S",
+        "slug": "dream-stone",
+        "title": "Dream Stone",
+        "project_type": "mod",
+        "source_url": "https://github.com/BmtUltra/Dream-Stone",
+        "status": "approved",
+        "team": "f561en6I",
+        "description": "Adds the Dream Stone - an item that can make tools and equipment unbreakable in an anvil.",
+        "categories": [
+          "magic",
+          "utility"
+        ],
+        "additional_categories": []
+      },
+      {
+        "id": "ePVLCraM",
+        "slug": "kaleidoscope-world-liquor",
+        "title": "Kaleidoscope World Liquor",
+        "project_type": "mod",
+        "source_url": null,
+        "status": "approved",
+        "team": "9kiCx3iE",
+        "description": "This mod adds more alcoholic drinks for the Kaleidoscope Tavern.",
+        "categories": [
+          "decoration",
+          "food"
+        ],
+        "additional_categories": [
+          "utility"
+        ]
+      },
+      {
+        "id": "Fv5Ox14V",
+        "slug": "kaleidoscope-addons",
+        "title": "Kaleidoscope Addons",
+        "project_type": "mod",
+        "source_url": null,
+        "status": "approved",
+        "team": "V5wHrmOU",
+        "description": "Bring more dolls to Kaleidoscope Doll.",
+        "categories": [
+          "decoration"
+        ],
+        "additional_categories": [
+          "utility"
+        ]
+      },
+      {
+        "id": "zU7VvEmB",
+        "slug": "dream-relics",
+        "title": "Dream Relics",
+        "project_type": "mod",
+        "source_url": null,
+        "status": "approved",
+        "team": "jQXWSw2n",
+        "description": "Dream Relics is a mod that adds unique accessories and items to Minecraft.",
+        "categories": [
+          "utility"
+        ],
+        "additional_categories": [
+          "equipment",
+          "magic"
+        ]
+      },
+      {
+        "id": "XYCLPdQF",
+        "slug": "dark-coffe-curios",
+        "title": "Dark Coffe Curios",
+        "project_type": "resourcepack",
+        "source_url": null,
+        "status": "approved",
+        "team": "N8tuT2ky",
+        "description": "A warm and dark reimagination of the Curious in a fancy, coffee inspired palette",
+        "categories": [
+          "gui",
+          "themed",
+          "utility"
+        ],
+        "additional_categories": []
+      },
+      {
+        "id": "laatdxjH",
+        "slug": "cornucopia-reborn",
+        "title": "Cornucopia Reborn",
+        "project_type": "mod",
+        "source_url": "https://github.com/BmtUltra/Cornucopia/tree/1.20.1",
+        "status": "approved",
+        "team": "cltm5ltb",
+        "description": "This is the sequel to Cornucopia.",
+        "categories": [
+          "food",
+          "storage",
+          "utility"
+        ],
+        "additional_categories": []
+      },
+      {
+        "id": "Xm1eP54z",
+        "slug": "kaleidoscope-compat",
+        "title": "Kaleidoscope Compat",
+        "project_type": "mod",
+        "source_url": "https://github.com/BmtUltra/Kaleidoscope-Compat",
+        "status": "approved",
+        "team": "bkP1rvV8",
+        "description": "Provide compatibility for Kaleidoscope.",
+        "categories": [
+          "utility"
+        ],
+        "additional_categories": [
+          "food",
+          "game-mechanics"
+        ]
+      },
+      {
+        "id": "DDAQTyLa",
+        "slug": "dark-coffe-jei",
+        "title": "Dark Coffe JEI",
+        "project_type": "resourcepack",
+        "source_url": null,
+        "status": "approved",
+        "team": "9k9h5oQX",
+        "description": "A warm and dark reimagination of the JEI in a fancy, coffee inspired palette",
+        "categories": [
+          "gui",
+          "themed",
+          "utility"
+        ],
+        "additional_categories": []
+      }
+    ]
+  },
+  "ZsoltMolnarrr-projects": {
+    "url": "https://api.modrinth.com/v2/user/ZsoltMolnarrr/projects",
+    "checked_utc": "2026-10-19",
+    "response_sha256": "88e9baa6d7f6dd6a246db9126fb61e416b6f893c3d5e0afdc47324388cba7413",
+    "scope": "Public creator-project identity; no exact-release or native certification",
+    "projects": [
+      {
+        "id": "sNJAIjUm",
+        "slug": "jewelry",
+        "title": "Jewelry (RPG Series)",
+        "project_type": "mod",
+        "source_url": "https://github.com/ZsoltMolnarrr/Jewelry",
+        "status": "approved",
+        "team": "blhWC7D2",
+        "description": "\ud83d\udc8d Find precious gems deep down, and craft them into powerful jewelry!",
+        "categories": [
+          "adventure",
+          "equipment",
+          "magic"
+        ],
+        "additional_categories": [
+          "worldgen"
+        ]
+      },
+      {
+        "id": "QgooUXAJ",
+        "slug": "archers",
+        "title": "Archers (RPG Series)",
+        "project_type": "mod",
+        "source_url": "https://github.com/ZsoltMolnarrr/Archers",
+        "status": "approved",
+        "team": "fxvOEILN",
+        "description": "\ud83c\udff9 Draw, Release, Conquer - Master the art of Archery!",
+        "categories": [
+          "adventure",
+          "equipment",
+          "game-mechanics"
+        ],
+        "additional_categories": [
+          "magic",
+          "worldgen"
+        ]
+      },
+      {
+        "id": "PJvJUdGw",
+        "slug": "armory-rpg-series",
+        "title": "Armory (RPG Series)",
+        "project_type": "mod",
+        "source_url": "https://github.com/ZsoltMolnarrr/Armory",
+        "status": "approved",
+        "team": "us9Hmcs4",
+        "description": "\ud83d\udc51 Epic armor sets, with unique designs and set bonuses.",
+        "categories": [
+          "adventure",
+          "equipment",
+          "magic"
+        ],
+        "additional_categories": []
+      },
+      {
+        "id": "FxXkHaLe",
+        "slug": "paladins-and-priests",
+        "title": "Paladins & Priests (RPG Series)",
+        "project_type": "mod",
+        "source_url": "https://github.com/ZsoltMolnarrr/Paladins",
+        "status": "approved",
+        "team": "x1kwxTGx",
+        "description": "\u2728 Protect and heal your friends as a Paladin or a Priest",
+        "categories": [
+          "adventure",
+          "equipment",
+          "magic"
+        ],
+        "additional_categories": [
+          "game-mechanics",
+          "worldgen"
+        ]
+      },
+      {
+        "id": "ilvNBzFn",
+        "slug": "critical-strike",
+        "title": "Critical Strike",
+        "project_type": "mod",
+        "source_url": "https://github.com/ZsoltMolnarrr/Critical-Strike",
+        "status": "approved",
+        "team": "BVzXyoDW",
+        "description": "\ud83c\udf40 Chance based critical hits for melee and ranged attacks!",
+        "categories": [
+          "adventure",
+          "equipment",
+          "game-mechanics"
+        ],
+        "additional_categories": [
+          "library",
+          "magic"
+        ]
+      },
+      {
+        "id": "8ooWzSQP",
+        "slug": "spell-power",
+        "title": "Spell Power Attributes",
+        "project_type": "mod",
+        "source_url": "https://github.com/ZsoltMolnarrr/SpellPower",
+        "status": "approved",
+        "team": "X228bzUD",
+        "description": "\ud83d\udd2e Spell Power entity attributes with related status effects and enchantments",
+        "categories": [
+          "library",
+          "magic"
+        ],
+        "additional_categories": [
+          "adventure",
+          "game-mechanics"
+        ]
+      },
+      {
+        "id": "EivZOK5a",
+        "slug": "tiny-config",
+        "title": "Tiny Config",
+        "project_type": "mod",
+        "source_url": "https://github.com/ZsoltMolnarrr/TinyConfig",
+        "status": "approved",
+        "team": "FxKMKEs6",
+        "description": "A very little config lib, powered by GSON",
+        "categories": [
+          "library"
+        ],
+        "additional_categories": []
+      },
+      {
+        "id": "XvoWJaA2",
+        "slug": "spell-engine",
+        "title": "Spell Engine",
+        "project_type": "mod",
+        "source_url": "https://github.com/ZsoltMolnarrr/SpellEngine",
+        "status": "approved",
+        "team": "5yVzRQ7h",
+        "description": "\ud83e\ude84 Data driven magic library",
+        "categories": [
+          "game-mechanics",
+          "library",
+          "magic"
+        ],
+        "additional_categories": []
+      },
+      {
+        "id": "bj4a8NjJ",
+        "slug": "village-taverns",
+        "title": "Village Taverns (RPG Series)",
+        "project_type": "mod",
+        "source_url": "https://github.com/ZsoltMolnarrr/Taverns",
+        "status": "approved",
+        "team": "SnQjVyQ4",
+        "description": "\ud83c\udf7a Find cozy taverns in villages, have a drink, and maybe some rest.",
+        "categories": [
+          "adventure",
+          "magic",
+          "worldgen"
+        ],
+        "additional_categories": []
+      },
+      {
+        "id": "3MKqoGuP",
+        "slug": "rogues-and-warriors",
+        "title": "Rogues & Warriors (RPG Series)",
+        "project_type": "mod",
+        "source_url": "https://github.com/ZsoltMolnarrr/Rogues",
+        "status": "approved",
+        "team": "ziE81I4i",
+        "description": "\ud83d\udde1\ufe0f Silent Blades, Mighty Blows - Dominate with martial skills!",
+        "categories": [
+          "adventure",
+          "equipment",
+          "magic"
+        ],
+        "additional_categories": [
+          "game-mechanics",
+          "worldgen"
+        ]
+      },
+      {
+        "id": "5sy6g3kz",
+        "slug": "better-combat",
+        "title": "Better Combat",
+        "project_type": "mod",
+        "source_url": "https://github.com/ZsoltMolnarrr/BetterCombat",
+        "status": "approved",
+        "team": "fVvaiaa2",
+        "description": "\u2694\ufe0f Easy, spectacular and fun melee combat system from Minecraft Dungeons.",
+        "categories": [
+          "adventure",
+          "equipment",
+          "library"
+        ],
+        "additional_categories": [
+          "game-mechanics"
+        ]
+      },
+      {
+        "id": "MhfKWFVm",
+        "slug": "enchant-limiter",
+        "title": "Enchant Limiter (RPG Tweaks)",
+        "project_type": "mod",
+        "source_url": "https://github.com/ZsoltMolnarrr/Enchant-Limiter",
+        "status": "approved",
+        "team": "tBLuqYFz",
+        "description": "Limit the number of enchantments on an item.",
+        "categories": [
+          "game-mechanics",
+          "magic",
+          "utility"
+        ],
+        "additional_categories": [
+          "adventure",
+          "equipment",
+          "library"
+        ]
+      },
+      {
+        "id": "73QpzsIN",
+        "slug": "attribute-icons-rpg-series",
+        "title": "Attribute Icons (RPG Series)",
+        "project_type": "resourcepack",
+        "source_url": null,
+        "status": "approved",
+        "team": "LOLuYOzK",
+        "description": "Icons embedded in attribute translations",
+        "categories": [
+          "combat",
+          "equipment",
+          "gui"
+        ],
+        "additional_categories": [
+          "16x",
+          "fonts",
+          "items",
+          "modded"
+        ]
+      },
+      {
+        "id": "XIpMGI6r",
+        "slug": "gazebos",
+        "title": "Gazebos (RPG Series)",
+        "project_type": "mod",
+        "source_url": "https://github.com/ZsoltMolnarrr/Gazebo",
+        "status": "approved",
+        "team": "mpCiHK0E",
+        "description": "\u26f2\ufe0f Village structures hosting small spell libraries",
+        "categories": [
+          "adventure",
+          "magic",
+          "worldgen"
+        ],
+        "additional_categories": []
+      },
+      {
+        "id": "BDQucwF0",
+        "slug": "relics-rpg",
+        "title": "Relics (RPG Series)",
+        "project_type": "mod",
+        "source_url": "https://github.com/ZsoltMolnarrr/Relics",
+        "status": "approved",
+        "team": "8cFB1WNq",
+        "description": "\ud83c\udf96 Unleash your true potential with powerful trinkets! \ud83d\udd2e",
+        "categories": [
+          "adventure",
+          "equipment",
+          "magic"
+        ],
+        "additional_categories": [
+          "game-mechanics"
+        ]
+      },
+      {
+        "id": "HWQeS7qe",
+        "slug": "sensible-survival",
+        "title": "Sensible Survival (RPG Tweaks)",
+        "project_type": "mod",
+        "source_url": "https://github.com/Daedelus-Workshop/Sensible-Survival",
+        "status": "approved",
+        "team": "kWyZddQ8",
+        "description": "Durability loss, repair cost, experience sharing - fixed by one mod - all configurable",
+        "categories": [
+          "adventure",
+          "equipment",
+          "game-mechanics"
+        ],
+        "additional_categories": [
+          "utility"
+        ]
+      },
+      {
+        "id": "2ygSk5sW",
+        "slug": "hunger-tweaks",
+        "title": "Hunger Tweaks (RPG Tweaks)",
+        "project_type": "mod",
+        "source_url": "https://github.com/ZsoltMolnarrr/Hunger-Tweaks",
+        "status": "approved",
+        "team": "vIeGfI9V",
+        "description": "Reduces exhaust, but also natural regeneration.",
+        "categories": [
+          "adventure",
+          "food"
+        ],
+        "additional_categories": []
+      },
+      {
+        "id": "WsyCKVoz",
+        "slug": "quest-items",
+        "title": "Quest Items",
+        "project_type": "mod",
+        "source_url": "https://github.com/ZsoltMolnarrr/Quest-Items",
+        "status": "approved",
+        "team": "AFGX2i86",
+        "description": "Miscellaneous items of various themes, for quest objectives",
+        "categories": [
+          "adventure"
+        ],
+        "additional_categories": [
+          "cursed",
+          "minigame",
+          "utility"
+        ]
+      },
+      {
+        "id": "onz2NN2n",
+        "slug": "armor-model-api",
+        "title": "Armor Model API",
+        "project_type": "mod",
+        "source_url": "https://github.com/FabricExtras/ArmorModelAPI",
+        "status": "approved",
+        "team": "SygOx3Lp",
+        "description": "Renders Bedrock/GeckoLib geo armor models through the vanilla armor pipeline.",
+        "categories": [
+          "equipment",
+          "library"
+        ],
+        "additional_categories": []
+      },
+      {
+        "id": "PjDhruSC",
+        "slug": "skill-tree",
+        "title": "Skill Tree (RPG Series)",
+        "project_type": "mod",
+        "source_url": "https://github.com/ZsoltMolnarrr/SkillTree",
+        "status": "approved",
+        "team": "3ImHR2mQ",
+        "description": "\u2b50\ufe0f Choose your path - Skills that shape your class",
+        "categories": [
+          "adventure",
+          "game-mechanics",
+          "magic"
+        ],
+        "additional_categories": []
+      },
+      {
+        "id": "wGKYL7st",
+        "slug": "combat-roll",
+        "title": "Combat Roll",
+        "project_type": "mod",
+        "source_url": "https://github.com/ZsoltMolnarrr/CombatRoll",
+        "status": "approved",
+        "team": "oKdlkn0S",
+        "description": "\ud83e\uddf6 Adds combat roll ability, with related attributes and enchantments.",
+        "categories": [
+          "adventure",
+          "game-mechanics",
+          "library"
+        ],
+        "additional_categories": []
+      },
+      {
+        "id": "LrYZi08Q",
+        "slug": "structure-pool-api",
+        "title": "Structure Pool API",
+        "project_type": "mod",
+        "source_url": "https://github.com/FabricExtras/StructurePoolAPI",
+        "status": "approved",
+        "team": "rNHt3kea",
+        "description": "\ud83d\udcda API to inject structures into structure pools.",
+        "categories": [
+          "library",
+          "worldgen"
+        ],
+        "additional_categories": []
+      },
+      {
+        "id": "AOyJhFvl",
+        "slug": "projectile-damage-attribute",
+        "title": "Projectile Damage Attribute",
+        "project_type": "mod",
+        "source_url": "https://github.com/ZsoltMolnarrr/ProjectileDamage",
+        "status": "approved",
+        "team": "tF6xACnP",
+        "description": "\ud83c\udff9 Range weapon damage becomes configurable.",
+        "categories": [
+          "adventure",
+          "equipment",
+          "library"
+        ],
+        "additional_categories": [
+          "game-mechanics"
+        ]
+      },
+      {
+        "id": "lP9Yrr1E",
+        "slug": "runes",
+        "title": "Runes",
+        "project_type": "mod",
+        "source_url": "https://github.com/ZsoltMolnarrr/Runes",
+        "status": "approved",
+        "team": "cDpH4P0Z",
+        "description": "\ud83e\udea8 Craft runes to serve as ammo for spells",
+        "categories": [
+          "magic"
+        ],
+        "additional_categories": [
+          "adventure"
+        ]
+      },
+      {
+        "id": "AqaIIO6D",
+        "slug": "ranged-weapon-api",
+        "title": "Ranged Weapon API",
+        "project_type": "mod",
+        "source_url": "https://github.com/FabricExtras/RangedWeaponAPI",
+        "status": "approved",
+        "team": "O5jDpEBx",
+        "description": "\ud83c\udff9 Create fully functional bows and crossbows, with ease",
+        "categories": [
+          "equipment",
+          "library"
+        ],
+        "additional_categories": []
+      },
+      {
+        "id": "NkGaQMDA",
+        "slug": "wizards",
+        "title": "Wizards (RPG Series)",
+        "project_type": "mod",
+        "source_url": "https://github.com/ZsoltMolnarrr/Wizards",
+        "status": "approved",
+        "team": "bEgvyoJ8",
+        "description": "\ud83e\uddd9\ud83c\udffb\u200d\u2642\ufe0f Destroy your enemies with Arcane, Fire and Frost magic",
+        "categories": [
+          "adventure",
+          "equipment",
+          "magic"
+        ],
+        "additional_categories": [
+          "game-mechanics",
+          "worldgen"
+        ]
+      },
+      {
+        "id": "LiP9Q3KV",
+        "slug": "arsenal-rpg-series",
+        "title": "Arsenal (RPG Series)",
+        "project_type": "mod",
+        "source_url": "https://github.com/ZsoltMolnarrr/Arsenal",
+        "status": "approved",
+        "team": "PFwYUZsy",
+        "description": "Legendary weapons from the past - not crafted, but conquered.",
+        "categories": [
+          "adventure",
+          "equipment",
+          "magic"
+        ],
+        "additional_categories": [
+          "game-mechanics"
+        ]
+      },
+      {
+        "id": "Sw4LxdbE",
+        "slug": "team-capes",
+        "title": "Team Capes",
+        "project_type": "mod",
+        "source_url": "https://github.com/ZsoltMolnarrr/TeamCapes",
+        "status": "approved",
+        "team": "ghRnJiaE",
+        "description": "\ud83d\udfe6 Shows team colored capes, for players in teams. \ud83d\udfe5",
+        "categories": [
+          "game-mechanics",
+          "minigame",
+          "utility"
+        ],
+        "additional_categories": [
+          "adventure",
+          "equipment"
+        ]
+      },
+      {
+        "id": "ENZmbSFZ",
+        "slug": "dungeon-difficulty",
+        "title": "Dungeon Difficulty",
+        "project_type": "mod",
+        "source_url": "https://github.com/ZsoltMolnarrr/PowerScale",
+        "status": "approved",
+        "team": "3LWpH3z4",
+        "description": "\u2620\ufe0f Increase the difficulty and get matching rewards.",
+        "categories": [
+          "adventure",
+          "equipment",
+          "worldgen"
+        ],
+        "additional_categories": [
+          "game-mechanics"
+        ]
+      }
+    ]
+  }
+}

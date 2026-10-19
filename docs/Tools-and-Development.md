@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**214 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**215 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Discovery · 39</strong></summary>
@@ -114,7 +114,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | ★ [ShatterLib \| OctoLib](https://modrinth.com/mod/shatterbyte-lib) | Collection of shared code for OctoStudios' mods | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=fa70a3312a651688) |
 | [SL Library](https://curseforge.com/minecraft/mc-mods/sl-library) | INSTALL IF REQUIRED / PIN EXACT BRANCH | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=4e79650b2e5a748f) |
 | [Sophisticated Core](https://curseforge.com/minecraft/mc-mods/sophisticated-core) | REQUIRED DEPENDENCY / INSTALL WITH SOPHISTICATED MODS / PIN EXACT BRANCH | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=770c102d07375398) |
-| [Spell Engine](https://curseforge.com/minecraft/mc-mods/spell-engine) | UPDATE ONLY AS FULL RPG-SERIES SET / BACKUP FIRST / TEST COPY | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=ddf9cee651063b5f) |
+| ★ [Spell Engine](https://curseforge.com/minecraft/mc-mods/spell-engine) | UPDATE ONLY AS FULL RPG-SERIES SET / BACKUP FIRST / TEST COPY | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=ddf9cee651063b5f) |
 | [TerraBlender](https://curseforge.com/minecraft/mc-mods/terrablender) | INSTALL WHEN REQUIRED / SERVER-MATCHED / VERSION-MATCH BIOME MODS | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7b4cbb1c569ff665) |
 | [The One Probe](https://curseforge.com/minecraft/mc-mods/the-one-probe) | INSTALL/UPDATE 1.20.1 FORGE / SERVER-MATCHED / WORLD-SAFE / CURRENT FABRIC 26.2 | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=341b9fa6cf4fe4ff) |
 | [TxniLib](https://curseforge.com/minecraft/mc-mods/txnilib) | INSTALL WHEN REQUIRED / PIN EXACT BRANCH | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2757c1d97d39303b) |
@@ -125,7 +125,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Mod · 79</strong></summary>
+<summary><strong>Mod · 80</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -190,6 +190,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [RPG Attribute System](https://curseforge.com/minecraft/mc-mods/rpg-attribute-system) | INSTALL/TEST 1.20.1 / SERVER VERSION MATCH | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=db0550d1669bd187) |
 | [Shoulder Surfing Reloaded](https://curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded) | INSTALL/OPTIONAL 1.20.1 / CLIENT-SAFE / WORLD-SAFE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=f5a67e9b65181e8d) |
 | [Simple Auto Totem](https://curseforge.com/minecraft-bedrock/addons/simpleat) | BEDROCK OPTIONAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=8f273f3356148a66) |
+| ★ [Simply Tooltips](https://curseforge.com/minecraft/mc-mods/simply-tooltips) | INSTALL/OPTIONAL 1.20.1 / CLIENT-SAFE / WORLD-SAFE / UI-STACK TEST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=8e28a1824befdf7d) |
 | [SLM: Epic Fight](https://curseforge.com/minecraft/mc-mods/slm-epic-fight) | INSTALL IF USING EDP / PIN EXACT BRANCH | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=1eab4ac862737aa0) |
 | ★ [Sounds](https://curseforge.com/minecraft/mc-mods/sound) | Soundscape overhaul | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d4e6e20b178190ca) |
 | ★ [Structure Pool API](https://modrinth.com/mod/LrYZi08Q) | Structure-pool injection framework | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=64093d89a564c0b1) |

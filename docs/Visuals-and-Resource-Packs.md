@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**281 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**290 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Content Pack · 1</strong></summary>
@@ -65,7 +65,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Mod · 150</strong></summary>
+<summary><strong>Mod · 151</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -177,7 +177,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Seamless Ores](https://curseforge.com/minecraft/mc-mods/seamless-ores) | INSTALL/TEST 1.20.1 / SERVER-MATCHED / EXISTING WORLDS NEW CHUNKS ONLY / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=79c719b10b21f373) |
 | [Shading Begone](https://curseforge.com/minecraft/mc-mods/shading-begone) | INSTALL/TEST 1.20.1 / CLIENT-SAFE / OPTIONAL VISUAL STYLE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d763dabe4f0ad758) |
 | [Sheep Variety](https://modrinth.com/mod/sheep-variety) | Gives sheep the climate-aware treatment cows, pigs and chickens now receive: cold woolly forms, warm horned forms and other biome-matched appearances. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=22254a4eb0587ba9) |
-| [Simply Tooltips](https://curseforge.com/minecraft/mc-mods/simply-tooltips) | INSTALL/OPTIONAL 1.20.1 / CLIENT-SAFE / WORLD-SAFE / UI-STACK TEST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=8e28a1824befdf7d) |
+| ★ [Simply Tooltips](https://curseforge.com/minecraft/mc-mods/simply-tooltips) | INSTALL/OPTIONAL 1.20.1 / CLIENT-SAFE / WORLD-SAFE / UI-STACK TEST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=8e28a1824befdf7d) |
 | [Slick - Modern Hotbar, Inventory & Menu UI](https://curseforge.com/minecraft/mc-mods/slick) | WATCH/TEST 1.20.1 / CLIENT-SAFE / WORLD-SAFE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b8df3e227ad9a5ff) |
 | ★ [SLR Auras](https://curseforge.com/minecraft/mc-mods/slr-auras) | Custom aura expansion for the Reawakening aura mechanic | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=95ebb7668ad13b90) |
 | [Smooth Gui](https://curseforge.com/minecraft/mc-mods/smooth-gui) | INSTALL/TEST 1.20.1 / CLIENT-SAFE / WORLD-SAFE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=f6e9be14bad6b99e) |
@@ -217,8 +217,25 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Vulkan-Distant Horizons Compat](https://curseforge.com/minecraft/mc-mods/vulkan-distant-hroizions-compat) | TEST/WATCH 26.1.2 / CLIENT-SAFE / WORLD-SAFE / PIN EXACT STACK | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0caa5c6658d5b6c5) |
 | [VulkanMod](https://modrinth.com/mod/vulkanmod) | FUTURE/HIGH-VALUE 26.1.2 / CLIENT-SAFE / EXACT-VERSION-PIN / 1.20.1 FABRIC LEGACY ONLY | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=f2f2f8427b6fede7) |
 | [Water Optimisation](https://herbertofury.github.io/Minecraft-Mods/?id=eb0af0c2d70dfad0) | FUTURE 26.3 / WATCH / ISOLATED A-B TEST / NOT FOR FORGE 1.20.1 | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=eb0af0c2d70dfad0) |
+| ★ [WynnAnimated](https://modrinth.com/mod/wynnanimated) | Character animations for Wynncraft | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=929855be4e5ff93b) |
 | [ZenXveda Dynamic Lights](https://curseforge.com/minecraft-bedrock/addons/zenxvedas-dynamic-lights) | BEDROCK TEST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c02bbae5adc1b176) |
 | [〖TACZ-Addon〗Wall-displayed Guns with High Fps!](https://curseforge.com/minecraft/mc-mods/tacz-addonwall-displayed-guns-with-high-fps) | Converts TaCZ guns into recoverable static display blocks that retain original gun, attachment and ammo data; 0.6.28 adds mesh-model compatibility for broader gunpack support. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=4b9a8a31ad43c18f) |
+
+</details>
+
+<details>
+<summary><strong>Resource Pack · 8</strong></summary>
+
+| Project / target | Purpose | Evidence |
+|---|---|---|
+| ★ [Better, Fresher 3D Books VR](https://modrinth.com/resourcepack/better-fresher-3d-books-vr) | A resource pack that adds 3D book models and individual enchanted book textures tailored for Vivecraft! | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=f3c73ec99ccfce69) |
+| ★ [Fresh Flowers and Plants VR](https://modrinth.com/resourcepack/fresh-flowers-and-plants-vr) | Resource Pack adding 3D plant and flowers models tailored for Vivecraft! | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=1b0719fc8589fa23) |
+| ★ [Fresh Food VR](https://modrinth.com/resourcepack/fresh-food-vr) | A resource pack that adds 3D food models and eating animations tailored for Vivecraft! | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=8b5f276dd20ab6ff) |
+| ★ [Fresh Music Discs VR](https://modrinth.com/resourcepack/fresh-music-discs-vr) | A resource pack that adds 3D music discs tailored for Vivecraft! | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=6e3114c1d105da48) |
+| ★ [Fresh Ores and Ingots VR](https://modrinth.com/resourcepack/fresh-ores-and-ingots-vr) | Resource pack adding 3D models for ingots, ores, and minerals tailored for Vivecraft! | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0e91b82a35e28555) |
+| ★ [Fresh Paintings VR](https://modrinth.com/resourcepack/fresh-paintings-vr) | Resource Pack adding 3D paintings and item frame models tailored for Vivecraft! | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=5936e87e4c18f52a) |
+| ★ [Jetpack Bees \[Fresh Animations\]](https://modrinth.com/resourcepack/jetpack-bees-fresh-animations) | We gave the Bees Jetpacks!!! | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7f8769b2040088cc) |
+| ★ [Simply Swords - Vanilla Style](https://modrinth.com/resourcepack/simply-swords-vanilla-style) | Change look of weapons from Simply Swords mod | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d39c260bc7c61d86) |
 
 </details>
 
