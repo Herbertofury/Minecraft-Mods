@@ -1,0 +1,748 @@
+{
+  "source_companion_rows": 132,
+  "attached_view_observations": 118,
+  "pending_identity_rows": 14,
+  "unique_catalogue_entries_enriched": 57,
+  "display_entries_unchanged": 1935,
+  "source_record_count_unchanged": 2159,
+  "favorite_count_unchanged": 42,
+  "native_verification_promotions": 0,
+  "changed_shards": [
+    "details-0.json",
+    "details-1.json",
+    "details-2.json",
+    "details-3.json",
+    "details-4.json",
+    "details-5.json",
+    "details-6.json",
+    "details-7.json",
+    "details-8.json",
+    "details-9.json",
+    "details-a.json",
+    "details-b.json",
+    "details-c.json",
+    "details-d.json",
+    "details-e.json",
+    "details-f.json"
+  ],
+  "attached": [
+    {
+      "catalogue_id": "85da76d005074c81",
+      "sheet": "Hidden Gems",
+      "row": 15
+    },
+    {
+      "catalogue_id": "cfae3e09ebe55e10",
+      "sheet": "Hidden Gems",
+      "row": 63
+    },
+    {
+      "catalogue_id": "a80c64ca4d493885",
+      "sheet": "Digital Networks",
+      "row": 7
+    },
+    {
+      "catalogue_id": "cfae3e09ebe55e10",
+      "sheet": "Digital Networks",
+      "row": 13
+    },
+    {
+      "catalogue_id": "8b04e197c5d9f6cd",
+      "sheet": "Digital Networks",
+      "row": 14
+    },
+    {
+      "catalogue_id": "6c2b74fb308831e1",
+      "sheet": "Digital Networks",
+      "row": 16
+    },
+    {
+      "catalogue_id": "1e49ba3cd00fced6",
+      "sheet": "Digital Networks",
+      "row": 17
+    },
+    {
+      "catalogue_id": "d2c882395592020e",
+      "sheet": "Drawers & Chests",
+      "row": 7
+    },
+    {
+      "catalogue_id": "1f43fa66bdb2790e",
+      "sheet": "Drawers & Chests",
+      "row": 11
+    },
+    {
+      "catalogue_id": "8118870a522be5ba",
+      "sheet": "Portable Storage",
+      "row": 5
+    },
+    {
+      "catalogue_id": "6dbc34eb81513f49",
+      "sheet": "Portable Storage",
+      "row": 6
+    },
+    {
+      "catalogue_id": "ae730ebc29e291af",
+      "sheet": "Portable Storage",
+      "row": 8
+    },
+    {
+      "catalogue_id": "e80211ab91186976",
+      "sheet": "Portable Storage",
+      "row": 14
+    },
+    {
+      "catalogue_id": "010187bf3077f711",
+      "sheet": "Portable Storage",
+      "row": 15
+    },
+    {
+      "catalogue_id": "f230058a65833b9f",
+      "sheet": "Portable Storage",
+      "row": 17
+    },
+    {
+      "catalogue_id": "e1c0c53fab646afe",
+      "sheet": "Portable Storage",
+      "row": 19
+    },
+    {
+      "catalogue_id": "ea5f26df819c0012",
+      "sheet": "Portable Storage",
+      "row": 25
+    },
+    {
+      "catalogue_id": "8bd8236765a40319",
+      "sheet": "Routing & Logistics",
+      "row": 14
+    },
+    {
+      "catalogue_id": "cfae3e09ebe55e10",
+      "sheet": "Routing & Logistics",
+      "row": 17
+    },
+    {
+      "catalogue_id": "580160680b54d040",
+      "sheet": "Routing & Logistics",
+      "row": 18
+    },
+    {
+      "catalogue_id": "a7389c924c0b82db",
+      "sheet": "Routing & Logistics",
+      "row": 19
+    },
+    {
+      "catalogue_id": "88d06f70d9311216",
+      "sheet": "Routing & Logistics",
+      "row": 20
+    },
+    {
+      "catalogue_id": "2f4a520c09f5d9d7",
+      "sheet": "Routing & Logistics",
+      "row": 21
+    },
+    {
+      "catalogue_id": "c334c7eafd44ff2f",
+      "sheet": "Routing & Logistics",
+      "row": 22
+    },
+    {
+      "catalogue_id": "673e70388151a779",
+      "sheet": "Routing & Logistics",
+      "row": 23
+    },
+    {
+      "catalogue_id": "87671757b7c7cd2f",
+      "sheet": "Routing & Logistics",
+      "row": 25
+    },
+    {
+      "catalogue_id": "a404bcc0c947af10",
+      "sheet": "Routing & Logistics",
+      "row": 28
+    },
+    {
+      "catalogue_id": "013b2e20be65df84",
+      "sheet": "Search & Sorting QoL",
+      "row": 8
+    },
+    {
+      "catalogue_id": "85da76d005074c81",
+      "sheet": "Search & Sorting QoL",
+      "row": 10
+    },
+    {
+      "catalogue_id": "905492f58c704a5b",
+      "sheet": "Search & Sorting QoL",
+      "row": 58
+    },
+    {
+      "catalogue_id": "44dbf9cf9f707ea1",
+      "sheet": "Search & Sorting QoL",
+      "row": 59
+    },
+    {
+      "catalogue_id": "010187bf3077f711",
+      "sheet": "Crafting & Storage QoL",
+      "row": 16
+    },
+    {
+      "catalogue_id": "d00a730dcb2d3e18",
+      "sheet": "Decorative & Cute",
+      "row": 7
+    },
+    {
+      "catalogue_id": "013b2e20be65df84",
+      "sheet": "Client-Only Best",
+      "row": 5
+    },
+    {
+      "catalogue_id": "ed89dcf55c7e575b",
+      "sheet": "Client-Only Best",
+      "row": 6
+    },
+    {
+      "catalogue_id": "b84d7cc4d9f99444",
+      "sheet": "Client-Only Best",
+      "row": 8
+    },
+    {
+      "catalogue_id": "f322dbb34808956b",
+      "sheet": "Client-Only Best",
+      "row": 9
+    },
+    {
+      "catalogue_id": "3fa8b8ca5a983ac2",
+      "sheet": "Client-Only Best",
+      "row": 10
+    },
+    {
+      "catalogue_id": "85da76d005074c81",
+      "sheet": "Client-Only Best",
+      "row": 11
+    },
+    {
+      "catalogue_id": "4f3a10e05d7e2f79",
+      "sheet": "Client-Only Best",
+      "row": 12
+    },
+    {
+      "catalogue_id": "663c9be919aa62f3",
+      "sheet": "Client-Only Best",
+      "row": 13
+    },
+    {
+      "catalogue_id": "7702054706488b12",
+      "sheet": "Client-Only Best",
+      "row": 14
+    },
+    {
+      "catalogue_id": "0555b34c9d71ead5",
+      "sheet": "Client-Only Best",
+      "row": 15
+    },
+    {
+      "catalogue_id": "127da7b73889eaf7",
+      "sheet": "Client-Only Best",
+      "row": 16
+    },
+    {
+      "catalogue_id": "ce2664f694d315f5",
+      "sheet": "Client-Only Best",
+      "row": 17
+    },
+    {
+      "catalogue_id": "9892c3c24581ab58",
+      "sheet": "Client-Only Best",
+      "row": 18
+    },
+    {
+      "catalogue_id": "37eabef3ff624cad",
+      "sheet": "Client-Only Best",
+      "row": 19
+    },
+    {
+      "catalogue_id": "aba2c0c42bbff28c",
+      "sheet": "Client-Only Best",
+      "row": 20
+    },
+    {
+      "catalogue_id": "7357ca1883fc6d07",
+      "sheet": "Client-Only Best",
+      "row": 21
+    },
+    {
+      "catalogue_id": "2e84ad38b0a64f5f",
+      "sheet": "Client-Only Best",
+      "row": 22
+    },
+    {
+      "catalogue_id": "69c77b7845cbdec6",
+      "sheet": "Client-Only Best",
+      "row": 23
+    },
+    {
+      "catalogue_id": "a47ad4dd61b35cec",
+      "sheet": "Client-Only Best",
+      "row": 24
+    },
+    {
+      "catalogue_id": "a988ab4974505fdc",
+      "sheet": "Client-Only Best",
+      "row": 25
+    },
+    {
+      "catalogue_id": "e5e3bab963604264",
+      "sheet": "Client-Only Best",
+      "row": 26
+    },
+    {
+      "catalogue_id": "268188647c9e3518",
+      "sheet": "Client-Only Best",
+      "row": 27
+    },
+    {
+      "catalogue_id": "3bc279a1ade86372",
+      "sheet": "Client-Only Best",
+      "row": 31
+    },
+    {
+      "catalogue_id": "07a1b2b6337aec53",
+      "sheet": "Client-Only Best",
+      "row": 33
+    },
+    {
+      "catalogue_id": "6b7de4856f5b64fd",
+      "sheet": "Client-Only Best",
+      "row": 35
+    },
+    {
+      "catalogue_id": "676aa90ada1ca82b",
+      "sheet": "Client-Only Best",
+      "row": 36
+    },
+    {
+      "catalogue_id": "013b2e20be65df84",
+      "sheet": "Inventory Sorting (Client)",
+      "row": 5
+    },
+    {
+      "catalogue_id": "ed89dcf55c7e575b",
+      "sheet": "Inventory Sorting (Client)",
+      "row": 6
+    },
+    {
+      "catalogue_id": "f322dbb34808956b",
+      "sheet": "Inventory Sorting (Client)",
+      "row": 7
+    },
+    {
+      "catalogue_id": "85da76d005074c81",
+      "sheet": "Inventory Sorting (Client)",
+      "row": 8
+    },
+    {
+      "catalogue_id": "663c9be919aa62f3",
+      "sheet": "Inventory Sorting (Client)",
+      "row": 9
+    },
+    {
+      "catalogue_id": "7702054706488b12",
+      "sheet": "Inventory Sorting (Client)",
+      "row": 10
+    },
+    {
+      "catalogue_id": "127da7b73889eaf7",
+      "sheet": "Inventory Sorting (Client)",
+      "row": 11
+    },
+    {
+      "catalogue_id": "69c77b7845cbdec6",
+      "sheet": "Inventory Sorting (Client)",
+      "row": 12
+    },
+    {
+      "catalogue_id": "07a1b2b6337aec53",
+      "sheet": "Inventory Sorting (Client)",
+      "row": 13
+    },
+    {
+      "catalogue_id": "44dbf9cf9f707ea1",
+      "sheet": "Inventory Sorting (Client)",
+      "row": 15
+    },
+    {
+      "catalogue_id": "013b2e20be65df84",
+      "sheet": "Chest QoL (Client)",
+      "row": 5
+    },
+    {
+      "catalogue_id": "ed89dcf55c7e575b",
+      "sheet": "Chest QoL (Client)",
+      "row": 6
+    },
+    {
+      "catalogue_id": "f322dbb34808956b",
+      "sheet": "Chest QoL (Client)",
+      "row": 8
+    },
+    {
+      "catalogue_id": "85da76d005074c81",
+      "sheet": "Chest QoL (Client)",
+      "row": 9
+    },
+    {
+      "catalogue_id": "4f3a10e05d7e2f79",
+      "sheet": "Chest QoL (Client)",
+      "row": 10
+    },
+    {
+      "catalogue_id": "663c9be919aa62f3",
+      "sheet": "Chest QoL (Client)",
+      "row": 11
+    },
+    {
+      "catalogue_id": "7702054706488b12",
+      "sheet": "Chest QoL (Client)",
+      "row": 12
+    },
+    {
+      "catalogue_id": "0555b34c9d71ead5",
+      "sheet": "Chest QoL (Client)",
+      "row": 13
+    },
+    {
+      "catalogue_id": "127da7b73889eaf7",
+      "sheet": "Chest QoL (Client)",
+      "row": 14
+    },
+    {
+      "catalogue_id": "ce2664f694d315f5",
+      "sheet": "Chest QoL (Client)",
+      "row": 15
+    },
+    {
+      "catalogue_id": "9892c3c24581ab58",
+      "sheet": "Chest QoL (Client)",
+      "row": 16
+    },
+    {
+      "catalogue_id": "37eabef3ff624cad",
+      "sheet": "Chest QoL (Client)",
+      "row": 17
+    },
+    {
+      "catalogue_id": "aba2c0c42bbff28c",
+      "sheet": "Chest QoL (Client)",
+      "row": 18
+    },
+    {
+      "catalogue_id": "7357ca1883fc6d07",
+      "sheet": "Chest QoL (Client)",
+      "row": 19
+    },
+    {
+      "catalogue_id": "2e84ad38b0a64f5f",
+      "sheet": "Chest QoL (Client)",
+      "row": 20
+    },
+    {
+      "catalogue_id": "69c77b7845cbdec6",
+      "sheet": "Chest QoL (Client)",
+      "row": 21
+    },
+    {
+      "catalogue_id": "a988ab4974505fdc",
+      "sheet": "Chest QoL (Client)",
+      "row": 22
+    },
+    {
+      "catalogue_id": "e5e3bab963604264",
+      "sheet": "Chest QoL (Client)",
+      "row": 23
+    },
+    {
+      "catalogue_id": "3bc279a1ade86372",
+      "sheet": "Chest QoL (Client)",
+      "row": 27
+    },
+    {
+      "catalogue_id": "07a1b2b6337aec53",
+      "sheet": "Chest QoL (Client)",
+      "row": 29
+    },
+    {
+      "catalogue_id": "6b7de4856f5b64fd",
+      "sheet": "Chest QoL (Client)",
+      "row": 31
+    },
+    {
+      "catalogue_id": "676aa90ada1ca82b",
+      "sheet": "Chest QoL (Client)",
+      "row": 32
+    },
+    {
+      "catalogue_id": "013b2e20be65df84",
+      "sheet": "Forge 1.20.1 Client",
+      "row": 5
+    },
+    {
+      "catalogue_id": "ed89dcf55c7e575b",
+      "sheet": "Forge 1.20.1 Client",
+      "row": 6
+    },
+    {
+      "catalogue_id": "f322dbb34808956b",
+      "sheet": "Forge 1.20.1 Client",
+      "row": 7
+    },
+    {
+      "catalogue_id": "4f3a10e05d7e2f79",
+      "sheet": "Forge 1.20.1 Client",
+      "row": 8
+    },
+    {
+      "catalogue_id": "7702054706488b12",
+      "sheet": "Forge 1.20.1 Client",
+      "row": 9
+    },
+    {
+      "catalogue_id": "0555b34c9d71ead5",
+      "sheet": "Forge 1.20.1 Client",
+      "row": 10
+    },
+    {
+      "catalogue_id": "ce2664f694d315f5",
+      "sheet": "Forge 1.20.1 Client",
+      "row": 11
+    },
+    {
+      "catalogue_id": "9892c3c24581ab58",
+      "sheet": "Forge 1.20.1 Client",
+      "row": 12
+    },
+    {
+      "catalogue_id": "37eabef3ff624cad",
+      "sheet": "Forge 1.20.1 Client",
+      "row": 13
+    },
+    {
+      "catalogue_id": "aba2c0c42bbff28c",
+      "sheet": "Forge 1.20.1 Client",
+      "row": 14
+    },
+    {
+      "catalogue_id": "69c77b7845cbdec6",
+      "sheet": "Forge 1.20.1 Client",
+      "row": 15
+    },
+    {
+      "catalogue_id": "a47ad4dd61b35cec",
+      "sheet": "Forge 1.20.1 Client",
+      "row": 16
+    },
+    {
+      "catalogue_id": "a988ab4974505fdc",
+      "sheet": "Forge 1.20.1 Client",
+      "row": 17
+    },
+    {
+      "catalogue_id": "6b7de4856f5b64fd",
+      "sheet": "Forge 1.20.1 Client",
+      "row": 18
+    },
+    {
+      "catalogue_id": "676aa90ada1ca82b",
+      "sheet": "Forge 1.20.1 Client",
+      "row": 19
+    },
+    {
+      "catalogue_id": "013b2e20be65df84",
+      "sheet": "It Just Works QoL",
+      "row": 11
+    },
+    {
+      "catalogue_id": "85da76d005074c81",
+      "sheet": "It Just Works QoL",
+      "row": 32
+    },
+    {
+      "catalogue_id": "eb1b27e50cb5a61b",
+      "sheet": "It Just Works QoL",
+      "row": 50
+    },
+    {
+      "catalogue_id": "3f039193b9afa9e6",
+      "sheet": "It Just Works QoL",
+      "row": 51
+    },
+    {
+      "catalogue_id": "7ed2c70a091715f0",
+      "sheet": "Craft From Storage",
+      "row": 17
+    },
+    {
+      "catalogue_id": "a9f21e7d66d277df",
+      "sheet": "Craft From Storage",
+      "row": 18
+    },
+    {
+      "catalogue_id": "85da76d005074c81",
+      "sheet": "Quick Stack & Deposit",
+      "row": 12
+    },
+    {
+      "catalogue_id": "013b2e20be65df84",
+      "sheet": "Organize Chests",
+      "row": 7
+    },
+    {
+      "catalogue_id": "85da76d005074c81",
+      "sheet": "Organize Chests",
+      "row": 13
+    },
+    {
+      "catalogue_id": "85da76d005074c81",
+      "sheet": "Find & Access",
+      "row": 21
+    },
+    {
+      "catalogue_id": "013b2e20be65df84",
+      "sheet": "Forge 1.20.1 QoL",
+      "row": 11
+    },
+    {
+      "catalogue_id": "3f039193b9afa9e6",
+      "sheet": "Forge 1.20.1 QoL",
+      "row": 31
+    }
+  ],
+  "pending": [
+    {
+      "sheet": "Hidden Gems",
+      "row": 6,
+      "name": "Logistics: Automation",
+      "distinct_fields": {
+        "Versions": "1.21.1; 1.21.11; 26.1.x\u201326.3, v0.8.11 Oct8",
+        "Why It\u2019s a Gem": "Visible item/fluid pipes, requested autocrafting, batteries and quarry; 0.8.11 fixes full-target routing.",
+        "Caution": "Early-development world data; Java25+ on 26.3, Fabric API on Fabric; no Forge1.20.1; backup + stage version migrations."
+      }
+    },
+    {
+      "sheet": "Digital Networks",
+      "row": 15,
+      "name": "Refined Wireless Upgrades",
+      "distinct_fields": {
+        "Why It\u2019s Fun / Useful": "Automate wireless-grid inventory transfer, block picking and drop collection without leaving the Refined Storage workflow."
+      }
+    },
+    {
+      "sheet": "Digital Networks",
+      "row": 18,
+      "name": "Maid Restaurant: Storage",
+      "distinct_fields": {
+        "Versions": "Requires TLM and Maid Restaurant; optional RS",
+        "Why It\u2019s Fun / Useful": "Maid cooking accesses whitelisted network containers; disk access off by default; audit dupe and permissions"
+      }
+    },
+    {
+      "sheet": "Portable Storage",
+      "row": 16,
+      "name": "Reliable Backpacks",
+      "distinct_fields": {
+        "Status": "New Curios-integrated lightweight backpack / backup first",
+        "Versions": "Forge 1.20.1 1.2.2; other builds 1.19.2 / 1.21.1",
+        "Why It\u2019s Fun / Useful": "Wear/place/dye backpacks, including death placement. Inventory NBT persists; test Curios and grave mods."
+      }
+    },
+    {
+      "sheet": "Portable Storage",
+      "row": 18,
+      "name": "Simple Horse QOL",
+      "distinct_fields": {
+        "Status": "Horse 27-slot chest + second rider; TEST COPY",
+        "Why It\u2019s Fun / Useful": "Portable storage is saved on horse entity and drops on death; pure client camera is removable.",
+        "I": "No save migration proof; remove chest data before uninstallation."
+      }
+    },
+    {
+      "sheet": "Portable Storage",
+      "row": 24,
+      "name": "Mochila",
+      "distinct_fields": {
+        "Status": "Modern-only, persistent backpack contents, no Forge 1.20.1",
+        "Versions": "6.2.1 Oct10 2026, 26.3 NeoForge/Fabric/Forge + other modern; Amber required",
+        "Why It\u2019s Fun / Useful": "Colorful dyeable backpacks, B hotkey, quick stash into containers; 6.2.1 fixes item dup/loss; test copied world."
+      }
+    },
+    {
+      "sheet": "Routing & Logistics",
+      "row": 12,
+      "name": "Logistics: Automation",
+      "distinct_fields": {
+        "Versions": "1.21.1; 1.21.11; 26.1.x; 26.2; 26.3 (0.8.11 Oct8)",
+        "Why It\u2019s Fun / Useful": "Visible pipes route item/fluid shipments with requester/provider networks, RF batteries, autocrafting and quarry. Early dev; backup and match loader."
+      }
+    },
+    {
+      "sheet": "Routing & Logistics",
+      "row": 24,
+      "name": "Create: Mobile Packages",
+      "distinct_fields": {
+        "Why It\u2019s Fun / Useful": "Robo Bees carry packages; network port migration required at 0.6.0"
+      }
+    },
+    {
+      "sheet": "Routing & Logistics",
+      "row": 26,
+      "name": "Create: Additional Logistics",
+      "distinct_fields": {
+        "Versions": "Forge+NeoForge1.20.1 1.4.5 CF7460284; separate NeoForge1.21.1",
+        "Why It\u2019s Fun / Useful": "Package accelerators, cash registers, stock requests, regex routing, Lazy Shafts and optional train monitor. 1.4.5 repairs Factory Logistics purchases but disables its currency conversion; persistent blocks and config require copied-world QA."
+      }
+    },
+    {
+      "sheet": "Routing & Logistics",
+      "row": 27,
+      "name": "Create: Springs",
+      "distinct_fields": {
+        "Status": "Create6 kinetic-charge storage and spring-powered mechanics (not generic logistics sorting)",
+        "Versions": "Forge/NeoForge1.20.1 1.1.3 CF7803897; modern 1.21.1 1.2.1 separate",
+        "Why It\u2019s Fun / Useful": "Adds physical spring contraptions/tool blocks and optional VS/Sable mass; exact Create6 min patch unknown. New persistent blocks/energy state, server sync and item integrity untested."
+      }
+    },
+    {
+      "sheet": "Search & Sorting QoL",
+      "row": 57,
+      "name": "QuadHotbar (MultiHotbar)",
+      "distinct_fields": {
+        "Status": "Extended hotbar / server-sync; BACKUP FIRST",
+        "Why It\u2019s Fun / Useful": "Up to 36 usable hotbar slots; not safe as client-only; validate modded mousewheel, selected-slot sync and server."
+      }
+    },
+    {
+      "sheet": "Crafting & Storage QoL",
+      "row": 17,
+      "name": "Touhou Little Maid: Maid Crafting",
+      "distinct_fields": {
+        "Why It\u2019s Fun / Useful": "Maid-driven RS crafting and optional magic stations; item transaction and NBT tests needed."
+      }
+    },
+    {
+      "sheet": "Performance Add-ons",
+      "row": 8,
+      "name": "Tom's Simple Storage performance optimization",
+      "distinct_fields": {
+        "Why It\u2019s Fun / Useful": "Throttles terminal rescans, binary-searches connected containers >8; native item-integrity and MSPT proof required; do not stack conflicting patches."
+      }
+    },
+    {
+      "sheet": "Craft From Storage",
+      "row": 19,
+      "name": "Touhou Little Maid: Maid Crafting",
+      "distinct_fields": {
+        "Tradeoff / Caution": "Exact Forge JAR unpinned; possible item duplication/recursive loops. Back up network before test."
+      }
+    }
+  ]
+}

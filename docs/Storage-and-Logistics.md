@@ -304,3 +304,7 @@ An old source note said Create 6 logistics was newer than Minecraft 1.20.1. That
 6. Measure the same warehouse workload before/after an optimizer; report tick/frame/startup costs separately.
 
 These are qualification scenarios, not claims that the named projects currently contain those bugs. Keep the original source suggestions as research history, with newer evidence clearly attached.
+
+## Companion-view reconciliation
+
+The same collection contained useful notes outside its master view. The follow-on pass attached **118 companion-view observations to 57 already identified catalogue entries**, preserving unique cautions, use cases and historical version claims without inventing new mods or promoting verification. **14 observations remain pending identity resolution.** These annotations are visible in the existing detail cards; original source dates and conflicting claims remain labeled as history. [Reconciliation receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/storage-companion-import-receipt.json). The catalogue still contains 1,935 entries and all 42 favorites.
