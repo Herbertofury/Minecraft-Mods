@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-19",
+  "scope": "Three source observations attached to existing identities; no new install or runtime approval",
+  "before_source_observations": 2596,
+  "after_source_observations": 2599,
+  "entries": 2254,
+  "pending_storage_rows": 10,
+  "existing_observations_preserved": true,
+  "favorites_and_forever_world_preserved": true,
+  "native_promotions": 0,
+  "applied": [
+    {
+      "row": 135,
+      "id": "f7feeb479d4de675",
+      "name": "Reliable Backpacks",
+      "sources": [
+        "https://modrinth.com/mod/reliable-backpacks",
+        "https://modrinth.com/mod/reliable-backpacks/version/1.2.2-1.20.1-forge"
+      ],
+      "reason": "Official historical release page confirms version ID rhThmPlX and the source-described Backpacks for Dummies fork. This establishes identity, not that this historical release is latest."
+    },
+    {
+      "row": 137,
+      "id": "fa0641b9581dee66",
+      "name": "Simple Horse QOL",
+      "sources": [
+        "https://modrinth.com/mod/simple-horse-qol"
+      ],
+      "reason": "Exact source URL in workbook notes matches the existing catalogue; official page describes the same split client visuals and server horse storage/riding features."
+    },
+    {
+      "row": 138,
+      "id": "e53a2de79fc327d5",
+      "name": "QuadHotbar (MultiHotbar)",
+      "sources": [
+        "https://www.curseforge.com/minecraft/mc-mods/quadhotbar",
+        "https://www.curseforge.com/minecraft/mc-mods/quadhotbar/files/8673489",
+        "https://modrinth.com/mod/quadhotbar"
+      ],
+      "reason": "Exact source file ID 8673489 is the named Forge 1.20.1 build; the Modrinth project identifies the same title and CurseForge route. Existing historical claims are retained, not promoted to latest."
+    }
+  ]
+}

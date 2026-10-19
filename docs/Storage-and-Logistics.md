@@ -17,7 +17,7 @@ Use **Link to these filters** in the catalogue to bookmark a custom view. Detail
 
 ## Current collection
 
-**216 entries in this category.** The 2026-10-19 consolidation preserved all 156 storage-master observations: 143 are attached to resolved catalogue routes and 13 remain in an [identity-review queue](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/storage-import-pending-identities.json). It added 106 catalogue entries across relevant categories and preserved all 42 existing favorites. Other source tabs and collections still need reconciliation.
+**216 entries in this category.** The 2026-10-19 consolidation preserved all 156 storage-master observations: 146 are attached to resolved catalogue routes and 10 remain in an [identity-review queue](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/storage-import-pending-identities.json). It added 106 catalogue entries across relevant categories and preserved all 42 existing favorites. Other source tabs and collections still need reconciliation.
 
 [Import verification](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/storage-import-verification.json) · [Cross-host project identity checks](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/storage-project-identity-checks.json)
 
@@ -341,3 +341,10 @@ The same collection contained useful notes outside its master view. The follow-o
 Four previously pending storage observations now point to existing catalogue entries: Integrated Tunnels, Logistics: Automation, RFTools Storage and Refined Wireless Upgrades. The last is explicitly the renamed RS Insert Export Upgrade on its official page. Shared repository/download links establish the cross-host routes. These checks resolve identity only; imported version and compatibility claims retain their original dates.
 
 [Primary-source identity evidence](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/storage-identity-resolution.json)
+
+
+### Portable storage and hotbar identities
+
+Reliable Backpacks, Simple Horse QOL and QuadHotbar source notes are now attached to their existing projects. The old Reliable Backpacks 1.2.2 and QuadHotbar 1.0.1 references identify historical files; they are not fresh latest-version recommendations. The current QuadHotbar description also discusses experimental Freedom mode, which must not be projected onto an older build.
+
+[Primary identity evidence and preserved observations](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/storage-portable-identity-resolution.json)
