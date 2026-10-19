@@ -8,19 +8,19 @@ A content-organized home for mod discovery, comparison, compatibility notes and 
 
 ## Browse by what you want to do
 
-- **[Building and Decoration](Building-and-Decoration)** — 98 project/feature/target entries; overlapping categories.
-- **[Creatures and Companions](Creatures-and-Companions)** — 609 project/feature/target entries; overlapping categories.
-- **[Engineering and Vehicles](Engineering-and-Vehicles)** — 307 project/feature/target entries; overlapping categories.
-- **[Farming and Survival](Farming-and-Survival)** — 113 project/feature/target entries; overlapping categories.
-- **[Interface and Accessibility](Interface-and-Accessibility)** — 209 project/feature/target entries; overlapping categories.
-- **[Magic and Progression](Magic-and-Progression)** — 249 project/feature/target entries; overlapping categories.
+- **[Building and Decoration](Building-and-Decoration)** — 100 project/feature/target entries; overlapping categories.
+- **[Creatures and Companions](Creatures-and-Companions)** — 615 project/feature/target entries; overlapping categories.
+- **[Engineering and Vehicles](Engineering-and-Vehicles)** — 312 project/feature/target entries; overlapping categories.
+- **[Farming and Survival](Farming-and-Survival)** — 125 project/feature/target entries; overlapping categories.
+- **[Interface and Accessibility](Interface-and-Accessibility)** — 217 project/feature/target entries; overlapping categories.
+- **[Magic and Progression](Magic-and-Progression)** — 262 project/feature/target entries; overlapping categories.
 - **[Multiplayer and Servers](Multiplayer-and-Servers)** — 86 project/feature/target entries; overlapping categories.
-- **[Performance and Stability](Performance-and-Stability)** — 178 project/feature/target entries; overlapping categories.
-- **[Storage and Logistics](Storage-and-Logistics)** — 216 project/feature/target entries; overlapping categories.
+- **[Performance and Stability](Performance-and-Stability)** — 179 project/feature/target entries; overlapping categories.
+- **[Storage and Logistics](Storage-and-Logistics)** — 226 project/feature/target entries; overlapping categories.
 - **[Tools and Development](Tools-and-Development)** — 215 project/feature/target entries; overlapping categories.
-- **[Visuals and Resource Packs](Visuals-and-Resource-Packs)** — 296 project/feature/target entries; overlapping categories.
+- **[Visuals and Resource Packs](Visuals-and-Resource-Packs)** — 338 project/feature/target entries; overlapping categories.
 - **[Weapons and Combat](Weapons-and-Combat)** — 619 project/feature/target entries; overlapping categories.
-- **[Worlds and Exploration](Worlds-and-Exploration)** — 304 project/feature/target entries; overlapping categories.
+- **[Worlds and Exploration](Worlds-and-Exploration)** — 312 project/feature/target entries; overlapping categories.
 
 ## Favorite deep dives
 

@@ -1,0 +1,4 @@
+const fs=require('node:fs'),path=require('node:path'),assert=require('node:assert/strict');
+const dir=__dirname,data=JSON.parse(fs.readFileSync(path.join(dir,'catalogue-index.json'),'utf8'));const counts=new Map();for(const r of data.records)for(const c of r.categories)counts.set(c,(counts.get(c)||0)+1);
+let checks=0;for(const file of ['Home.md','Minecraft-Mods.md','../README.md']){const s=fs.readFileSync(path.join(dir,file),'utf8');for(const [c,n] of counts){const esc=c.replace(/[.*+?^${}()|[\]\\]/g,'\\$&');const re=new RegExp('\\*\\*\\['+esc+'\\]\\([^\\n]+?\\)\\*\\* — (\\d+) project/feature/target entries;','g');const matches=[...s.matchAll(re)];assert.equal(matches.length,1,file+' '+c);assert.equal(Number(matches[0][1]),n,file+' '+c);checks+=2;}}
+console.log(JSON.stringify({status:'PASS',checks,scope:'All landing-page category counts match canonical index; no runtime claims'}));
