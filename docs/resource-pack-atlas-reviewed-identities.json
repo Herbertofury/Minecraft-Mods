@@ -1,0 +1,88 @@
+[
+  {
+    "row": 2,
+    "url": "https://modrinth.com/resourcepack/bare-bones-x-mods",
+    "name": "Bare Bones x Mods",
+    "categories": [
+      "Visuals and Resource Packs"
+    ],
+    "note": "Official Modrinth project identifies a modded Bare Bones resource pack; author lists many supported mods and instructs placing it above its base and overlays. Pack order is author guidance, not a native compatibility result. ARR; no redistribution implied."
+  },
+  {
+    "row": 3,
+    "url": "https://modrinth.com/resourcepack/farmergui",
+    "name": "Farmer GUI",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Interface and Accessibility"
+    ],
+    "note": "Official Modrinth page links the matching CurseForge farmergui project. Warm farmer-themed interface pack. Support lists are split by Minecraft version: do not apply the newer-version list to 1.20.1. ARR; no native verification.",
+    "sources": [
+      "https://modrinth.com/resourcepack/farmergui",
+      "https://www.curseforge.com/minecraft/texture-packs/farmergui"
+    ]
+  },
+  {
+    "row": 4,
+    "url": "https://modrinth.com/resourcepack/better-leaves",
+    "name": "Motschen's Better Leaves",
+    "categories": [
+      "Visuals and Resource Packs"
+    ],
+    "note": "Official Modrinth page links TeamMidnightDust/BetterLeavesLite. Version 9 uses pre-created leaf textures; customized texture packs may need recompilation. Version 8.1 and earlier dynamically adapt existing textures at a stated performance cost. These are author explanations, not measured FPS here; keep the two behaviors version-scoped.",
+    "sources": [
+      "https://modrinth.com/resourcepack/better-leaves",
+      "https://github.com/TeamMidnightDust/BetterLeavesLite/"
+    ]
+  },
+  {
+    "row": 6,
+    "url": "https://www.curseforge.com/minecraft/texture-packs/ars-loafers",
+    "name": "Ars Loafers",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Magic and Progression"
+    ],
+    "note": "Official CurseForge project 1254524 by loafobucket is an Ars Nouveau resource pack with addon support. Current description targets 1.21.1, while older files list 1.20.1. Project-wide support is not proof the latest archive works in every lane. Custom license; no native verification."
+  },
+  {
+    "row": 9,
+    "url": "https://modrinth.com/resourcepack/bibliophilia",
+    "name": "Bibliophilia | Enchanted Books",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Magic and Progression"
+    ],
+    "note": "Official project requires CIT Resewn or Forge CIT for 1.18\u20131.21.1; 1.21.2\u20131.21.4 is unsupported and 1.21.5 works vanilla. Author reports incompatibility with Dynamic Trims. Do not mark the source native/drop-in claim as dependency-free."
+  },
+  {
+    "row": 10,
+    "url": "https://www.curseforge.com/minecraft/texture-packs/excalibur-create-support",
+    "name": "Excalibur | Create Support",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Engineering and Vehicles"
+    ],
+    "note": "Official Create-to-Excalibur texture/model support pack by BoFill_Pablito. Author places it above Excalibur and publishes distinct Forge 1.20.1 and NeoForge 1.21.1 archives; exact Create generation matters."
+  },
+  {
+    "row": 11,
+    "url": "https://www.curseforge.com/minecraft/texture-packs/retextures-o-plenty",
+    "name": "Retextures o\u2019 Plenty",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Worlds and Exploration"
+    ],
+    "note": "Official Biomes O Plenty resource pack by IcyCaeli. Author describes changes to over 300 textures and variants, currently for the base mod; addon support is planned rather than implemented."
+  },
+  {
+    "row": 12,
+    "url": "https://modrinth.com/resourcepack/bare-bones-x-farmers-delight",
+    "name": "Bare Bones x Farmer\u2019s Delight",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Farming and Survival"
+    ],
+    "note": "Official Bare Bones compatibility resource pack for Farmer\u2019s Delight and several Delight addons. Author-listed completion differs by addon; do not promote the whole family to fully supported. ARR."
+  }
+]

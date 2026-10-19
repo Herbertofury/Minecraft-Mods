@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**304 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**305 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Compatibility Target · 8</strong></summary>
@@ -352,7 +352,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Resource Pack · 7</strong></summary>
+<summary><strong>Resource Pack · 8</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -363,6 +363,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [More Pig Variants](https://curseforge.com/minecraft/texture-packs/more-pig-variants) | Adds a wide range of pig appearances and secret nametag skins without extra entity clutter. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=e8f688c02ddc8236) |
 | [Pig Biome Variants](https://curseforge.com/minecraft/texture-packs/pig-variants-1-22) | Backports biome-styled pig appearances across many older versions. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=890bf9a148278be3) |
 | [Prettier Sheep](https://curseforge.com/minecraft/texture-packs/prettier-sheep) | Remodels sheep and adds temperate, warm, cold and mountain-oriented forms. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a1e760e8484c7626) |
+| [Retextures o’ Plenty](https://www.curseforge.com/minecraft/texture-packs/retextures-o-plenty) | Official Biomes O Plenty resource pack by IcyCaeli. Author describes changes to over 300 textures and variants, currently for the base mod; addon support is planned rather than imp | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=229ec91a7d1c71c2) |
 
 </details>
 

@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**251 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**253 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Compatibility Target · 2</strong></summary>
@@ -318,11 +318,13 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Resource Pack · 2</strong></summary>
+<summary><strong>Resource Pack · 4</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
+| [Ars Loafers](https://www.curseforge.com/minecraft/texture-packs/ars-loafers) | Official CurseForge project 1254524 by loafobucket is an Ars Nouveau resource pack with addon support. Current description targets 1.21.1, while older files list 1.20.1. Project-wi | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=4a3df3d6df8bb9f9) |
 | ★ [Attribute Icons (RPG Series)](https://modrinth.com/resourcepack/73QpzsIN) | Embedded icons for RPG combat attributes | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=9655d8bd422a8aed) |
+| [Bibliophilia \| Enchanted Books](https://modrinth.com/resourcepack/bibliophilia) | Official project requires CIT Resewn or Forge CIT for 1.18–1.21.1; 1.21.2–1.21.4 is unsupported and 1.21.5 works vanilla. Author reports incompatibility with Dynamic Trims. Do not  | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=093adf8483600a78) |
 | ★ [Bray & Cyber's Better, Fresher 3D Books](https://modrinth.com/resourcepack/bray-cyber-3d-enchanted-books) | Unique 3D models and effects for every enchanted-book variation | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0e65703aa668b98d) |
 
 </details>

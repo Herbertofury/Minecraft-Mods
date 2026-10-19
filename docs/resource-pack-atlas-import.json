@@ -4,9 +4,9 @@
   "master_rows": 159,
   "exact_existing_observations_added": 37,
   "unique_entries_enriched": 33,
-  "pending_master_observations": 122,
-  "display_entries": 2264,
-  "source_observations": 2646,
+  "pending_master_observations": 114,
+  "display_entries": 2272,
+  "source_observations": 2654,
   "favorites": 411,
   "native_promotions": 0,
   "all_prior_fields_preserved": true,
@@ -195,6 +195,49 @@
       "row": 147,
       "id": "891f52c3b41867a9",
       "name": "Fresh Flowers and Plants"
+    }
+  ],
+  "reviewed_new_identity_observations_added": 8,
+  "reviewed_new_identities": [
+    {
+      "row": 2,
+      "id": "d89e87e5fa530a1c",
+      "name": "Bare Bones x Mods"
+    },
+    {
+      "row": 3,
+      "id": "801d047561bb70f7",
+      "name": "Farmer GUI"
+    },
+    {
+      "row": 4,
+      "id": "02425ff4e1cd3e93",
+      "name": "Motschen's Better Leaves"
+    },
+    {
+      "row": 6,
+      "id": "4a3df3d6df8bb9f9",
+      "name": "Ars Loafers"
+    },
+    {
+      "row": 9,
+      "id": "093adf8483600a78",
+      "name": "Bibliophilia | Enchanted Books"
+    },
+    {
+      "row": 10,
+      "id": "89a3b19c36e4de16",
+      "name": "Excalibur | Create Support"
+    },
+    {
+      "row": 11,
+      "id": "229ec91a7d1c71c2",
+      "name": "Retextures o\u2019 Plenty"
+    },
+    {
+      "row": 12,
+      "id": "9e890ace92db3272",
+      "name": "Bare Bones x Farmer\u2019s Delight"
     }
   ]
 }
