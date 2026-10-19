@@ -44,3 +44,11 @@ The imported catalogue contains many additional frameworks, packs, bridges and h
 ### Keep the collection useful
 
 Frameworks, content packs, bridges and compatibility targets remain separate in [Weapons and Combat](Weapons-and-Combat). Favorites belong in [Forever World Collection](Forever-World-Collection); being a favorite does not establish tested compatibility. Record exact versions, source or file pins, inspected features, remaining gaps and the relevant study together. A pack title or showcase is a discovery lead until its actual files are examined.
+
+## Reopen a focused research view
+
+- [TaCZ content packs with actual-file/source studies](https://herbertofury.github.io/Minecraft-Mods/?q=TaCZ&category=Weapons%20and%20Combat&type=content_pack&evidence=study&sort=research): the current view returns Ars Armorer, Create Armorer and Helldivers.
+- [Favorite combat entries](https://herbertofury.github.io/Minecraft-Mods/?category=Weapons%20and%20Combat&favorites=1&sort=research): keep favorite ecosystems distinct from tested support.
+- [All weapon content-pack research](https://herbertofury.github.io/Minecraft-Mods/?category=Weapons%20and%20Combat&type=content_pack&sort=name): includes imported leads that still need exact-build review.
+
+The catalogue’s **Link to these filters** preserves search, purpose, type, edition, evidence, order, favorites and discovery-route settings. Bookmark it to return to the same research view without rebuilding filters. Individual entry links and comparisons remain available.
