@@ -1,6 +1,6 @@
 # Weapon research
 
-[Weapons and Combat](https://github.com/Herbertofury/Minecraft-Mods/wiki/Weapons-and-Combat) · [AoA implementation backlog](https://github.com/Herbertofury/Advent-of-Ascension/wiki/Weapon-Upgrade-Backlog)
+[Weapons and Combat](Weapons-and-Combat) · [AoA implementation backlog](https://github.com/Herbertofury/Advent-of-Ascension/wiki/Weapon-Upgrade-Backlog)
 
 ## Actual downloads and source studies
 
@@ -29,3 +29,18 @@ Preserve AoA item/resource identity. Keep optional reloads. Validate believable 
 ## Research still to deepen
 
 The imported catalogue contains many additional frameworks, packs, bridges and historical routes. Their presence is a research lead, not proof of actual-file study. Prioritize owner-selected references, exact matching versions, source hubs, license boundaries and findings that improve the AoA implementation.
+
+## Choose a reference by the problem you are solving
+
+| Design or implementation problem | Start here | Evidence to carry forward |
+|---|---|---|
+| Magical attachments and visible resource delivery | [Ars Armorer](https://github.com/Herbertofury/Advent-of-Ascension/wiki/Ars-Armorer-Direct-Study) | Separate delivery, modifier and capacity roles; do not turn every magical weapon into a magazine-fed gun |
+| Mechanical reloads and independent moving parts | [Create Armorer](https://github.com/Herbertofury/Advent-of-Ascension/wiki/Create-Armorer-Direct-Study) | Real animation/state paths, clear hand ownership, verify declared assets exist |
+| Charge, cooling and unusual firing state | [Helldivers gunpack](https://github.com/Herbertofury/Advent-of-Ascension/wiki/Helldivers-Gunpack-Direct-Study) | Preserve the meaning of script fields rather than treating every ammo field as a count |
+| Spell integration and crafting bridges | [ArsArms / IronsArms](https://github.com/Herbertofury/Advent-of-Ascension/wiki/Spell-Adapter-Source-and-Release-Study) | Exact released classes, resource accounting and optional dependency behavior |
+| Hand or grip clipping | [Pinned TaCZ native hand contract](https://github.com/Herbertofury/Advent-of-Ascension/blob/main/docs/TaCZ-Native-Hand-Contract.md) | Runtime player arms matter; fallback cubes alone cannot certify wide/slim skin hand fit |
+| Original identity versus premium redesign | [AoA original-to-concept gallery](https://herbertofury.github.io/Advent-of-Ascension/weapon-concepts.html) | Compare the released sprite, verified behavior and concept before modeling |
+
+### Keep the collection useful
+
+Frameworks, content packs, bridges and compatibility targets remain separate in [Weapons and Combat](Weapons-and-Combat). Favorites belong in [Forever World Collection](Forever-World-Collection); being a favorite does not establish tested compatibility. Record exact versions, source or file pins, inspected features, remaining gaps and the relevant study together. A pack title or showcase is a discovery lead until its actual files are examined.
