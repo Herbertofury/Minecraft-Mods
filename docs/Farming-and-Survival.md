@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**122 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**125 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Content Pack · 4</strong></summary>
@@ -133,7 +133,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Resource Pack · 12</strong></summary>
+<summary><strong>Resource Pack · 15</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -141,9 +141,12 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [BnC Coaster Compat](https://modrinth.com/resourcepack/bnc-coaster-compat) | The atlas's opaque project ID u0btsBB7 redirects to BnC Coaster Compat. Its page lists Minecraft 1.20–1.20.1 and additional Brewin' and Chewin' coaster models for selected foods fr | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b4686d91cd659e02) |
 | [Brewin' And Chewin' \| Excalibur Support](https://modrinth.com/resourcepack/brewin-and-chewin-excalibur-support) | Excalibur-style blocks, items, interface and coaster-model textures for Brewin' And Chewin'. Author claims at least 97% of textures edited, which is not an independently audited co | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=87b3949cf02b711c) |
 | ★ [Create: Fresh Items](https://modrinth.com/resourcepack/create-fresh-food) | 3D Create item models inspired by Fresh Food | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=f4b18fb9f355034a) |
+| [Crops 3D Reforged](https://www.curseforge.com/minecraft/texture-packs/crops-3d-reforged) | Vanilla-style 3D crop/plant models combine cubes and planes with vanilla-derived textures. The described coverage includes crops, stems, fungi, berries, saplings, flowers and potte | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=8c35822f669e68ea) |
+| [Crops 3D Reploughed](https://www.curseforge.com/minecraft/texture-packs/crops-3d-reploughed) | Separates NinthWorld’s crop assets into Crops, Flowers and Saplings packs for selective resource-pack stacking, with game-version metadata and a nether-wart texture-filename fix. T | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=f6a69411c2c28a8a) |
 | [Excalibur \| Farmer’s Delight Support](https://www.curseforge.com/minecraft/texture-packs/excalibur-farmers-delight-support) | Author describes 411 item/block textures and considers the pack complete for its stated scope; this is not our runtime qualification of all Farmer’s Delight addons. Place above bas | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=f2899b1e24f9f349) |
 | [Excalibur \| Hearth and Harvest Delight Support](https://www.curseforge.com/minecraft/texture-packs/excalibur-hearth-and-harvest-support) | Hearth and Harvest visual support aligned with Excalibur Farmer’s Delight, including 3D crops and extra detail on some functional blocks. The page lists distinct Forge 1.20.1 and N | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a0fb1cfbb30421be) |
 | [Excalibur \| My Nether's Delight Support](https://www.curseforge.com/minecraft/texture-packs/excalibur-my-nethers-delight-support) | Visual support for My Nether's Delight, which is distinct from the older Nether's Delight mod. Separate 1.20.1 v2.1 and 1.21.1 v2.2 files are listed. Intended to match Excalibur an | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=97a14bb4324ce96b) |
+| [Excalibur \| Quark Delight Support](https://modrinth.com/resourcepack/quark-delight-excalibur-support) | Excalibur-style retextures for the Quark Delight add-on, with listed 1.20–1.20.1 and 1.21–1.21.1 lanes. The author links separate Farmer’s Delight and Quark support packs; this pat | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=e4f78f17466f8373) |
 | ★ [Fresh Food](https://modrinth.com/resourcepack/fresh-food) | 3D food models and eating animations | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7d81da12770fdffa) |
 | ★ [Fresh Seeds](https://modrinth.com/resourcepack/fresh-seeds) | 3D bundled-style seed item models inspired by Actions & Stuff | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d92306e2cb4a6781) |
 | [Pixel Perfection x Farmer's Delight](https://modrinth.com/resourcepack/pixelperfectionxfarmersdelight) | Farmer's Delight textures for the Pixel Perfection Legacy/Fidelity style, with Corn Delight and beta Rustic Delight support stated. Page prose says standalone use is possible, whil | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d6b1ee8e269a3e71) |

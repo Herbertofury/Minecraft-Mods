@@ -58,7 +58,7 @@ These are historical starting ideas awaiting full exact-file review, not certifi
 
 ## Import coverage
 
-The original 17 views and all 159 master observations are preserved in the repository. Seventy-five master observations are attached to catalogue identities: 37 exact matches to existing records and thirty-eight newly reviewed identities. The remaining 84 master observations and 178 unmatched companion-view rows remain in review. 173 companion rows are attached to 66 entries; they do not inflate the unique-project or source-record totals.
+The original 17 views and all 159 master observations are preserved in the repository. Seventy-nine master observations are attached to catalogue identities: 37 exact matches to existing records and forty-two newly reviewed identities. The remaining 80 master observations and 168 unmatched companion-view rows remain in review. 183 companion rows are attached to 70 entries; they do not inflate the unique-project or source-record totals.
 
 [Preserved source views](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-source-views.json) · [Master import receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-import.json) · [Companion receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-companion-receipt.json)
 
@@ -101,3 +101,9 @@ Original scores and superlatives remain source opinions. No pack was installed, 
 [SPBR-Farmer’s Delight](https://modrinth.com/resourcepack/spbr-farmersdelight) provides LabPBR material maps. Its linked [SPBR setup guidance](https://modrinth.com/resourcepack/spbr) requires a shader with LabPBR/parallax support and those settings enabled. These author instructions are not a benchmark or Hari/Vulkan qualification. Test the precise shader, renderer and mod versions before recommending the stack.
 
 [Iron’s Spells ’n Spellbooks Reimagined](https://www.curseforge.com/minecraft/texture-packs/irons-spells-n-spellbooks-reimagined) changes models and selected GUI icons; use the correct Forge 1.20.1 or NeoForge 1.21.1 release. [Bare Bones x The Aether](https://modrinth.com/resourcepack/bare-bones-x-the-aether) lists several Aether add-ons, but Aether Redux and Deep Aether remain planned. [Better Leaves - Hexerei](https://www.curseforge.com/minecraft/texture-packs/better-leaves-hexerei) covers three Hexerei leaf types and does not require Motschen’s Better Leaves.
+
+## Selective crops and biome foliage
+
+[Crops 3D Reploughed](https://www.curseforge.com/minecraft/texture-packs/crops-3d-reploughed) separates crops, flowers and saplings, making selective stacking possible. Its author directs all-in-one users to [Crops 3D Reforged](https://www.curseforge.com/minecraft/texture-packs/crops-3d-reforged). Choose the exact game-version file and inspect overlapping model paths before combining packs; the names do not mean duplicate identities or automatically compatible layers.
+
+[Biomes You’ll Go 3D Flora](https://www.curseforge.com/minecraft/texture-packs/biomes-youll-go-3d-flora) targets vines and mushrooms, not every plant. Confirm the actual BYG/BWG registry names for each file. [Excalibur | Quark Delight Support](https://modrinth.com/resourcepack/quark-delight-excalibur-support) is for that add-on; Quark and Farmer’s Delight have separate support packs.

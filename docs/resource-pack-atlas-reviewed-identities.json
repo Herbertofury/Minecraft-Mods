@@ -389,5 +389,45 @@
       "Magic and Progression"
     ],
     "note": "Bushier Hexerei mahogany, willow and witch hazel leaves for 1.20/1.20.1. The author says Motschen\u2019s Better Leaves is not required, although the packs can be used together. Vanilla leaves are unchanged; this is selected decorative coverage, not a general foliage or gameplay compatibility patch."
+  },
+  {
+    "row": 47,
+    "name": "Biomes You\u2019ll Go 3D Flora",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/biomes-youll-go-3d-flora",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Worlds and Exploration"
+    ],
+    "note": "Selected 3D vine and mushroom models for the Biomes You\u2019ll Go family. The listing offers 1.19.2 and 1.20.1 files, says no backports before 1.19.2, and ties later ports to the author\u2019s own pack migration. Do not infer complete flora coverage or interchangeable BYG/BWG registries from the informal title; inspect the exact file before installation."
+  },
+  {
+    "row": 48,
+    "name": "Crops 3D Reforged",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/crops-3d-reforged",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Farming and Survival"
+    ],
+    "note": "Vanilla-style 3D crop/plant models combine cubes and planes with vanilla-derived textures. The described coverage includes crops, stems, fungi, berries, saplings, flowers and potted variants. Several game-version files exist; the displayed latest main file can be an older game lane, so choose the target version rather than blindly taking the main download. No measured FPS claim."
+  },
+  {
+    "row": 49,
+    "name": "Crops 3D Reploughed",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/crops-3d-reploughed",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Farming and Survival"
+    ],
+    "note": "Separates NinthWorld\u2019s crop assets into Crops, Flowers and Saplings packs for selective resource-pack stacking, with game-version metadata and a nether-wart texture-filename fix. The author points users seeking all three parts together toward Reforged. This is a distinct packaging option, not a duplicate identity or proof that both should be layered over the same assets."
+  },
+  {
+    "row": 50,
+    "name": "Excalibur | Quark Delight Support",
+    "url": "https://modrinth.com/resourcepack/quark-delight-excalibur-support",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Farming and Survival"
+    ],
+    "note": "Excalibur-style retextures for the Quark Delight add-on, with listed 1.20\u20131.20.1 and 1.21\u20131.21.1 lanes. The author links separate Farmer\u2019s Delight and Quark support packs; this patch does not imply it includes either base mod\u2019s complete retexture or gameplay compatibility."
   }
 ]

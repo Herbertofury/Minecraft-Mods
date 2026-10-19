@@ -1,11 +1,11 @@
 {
   "date": "2026-10-19",
   "source_view_rows": 351,
-  "attached_view_rows": 173,
-  "entries_enriched": 66,
-  "pending_view_rows": 178,
-  "source_record_count_unchanged": 2684,
-  "display_entries_unchanged": 2302,
+  "attached_view_rows": 183,
+  "entries_enriched": 70,
+  "pending_view_rows": 168,
+  "source_record_count_unchanged": 2688,
+  "display_entries_unchanged": 2306,
   "native_promotions": 0,
   "attached": [
     {
@@ -1045,6 +1045,66 @@
       "master_row": 43,
       "sheet": "Conversion Queue",
       "row": 7
+    },
+    {
+      "id": "d8943a646b26f494",
+      "master_row": 47,
+      "sheet": "Flowers & Botany",
+      "row": 22
+    },
+    {
+      "id": "8c35822f669e68ea",
+      "master_row": 48,
+      "sheet": "Flowers & Botany",
+      "row": 23
+    },
+    {
+      "id": "f6a69411c2c28a8a",
+      "master_row": 49,
+      "sheet": "Flowers & Botany",
+      "row": 24
+    },
+    {
+      "id": "e4f78f17466f8373",
+      "master_row": 50,
+      "sheet": "Flowers & Botany",
+      "row": 25
+    },
+    {
+      "id": "8c35822f669e68ea",
+      "master_row": 48,
+      "sheet": "Farming & Food",
+      "row": 15
+    },
+    {
+      "id": "f6a69411c2c28a8a",
+      "master_row": 49,
+      "sheet": "Farming & Food",
+      "row": 16
+    },
+    {
+      "id": "e4f78f17466f8373",
+      "master_row": 50,
+      "sheet": "Farming & Food",
+      "row": 17
+    },
+    {
+      "id": "d8943a646b26f494",
+      "master_row": 47,
+      "sheet": "Biomes & Nature",
+      "row": 11
+    },
+    {
+      "id": "e4f78f17466f8373",
+      "master_row": 50,
+      "sheet": "Style Ecosystems",
+      "row": 26
+    },
+    {
+      "id": "e4f78f17466f8373",
+      "master_row": 50,
+      "sheet": "Excalibur Ecosystem",
+      "row": 16
     }
   ],
   "pending": [
@@ -1093,54 +1153,6 @@
         "B": "Stupendous Visuals",
         "C": "Modded 16x compatibility; Polytone+EMF+ETF required; no full coverage claim",
         "D": "https://modrinth.com/resourcepack/stupendous-visuals"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Flowers & Botany",
-      "row": 22,
-      "name": "Biomes You\u2019ll Go 3D Flora",
-      "fields": {
-        "A": "46.0",
-        "B": "Biomes You\u2019ll Go 3D Flora",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/biomes-youll-go-3d-flora"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Flowers & Botany",
-      "row": 23,
-      "name": "Crops 3D Reforged",
-      "fields": {
-        "A": "47.0",
-        "B": "Crops 3D Reforged",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/crops-3d-reforged"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Flowers & Botany",
-      "row": 24,
-      "name": "Crops 3D Reploughed",
-      "fields": {
-        "A": "48.0",
-        "B": "Crops 3D Reploughed",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/crops-3d-reploughed"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Flowers & Botany",
-      "row": 25,
-      "name": "Excalibur | Quark Delight Support",
-      "fields": {
-        "A": "49.0",
-        "B": "Excalibur | Quark Delight Support",
-        "C": "Native / drop-in",
-        "D": "https://modrinth.com/resourcepack/quark-delight-excalibur-support"
       },
       "matches": []
     },
@@ -1561,42 +1573,6 @@
         "B": "Fantastic Flora",
         "C": "1.3 backport vanilla flowers only; 1.20.1 pack-format test",
         "D": "https://www.curseforge.com/minecraft/texture-packs/fantastic-flora"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Farming & Food",
-      "row": 15,
-      "name": "Crops 3D Reforged",
-      "fields": {
-        "A": "47.0",
-        "B": "Crops 3D Reforged",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/crops-3d-reforged"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Farming & Food",
-      "row": 16,
-      "name": "Crops 3D Reploughed",
-      "fields": {
-        "A": "48.0",
-        "B": "Crops 3D Reploughed",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/crops-3d-reploughed"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Farming & Food",
-      "row": 17,
-      "name": "Excalibur | Quark Delight Support",
-      "fields": {
-        "A": "49.0",
-        "B": "Excalibur | Quark Delight Support",
-        "C": "Native / drop-in",
-        "D": "https://modrinth.com/resourcepack/quark-delight-excalibur-support"
       },
       "matches": []
     },
@@ -2052,18 +2028,6 @@
     },
     {
       "sheet": "Biomes & Nature",
-      "row": 11,
-      "name": "Biomes You\u2019ll Go 3D Flora",
-      "fields": {
-        "A": "46.0",
-        "B": "Biomes You\u2019ll Go 3D Flora",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/biomes-youll-go-3d-flora"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Biomes & Nature",
       "row": 12,
       "name": "Whimscape x Oh The Biomes We\u2019ve Gone",
       "fields": {
@@ -2299,18 +2263,6 @@
         "B": "Mo's Vibrancy Pack",
         "C": "Mod-version asset port",
         "D": "https://www.planetminecraft.com/texture-pack/the-vibrancy-pack-1-13/"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Style Ecosystems",
-      "row": 26,
-      "name": "Excalibur | Quark Delight Support",
-      "fields": {
-        "A": "49.0",
-        "B": "Excalibur | Quark Delight Support",
-        "C": "Native / drop-in",
-        "D": "https://modrinth.com/resourcepack/quark-delight-excalibur-support"
       },
       "matches": []
     },
@@ -3012,18 +2964,6 @@
         "B": "Iron\u2019s Botany \u2014 dedicated texture pack gap",
         "C": "Custom pack required",
         "D": "https://www.curseforge.com/minecraft/mc-mods/irons-botany"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Excalibur Ecosystem",
-      "row": 16,
-      "name": "Excalibur | Quark Delight Support",
-      "fields": {
-        "A": "49.0",
-        "B": "Excalibur | Quark Delight Support",
-        "C": "Native / drop-in",
-        "D": "https://modrinth.com/resourcepack/quark-delight-excalibur-support"
       },
       "matches": []
     },

@@ -4,9 +4,9 @@
   "master_rows": 159,
   "exact_existing_observations_added": 37,
   "unique_entries_enriched": 33,
-  "pending_master_observations": 84,
-  "display_entries": 2302,
-  "source_observations": 2684,
+  "pending_master_observations": 80,
+  "display_entries": 2306,
+  "source_observations": 2688,
   "favorites": 411,
   "native_promotions": 0,
   "all_prior_fields_preserved": true,
@@ -197,7 +197,7 @@
       "name": "Fresh Flowers and Plants"
     }
   ],
-  "reviewed_new_identity_observations_added": 38,
+  "reviewed_new_identity_observations_added": 42,
   "reviewed_new_identities": [
     {
       "row": 2,
@@ -388,6 +388,26 @@
       "row": 46,
       "id": "a626af2866ee2954",
       "name": "Better Leaves - Hexerei"
+    },
+    {
+      "row": 47,
+      "id": "d8943a646b26f494",
+      "name": "Biomes You\u2019ll Go 3D Flora"
+    },
+    {
+      "row": 48,
+      "id": "8c35822f669e68ea",
+      "name": "Crops 3D Reforged"
+    },
+    {
+      "row": 49,
+      "id": "f6a69411c2c28a8a",
+      "name": "Crops 3D Reploughed"
+    },
+    {
+      "row": 50,
+      "id": "e4f78f17466f8373",
+      "name": "Excalibur | Quark Delight Support"
     }
   ]
 }
