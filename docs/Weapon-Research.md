@@ -52,3 +52,18 @@ Frameworks, content packs, bridges and compatibility targets remain separate in 
 - [All weapon content-pack research](https://herbertofury.github.io/Minecraft-Mods/?category=Weapons%20and%20Combat&type=content_pack&sort=name): includes imported leads that still need exact-build review.
 
 The catalogue’s **Link to these filters** preserves search, purpose, type, edition, evidence, order, favorites and discovery-route settings. Bookmark it to return to the same research view without rebuilding filters. Individual entry links and comparisons remain available.
+
+## Documented Bedrock roles to evaluate for original designs
+
+Pixelusion's [official Blasters guide](https://wiki.pixelusion.net/en/add-ons/blasters/blasters) describes sustained electrical attacks, healing, three-shot bursts, six-way scatter, charged release, displacement and ammunition-dependent variants. These are documentation-level references, not an actual-file or runtime study of this commercial pack. Other similarly named Blasters packs are separate projects.
+
+For AoA, turn those role distinctions into explicit original design tests:
+
+- **Burst versus scatter:** separate accepted shots, projectiles within a shot and cosmetic emitter selection. Do not multiply resource spending by the number of visual flashes.
+- **Sustained effects:** make server timing authoritative, with bounded targets, duration and cleanup. A faster client frame rate must not increase damage or healing.
+- **Charge/release:** define cancellation on swap, death, disconnect and interrupted aim. Cancelled attempts must not create a late ghost shot.
+- **Movement effects:** define who is pushed, when landing damage applies and how other movement controllers coexist. Test mounts and dimension transitions.
+- **Healing and rewards:** specify target eligibility and confirmed outcomes. Visual feedback cannot independently reroll loot or restore resources.
+- **Variant identity:** communicate changed role through silhouette, sound and projectile behavior while preserving the original-mode contract. A skin alone is not evidence of a functional conversion.
+
+These are proposed QA/design requirements, not claims of implemented AoA mechanics. Use the [confirmed-shot event audit](https://github.com/Herbertofury/Advent-of-Ascension/wiki/Confirmed-Shot-Presentation) and [complete weapon standard](https://github.com/Herbertofury/Advent-of-Ascension/wiki/Weapon-Completeness-Standard) when applying them.
