@@ -17,7 +17,7 @@ Use **Link to these filters** in the catalogue to bookmark a custom view. Detail
 
 ## Current collection
 
-**207 entries in this category.** The 2026-10-19 consolidation preserved all 156 storage-master observations: 139 were attached to resolved catalogue routes and 17 remain in an [identity-review queue](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/storage-import-pending-identities.json). It added 106 catalogue entries across relevant categories and preserved all 42 existing favorites. Other source tabs and collections still need reconciliation.
+**209 entries in this category.** The 2026-10-19 consolidation preserved all 156 storage-master observations: 139 were attached to resolved catalogue routes and 17 remain in an [identity-review queue](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/storage-import-pending-identities.json). It added 106 catalogue entries across relevant categories and preserved all 42 existing favorites. Other source tabs and collections still need reconciliation.
 
 [Import verification](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/storage-import-verification.json) · [Cross-host project identity checks](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/storage-project-identity-checks.json)
 
@@ -75,7 +75,7 @@ Before upgrades or removal, test a copied world with named/damaged/enchanted ite
 </details>
 
 <details>
-<summary><strong>Mod · 200</strong></summary>
+<summary><strong>Mod · 202</strong></summary>
 
 | Project / research entry | Purpose | Evidence |
 |---|---|---|
@@ -119,6 +119,7 @@ Before upgrades or removal, test a copied world with named/damaged/enchanted ite
 | [chestcraft](https://modrinth.com/mod/chestcraft) | Every crafting table can pull recipe-book ingredients from nearby chests, barrels, and containers. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=ea90c7dbe38180d4) |
 | [chestseek](https://modrinth.com/mod/chestseek) | Searches an open chest, dims non-matches and can inspect shulker contents. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=efb83f391de96799) |
 | [Classic Pipes](https://curseforge.com/minecraft/mc-mods/classic-pipes) | INSTALL/TEST 1.20.1 / SERVER-MATCHED / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=580160680b54d040) |
+| ★ [Clavis](https://modrinth.com/mod/clavis) | Locked chests open through a skill-based mini-game, with better performance giving better loot | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=8c86672df640fbe1) |
 | [Client Chest Sorter](https://modrinth.com/mod/client-chest-sorter) | Fabric 1.20.1 client-only keybind sorter for chests, shulkers and the player inventory. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=07a1b2b6337aec53) |
 | [Client Sort](https://herbertofury.github.io/Minecraft-Mods/?id=2e3fd138a6b86881) | INSTALL NOW 1.20.1 / CLIENT-SAFE / WORLD-SAFE / PACK QOL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2e3fd138a6b86881) |
 | [ClientSort](https://modrinth.com/mod/clientsort) | Modern client-first sorting suite with inventory/chest sorting, fill stacks, restock, transfer, slot exclusions and automatic policies; optional server install accelerates operatio | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=013b2e20be65df84) |
@@ -279,6 +280,7 @@ Before upgrades or removal, test a copied world with named/damaged/enchanted ite
 | [Wan's Ancient Beasts](https://curseforge.com/minecraft/mc-mods/wans-ancient-beasts) | OPTIONAL / BACKUP WORLD FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=90ab93d925ca0584) |
 | [Wan's Storage Shelves](https://modrinth.com/mod/storage-shelves) | 1.20.1 modular shelves using cardboard-box style inserts in multiple sizes and wood types. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=dda66d0ea77c7635) |
 | [XNet](https://curseforge.com/minecraft/mc-mods/xnet) | Highly configurable low-cable routing for items, fluids, energy and information. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=21d1327727c62791) |
+| ★ [Yet Another Gravestone Mod \[YAGM\]](https://modrinth.com/mod/yagm) | Seals your items and XP in a gravestone when you die, with biome-themed graves, naturally forming cemeteries, and tameable Ghost companions. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d2b27429f0c61a99) |
 
 </details>
 
@@ -316,4 +318,4 @@ These are qualification scenarios, not claims that the named projects currently 
 
 ## Companion-view reconciliation
 
-The same collection contained useful notes outside its master view. The follow-on pass attached **118 companion-view observations to 57 already identified catalogue entries**, preserving unique cautions, use cases and historical version claims without inventing new mods or promoting verification. **14 observations remain pending identity resolution.** These annotations are visible in the existing detail cards; original source dates and conflicting claims remain labeled as history. [Reconciliation receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/storage-companion-import-receipt.json). That companion-note pass preserved the then-current 1,935 entries and 42 favorites. The later starred-collection import brings the full catalogue to 2,140 entries and 298 catalogued favorites, without changing the explicit Forever World flags.
+The same collection contained useful notes outside its master view. The follow-on pass attached **118 companion-view observations to 57 already identified catalogue entries**, preserving unique cautions, use cases and historical version claims without inventing new mods or promoting verification. **14 observations remain pending identity resolution.** These annotations are visible in the existing detail cards; original source dates and conflicting claims remain labeled as history. [Reconciliation receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/storage-companion-import-receipt.json). That companion-note pass preserved the then-current 1,935 entries and 42 favorites. The later starred-collection import brings the full catalogue to 2,158 entries and 316 catalogued favorites, without changing the explicit Forever World flags.

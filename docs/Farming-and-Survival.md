@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**96 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**98 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Content Pack · 1</strong></summary>
@@ -16,7 +16,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Mod · 91</strong></summary>
+<summary><strong>Mod · 93</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -40,6 +40,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | ★ [Ars Nouveau's Flavors & Delight](https://curseforge.com/minecraft/mc-mods/ars-nouveaus-flavors-delight) | INSTALL/TEST 1.20.1 IF USING ARS + FARMER'S DELIGHT / SERVER-MATCHED / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b0b17e16bd5e33d0) |
 | [Bakeries](https://curseforge.com/minecraft/mc-mods/bakeries) | INSTALL/TEST 1.20.1 / COZY / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b8cf523e57f6abac) |
 | ★ [Butchery](https://curseforge.com/minecraft/mc-mods/butchery) | OPTIONAL / TEST 1.20.1 / CONTENT-HEAVY / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b411dfe30dd0cebb) |
+| ★ [Cardiac](https://modrinth.com/mod/cardiac) | Pickable health orbs after mob death | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=326db0c0db37b1ca) |
 | [Chef's Delight \[Forge\] - Farmer's Delight Villagers](https://curseforge.com/minecraft/mc-mods/chefs-delight-forge) | INSTALL/TEST 1.20.1 / SERVER-MATCHED / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c7f7178957e54600) |
 | [Chocco's Mobs](https://modrinth.com/mod/choccos-mobs) | Adds interactive animal roster, crops and survival foods; promising future creature variety | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=840464ea7eede26e) |
 | [Chocolate Cows](https://curseforge.com/minecraft/mc-mods/chocolate-cows) | Compact but polished chocolate-cow concept with chocolate milk, bars, bottles and cake. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=728d727c53a11800) |
@@ -111,6 +112,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Twilight's Flavors & Delight](https://curseforge.com/minecraft/mc-mods/twilights-flavors-delight) | INSTALL/TEST 1.20.1 / HIGH FIT / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0d5e41b7477a517d) |
 | [Universal Bone Meal](https://curseforge.com/minecraft/mc-mods/universal-bone-meal) | INSTALL NOW/TEST 1.20.1 / UPDATE-FRIENDLY | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=589e58c30dac363c) |
 | ★ [Waystones](https://curseforge.com/minecraft/mc-mods/waystones) | INSTALL NOW/TEST 1.20.1 / BACKUP BEFORE REMOVAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=50d47d9cc26d2200) |
+| ★ [Yet Another Gravestone Mod \[YAGM\]](https://modrinth.com/mod/yagm) | Seals your items and XP in a gravestone when you die, with biome-themed graves, naturally forming cemeteries, and tameable Ghost companions. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d2b27429f0c61a99) |
 
 </details>
 

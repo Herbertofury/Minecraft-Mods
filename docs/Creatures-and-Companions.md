@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**573 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**577 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Content Pack · 2</strong></summary>
@@ -40,7 +40,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Mod · 522</strong></summary>
+<summary><strong>Mod · 526</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -415,6 +415,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Random Mob Effects](https://herbertofury.github.io/Minecraft-Mods/?id=5a31d6d0982acb62) | INSTALL/OPTIONAL 1.20.1 / SERVER-SIDE / DIFFICULTY-STACK TEST / KEEP COLLECTIVE MATCHED | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=5a31d6d0982acb62) |
 | [Random Mob Effects](https://curseforge.com/minecraft/mc-mods/random-mob-effects) | A lightweight way to make existing hostile rosters less predictable without adding new entity registries or worldgen. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=bc40a68088cd6a4c) |
 | ★ [Rats](https://curseforge.com/minecraft/mc-mods/rats) | Trainable rat companions/automation | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=395edbf4193031dd) |
+| ★ [Re:Animal](https://modrinth.com/mod/re-animal) | Intelligent new animals that make the world livelier | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0958549391d58fe6) |
 | [Realistic Horse Genetics](https://curseforge.com/minecraft/mc-mods/realistic-horse-genetics) | Deep coat genetics including agouti, dun, cream, pearl, gray, silver, tobiano, roan, overo, sabino and more. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c2806bd69f7f4aef) |
 | ★ [Realm RPG: Dragon Wyrms](https://curseforge.com/minecraft/mc-mods/realm-rpg-dragon-wyrms) | Realm RPG family module | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=8e9890433eb19eab) |
 | ★ [Realm RPG: Fallen Adventurers](https://curseforge.com/minecraft/mc-mods/realm-rpg-fallen-adventurers) | Realm RPG family module | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=274d614e7f1f0c31) |
@@ -423,6 +424,8 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | ★ [Realm RPG: Pots & Mimics](https://curseforge.com/minecraft/mc-mods/pots-and-mimics-rpg) | Realm RPG family module | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=db1ac40312fef6c0) |
 | ★ [Realm RPG: Quests & Rewards](https://curseforge.com/minecraft/mc-mods/realm-rpg-quests-rewards) | Realm RPG family module | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=4ca36c857427d22c) |
 | ★ [Realm RPG: Treasure Balloons](https://curseforge.com/minecraft/mc-mods/realm-rpg-treasure-balloons) | Realm RPG family module | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=024e8e47a0d8666d) |
+| ★ [Relics: Alex's Caves Compat](https://modrinth.com/mod/rac-compat) | Compatibility addon between Relics and Alex's Caves | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=eb4a1348d508a02b) |
+| ★ [Relics: Alex's Mobs Compat](https://modrinth.com/mod/ram-compat) | Compatibility addon between Relics and Alex's Mobs | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d55dc5336040b62f) |
 | [Resource Cows](https://curseforge.com/minecraft/mc-mods/resource-cows) | Stone-to-Netherite plus wood, crop, apple and cake cows; milking produces resource buckets for a dedicated solidifier loop. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=785978632a3cc70f) |
 | [Ribbits](https://curseforge.com/minecraft/mc-mods/ribbits) | INSTALL/KEEP 1.20.1 / SERVER-MATCHED / BACKUP FIRST / WORLDGEN CONTENT | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=9b0831adddb34eeb) |
 | [Ribbits Remastered](https://curseforge.com/minecraft/mc-mods/ribbits-remastered) | FUTURE/HIGH-VALUE 26.2-26.3 / TEST-WATCH / SERVER-MATCHED / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=23f1e5a3f5ebc0ab) |
@@ -563,6 +566,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Wyrmroost](https://curseforge.com/minecraft/mc-mods/wyrmroost) | Dragon collection/taming mod with visually distinct species and traversal roles. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d38b695c9050dfc2) |
 | [Xaero's Maps: Multiplayer+](https://curseforge.com/minecraft/mc-mods/xaeros-maps-multiplayer-plus) | TEST/WATCH 1.20.1 / SERVER-MATCHED / TRUSTED PRIVATE SERVERS ONLY / BACK UP MAP DATA | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2e2534cc93b14f91) |
 | [Xiaoxiang Cultivation World](https://curseforge.com/minecraft/mc-mods/xiaoxiang-cultivation-world) | TEST/OPTIONAL 1.20.1 / SERVER-MATCHED / NEW WORLD PREFERRED / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b9d59a3fba873c68) |
+| ★ [Yet Another Gravestone Mod \[YAGM\]](https://modrinth.com/mod/yagm) | Seals your items and XP in a gravestone when you die, with biome-themed graves, naturally forming cemeteries, and tameable Ghost companions. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d2b27429f0c61a99) |
 | [ZombieApocalypseAddon](https://curseforge.com/minecraft/mc-mods/zombieapocalypseaddon) | INSTALL/TEST 1.20.1 / SERVER-MATCHED / BACKUP BEFORE SIEGE FEATURES | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=94fd3c15f21f0948) |
 | [Zoo & Wild Animals Rebuilt](https://curseforge.com/minecraft/mc-mods/zoo-wild-animals-rebuild) | Designed around building a true Minecraft zoo with a very broad species target. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=00b91bb9c3a255ba) |
 | [Zoo and Wild Animals: Evolved (ZAWA)](https://curseforge.com/minecraft/mc-mods/zawa) | Modern continuation of the famous ZAWA approach, targeting a broad zoo-grade animal collection on 1.20.1. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c07999c7d00730c4) |

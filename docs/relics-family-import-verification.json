@@ -1,0 +1,138 @@
+{
+  "scope": "Official creator identity resolution; no native compatibility promotion",
+  "entries": 2158,
+  "source_records": 2482,
+  "catalogued_favorites": 316,
+  "resolved_rows": 18,
+  "new_entries": 18,
+  "remaining_pending": 111,
+  "all_previous_sources_preserved": true,
+  "applied": [
+    {
+      "source_row": 82,
+      "catalogue_id": "eb4a1348d508a02b",
+      "project_id": "hkanUwBv",
+      "name": "Relics: Alex's Caves Compat",
+      "new_entry": true
+    },
+    {
+      "source_row": 83,
+      "catalogue_id": "d55dc5336040b62f",
+      "project_id": "uS725fXT",
+      "name": "Relics: Alex's Mobs Compat",
+      "new_entry": true
+    },
+    {
+      "source_row": 136,
+      "catalogue_id": "fa70a3312a651688",
+      "project_id": "RH2KUdKJ",
+      "name": "ShatterLib | OctoLib",
+      "new_entry": true
+    },
+    {
+      "source_row": 137,
+      "catalogue_id": "60023e7b2764e4d2",
+      "project_id": "bQh7xzFq",
+      "name": "Not Enough Recipe Book [NERB]",
+      "new_entry": true
+    },
+    {
+      "source_row": 138,
+      "catalogue_id": "628f24f9dbcd8d44",
+      "project_id": "9wv7LuMc",
+      "name": "Immersive UI",
+      "new_entry": true
+    },
+    {
+      "source_row": 139,
+      "catalogue_id": "580d1b27020ecd0a",
+      "project_id": "OCJRPujW",
+      "name": "Relics",
+      "new_entry": true
+    },
+    {
+      "source_row": 140,
+      "catalogue_id": "8f507087a094a209",
+      "project_id": "P8STLvzB",
+      "name": "Perception",
+      "new_entry": true
+    },
+    {
+      "source_row": 141,
+      "catalogue_id": "b87377cd4e7bf447",
+      "project_id": "GnU07giL",
+      "name": "Reliquified Artifacts",
+      "new_entry": true
+    },
+    {
+      "source_row": 142,
+      "catalogue_id": "659d9ec7df7f033c",
+      "project_id": "BaqCltvf",
+      "name": "Curios API Continuation",
+      "new_entry": true
+    },
+    {
+      "source_row": 143,
+      "catalogue_id": "326db0c0db37b1ca",
+      "project_id": "C5PewmIj",
+      "name": "Cardiac",
+      "new_entry": true
+    },
+    {
+      "source_row": 144,
+      "catalogue_id": "8c86672df640fbe1",
+      "project_id": "y9Xnig6p",
+      "name": "Clavis",
+      "new_entry": true
+    },
+    {
+      "source_row": 145,
+      "catalogue_id": "4dc1a124cfb99f58",
+      "project_id": "qNOCEdeg",
+      "name": "Reliquified Ars Nouveau",
+      "new_entry": true
+    },
+    {
+      "source_row": 146,
+      "catalogue_id": "383826cb810e0e42",
+      "project_id": "rBEndPUc",
+      "name": "Reliquified L_Ender 's Cataclysm",
+      "new_entry": true
+    },
+    {
+      "source_row": 147,
+      "catalogue_id": "2a270401018333ce",
+      "project_id": "zpFCv1jC",
+      "name": "Reliquified Twilight Forest",
+      "new_entry": true
+    },
+    {
+      "source_row": 148,
+      "catalogue_id": "0958549391d58fe6",
+      "project_id": "4Q5qctHv",
+      "name": "Re:Animal",
+      "new_entry": true
+    },
+    {
+      "source_row": 149,
+      "catalogue_id": "1a32466b0e75cb85",
+      "project_id": "NFDUFVtK",
+      "name": "Reliquified Iron's Spells 'n Spellbooks",
+      "new_entry": true
+    },
+    {
+      "source_row": 150,
+      "catalogue_id": "d2b27429f0c61a99",
+      "project_id": "lkwjObIy",
+      "name": "Yet Another Gravestone Mod [YAGM]",
+      "new_entry": true
+    },
+    {
+      "source_row": 151,
+      "catalogue_id": "2b5e8f43e3ffd2e9",
+      "project_id": "NvyY3PPw",
+      "name": "Stellara",
+      "new_entry": true
+    }
+  ]
+}

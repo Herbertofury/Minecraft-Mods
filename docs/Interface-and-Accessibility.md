@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**206 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**208 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Content Pack · 1</strong></summary>
@@ -43,7 +43,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Mod · 178</strong></summary>
+<summary><strong>Mod · 180</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -119,6 +119,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Immersive Armor HUD](https://curseforge.com/minecraft/mc-mods/immersive-armor-hud) | INSTALL/OPTIONAL 1.20.1 / CLIENT-SAFE / WORLD-SAFE / HUD-OVERLAP TEST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2e7d0b4ab7d07763) |
 | [Immersive Hotbar](https://herbertofury.github.io/Minecraft-Mods/?id=482c41c3000aaaf3) | OPTIONAL / HIGH COZY UI FIT / CLIENT-SAFE / WORLD-SAFE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=482c41c3000aaaf3) |
 | [Immersive Interfaces - Mod Support Unofficial](https://curseforge.com/minecraft/texture-packs/immersive-interfaces-mod-support-unofficial) | INSTALL/OPTIONAL 1.20.1 / CLIENT-SAFE / WORLD-SAFE / USE WITH BASE PACK | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=9b8e20b67a267d69) |
+| ★ [Immersive UI](https://modrinth.com/mod/immersive-ui) | Enhance your gameplay experience with animated UI components | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=628f24f9dbcd8d44) |
 | [ImmersiveMC](https://curseforge.com/minecraft/mc-mods/immersivemc) | INSTALL/TEST STABLE 1.20.1 / TEST 26.3 BETA / SERVER-MATCHED | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=99c9f0f5e530c819) |
 | [Improved Inventory Tabs](https://curseforge.com/minecraft/mc-mods/improved-inventory-tabs) | INSTALL/TEST 1.20.1 / CLIENT-SAFE / WORLD-SAFE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=4f3a10e05d7e2f79) |
 | [Inventory Essentials](https://curseforge.com/minecraft/mc-mods/inventory-essentials) | INSTALL NOW 1.20.1 / CLIENT WORKS / SERVER OPTIONAL / WORLD-SAFE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7702054706488b12) |
@@ -159,6 +160,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Nearby Inventory Crafting](https://modrinth.com/mod/seamlesscrafting) | Recipe-book crafting can use nearby inventories and includes a nearby-items panel with counts, search, locating, and highlights. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=af32368ef359c743) |
 | [Nemo's Inventory Sorting](https://curseforge.com/minecraft/mc-mods/nemos-inventory-sorting) | Large packs with inventory automation and UI controls. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=44dbf9cf9f707ea1) |
 | [Nice Actions](https://herbertofury.github.io/Minecraft-Mods/?id=bb7dba5fba3a6915) | FUTURE VERSION / HIGH QOL / SERVER TEST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=bb7dba5fba3a6915) |
+| ★ [Not Enough Recipe Book \[NERB\]](https://modrinth.com/mod/notenoughrecipebook) | Completely removes recipe book from the game, optimizing player data. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=60023e7b2764e4d2) |
 | [OpenUI MC](https://curseforge.com/minecraft/mc-mods/openui-mc) | TOOL / CLIENT-SAFE / INSTALL WHEN REQUIRED | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=f3befecdec16cd22) |
 | [PackFlow](https://curseforge.com/minecraft/mc-mods/packflow) | TEST/WATCH 1.20.1 / CLIENT-SAFE / WORLD-SAFE / RESOURCE-PACK HEAVY PACKS | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c8a76f616607e2d7) |
 | ★ [Peaceful Moon 2](https://curseforge.com/minecraft/mc-mods/peaceful-moon-2) | Stops new hostile natural spawns for a quiet night | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=471150336581615e) |

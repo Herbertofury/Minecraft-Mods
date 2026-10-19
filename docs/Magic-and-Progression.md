@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**217 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**225 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Compatibility Target · 2</strong></summary>
@@ -70,7 +70,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Mod · 196</strong></summary>
+<summary><strong>Mod · 204</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -206,7 +206,15 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | ★ [Realm RPG: Pots & Mimics](https://curseforge.com/minecraft/mc-mods/pots-and-mimics-rpg) | Realm RPG family module | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=db1ac40312fef6c0) |
 | ★ [Realm RPG: Quests & Rewards](https://curseforge.com/minecraft/mc-mods/realm-rpg-quests-rewards) | Realm RPG family module | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=4ca36c857427d22c) |
 | ★ [Realm RPG: Treasure Balloons](https://curseforge.com/minecraft/mc-mods/realm-rpg-treasure-balloons) | Realm RPG family module | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=024e8e47a0d8666d) |
+| ★ [Relics](https://modrinth.com/mod/relics-mod) | Just a mod about useful items with unique mechanics :3 | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=580d1b27020ecd0a) |
 | ★ [Relics (RPG Series)](https://modrinth.com/mod/BDQucwF0) | Spell-powered RPG trinkets and relics | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=ebae2c43b8ef37a3) |
+| ★ [Relics: Alex's Caves Compat](https://modrinth.com/mod/rac-compat) | Compatibility addon between Relics and Alex's Caves | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=eb4a1348d508a02b) |
+| ★ [Relics: Alex's Mobs Compat](https://modrinth.com/mod/ram-compat) | Compatibility addon between Relics and Alex's Mobs | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d55dc5336040b62f) |
+| ★ [Reliquified Ars Nouveau](https://modrinth.com/mod/reliquified-ars-nouveau) | Compatibility addon between Relics and Ars Nouveau | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=4dc1a124cfb99f58) |
+| ★ [Reliquified Artifacts](https://modrinth.com/mod/reliquified-artifacts) | Compatibility addon between Relics and Artifacts | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b87377cd4e7bf447) |
+| ★ [Reliquified Iron's Spells 'n Spellbooks](https://modrinth.com/mod/reliquified-irons-spells-n-spellbooks) | Compatibility addon between Relics and Iron's Spells 'n Spellbooks | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=1a32466b0e75cb85) |
+| ★ [Reliquified L_Ender 's Cataclysm](https://modrinth.com/mod/reliquified-l-ender-s-cataclysm) | Compatibility addon between Relics & L_Ender 's Cataclysm | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=383826cb810e0e42) |
+| ★ [Reliquified Twilight Forest](https://modrinth.com/mod/reliquified-twilight-forest) | Compatibility addon between Relics & Twilight Forest | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2a270401018333ce) |
 | [Rogues & Warriors (RPG Series)](https://curseforge.com/minecraft/mc-mods/rogues-and-warriors) | INSTALL/UPDATE ONLY AS MATCHED RPG-SERIES SET / BACKUP FIRST / SERVER-MATCHED | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0156f6855ca6fbad) |
 | [Roots 4](https://curseforge.com/minecraft/mc-mods/roots) | WATCH / FUTURE VERSION | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=5454206dd5c7f340) |
 | [Roots Classic](https://curseforge.com/minecraft/mc-mods/roots-classic) | INSTALL/TEST 1.20.1 / SERVER-MATCHED / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a35190f6ec071d18) |

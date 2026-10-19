@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**212 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**214 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Discovery · 39</strong></summary>
@@ -63,7 +63,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Library · 52</strong></summary>
+<summary><strong>Library · 54</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -86,6 +86,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [CoroUtil](https://curseforge.com/minecraft/mc-mods/coroutil) | INSTALL WITH DEPENDENTS / 1.20.1 / SERVER-MATCHED | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c74d0db91244558b) |
 | [Cupboard](https://curseforge.com/minecraft/mc-mods/cupboard) | INSTALL WHEN REQUIRED / 1.20.1 READY / KEEP VERSION-MATCHED | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=ccc6ae9d8e6ac761) |
 | ★ [Curios API](https://curseforge.com/minecraft/mc-mods/curios) | TOOL / DEPENDENCY / INSTALL WHEN REQUIRED / PIN EXACT BRANCH | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=86b3a1ea181b5784) |
+| ★ [Curios API Continuation](https://modrinth.com/mod/curios-continuation) | A flexible and expandable accessory/equipment API for users and developers. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=659d9ec7df7f033c) |
 | [Cyclops Core](https://curseforge.com/minecraft/mc-mods/cyclops-core) | INSTALL IF REQUIRED / PIN EXACT BRANCH | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=8e194380da253e7d) |
 | [Easy Model Entities](https://curseforge.com/minecraft/mc-mods/easy-model-entities) | TOOL / INSTALL-TEST 1.20.1 / SERVER-MATCHED / PROFILE-SCHEMA AWARE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=feb697270cf6bf85) |
 | [EMF Compat: Core](https://herbertofury.github.io/Minecraft-Mods/?id=51ac168c0dfd1c12) | INSTALL NOW when using any EMF Compat addon / CLIENT-SAFE / WORLD-SAFE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=51ac168c0dfd1c12) |
@@ -110,6 +111,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Sable](https://modrinth.com/mod/sable) | Modern moving-sublevel physics library used by Create Aeronautics and newer Create Big Cannons physics integrations; important ecosystem context but not a Forge 1.20.1 install targ | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=8086881dd72cff94) |
 | [Sable](https://curseforge.com/minecraft/mc-mods/sable) | FUTURE/HIGH-VALUE / 1.21.1 ONLY / SERVER-MATCHED / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=31b062994a4221fb) |
 | [SBW Optimized](https://curseforge.com/minecraft/mc-mods/sbw-optimized) | Client-only SBW sidecar that accelerates freeform mesh rendering with VBO caching and provides the current mesh path used by compatible SBW addons while upstream native poly_mesh s | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=cc2701b6623bb85e) |
+| ★ [ShatterLib \| OctoLib](https://modrinth.com/mod/shatterbyte-lib) | Collection of shared code for OctoStudios' mods | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=fa70a3312a651688) |
 | [SL Library](https://curseforge.com/minecraft/mc-mods/sl-library) | INSTALL IF REQUIRED / PIN EXACT BRANCH | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=4e79650b2e5a748f) |
 | [Sophisticated Core](https://curseforge.com/minecraft/mc-mods/sophisticated-core) | REQUIRED DEPENDENCY / INSTALL WITH SOPHISTICATED MODS / PIN EXACT BRANCH | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=770c102d07375398) |
 | [Spell Engine](https://curseforge.com/minecraft/mc-mods/spell-engine) | UPDATE ONLY AS FULL RPG-SERIES SET / BACKUP FIRST / TEST COPY | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=ddf9cee651063b5f) |

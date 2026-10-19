@@ -1,0 +1,285 @@
+{
+  "url": "https://api.modrinth.com/v2/user/SSKirillSS/projects",
+  "checked_utc": "2026-10-19",
+  "response_sha256": "2b1d2d7361ac04437dd01d4808bc2217683145efd674253bd8091fadaa1efe26",
+  "scope": "Public creator-project identity only; no exact-release or native compatibility verification",
+  "projects": [
+    {
+      "id": "9wv7LuMc",
+      "slug": "immersive-ui",
+      "title": "Immersive UI",
+      "project_type": "mod",
+      "source_url": "https://github.com/Octo-Studios/immersive-ui",
+      "status": "approved",
+      "team": "u6JDIIs3",
+      "description": "Enhance your gameplay experience with animated UI components",
+      "categories": [
+        "decoration",
+        "utility"
+      ],
+      "additional_categories": []
+    },
+    {
+      "id": "qNOCEdeg",
+      "slug": "reliquified-ars-nouveau",
+      "title": "Reliquified Ars Nouveau",
+      "project_type": "mod",
+      "source_url": "https://github.com/Octo-Studios/reliquified_ars_nouveau",
+      "status": "approved",
+      "team": "d1sIvT6h",
+      "description": "Compatibility addon between Relics and Ars Nouveau",
+      "categories": [
+        "adventure",
+        "equipment",
+        "magic"
+      ],
+      "additional_categories": []
+    },
+    {
+      "id": "hkanUwBv",
+      "slug": "rac-compat",
+      "title": "Relics: Alex's Caves Compat",
+      "project_type": "mod",
+      "source_url": "https://github.com/SSKirillSS/rac-compat",
+      "status": "approved",
+      "team": "i1LIPOVN",
+      "description": "Compatibility addon between Relics and Alex's Caves",
+      "categories": [
+        "adventure",
+        "equipment",
+        "magic"
+      ],
+      "additional_categories": []
+    },
+    {
+      "id": "P8STLvzB",
+      "slug": "perception",
+      "title": "Perception",
+      "project_type": "mod",
+      "source_url": "https://github.com/Octo-Studios/perception",
+      "status": "approved",
+      "team": "8892o8cR",
+      "description": "Enriching the world with immersive visual effects",
+      "categories": [
+        "adventure",
+        "decoration",
+        "utility"
+      ],
+      "additional_categories": []
+    },
+    {
+      "id": "y9Xnig6p",
+      "slug": "clavis",
+      "title": "Clavis",
+      "project_type": "mod",
+      "source_url": null,
+      "status": "approved",
+      "team": "oCALuIIU",
+      "description": "Locked chests open through a skill-based mini-game, with better performance giving better loot",
+      "categories": [
+        "adventure",
+        "storage",
+        "worldgen"
+      ],
+      "additional_categories": []
+    },
+    {
+      "id": "GnU07giL",
+      "slug": "reliquified-artifacts",
+      "title": "Reliquified Artifacts",
+      "project_type": "mod",
+      "source_url": "https://github.com/Octo-Studios/rar-compat",
+      "status": "approved",
+      "team": "DDLuODrU",
+      "description": "Compatibility addon between Relics and Artifacts",
+      "categories": [
+        "adventure",
+        "equipment",
+        "magic"
+      ],
+      "additional_categories": []
+    },
+    {
+      "id": "zpFCv1jC",
+      "slug": "reliquified-twilight-forest",
+      "title": "Reliquified Twilight Forest",
+      "project_type": "mod",
+      "source_url": "https://github.com/Octo-Studios/reliquified-twilight-forest",
+      "status": "approved",
+      "team": "r3FQi8DG",
+      "description": "Compatibility addon between Relics & Twilight Forest",
+      "categories": [
+        "adventure",
+        "equipment",
+        "magic"
+      ],
+      "additional_categories": []
+    },
+    {
+      "id": "lkwjObIy",
+      "slug": "yagm",
+      "title": "Yet Another Gravestone Mod [YAGM]",
+      "project_type": "mod",
+      "source_url": "https://github.com/Octo-Studios/yagm",
+      "status": "approved",
+      "team": "hB5NPVUy",
+      "description": "Seals your items and XP in a gravestone when you die, with biome-themed graves, naturally forming cemeteries, and tameable Ghost companions.",
+      "categories": [
+        "game-mechanics",
+        "storage",
+        "utility"
+      ],
+      "additional_categories": []
+    },
+    {
+      "id": "OCJRPujW",
+      "slug": "relics-mod",
+      "title": "Relics",
+      "project_type": "mod",
+      "source_url": "https://github.com/SSKirillSS/relics/tree/1.18.2",
+      "status": "approved",
+      "team": "nO2ElCad",
+      "description": "Just a mod about useful items with unique mechanics :3",
+      "categories": [
+        "adventure",
+        "equipment",
+        "magic"
+      ],
+      "additional_categories": []
+    },
+    {
+      "id": "rBEndPUc",
+      "slug": "reliquified-l-ender-s-cataclysm",
+      "title": "Reliquified L_Ender 's Cataclysm",
+      "project_type": "mod",
+      "source_url": null,
+      "status": "approved",
+      "team": "twsOsjfm",
+      "description": "Compatibility addon between Relics & L_Ender 's Cataclysm",
+      "categories": [
+        "adventure",
+        "equipment",
+        "magic"
+      ],
+      "additional_categories": []
+    },
+    {
+      "id": "bQh7xzFq",
+      "slug": "notenoughrecipebook",
+      "title": "Not Enough Recipe Book [NERB]",
+      "project_type": "mod",
+      "source_url": "https://github.com/SSKirillSS/nerb",
+      "status": "approved",
+      "team": "20Vhjk7o",
+      "description": "Completely removes recipe book from the game, optimizing player data.",
+      "categories": [
+        "optimization",
+        "utility"
+      ],
+      "additional_categories": [
+        "game-mechanics"
+      ]
+    },
+    {
+      "id": "NvyY3PPw",
+      "slug": "stellara",
+      "title": "Stellara",
+      "project_type": "mod",
+      "source_url": null,
+      "status": "approved",
+      "team": "VQ5fVDCK",
+      "description": "Custom skyboxes for different biomes",
+      "categories": [],
+      "additional_categories": []
+    },
+    {
+      "id": "uS725fXT",
+      "slug": "ram-compat",
+      "title": "Relics: Alex's Mobs Compat",
+      "project_type": "mod",
+      "source_url": "https://github.com/SSKirillSS/ram-compat",
+      "status": "approved",
+      "team": "lGx1OSym",
+      "description": "Compatibility addon between Relics and Alex's Mobs",
+      "categories": [
+        "equipment"
+      ],
+      "additional_categories": [
+        "adventure"
+      ]
+    },
+    {
+      "id": "RH2KUdKJ",
+      "slug": "shatterbyte-lib",
+      "title": "ShatterLib | OctoLib",
+      "project_type": "mod",
+      "source_url": "https://github.com/Octo-Studios/octo-lib",
+      "status": "approved",
+      "team": "GDxJXTjJ",
+      "description": "Collection of shared code for OctoStudios' mods",
+      "categories": [
+        "library"
+      ],
+      "additional_categories": []
+    },
+    {
+      "id": "NFDUFVtK",
+      "slug": "reliquified-irons-spells-n-spellbooks",
+      "title": "Reliquified Iron's Spells 'n Spellbooks",
+      "project_type": "mod",
+      "source_url": null,
+      "status": "approved",
+      "team": "lyW8KI9G",
+      "description": "Compatibility addon between Relics and Iron's Spells 'n Spellbooks",
+      "categories": [],
+      "additional_categories": []
+    },
+    {
+      "id": "C5PewmIj",
+      "slug": "cardiac",
+      "title": "Cardiac",
+      "project_type": "mod",
+      "source_url": "https://github.com/SSKirillSS/cardiac",
+      "status": "approved",
+      "team": "8fOKViZE",
+      "description": "Pickable health orbs after mob death",
+      "categories": [
+        "adventure",
+        "game-mechanics",
+        "utility"
+      ],
+      "additional_categories": []
+    },
+    {
+      "id": "BaqCltvf",
+      "slug": "curios-continuation",
+      "title": "Curios API Continuation",
+      "project_type": "mod",
+      "source_url": "https://github.com/SSKirillSS/Curios",
+      "status": "approved",
+      "team": "PhPAC7xR",
+      "description": "A flexible and expandable accessory/equipment API for users and developers.",
+      "categories": [
+        "equipment",
+        "library"
+      ],
+      "additional_categories": [
+        "storage"
+      ]
+    },
+    {
+      "id": "4Q5qctHv",
+      "slug": "re-animal",
+      "title": "Re:Animal",
+      "project_type": "mod",
+      "source_url": "https://github.com/Octo-Studios/re-animal",
+      "status": "approved",
+      "team": "sGRUTeLx",
+      "description": "Intelligent new animals that make the world livelier",
+      "categories": [
+        "mobs"
+      ],
+      "additional_categories": []
+    }
+  ]
+}

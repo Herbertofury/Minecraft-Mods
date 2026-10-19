@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**285 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**287 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Compatibility Target · 8</strong></summary>
@@ -59,7 +59,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Mod · 257</strong></summary>
+<summary><strong>Mod · 259</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -123,6 +123,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Chunk Loading Profiler](https://curseforge.com/minecraft/mc-mods/chunk-loading-profiler) | TOOL / INSTALL AS NEEDED 1.20.1 / WORLD-SAFE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=9c8dbafdda9b074a) |
 | [Chunksmith](https://modrinth.com/plugin/chunksmith) | OPTIONAL / HIGH-FIT FORGE 1.20.1 / MANUAL RUN / BACKUP WORLD FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=747dbe68a147d037) |
 | [CityWorld ReForged](https://curseforge.com/minecraft/mc-mods/cityworld-reforged) | HIGH-VALUE PACKMAKING / TEST Forge1.20.1 ON NEW COPIED WORLD / FUTURE NEOFORGE SUPPORTED | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a9504ba9cb6cb226) |
+| ★ [Clavis](https://modrinth.com/mod/clavis) | Locked chests open through a skill-based mini-game, with better performance giving better loot | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=8c86672df640fbe1) |
 | [Confluence: Otherworld](https://curseforge.com/minecraft/mc-mods/confluence) | UPDATE CANDIDATE / TEST COPIED WORLD / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=6fa115b4112b6537) |
 | [Core Craft - A Vanilla Expansion](https://curseforge.com/minecraft-bedrock/addons/core-craft) | BEDROCK ONLY / TEST BRANCH / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=e750292714f35d69) |
 | [Create: Accelerate](https://modrinth.com/mod/create-accelerate) | WATCH / HIGH CREATE FIT / TEST WORLD COPY | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=1742c816fa20635e) |
@@ -251,6 +252,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | ★ [Realm RPG: Quests & Rewards](https://curseforge.com/minecraft/mc-mods/realm-rpg-quests-rewards) | Realm RPG family module | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=4ca36c857427d22c) |
 | ★ [Realm RPG: Treasure Balloons](https://curseforge.com/minecraft/mc-mods/realm-rpg-treasure-balloons) | Realm RPG family module | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=024e8e47a0d8666d) |
 | ★ [Relics (RPG Series)](https://modrinth.com/mod/BDQucwF0) | Spell-powered RPG trinkets and relics | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=ebae2c43b8ef37a3) |
+| ★ [Reliquified Twilight Forest](https://modrinth.com/mod/reliquified-twilight-forest) | Compatibility addon between Relics & Twilight Forest | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2a270401018333ce) |
 | [Repurposed Structures (Neoforge/Forge)](https://curseforge.com/minecraft/mc-mods/repurposed-structures) | INSTALL/TEST 1.20.1 / SERVER-SIDE / BACKUP FIRST / FUTURE HIGH-VALUE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=8bde4195499d6d20) |
 | [Ribbits](https://curseforge.com/minecraft/mc-mods/ribbits) | INSTALL/KEEP 1.20.1 / SERVER-MATCHED / BACKUP FIRST / WORLDGEN CONTENT | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=9b0831adddb34eeb) |
 | [Rick's Portal Gun \[Forge/NeoForge\]](https://curseforge.com/minecraft/mc-mods/ricks-portal-gun) | INSTALL/TEST 1.20.1 / CLIENT+SERVER / PORTAL SECURITY + DIMENSION TEST / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a0f5c9c9e78e6fe9) |

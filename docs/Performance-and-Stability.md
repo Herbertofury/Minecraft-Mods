@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**177 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**178 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Discovery · 35</strong></summary>
@@ -72,7 +72,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Mod · 129</strong></summary>
+<summary><strong>Mod · 130</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -164,6 +164,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [More Culling Reforged](https://curseforge.com/minecraft/mc-mods/more-culling-reforged) | TEST/WATCH 1.20.1 / CLIENT-SAFE / WORLD-SAFE / A-B BENCHMARK | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=5b9c03027b0c1d9e) |
 | [MoreCulling](https://curseforge.com/minecraft/mc-mods/moreculling) | INSTALL/TEST FABRIC 1.20.1 / FUTURE NEOFORGE / CLIENT A-B | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=93fcbc36146ee807) |
 | [Mount Fix](https://curseforge.com/minecraft/mc-mods/dragon-mount-fix) | INSTALL/TEST IF USING EPIC FIGHT + AFFECTED DRAGON MOD / CLIENT-SAFE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b6e01f99d0836956) |
+| ★ [Not Enough Recipe Book \[NERB\]](https://modrinth.com/mod/notenoughrecipebook) | Completely removes recipe book from the game, optimizing player data. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=60023e7b2764e4d2) |
 | ★ [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus) | Relevant to the Performance & Compatibility gun/combat ecosystem; retained for comparison, expansion planning, or compatibility discovery. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=6afe381bf80f0bb3) |
 | [Optimized Block Entities](https://curseforge.com/minecraft/mc-mods/obe) | UPDATE/TEST Forge1.20.1 / CLIENT-SAFE / PERFORMANCE A-B; FUTURE modern | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=46e4f6a2d830f363) |
 | [Pala's Item Clear](https://curseforge.com/minecraft/mc-mods/palas-item-clear) | INSTALL/TEST OPTIONAL SERVER TOOL / CONFIG-REVIEW / WORLD-SAFE LAYER | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a93866768f232cc4) |

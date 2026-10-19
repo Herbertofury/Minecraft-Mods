@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**278 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**281 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Content Pack · 1</strong></summary>
@@ -65,7 +65,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Mod · 147</strong></summary>
+<summary><strong>Mod · 150</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -145,6 +145,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) | INSTALL/UPDATE 1.20.1 / CLIENT-SAFE / WORLD-SAFE / BENCHMARK STACK | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=4389eeea1988b571) |
 | [Immersive Hotbar](https://herbertofury.github.io/Minecraft-Mods/?id=482c41c3000aaaf3) | OPTIONAL / HIGH COZY UI FIT / CLIENT-SAFE / WORLD-SAFE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=482c41c3000aaaf3) |
 | [Immersive Interfaces - Mod Support Unofficial](https://curseforge.com/minecraft/texture-packs/immersive-interfaces-mod-support-unofficial) | INSTALL/OPTIONAL 1.20.1 / CLIENT-SAFE / WORLD-SAFE / USE WITH BASE PACK | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=9b8e20b67a267d69) |
+| ★ [Immersive UI](https://modrinth.com/mod/immersive-ui) | Enhance your gameplay experience with animated UI components | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=628f24f9dbcd8d44) |
 | ★ [Iris Shaders](https://curseforge.com/minecraft/mc-mods/irisshaders) | Modern shader platform | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7df7fbf5d5e56f4d) |
 | [Kimetsunoyaiba Tweaks](https://curseforge.com/minecraft/mc-mods/kimetsunoyaiba-tweaks) | INSTALL/TEST 1.20.1 / BACKUP FIRST / NO OPTIFINE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=68e72fcf7264f2b4) |
 | ★ [Legendary Tooltips](https://curseforge.com/minecraft/mc-mods/legendary-tooltips) | Fancy configurable tooltip borders, rarity presentation and item previews | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=5ab80fac77c9a42e) |
@@ -165,6 +166,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Particle Rain](https://curseforge.com/minecraft/mc-mods/particle-rain) | UPDATE NOW 1.20.1 / CLIENT-SAFE / WORLD-SAFE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=6b78993098e9ed3f) |
 | [Passive Shield](https://herbertofury.github.io/Minecraft-Mods/?id=36d3c0820e82cca9) | INSTALL/TEST 1.20.1 / SERVER-MATCHED / COMBAT-STACK TEST / KEEP COLLECTIVE MATCHED | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=36d3c0820e82cca9) |
 | [PatPat \[Mod & Plugin\]](https://modrinth.com/plugin/patpat) | INSTALL/TEST 1.20.1 / COZY QOL / CLIENT-SAFE LOCAL MODE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=9c3689cdbec72920) |
+| ★ [Perception](https://modrinth.com/mod/perception) | Enriching the world with immersive visual effects | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=8f507087a094a209) |
 | ★ [Physics Mod](https://modrinth.com/mod/physicsmod) | ⭐ FAVORITE / CLIENT-SAFE | Official release checked; native testing open · [details](https://herbertofury.github.io/Minecraft-Mods/?id=f6bb21142a61f282) |
 | [Presence Footsteps](https://curseforge.com/minecraft/mc-mods/presence-footsteps) | INSTALL/OPTIONAL 1.20.1 FABRIC-QUILT / CLIENT-SAFE / WORLD-SAFE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=1ef68a07ca570d22) |
 | [Presence Footsteps (Forge)](https://curseforge.com/minecraft/mc-mods/presence-footsteps-forge) | INSTALL/OPTIONAL 1.20.1 / CLIENT-SAFE / WORLD-SAFE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=64cdec2119bd9ee5) |
@@ -189,6 +191,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Stable FPS](https://curseforge.com/minecraft/mc-mods/stable-fps) | INSTALL/TEST 1.20.1 / CLIENT-SAFE / HIGH-POLLING-MOUSE FIT | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=93c46b363dc5d992) |
 | [Star Worm Equestrian Mod (SWEM)](https://curseforge.com/minecraft/mc-mods/swem) | INSTALL/TEST 1.20.1 / SERVER-MATCHED / BACKUP FIRST / ANIMATION-STACK TEST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=87e37f5fd3393f4f) |
 | [Stay True Compats Reforged](https://curseforge.com/minecraft/texture-packs/stay-true-compats) | INSTALL / OPTIONAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=aca2a1f1618be714) |
+| ★ [Stellara](https://modrinth.com/mod/stellara) | Custom skyboxes for different biomes | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2b5e8f43e3ffd2e9) |
 | [StellarCreateOptimization](https://curseforge.com/minecraft/mc-mods/stellarcreateoptimization) | INSTALL/TEST 1.20.1 / CREATE 6.0.8 BASELINE / SERVER-MATCHED / A-B BENCHMARK | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=8a8f5c71b79210e9) |
 | [StopRendering](https://curseforge.com/minecraft/mc-mods/stoprendering) | INSTALL/TEST 1.20.1 / CLIENT-SAFE / WORLD-SAFE / A-B BENCHMARK | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=495169092e817597) |
 | [Storage Drawers](https://curseforge.com/minecraft/mc-mods/storage-drawers) | INSTALL NOW 1.20.1 / SERVER-MATCHED / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=f9fd892761c04bf2) |

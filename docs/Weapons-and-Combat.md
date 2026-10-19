@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**586 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**588 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Content Pack · 79</strong></summary>
@@ -374,7 +374,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Mod · 263</strong></summary>
+<summary><strong>Mod · 265</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -431,6 +431,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Better Selective Combat](https://curseforge.com/minecraft/mc-mods/better-selective-combat) | FUTURE VERSION / WATCH | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a3f368526770643f) |
 | [Better Spellcasting](https://curseforge.com/minecraft/mc-mods/better-spellcasting) | INSTALL/TEST 1.20.1 / HIGH CURRENT-PACK FIT / CONFIG/DATAPACK | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7d91a92a9a006bfb) |
 | [Better Tactical Presentation](https://modrinth.com/mod/btpmod) | Configurable aiming/leaning, animated crosshair, FOV stabilization and optional 3rd-person poses. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=4668dc5504b4eba8) |
+| ★ [Cardiac](https://modrinth.com/mod/cardiac) | Pickable health orbs after mob death | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=326db0c0db37b1ca) |
 | ★ [Casual Swing](https://curseforge.com/minecraft/mc-mods/casual-swing) | Casual swing animation polish | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=19ce3c8839b516db) |
 | [CATR — Create Adjust TaCZ Recipes](https://curseforge.com/minecraft/mc-mods/catr) | Manufacture TaCZ guns in Create production lines instead of simple table crafting, with parts, deployer, and 47/54 base-gun recipes covered in current release. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=52d3f387b0afa14e) |
 | [CBC Enchanced Shells \[Create Big Cannons\]](https://curseforge.com/minecraft/mc-mods/cbc-enchanced-shells-create-big-cannons) | Adds 50 tiered enhanced munition variants across nine shell types plus stronger powder charges, giving CBC a much deeper ammunition progression path. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2305c2518de3c41b) |
@@ -552,6 +553,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | ★ [Punchy](https://curseforge.com/minecraft/mc-mods/punchy) | First-person animation polish | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a1d92dee45662a6e) |
 | [Raided](https://curseforge.com/minecraft/mc-mods/raided) | INSTALL/TEST 1.20.1 / SERVER-MATCHED / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=10273fc50e56b456) |
 | ★ [Ranged Weapon API](https://modrinth.com/mod/AqaIIO6D) | Bow/crossbow framework for RPG classes | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=184c89f85d4f7f7b) |
+| ★ [Reliquified L_Ender 's Cataclysm](https://modrinth.com/mod/reliquified-l-ender-s-cataclysm) | Compatibility addon between Relics & L_Ender 's Cataclysm | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=383826cb810e0e42) |
 | [Rick's Portal Gun \[Forge/NeoForge\]](https://curseforge.com/minecraft/mc-mods/ricks-portal-gun) | INSTALL/TEST 1.20.1 / CLIENT+SERVER / PORTAL SECURITY + DIMENSION TEST / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a0f5c9c9e78e6fe9) |
 | ★ [Scorched Guns 2](https://curseforge.com/minecraft/mc-mods/scorched-guns) | A large standalone survival gun mod with over 100 firearms and native Create compatibility for mechanical crafting, resource processing and sequenced ammunition assembly; also inte | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=3d8683f612a226e6) |
 | [Scorched Guns 2 0.5.5 Unofficial port](https://curseforge.com/minecraft/mc-mods/scorched-guns-2-0-5-5-unofficial-port) | Keeps 141-gun Scorched 0.5.5 ecosystem for NeoForge1.21.1. New Oct16 1.0.4 registers automatic and burst-beam firing modes (datapack/addon opt-in) and improves dynamic mob-type cla | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=09d032bcd96e058b) |
