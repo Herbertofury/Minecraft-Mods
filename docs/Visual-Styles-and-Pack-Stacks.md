@@ -58,7 +58,7 @@ These are historical starting ideas awaiting full exact-file review, not certifi
 
 ## Import coverage
 
-The original 17 views and all 159 master observations are preserved in the repository. Seventy-one master observations are attached to catalogue identities: 37 exact matches to existing records and thirty-four newly reviewed identities. The remaining 88 master observations and 187 unmatched companion-view rows remain in review. 164 companion rows are attached to 62 entries; they do not inflate the unique-project or source-record totals.
+The original 17 views and all 159 master observations are preserved in the repository. Seventy-five master observations are attached to catalogue identities: 37 exact matches to existing records and thirty-eight newly reviewed identities. The remaining 84 master observations and 178 unmatched companion-view rows remain in review. 173 companion rows are attached to 66 entries; they do not inflate the unique-project or source-record totals.
 
 [Preserved source views](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-source-views.json) · [Master import receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-import.json) · [Companion receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-companion-receipt.json)
 
@@ -95,3 +95,9 @@ Original scores and superlatives remain source opinions. No pack was installed, 
 [Faithful 32x Modded](https://www.curseforge.com/minecraft/texture-packs/faithful-32x-modded) targets older Minecraft and the Programmer Art style; its main file is for 1.12.2. Do not present it as a native 1.20.1 download. [Create BDCraft](https://www.curseforge.com/minecraft/texture-packs/create-bdcraft) separates Create generations and texture resolutions, so choose the actual game/Create pair before comparing appearance or memory cost.
 
 [The Rename Compat Project](https://modrinth.com/resourcepack/the-rename-compat-project) changes display names rather than merging item identities or recipes. Its language scope and supported-but-not-included list matter. [Fresh Mowzie’s Mobs textures](https://modrinth.com/resourcepack/fresh-mowzies-mobs-textures) lists selected mob retextures; the word Fresh does not establish new animations or complete mob coverage.
+
+## Material effects and partial coverage
+
+[SPBR-Farmer’s Delight](https://modrinth.com/resourcepack/spbr-farmersdelight) provides LabPBR material maps. Its linked [SPBR setup guidance](https://modrinth.com/resourcepack/spbr) requires a shader with LabPBR/parallax support and those settings enabled. These author instructions are not a benchmark or Hari/Vulkan qualification. Test the precise shader, renderer and mod versions before recommending the stack.
+
+[Iron’s Spells ’n Spellbooks Reimagined](https://www.curseforge.com/minecraft/texture-packs/irons-spells-n-spellbooks-reimagined) changes models and selected GUI icons; use the correct Forge 1.20.1 or NeoForge 1.21.1 release. [Bare Bones x The Aether](https://modrinth.com/resourcepack/bare-bones-x-the-aether) lists several Aether add-ons, but Aether Redux and Deep Aether remain planned. [Better Leaves - Hexerei](https://www.curseforge.com/minecraft/texture-packs/better-leaves-hexerei) covers three Hexerei leaf types and does not require Motschen’s Better Leaves.

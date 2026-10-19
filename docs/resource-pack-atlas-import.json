@@ -4,9 +4,9 @@
   "master_rows": 159,
   "exact_existing_observations_added": 37,
   "unique_entries_enriched": 33,
-  "pending_master_observations": 88,
-  "display_entries": 2298,
-  "source_observations": 2680,
+  "pending_master_observations": 84,
+  "display_entries": 2302,
+  "source_observations": 2684,
   "favorites": 411,
   "native_promotions": 0,
   "all_prior_fields_preserved": true,
@@ -197,7 +197,7 @@
       "name": "Fresh Flowers and Plants"
     }
   ],
-  "reviewed_new_identity_observations_added": 34,
+  "reviewed_new_identity_observations_added": 38,
   "reviewed_new_identities": [
     {
       "row": 2,
@@ -368,6 +368,26 @@
       "row": 42,
       "id": "5af57ea7f308548e",
       "name": "Fresh Mowzie's Mobs textures"
+    },
+    {
+      "row": 43,
+      "id": "865a0fbf2def3bea",
+      "name": "Iron\u2019s Spells \u2019n Spellbooks Reimagined"
+    },
+    {
+      "row": 44,
+      "id": "bb8e4730c3d919bf",
+      "name": "SPBR-Farmer\u2019s Delight"
+    },
+    {
+      "row": 45,
+      "id": "4d8bc250e61f8b30",
+      "name": "Bare Bones x The Aether"
+    },
+    {
+      "row": 46,
+      "id": "a626af2866ee2954",
+      "name": "Better Leaves - Hexerei"
     }
   ]
 }

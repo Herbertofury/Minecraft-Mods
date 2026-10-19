@@ -349,5 +349,45 @@
       "Creatures and Companions"
     ],
     "note": "Texture refresh for Minecraft 1.20\u20131.20.1: the page lists Frostmaw, Foliaath and baby, both Grottol variants, Naga, Ferrous Wroughtnaut and Lantern. More coverage is planned. The name does not establish Fresh Animations integration, new animations, complete mob coverage or gameplay compatibility."
+  },
+  {
+    "row": 43,
+    "name": "Iron\u2019s Spells \u2019n Spellbooks Reimagined",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/irons-spells-n-spellbooks-reimagined",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Magic and Progression"
+    ],
+    "note": "Visual weapon/staff models and selected GUI icons, including some animated inventory previews. The author says OptiFine is not required. Forge 1.20.1 and NeoForge 1.21.1 have separate files; choose the matching game/loader release. Appearance changes do not establish new spell mechanics, balance changes or complete coverage of future items."
+  },
+  {
+    "row": 44,
+    "name": "SPBR-Farmer\u2019s Delight",
+    "url": "https://modrinth.com/resourcepack/spbr-farmersdelight",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Farming and Survival"
+    ],
+    "note": "Adds LabPBR normals, parallax, reflections, emission and subsurface scattering to Farmer\u2019s Delight. The linked SPBR guidance requires a shader supporting LabPBR and parallax, with those features enabled. Optional effects depend on shader settings. Shader cost, exact renderer support and Hari/Vulkan compatibility remain untested; the atlas\u2019s historical drop-in label is not proof."
+  },
+  {
+    "row": 45,
+    "name": "Bare Bones x The Aether",
+    "url": "https://modrinth.com/resourcepack/bare-bones-x-the-aether",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Worlds and Exploration"
+    ],
+    "note": "Minecraft 1.20.1 Bare Bones-style Aether textures. The author lists The Aether, Lost Content, Enhanced Extinguishing, Treasure Reforging and Protect Your Moa. Aether Redux and Deep Aether are explicitly planned rather than currently included; do not promote them to shipped coverage."
+  },
+  {
+    "row": 46,
+    "name": "Better Leaves - Hexerei",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/better-leaves-hexerei",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Magic and Progression"
+    ],
+    "note": "Bushier Hexerei mahogany, willow and witch hazel leaves for 1.20/1.20.1. The author says Motschen\u2019s Better Leaves is not required, although the packs can be used together. Vanilla leaves are unchanged; this is selected decorative coverage, not a general foliage or gameplay compatibility patch."
   }
 ]

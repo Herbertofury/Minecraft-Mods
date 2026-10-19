@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**260 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**262 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Compatibility Target · 2</strong></summary>
@@ -318,7 +318,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Resource Pack · 11</strong></summary>
+<summary><strong>Resource Pack · 13</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -326,12 +326,14 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Ars Naturae](https://www.curseforge.com/minecraft/texture-packs/ars-naturae) | Nature-themed Ars Nouveau visual pack using brown woods, mossy stone and blue Source styling. Author mentions addons without a complete support inventory. The inspected project lis | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=9789ec4d167d4b1a) |
 | [Ars Nouveau Refresh](https://modrinth.com/resourcepack/ars-nouveau-refresh) | Official Ars Nouveau Refresh page documents glyph, essence, charm/familiar and tablet icon redesigns. Mob/weapon/armor styling and addon item improvements appear on its roadmap; do | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=fc227c5780b3b100) |
 | ★ [Attribute Icons (RPG Series)](https://modrinth.com/resourcepack/73QpzsIN) | Embedded icons for RPG combat attributes | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=9655d8bd422a8aed) |
+| [Better Leaves - Hexerei](https://www.curseforge.com/minecraft/texture-packs/better-leaves-hexerei) | Bushier Hexerei mahogany, willow and witch hazel leaves for 1.20/1.20.1. The author says Motschen’s Better Leaves is not required, although the packs can be used together. Vanilla  | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a626af2866ee2954) |
 | [Bibliophilia \| Enchanted Books](https://modrinth.com/resourcepack/bibliophilia) | Official project requires CIT Resewn or Forge CIT for 1.18–1.21.1; 1.21.2–1.21.4 is unsupported and 1.21.5 works vanilla. Author reports incompatibility with Dynamic Trims. Do not  | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=093adf8483600a78) |
 | ★ [Bray & Cyber's Better, Fresher 3D Books](https://modrinth.com/resourcepack/bray-cyber-3d-enchanted-books) | Unique 3D models and effects for every enchanted-book variation | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0e65703aa668b98d) |
 | [Chaotix Apotheotic Tweaks](https://www.curseforge.com/minecraft/texture-packs/chaotix-apotheotic-tweaks) | Official Apotheosis texture pack targets gems, charms, tomes, rarity materials, arrows and relevant workstations/GUI. It needs Apotheosis to have an effect; its Fabric Zenith versi | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=9374d22d76abb693) |
 | [Excalibur \| Apotheosis Support](https://www.curseforge.com/minecraft/texture-packs/excalibur-apotheosis-support) | Apotheosis block, item and GUI visual support for Excalibur. Author instructs placing this above the base Excalibur pack. Separate 1.20.1 and 1.21.1 v2.0 files are listed; choose t | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c0d010ff63998802) |
 | [Excalibur \| Iron’s Spells ’N Spellbooks Support](https://www.curseforge.com/minecraft/texture-packs/excalibur-irons-spells-n-spellbooks-support) | Official Iron's Spells Excalibur support pack is explicitly work in progress with many textures missing. Do not mark its catalogue presence as complete visual coverage or functiona | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c89c24b83c5807ce) |
 | [Fresh MythicBotany & Botania](https://www.curseforge.com/minecraft/texture-packs/fresh-mythic-botany-and-botania) | Official project is a MythicBotany/Botania texture treatment; author explicitly requires Botania and MythicBotany. Retain exact-file version checks and distinguish vanilla-style vi | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=063caa7160a795cb) |
+| [Iron’s Spells ’n Spellbooks Reimagined](https://www.curseforge.com/minecraft/texture-packs/irons-spells-n-spellbooks-reimagined) | Visual weapon/staff models and selected GUI icons, including some animated inventory previews. The author says OptiFine is not required. Forge 1.20.1 and NeoForge 1.21.1 have separ | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=865a0fbf2def3bea) |
 | [Pinnacle (for Apotheosis)](https://www.curseforge.com/minecraft/texture-packs/pinnacle) | Apotheosis-only visual refresh; requires Apotheosis to have an effect. Page lists a 1.20.1 3.0.0.5 backport and a separate 1.21.1 3.0.0 release, while the author states ongoing foc | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b95da1f7f5ae00f0) |
 
 </details>

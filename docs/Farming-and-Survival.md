@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**121 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**122 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Content Pack · 4</strong></summary>
@@ -133,7 +133,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Resource Pack · 11</strong></summary>
+<summary><strong>Resource Pack · 12</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -148,6 +148,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | ★ [Fresh Seeds](https://modrinth.com/resourcepack/fresh-seeds) | 3D bundled-style seed item models inspired by Actions & Stuff | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d92306e2cb4a6781) |
 | [Pixel Perfection x Farmer's Delight](https://modrinth.com/resourcepack/pixelperfectionxfarmersdelight) | Farmer's Delight textures for the Pixel Perfection Legacy/Fidelity style, with Corn Delight and beta Rustic Delight support stated. Page prose says standalone use is possible, whil | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d6b1ee8e269a3e71) |
 | [Realistic Nature 3D](https://modrinth.com/resourcepack/realistic-nature-3d) | TEST PACK | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=1ae7b478db068527) |
+| [SPBR-Farmer’s Delight](https://modrinth.com/resourcepack/spbr-farmersdelight) | Adds LabPBR normals, parallax, reflections, emission and subsurface scattering to Farmer’s Delight. The linked SPBR guidance requires a shader supporting LabPBR and parallax, with  | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=bb8e4730c3d919bf) |
 
 </details>
 

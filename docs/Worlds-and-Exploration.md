@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**310 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**311 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Compatibility Target · 8</strong></summary>
@@ -352,10 +352,11 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Resource Pack · 13</strong></summary>
+<summary><strong>Resource Pack · 14</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
+| [Bare Bones x The Aether](https://modrinth.com/resourcepack/bare-bones-x-the-aether) | Minecraft 1.20.1 Bare Bones-style Aether textures. The author lists The Aether, Lost Content, Enhanced Extinguishing, Treasure Reforging and Protect Your Moa. Aether Redux and Deep | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=4d8bc250e61f8b30) |
 | [Connected Paths](https://www.curseforge.com/minecraft/texture-packs/connected-paths) | Connected-texture resource pack; author requires OptiFine or Continuity. Support is version-scoped: several ecosystems are listed, while Create, Alex’s Caves and others remain plan | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=83cd0bd17d0aac90) |
 | [Definitive Vibrant Visuals \| Static Light Update](https://curseforge.com/minecraft-bedrock/texture-packs/definitive-vibrant-visuals) | BEDROCK UPDATE / CLIENT-SAFE VISUAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=ea05e7126aec6a9f) |
 | [Excalibur \| Aether Support](https://www.curseforge.com/minecraft/texture-packs/excalibur-aether-support) | Official Aether support pack covers the original Aether visual ecosystem and belongs above Excalibur. Aether addon coverage is planned with no ETA, not completed support. Exact fil | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=1b783efdda0fd559) |

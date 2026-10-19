@@ -1,11 +1,11 @@
 {
   "date": "2026-10-19",
   "source_view_rows": 351,
-  "attached_view_rows": 164,
-  "entries_enriched": 62,
-  "pending_view_rows": 187,
-  "source_record_count_unchanged": 2680,
-  "display_entries_unchanged": 2298,
+  "attached_view_rows": 173,
+  "entries_enriched": 66,
+  "pending_view_rows": 178,
+  "source_record_count_unchanged": 2684,
+  "display_entries_unchanged": 2302,
   "native_promotions": 0,
   "attached": [
     {
@@ -991,6 +991,60 @@
       "master_row": 40,
       "sheet": "Legacy Asset Mines",
       "row": 2
+    },
+    {
+      "id": "bb8e4730c3d919bf",
+      "master_row": 44,
+      "sheet": "Flowers & Botany",
+      "row": 19
+    },
+    {
+      "id": "4d8bc250e61f8b30",
+      "master_row": 45,
+      "sheet": "Flowers & Botany",
+      "row": 20
+    },
+    {
+      "id": "a626af2866ee2954",
+      "master_row": 46,
+      "sheet": "Flowers & Botany",
+      "row": 21
+    },
+    {
+      "id": "bb8e4730c3d919bf",
+      "master_row": 44,
+      "sheet": "Farming & Food",
+      "row": 14
+    },
+    {
+      "id": "865a0fbf2def3bea",
+      "master_row": 43,
+      "sheet": "Magic & RPG",
+      "row": 15
+    },
+    {
+      "id": "a626af2866ee2954",
+      "master_row": 46,
+      "sheet": "Magic & RPG",
+      "row": 16
+    },
+    {
+      "id": "4d8bc250e61f8b30",
+      "master_row": 45,
+      "sheet": "Biomes & Nature",
+      "row": 10
+    },
+    {
+      "id": "4d8bc250e61f8b30",
+      "master_row": 45,
+      "sheet": "Style Ecosystems",
+      "row": 25
+    },
+    {
+      "id": "865a0fbf2def3bea",
+      "master_row": 43,
+      "sheet": "Conversion Queue",
+      "row": 7
     }
   ],
   "pending": [
@@ -1039,42 +1093,6 @@
         "B": "Stupendous Visuals",
         "C": "Modded 16x compatibility; Polytone+EMF+ETF required; no full coverage claim",
         "D": "https://modrinth.com/resourcepack/stupendous-visuals"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Flowers & Botany",
-      "row": 19,
-      "name": "SPBR-Farmer\u2019s Delight",
-      "fields": {
-        "A": "43.0",
-        "B": "SPBR-Farmer\u2019s Delight",
-        "C": "Native / drop-in",
-        "D": "https://modrinth.com/resourcepack/spbr-farmersdelight"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Flowers & Botany",
-      "row": 20,
-      "name": "Bare Bones x The Aether",
-      "fields": {
-        "A": "44.0",
-        "B": "Bare Bones x The Aether",
-        "C": "Native / drop-in",
-        "D": "https://modrinth.com/resourcepack/bare-bones-x-the-aether"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Flowers & Botany",
-      "row": 21,
-      "name": "Better Leaves - Hexerei",
-      "fields": {
-        "A": "45.0",
-        "B": "Better Leaves - Hexerei",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/better-leaves-hexerei"
       },
       "matches": []
     },
@@ -1548,18 +1566,6 @@
     },
     {
       "sheet": "Farming & Food",
-      "row": 14,
-      "name": "SPBR-Farmer\u2019s Delight",
-      "fields": {
-        "A": "43.0",
-        "B": "SPBR-Farmer\u2019s Delight",
-        "C": "Native / drop-in",
-        "D": "https://modrinth.com/resourcepack/spbr-farmersdelight"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Farming & Food",
       "row": 15,
       "name": "Crops 3D Reforged",
       "fields": {
@@ -1747,30 +1753,6 @@
         "B": "Farmer\u2019s Delight crops 3D",
         "C": "Mod-version asset port",
         "D": "https://www.curseforge.com/minecraft/texture-packs/farmers-delight-crops-3d"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Magic & RPG",
-      "row": 15,
-      "name": "Iron\u2019s Spells \u2019n Spellbooks Reimagined",
-      "fields": {
-        "A": "42.0",
-        "B": "Iron\u2019s Spells \u2019n Spellbooks Reimagined",
-        "C": "Model-dependent conversion",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/irons-spells-n-spellbooks-reimagined"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Magic & RPG",
-      "row": 16,
-      "name": "Better Leaves - Hexerei",
-      "fields": {
-        "A": "45.0",
-        "B": "Better Leaves - Hexerei",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/better-leaves-hexerei"
       },
       "matches": []
     },
@@ -2070,18 +2052,6 @@
     },
     {
       "sheet": "Biomes & Nature",
-      "row": 10,
-      "name": "Bare Bones x The Aether",
-      "fields": {
-        "A": "44.0",
-        "B": "Bare Bones x The Aether",
-        "C": "Native / drop-in",
-        "D": "https://modrinth.com/resourcepack/bare-bones-x-the-aether"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Biomes & Nature",
       "row": 11,
       "name": "Biomes You\u2019ll Go 3D Flora",
       "fields": {
@@ -2329,18 +2299,6 @@
         "B": "Mo's Vibrancy Pack",
         "C": "Mod-version asset port",
         "D": "https://www.planetminecraft.com/texture-pack/the-vibrancy-pack-1-13/"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Style Ecosystems",
-      "row": 25,
-      "name": "Bare Bones x The Aether",
-      "fields": {
-        "A": "44.0",
-        "B": "Bare Bones x The Aether",
-        "C": "Native / drop-in",
-        "D": "https://modrinth.com/resourcepack/bare-bones-x-the-aether"
       },
       "matches": []
     },
@@ -2742,18 +2700,6 @@
         "B": "Overgrowth (Hardek)",
         "C": "16x moss/ivy/lichen/3D fungi/shells, 1.1 Oct13 2026 MC1.20.1, Continuity/OptiFine for CTM; no shaders, ARR modpack attribution",
         "D": "https://www.curseforge.com/minecraft/texture-packs/overgrowth/files/9162374"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Conversion Queue",
-      "row": 7,
-      "name": "Iron\u2019s Spells \u2019n Spellbooks Reimagined",
-      "fields": {
-        "A": "42.0",
-        "B": "Iron\u2019s Spells \u2019n Spellbooks Reimagined",
-        "C": "Model-dependent conversion",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/irons-spells-n-spellbooks-reimagined"
       },
       "matches": []
     },
