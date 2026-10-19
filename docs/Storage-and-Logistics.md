@@ -17,7 +17,7 @@ Use **Link to these filters** in the catalogue to bookmark a custom view. Detail
 
 ## Current collection
 
-**213 entries in this category.** The 2026-10-19 consolidation preserved all 156 storage-master observations: 139 were attached to resolved catalogue routes and 17 remain in an [identity-review queue](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/storage-import-pending-identities.json). It added 106 catalogue entries across relevant categories and preserved all 42 existing favorites. Other source tabs and collections still need reconciliation.
+**214 entries in this category.** The 2026-10-19 consolidation preserved all 156 storage-master observations: 139 were attached to resolved catalogue routes and 17 remain in an [identity-review queue](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/storage-import-pending-identities.json). It added 106 catalogue entries across relevant categories and preserved all 42 existing favorites. Other source tabs and collections still need reconciliation.
 
 [Import verification](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/storage-import-verification.json) · [Cross-host project identity checks](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/storage-project-identity-checks.json)
 
@@ -36,11 +36,12 @@ Before upgrades or removal, test a copied world with named/damaged/enchanted ite
 ## Browse by entry type
 
 <details>
-<summary><strong>Content Pack · 1</strong></summary>
+<summary><strong>Content Pack · 2</strong></summary>
 
 | Project / research entry | Purpose | Evidence |
 |---|---|---|
 | ★ [Hello Kitty and Friends Furniture](https://minecraft.net/en-us/marketplace/pdp?id=9b344947-df7e-4688-b447-b7cb98e4ad43) | Bedrock furniture, functional storage and themed achievement reference. Historical promotional freebies are not treated as currently available. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=473ec0d1e2e8da89) |
+| ★ [Warp Lamps Add-On](https://minecraft.net/de-de/marketplace/pdp/logdotzip/telelanterns-add--on/581ac520-536b-4d79-83d8-0d2c03262e8e) | Bedrock player/pet/item travel, per-lamp customization and quick-warp reference; official page identifies its former Telelanterns name. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=841144370939a62f) |
 
 </details>
 
@@ -330,4 +331,4 @@ These are qualification scenarios, not claims that the named projects currently 
 
 ## Companion-view reconciliation
 
-The same collection contained useful notes outside its master view. The follow-on pass attached **118 companion-view observations to 57 already identified catalogue entries**, preserving unique cautions, use cases and historical version claims without inventing new mods or promoting verification. **14 observations remain pending identity resolution.** These annotations are visible in the existing detail cards; original source dates and conflicting claims remain labeled as history. [Reconciliation receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/storage-companion-import-receipt.json). That companion-note pass preserved the then-current 1,935 entries and 42 favorites. The later starred-collection import brings the full catalogue to 2,222 entries and 391 catalogued favorites, without changing the explicit Forever World flags.
+The same collection contained useful notes outside its master view. The follow-on pass attached **118 companion-view observations to 57 already identified catalogue entries**, preserving unique cautions, use cases and historical version claims without inventing new mods or promoting verification. **14 observations remain pending identity resolution.** These annotations are visible in the existing detail cards; original source dates and conflicting claims remain labeled as history. [Reconciliation receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/storage-companion-import-receipt.json). That companion-note pass preserved the then-current 1,935 entries and 42 favorites. The later starred-collection import brings the full catalogue to 2,225 entries and 394 catalogued favorites, without changing the explicit Forever World flags.

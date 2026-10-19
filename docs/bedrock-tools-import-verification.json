@@ -1,0 +1,29 @@
+{
+  "scope": "Primary project identity only; source records and verification levels preserved",
+  "entries": 2225,
+  "source_records": 2563,
+  "favorites": 394,
+  "resolved_rows": 3,
+  "new_entries": 3,
+  "pending_starred_rows": 30,
+  "applied": [
+    {
+      "row": 255,
+      "id": "507a94f42662e45f",
+      "name": "Mob Weapons Add-On",
+      "new": true
+    },
+    {
+      "row": 256,
+      "id": "841144370939a62f",
+      "name": "Warp Lamps Add-On",
+      "new": true
+    },
+    {
+      "row": 257,
+      "id": "b23dc4f7da5a7188",
+      "name": "LUSH Bath Bombs Add-On",
+      "new": true
+    }
+  ]
+}

@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**295 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**296 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Compatibility Target · 8</strong></summary>
@@ -23,7 +23,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Content Pack · 6</strong></summary>
+<summary><strong>Content Pack · 7</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -33,6 +33,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | ★ [SCP: Uncaged Add-On](https://minecraft.net/en-us/marketplace/pdp/cloud-corp/scp%3a-uncaged-add-on/af77b37a-dcd6-4a98-b3da-efb7f1764ab5) | Bedrock containment objectives, facilities and encounter/tool presentation reference; exact product identity only. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=bb81df95362b12db) |
 | ★ [Soul Craft Add-On](https://minecraft.net/es-es/marketplace/pdp/snail-studios/soul-craft-add--on/242aa206-079c-4650-90ef-e8e50013e9aa) | Bedrock soul-powered progression, fantasy equipment and encounter reference; historical version claims remain source observations. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d4979d54e8322b69) |
 | ★ [The Hollow Dimension](https://minecraft.net/fr-ca/marketplace/pdp/radium-studio/the-hollow-dimension/e9e19e4d-417a-4375-a007-590948adddbb) | Bedrock otherworld survival, return-home progression and encounter presentation reference; no available Java conversion is implied. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c9f798d72d53d141) |
+| ★ [Warp Lamps Add-On](https://minecraft.net/de-de/marketplace/pdp/logdotzip/telelanterns-add--on/581ac520-536b-4d79-83d8-0d2c03262e8e) | Bedrock player/pet/item travel, per-lamp customization and quick-warp reference; official page identifies its former Telelanterns name. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=841144370939a62f) |
 
 </details>
 

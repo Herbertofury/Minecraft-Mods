@@ -4,14 +4,15 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**110 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**111 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
-<summary><strong>Content Pack · 1</strong></summary>
+<summary><strong>Content Pack · 2</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
 | [Armed And Ready - VPB/PBJ addon](https://curseforge.com/minecraft/customization/armed-and-ready-vpb-pbj-addon) | Over 100 weapons with a Tarkov-like modular attachment system, caliber families, melee/bayonet support and survival/PvP balancing. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d9dd84c291134d61) |
+| ★ [LUSH Bath Bombs Add-On](https://minecraft.net/en-us/article/minecraft-x-lush) | Historical Bedrock craftable effect-item and calming/buff presentation reference. The official 2024 promotion does not establish present acquisition availability; tested store rout | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b23dc4f7da5a7188) |
 
 </details>
 

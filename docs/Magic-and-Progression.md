@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**242 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**245 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Compatibility Target · 2</strong></summary>
@@ -17,7 +17,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Content Pack · 12</strong></summary>
+<summary><strong>Content Pack · 15</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -28,11 +28,14 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | ★ [Ghost Pets Add-On](https://minecraft.net/en-us/marketplace/pdp?id=500dbac8-209a-4a55-9643-829fd6f8989f) | Bedrock customizable glowing pets, wand summoning and companion-menu reference; display title 2.1 is not an independently tested build. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=041dc72e40dc25ea) |
 | [Legends: Anime](https://curseforge.com/minecraft/mc-mods/legends-anime) | TEST 1.20.1 / LEGENDS CORE REQUIRED / SERVER-MATCHED / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7a0a5f0646e58429) |
 | [Legends: Superheroes Unlimited](https://curseforge.com/minecraft/mc-mods/legends-superheroes-unlimited) | TEST/INSTALL 1.20.1 / LEGENDS CORE REQUIRED / SERVER-MATCHED / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=764ca5c41c709168) |
+| ★ [LUSH Bath Bombs Add-On](https://minecraft.net/en-us/article/minecraft-x-lush) | Historical Bedrock craftable effect-item and calming/buff presentation reference. The official 2024 promotion does not establish present acquisition availability; tested store rout | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b23dc4f7da5a7188) |
 | ★ [Mob Companions Add-On](https://minecraft.net/en-us/marketplace/pdp?id=44419736-4522-401a-8977-b8e80721621c) | Bedrock armor-linked companion progression, command staff and dungeon encounter reference; creator article provides detailed design context. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=be860821012a0376) |
+| ★ [Mob Weapons Add-On](https://minecraft.net/en-us/marketplace/pdp?id=fcf1e7a7-b669-4753-8485-75ace3c56f97) | Bedrock mob-inspired weapon silhouettes, attack animations and upgrade reference; exact add-on, not the older same-name world. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=507a94f42662e45f) |
 | ★ [Sonic Add-On](https://minecraft.net/de-de/marketplace/pdp/gamemode-one/sonic-add--on/f3e0a4be-8858-44d3-9ae8-91643db1b3f6) | Bedrock character transformation, traversal blocks and progression reference. Creator changelog supplies useful equipment-preservation and interrupted-transformation regression cas | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=60d6987f4bd642e7) |
 | ★ [Soul Craft Add-On](https://minecraft.net/es-es/marketplace/pdp/snail-studios/soul-craft-add--on/242aa206-079c-4650-90ef-e8e50013e9aa) | Bedrock soul-powered progression, fantasy equipment and encounter reference; historical version claims remain source observations. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d4979d54e8322b69) |
 | [TaCZ Armed Mobs Warfare](https://curseforge.com/minecraft/mc-mods/tacz-armed-mobs) | 3.0 adds own village Armed Guard, inventory/skin/recruiting and config migration. Guard Villagers OPTIONAL (official 3.0 file explicitly); TaCZ Forge1.20.1 REQUIRED. Faction Wars o | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=75c60371886dfe6c) |
 | ★ [The Hollow Dimension](https://minecraft.net/fr-ca/marketplace/pdp/radium-studio/the-hollow-dimension/e9e19e4d-417a-4375-a007-590948adddbb) | Bedrock otherworld survival, return-home progression and encounter presentation reference; no available Java conversion is implied. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c9f798d72d53d141) |
+| ★ [Warp Lamps Add-On](https://minecraft.net/de-de/marketplace/pdp/logdotzip/telelanterns-add--on/581ac520-536b-4d79-83d8-0d2c03262e8e) | Bedrock player/pet/item travel, per-lamp customization and quick-warp reference; official page identifies its former Telelanterns name. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=841144370939a62f) |
 
 </details>
 

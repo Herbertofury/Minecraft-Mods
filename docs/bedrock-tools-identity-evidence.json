@@ -1,0 +1,61 @@
+{
+  "checked_utc": "2026-10-19",
+  "scope": "Primary product identities; one historical editorial reference with unresolved current acquisition",
+  "matches": [
+    {
+      "row": 255,
+      "name": "Mob Weapons Add-On",
+      "url": "https://www.minecraft.net/en-us/marketplace/pdp?id=fcf1e7a7-b669-4753-8485-75ace3c56f97",
+      "marketplace_uuid": "fcf1e7a7-b669-4753-8485-75ace3c56f97",
+      "existing_ids": [],
+      "type": "content_pack",
+      "categories": [
+        "Weapons and Combat",
+        "Magic and Progression"
+      ],
+      "identity_sources": [
+        "https://logdotzipgames.com/mob-weapons-add-on/",
+        "https://www.minecraft.net/en-us/marketplace/pdp?id=fcf1e7a7-b669-4753-8485-75ace3c56f97"
+      ],
+      "method": "Exact current Add-On title and creator verified on the live official Marketplace page.",
+      "reason": "Bedrock mob-inspired weapon silhouettes, attack animations and upgrade reference; exact add-on, not the older same-name world."
+    },
+    {
+      "row": 256,
+      "name": "Warp Lamps Add-On",
+      "url": "https://www.minecraft.net/de-de/marketplace/pdp/logdotzip/telelanterns-add--on/581ac520-536b-4d79-83d8-0d2c03262e8e",
+      "marketplace_uuid": "581ac520-536b-4d79-83d8-0d2c03262e8e",
+      "existing_ids": [],
+      "type": "content_pack",
+      "categories": [
+        "Worlds and Exploration",
+        "Magic and Progression",
+        "Storage and Logistics",
+        "Building and Decoration"
+      ],
+      "identity_sources": [
+        "https://www.minecraft.net/de-de/marketplace/pdp/logdotzip/telelanterns-add--on/581ac520-536b-4d79-83d8-0d2c03262e8e"
+      ],
+      "method": "Exact current Add-On title and creator verified on the live official Marketplace page.",
+      "reason": "Bedrock player/pet/item travel, per-lamp customization and quick-warp reference; official page identifies its former Telelanterns name."
+    },
+    {
+      "row": 257,
+      "name": "LUSH Bath Bombs Add-On",
+      "url": "https://www.minecraft.net/en-us/article/minecraft-x-lush",
+      "marketplace_uuid": null,
+      "existing_ids": [],
+      "type": "content_pack",
+      "categories": [
+        "Farming and Survival",
+        "Magic and Progression",
+        "Visuals and Resource Packs"
+      ],
+      "identity_sources": [
+        "https://www.minecraft.net/en-us/article/minecraft-x-lush"
+      ],
+      "method": "Official Minecraft 2024 editorial article confirms the named LUSH Bath Bombs add-on and its design purpose. The discovered store UUID route returned not found, so the UUID and present acquisition availability are not promoted as verified.",
+      "reason": "Historical Bedrock craftable effect-item and calming/buff presentation reference. The official 2024 promotion does not establish present acquisition availability; tested store route returned not found."
+    }
+  ]
+}

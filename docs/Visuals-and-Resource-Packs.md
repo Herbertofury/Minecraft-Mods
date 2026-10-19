@@ -4,15 +4,16 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**295 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**296 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
-<summary><strong>Content Pack · 2</strong></summary>
+<summary><strong>Content Pack · 3</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
 | [\[TaCZ\] CS+](https://modrinth.com/mod/tacz-cs) | Author warns slim player-skin hands are broken: use standard arms during test. Multiple weapons still WIP; check first-person ADS, recoil, Epic Fight animations and packet sync. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=5250b13b4a2948a8) |
 | ★ [Ghost Pets Add-On](https://minecraft.net/en-us/marketplace/pdp?id=500dbac8-209a-4a55-9643-829fd6f8989f) | Bedrock customizable glowing pets, wand summoning and companion-menu reference; display title 2.1 is not an independently tested build. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=041dc72e40dc25ea) |
+| ★ [LUSH Bath Bombs Add-On](https://minecraft.net/en-us/article/minecraft-x-lush) | Historical Bedrock craftable effect-item and calming/buff presentation reference. The official 2024 promotion does not establish present acquisition availability; tested store rout | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b23dc4f7da5a7188) |
 
 </details>
 
