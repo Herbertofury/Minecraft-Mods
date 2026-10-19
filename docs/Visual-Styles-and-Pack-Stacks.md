@@ -58,7 +58,7 @@ These are historical starting ideas awaiting full exact-file review, not certifi
 
 ## Import coverage
 
-The original 17 views and all 159 master observations are preserved in the repository. Ninety-nine master observations are attached to catalogue identities: 37 exact matches to existing records and sixty-two newly reviewed identities. The remaining 60 master observations and 125 unmatched companion-view rows remain in review. 226 companion rows are attached to 90 entries; they do not inflate the unique-project or source-record totals.
+The original 17 views and all 159 master observations are preserved in the repository. One hundred and three master observations are attached to catalogue identities: 37 exact matches to existing records and sixty-six newly reviewed identities. The remaining 56 master observations and 117 unmatched companion-view rows remain in review. 234 companion rows are attached to 94 entries; they do not inflate the unique-project or source-record totals.
 
 [Preserved source views](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-source-views.json) · [Master import receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-import.json) · [Companion receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-companion-receipt.json)
 
@@ -137,3 +137,9 @@ Original scores and superlatives remain source opinions. No pack was installed, 
 [Excalibur’s BWG support](https://www.curseforge.com/minecraft/texture-packs/excalibur-oh-the-biomes-weve-gone-support) is explicitly a work in progress with wood types missing. [Js_Leaves+ for Regions Unexplored](https://modrinth.com/resourcepack/js_leaves+-for-regions-unexplored) is a leaf-model change, while [Bare Bones X Alex’s Mobs](https://modrinth.com/resourcepack/barebones-x-alexsmobs) is an entity-style pack. These are separate kinds of coverage, not interchangeable gameplay integrations.
 
 [Farmer’s 3D](https://www.curseforge.com/minecraft/texture-packs/farmers-3d) separates Normal and cutting-board files. Select the placement variant as well as the release; combining overlapping food-model packs without inspecting paths can hide intended models. No measured performance or native compatibility follows from a style match.
+
+## Partial wood sets and magic-interface packs
+
+[Bare Bones BWG](https://modrinth.com/resourcepack/bare-bones-x-oh-the-biomes-weve-gone) explicitly lists only four of 25 wood types finished. [Mizuno’s Brewin’ and Chewin’ patch](https://modrinth.com/resourcepack/mizunos-x-brewin-and-chewin) is a style layer requiring its target mod. Keep completion scope and dependencies visible when comparing them.
+
+[Apotheosis BDCraft](https://www.curseforge.com/minecraft/texture-packs/apotheosis-bdcraft) is currently listed for 1.21.1; do not silently use that listing as 1.20.1 support. [Renovated Textures for Iron’s Spells](https://www.curseforge.com/minecraft/texture-packs/renovated-textures) chiefly targets icons and selected display textures. A UI improvement is not proof of an all-weapon remodel or changed spell behavior.

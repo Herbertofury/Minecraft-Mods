@@ -1,11 +1,11 @@
 {
   "date": "2026-10-19",
   "source_view_rows": 351,
-  "attached_view_rows": 226,
-  "entries_enriched": 90,
-  "pending_view_rows": 125,
-  "source_record_count_unchanged": 2708,
-  "display_entries_unchanged": 2326,
+  "attached_view_rows": 234,
+  "entries_enriched": 94,
+  "pending_view_rows": 117,
+  "source_record_count_unchanged": 2712,
+  "display_entries_unchanged": 2330,
   "native_promotions": 0,
   "attached": [
     {
@@ -1363,6 +1363,54 @@
       "master_row": 68,
       "sheet": "Excalibur Ecosystem",
       "row": 17
+    },
+    {
+      "id": "f8a2803d503befd9",
+      "master_row": 74,
+      "sheet": "Flowers & Botany",
+      "row": 40
+    },
+    {
+      "id": "2ddf31b16d15a6b6",
+      "master_row": 72,
+      "sheet": "Farming & Food",
+      "row": 24
+    },
+    {
+      "id": "931ce4e9e5dea7e6",
+      "master_row": 73,
+      "sheet": "Magic & RPG",
+      "row": 18
+    },
+    {
+      "id": "c3f461f51f9a65be",
+      "master_row": 75,
+      "sheet": "Magic & RPG",
+      "row": 19
+    },
+    {
+      "id": "f8a2803d503befd9",
+      "master_row": 74,
+      "sheet": "Biomes & Nature",
+      "row": 20
+    },
+    {
+      "id": "2ddf31b16d15a6b6",
+      "master_row": 72,
+      "sheet": "Style Ecosystems",
+      "row": 37
+    },
+    {
+      "id": "931ce4e9e5dea7e6",
+      "master_row": 73,
+      "sheet": "Style Ecosystems",
+      "row": 38
+    },
+    {
+      "id": "f8a2803d503befd9",
+      "master_row": 74,
+      "sheet": "Style Ecosystems",
+      "row": 39
     }
   ],
   "pending": [
@@ -1411,18 +1459,6 @@
         "B": "Stupendous Visuals",
         "C": "Modded 16x compatibility; Polytone+EMF+ETF required; no full coverage claim",
         "D": "https://modrinth.com/resourcepack/stupendous-visuals"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Flowers & Botany",
-      "row": 40,
-      "name": "Bare Bones x Oh The Biomes We\u2019ve Gone",
-      "fields": {
-        "A": "73.0",
-        "B": "Bare Bones x Oh The Biomes We\u2019ve Gone",
-        "C": "Native / drop-in",
-        "D": "https://modrinth.com/resourcepack/bare-bones-x-oh-the-biomes-weve-gone"
       },
       "matches": []
     },
@@ -1668,18 +1704,6 @@
     },
     {
       "sheet": "Farming & Food",
-      "row": 24,
-      "name": "Mizuno\u2019s x Brewin\u2019 And Chewin\u2019",
-      "fields": {
-        "A": "71.0",
-        "B": "Mizuno\u2019s x Brewin\u2019 And Chewin\u2019",
-        "C": "Native / drop-in",
-        "D": "https://modrinth.com/resourcepack/mizunos-x-brewin-and-chewin"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Farming & Food",
       "row": 25,
       "name": "Mizuno\u2019s x Let\u2019s Do Vinery",
       "fields": {
@@ -1747,30 +1771,6 @@
         "B": "Farmer\u2019s Delight crops 3D",
         "C": "Mod-version asset port",
         "D": "https://www.curseforge.com/minecraft/texture-packs/farmers-delight-crops-3d"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Magic & RPG",
-      "row": 18,
-      "name": "Apotheosis BDCraft",
-      "fields": {
-        "A": "72.0",
-        "B": "Apotheosis BDCraft",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/apotheosis-bdcraft"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Magic & RPG",
-      "row": 19,
-      "name": "Renovated Textures for Iron\u2019s Spells",
-      "fields": {
-        "A": "74.0",
-        "B": "Renovated Textures for Iron\u2019s Spells",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/renovated-textures"
       },
       "matches": []
     },
@@ -2010,18 +2010,6 @@
     },
     {
       "sheet": "Biomes & Nature",
-      "row": 20,
-      "name": "Bare Bones x Oh The Biomes We\u2019ve Gone",
-      "fields": {
-        "A": "73.0",
-        "B": "Bare Bones x Oh The Biomes We\u2019ve Gone",
-        "C": "Native / drop-in",
-        "D": "https://modrinth.com/resourcepack/bare-bones-x-oh-the-biomes-weve-gone"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Biomes & Nature",
       "row": 21,
       "name": "Bare Bones x The Aether PBR",
       "fields": {
@@ -2125,42 +2113,6 @@
         "B": "Mo's Vibrancy Pack",
         "C": "Mod-version asset port",
         "D": "https://www.planetminecraft.com/texture-pack/the-vibrancy-pack-1-13/"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Style Ecosystems",
-      "row": 37,
-      "name": "Mizuno\u2019s x Brewin\u2019 And Chewin\u2019",
-      "fields": {
-        "A": "71.0",
-        "B": "Mizuno\u2019s x Brewin\u2019 And Chewin\u2019",
-        "C": "Native / drop-in",
-        "D": "https://modrinth.com/resourcepack/mizunos-x-brewin-and-chewin"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Style Ecosystems",
-      "row": 38,
-      "name": "Apotheosis BDCraft",
-      "fields": {
-        "A": "72.0",
-        "B": "Apotheosis BDCraft",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/apotheosis-bdcraft"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Style Ecosystems",
-      "row": 39,
-      "name": "Bare Bones x Oh The Biomes We\u2019ve Gone",
-      "fields": {
-        "A": "73.0",
-        "B": "Bare Bones x Oh The Biomes We\u2019ve Gone",
-        "C": "Native / drop-in",
-        "D": "https://modrinth.com/resourcepack/bare-bones-x-oh-the-biomes-weve-gone"
       },
       "matches": []
     },

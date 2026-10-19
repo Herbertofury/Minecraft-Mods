@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**320 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**321 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Compatibility Target · 8</strong></summary>
@@ -352,10 +352,11 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Resource Pack · 23</strong></summary>
+<summary><strong>Resource Pack · 24</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
+| [Bare Bones x Oh The Biomes We’ve Gone](https://modrinth.com/resourcepack/bare-bones-x-oh-the-biomes-weve-gone) | Partial Bare Bones-style BWG support: the page lists only four of 25 wood types finished—Aspen, Baobab, Blue Enchanted and Cika. BWG is required; Bare Bones and its Better Leaves c | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=f8a2803d503befd9) |
 | [Bare Bones x The Aether](https://modrinth.com/resourcepack/bare-bones-x-the-aether) | Minecraft 1.20.1 Bare Bones-style Aether textures. The author lists The Aether, Lost Content, Enhanced Extinguishing, Treasure Reforging and Protect Your Moa. Aether Redux and Deep | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=4d8bc250e61f8b30) |
 | [BareBones x BetterEnd](https://modrinth.com/resourcepack/barebones-x-betterend) | Bare Bones-style BetterEnd retextures. Listings include 1.19.x, 1.20–1.20.4 and 1.21–1.21.1. The title’s broad coverage statement is an author claim; exact asset completeness again | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=01a879f0a440bcfe) |
 | [Biomes o’ Plenty 3D Flora](https://www.curseforge.com/minecraft/texture-packs/biomes-o-plenty-3d-flora) | Selected 3D models for Glowshroom, Glowworm Silk, Toadstool and Willow Vines. The author lists 1.18.2, 1.19.2 and 1.20.1 files and declines earlier backports. This is four named fl | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=14edd75508339023) |

@@ -4,9 +4,9 @@
   "master_rows": 159,
   "exact_existing_observations_added": 37,
   "unique_entries_enriched": 33,
-  "pending_master_observations": 60,
-  "display_entries": 2326,
-  "source_observations": 2708,
+  "pending_master_observations": 56,
+  "display_entries": 2330,
+  "source_observations": 2712,
   "favorites": 411,
   "native_promotions": 0,
   "all_prior_fields_preserved": true,
@@ -197,7 +197,7 @@
       "name": "Fresh Flowers and Plants"
     }
   ],
-  "reviewed_new_identity_observations_added": 62,
+  "reviewed_new_identity_observations_added": 66,
   "reviewed_new_identities": [
     {
       "row": 2,
@@ -508,6 +508,26 @@
       "row": 71,
       "id": "7c5faee86b0f6c9e",
       "name": "Farmer\u2019s 3D"
+    },
+    {
+      "row": 72,
+      "id": "2ddf31b16d15a6b6",
+      "name": "Mizuno\u2019s x Brewin\u2019 And Chewin\u2019"
+    },
+    {
+      "row": 73,
+      "id": "931ce4e9e5dea7e6",
+      "name": "Apotheosis BDCraft"
+    },
+    {
+      "row": 74,
+      "id": "f8a2803d503befd9",
+      "name": "Bare Bones x Oh The Biomes We\u2019ve Gone"
+    },
+    {
+      "row": 75,
+      "id": "c3f461f51f9a65be",
+      "name": "Renovated Textures for Iron\u2019s Spells"
     }
   ]
 }

@@ -634,5 +634,46 @@
       "Farming and Survival"
     ],
     "note": "3D food models for Farmer\u2019s Delight, with distinct Normal and cutting-board (CB) file variants. The author lists incremental item coverage across beta releases and support spanning 1.16.5, 1.18.2, 1.19.2 and 1.20.1; select the specific version and placement variant rather than assuming every file supports every target."
+  },
+  {
+    "row": 72,
+    "name": "Mizuno\u2019s x Brewin\u2019 And Chewin\u2019",
+    "url": "https://modrinth.com/resourcepack/mizunos-x-brewin-and-chewin",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Farming and Survival"
+    ],
+    "note": "Mizuno-style resource-pack support for Brewin\u2019 and Chewin\u2019, which the author lists as required. Project versions include 1.20.1 and 1.21.1. This is texture/style integration, not evidence of new brewing mechanics or compatibility with every other food-model pack."
+  },
+  {
+    "row": 73,
+    "name": "Apotheosis BDCraft",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/apotheosis-bdcraft",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Magic and Progression"
+    ],
+    "note": "PureBDCraft-style Apotheosis patch currently listed for 1.21.1, with 32x through 512x options and a recommended base PureBDCraft pack. Do not infer a 1.20.1 backport or measured performance benefit from the shared art style; exact texture coverage and pack order need file-level checks."
+  },
+  {
+    "row": 74,
+    "name": "Bare Bones x Oh The Biomes We\u2019ve Gone",
+    "url": "https://modrinth.com/resourcepack/bare-bones-x-oh-the-biomes-weve-gone",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Worlds and Exploration"
+    ],
+    "note": "Partial Bare Bones-style BWG support: the page lists only four of 25 wood types finished\u2014Aspen, Baobab, Blue Enchanted and Cika. BWG is required; Bare Bones and its Better Leaves companion are recommendations. Listed versions include 1.20.1 and 1.21\u20131.21.1; this is not a completed all-biome reskin."
+  },
+  {
+    "row": 75,
+    "name": "Renovated Textures for Iron\u2019s Spells",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/renovated-textures",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Magic and Progression",
+      "Interface and Accessibility"
+    ],
+    "note": "Primarily spell-icon and selected texture changes for Iron\u2019s Spells, with class-name icons, Spanish translations, selected staff display-scale fixes and a later sonic-boom particle change. The page lists 1.19.2 and 1.20\u20131.20.2; these claims do not establish an all-weapon 3D overhaul or functional spell changes."
   }
 ]

@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**263 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**265 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Compatibility Target · 2</strong></summary>
@@ -318,10 +318,11 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Resource Pack · 14</strong></summary>
+<summary><strong>Resource Pack · 16</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
+| [Apotheosis BDCraft](https://www.curseforge.com/minecraft/texture-packs/apotheosis-bdcraft) | PureBDCraft-style Apotheosis patch currently listed for 1.21.1, with 32x through 512x options and a recommended base PureBDCraft pack. Do not infer a 1.20.1 backport or measured pe | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=931ce4e9e5dea7e6) |
 | [Ars Loafers](https://www.curseforge.com/minecraft/texture-packs/ars-loafers) | Official CurseForge project 1254524 by loafobucket is an Ars Nouveau resource pack with addon support. Current description targets 1.21.1, while older files list 1.20.1. Project-wi | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=4a3df3d6df8bb9f9) |
 | [Ars Naturae](https://www.curseforge.com/minecraft/texture-packs/ars-naturae) | Nature-themed Ars Nouveau visual pack using brown woods, mossy stone and blue Source styling. Author mentions addons without a complete support inventory. The inspected project lis | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=9789ec4d167d4b1a) |
 | [Ars Nouveau Refresh](https://modrinth.com/resourcepack/ars-nouveau-refresh) | Official Ars Nouveau Refresh page documents glyph, essence, charm/familiar and tablet icon redesigns. Mob/weapon/armor styling and addon item improvements appear on its roadmap; do | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=fc227c5780b3b100) |
@@ -336,6 +337,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Fresh MythicBotany & Botania](https://www.curseforge.com/minecraft/texture-packs/fresh-mythic-botany-and-botania) | Official project is a MythicBotany/Botania texture treatment; author explicitly requires Botania and MythicBotany. Retain exact-file version checks and distinguish vanilla-style vi | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=063caa7160a795cb) |
 | [Iron’s Spells ’n Spellbooks Reimagined](https://www.curseforge.com/minecraft/texture-packs/irons-spells-n-spellbooks-reimagined) | Visual weapon/staff models and selected GUI icons, including some animated inventory previews. The author says OptiFine is not required. Forge 1.20.1 and NeoForge 1.21.1 have separ | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=865a0fbf2def3bea) |
 | [Pinnacle (for Apotheosis)](https://www.curseforge.com/minecraft/texture-packs/pinnacle) | Apotheosis-only visual refresh; requires Apotheosis to have an effect. Page lists a 1.20.1 3.0.0.5 backport and a separate 1.21.1 3.0.0 release, while the author states ongoing foc | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b95da1f7f5ae00f0) |
+| [Renovated Textures for Iron’s Spells](https://www.curseforge.com/minecraft/texture-packs/renovated-textures) | Primarily spell-icon and selected texture changes for Iron’s Spells, with class-name icons, Spanish translations, selected staff display-scale fixes and a later sonic-boom particle | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c3f461f51f9a65be) |
 
 </details>
 
