@@ -42,6 +42,10 @@ A focused reference shelf for presentation, movement, encounters, companions and
 | A dimension overhaul that respects existing worlds | [Eternal End 1.1 Add-On](https://www.minecraft.net/en-us/marketplace/pdp?id=fa3d4ba2-fdfd-4b85-9a53-ebea89e2bdac) | Study biome transitions, landmarks and soundscape; test existing structures and return routes before relying on the existing-world claim. |
 | Underwater movement, roleplay and encounters | [Mermaid Life Add-On](https://www.minecraft.net/en-us/marketplace/pdp/noxcrew/mermaid-life-add--on/0b8134ca-c682-422b-9a17-1d4a8f91bb8c) | Study tail transitions, mounted swimming and underwater combat; test equipment retention, oxygen rules, death and reconnect. This is the add-on, not the older world. |
 | Small companion habitats and interactive toys | [Hamsters+ Add-On](https://www.minecraft.net/fr-ca/marketplace/pdp/starfish-studios/hamsters%2B-add--on/f057adbd-0ada-474d-bb76-bed951284b63) | Study pet interaction and toy/state readability; keep Java and Bedrock builds separate even where the creator identifies a shared project lineage. |
+| Distinct energy-weapon silhouettes | [Blasters Add-On (Eescal Studios)](https://www.minecraft.net/en-us/marketplace/pdp/eescal-studios/blasters-add--on/ce44c186-e996-435f-b2a7-2c771c1569cf) | Study the Eescal pack separately; do not merge it with Pixelusion merely because both are named Blasters. |
+| Weapon roles and abilities with creator documentation | [BLASTERS Add-On (Pixelusion)](https://www.minecraft.net/en-us/marketplace/pdp/pixelusion/blasters-add--on/c051b523-88e7-4e0c-a6a5-ac120c456d3e) | Use the official Pixelusion wiki to compare weapon-role descriptions, recipes and effect choices, then validate any proposed adaptation independently. |
+| Customizable weapon-family presentation | [Advanced Blasters Add-On](https://www.minecraft.net/en-us/marketplace/pdp/wonder/advanced-blasters-add--on/cb09e0e2-5ce1-4875-9122-17ffcf2164b8) | Study how upgrades remain recognizable across a large family. Publisher quantity claims do not establish quality, compatibility or performance. |
+| Readable laser-weapon feedback | [Laser Blasters Add-On](https://www.minecraft.net/en-us/marketplace/pdp/horizonblocks/laser-blasters-add--on/3b0affd8-2d66-432f-bf28-3f39411fb63e) | Study beam/tracer readability and target feedback separately from gameplay logic; preserve source licenses and distinguish this pack from other Blasters products. |
 
 The table identifies useful study questions, not a claim that each product excels in every area. Exact mechanics and visual quality still need direct inspection. Marketplace world DLC, add-ons, resource packs and unrelated community mods remain separate identities.
 
@@ -68,6 +72,8 @@ These are design-study directions. Implementation must use original work or appr
 
 ## Evidence and remaining work
 
+[Four distinct blaster identities](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/bedrock-blaster-identity-evidence.json) · [Preservation checks](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/bedrock-blaster-data-tests.json). These four source rows were not starred; importing them does not add favorites.
+
 [Eternal End, Mermaid Life and Hamsters identities](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/bedrock-habitats-identity-evidence.json) · [Preservation checks](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/bedrock-habitats-data-tests.json)
 
 [Eternal Caves, Plushies and DragonFire identities](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/bedrock-expedition-identity-evidence.json) · [Preservation checks](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/bedrock-expedition-data-tests.json)
@@ -76,4 +82,4 @@ These are design-study directions. Implementation must use original work or appr
 
 [First three identities](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/bedrock-project-identity-evidence.json) · [Five branded identities](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/bedrock-brand-identity-evidence.json) · [Sonic, SpongeBob and Tetris](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/bedrock-gameplay-identity-evidence.json)
 
-The catalogue retains the original source rows, creator/version claims and favorites alongside checked identity evidence. 21 other starred Bedrock source rows remain unresolved at this review; other source collections have separate work. No native verification flags were promoted.
+The catalogue retains the original source rows, creator/version claims and favorites alongside checked identity evidence. 17 other Bedrock source-collection rows remain unresolved at this review; other source collections have separate work. No native verification flags were promoted.

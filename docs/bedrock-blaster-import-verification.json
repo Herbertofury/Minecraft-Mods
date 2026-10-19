@@ -1,0 +1,35 @@
+{
+  "scope": "Primary project identity only; source records and verification levels preserved",
+  "entries": 2238,
+  "source_records": 2576,
+  "favorites": 403,
+  "resolved_rows": 4,
+  "new_entries": 4,
+  "pending_starred_rows": 17,
+  "applied": [
+    {
+      "row": 272,
+      "id": "5545044363acd209",
+      "name": "Blasters Add-On (Eescal Studios)",
+      "new": true
+    },
+    {
+      "row": 273,
+      "id": "6600635e4d53b356",
+      "name": "BLASTERS Add-On (Pixelusion)",
+      "new": true
+    },
+    {
+      "row": 274,
+      "id": "66c2b4c2730c08eb",
+      "name": "Advanced Blasters Add-On",
+      "new": true
+    },
+    {
+      "row": 275,
+      "id": "14003ab342c6cebf",
+      "name": "Laser Blasters Add-On",
+      "new": true
+    }
+  ]
+}

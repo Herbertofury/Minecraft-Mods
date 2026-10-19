@@ -1,0 +1,72 @@
+{
+  "checked_utc": "2026-10-19",
+  "scope": "Four separate primary product identities; no commercial file access or native testing implied",
+  "matches": [
+    {
+      "row": 272,
+      "name": "Blasters Add-On (Eescal Studios)",
+      "url": "https://www.minecraft.net/en-us/marketplace/pdp/eescal-studios/blasters-add--on/ce44c186-e996-435f-b2a7-2c771c1569cf",
+      "marketplace_uuid": "ce44c186-e996-435f-b2a7-2c771c1569cf",
+      "existing_ids": [],
+      "type": "content_pack",
+      "categories": [
+        "Weapons and Combat"
+      ],
+      "identity_sources": [
+        "https://www.minecraft.net/en-us/marketplace/pdp/eescal-studios/blasters-add--on/ce44c186-e996-435f-b2a7-2c771c1569cf"
+      ],
+      "method": "Exact title, creator and Add-On category verified on loaded official Marketplace page on 2026-10-19.",
+      "reason": "Eescal Studios Bedrock mystical-energy weapon reference; exact creator retained to distinguish same-name packs."
+    },
+    {
+      "row": 273,
+      "name": "BLASTERS Add-On (Pixelusion)",
+      "url": "https://www.minecraft.net/en-us/marketplace/pdp/pixelusion/blasters-add--on/c051b523-88e7-4e0c-a6a5-ac120c456d3e",
+      "marketplace_uuid": "c051b523-88e7-4e0c-a6a5-ac120c456d3e",
+      "existing_ids": [],
+      "type": "content_pack",
+      "categories": [
+        "Weapons and Combat",
+        "Engineering and Vehicles"
+      ],
+      "identity_sources": [
+        "https://www.minecraft.net/en-us/marketplace/pdp/pixelusion/blasters-add--on/c051b523-88e7-4e0c-a6a5-ac120c456d3e",
+        "https://wiki.pixelusion.net/en/add-ons/blasters/blasters"
+      ],
+      "method": "Exact title, creator and Add-On category verified on loaded official Marketplace page on 2026-10-19.",
+      "reason": "Pixelusion Bedrock craftable weapon abilities, role silhouettes and mecha reference; official wiki supports further design study."
+    },
+    {
+      "row": 274,
+      "name": "Advanced Blasters Add-On",
+      "url": "https://www.minecraft.net/en-us/marketplace/pdp/wonder/advanced-blasters-add--on/cb09e0e2-5ce1-4875-9122-17ffcf2164b8",
+      "marketplace_uuid": "cb09e0e2-5ce1-4875-9122-17ffcf2164b8",
+      "existing_ids": [],
+      "type": "content_pack",
+      "categories": [
+        "Weapons and Combat"
+      ],
+      "identity_sources": [
+        "https://www.minecraft.net/en-us/marketplace/pdp/wonder/advanced-blasters-add--on/cb09e0e2-5ce1-4875-9122-17ffcf2164b8"
+      ],
+      "method": "Exact title, creator and Add-On category verified on loaded official Marketplace page on 2026-10-19.",
+      "reason": "Wonder Bedrock weapon customization and upgrade-family reference; quantity claims are publisher descriptions, not quality/performance tests."
+    },
+    {
+      "row": 275,
+      "name": "Laser Blasters Add-On",
+      "url": "https://www.minecraft.net/en-us/marketplace/pdp/horizonblocks/laser-blasters-add--on/3b0affd8-2d66-432f-bf28-3f39411fb63e",
+      "marketplace_uuid": "3b0affd8-2d66-432f-bf28-3f39411fb63e",
+      "existing_ids": [],
+      "type": "content_pack",
+      "categories": [
+        "Weapons and Combat"
+      ],
+      "identity_sources": [
+        "https://www.minecraft.net/en-us/marketplace/pdp/horizonblocks/laser-blasters-add--on/3b0affd8-2d66-432f-bf28-3f39411fb63e"
+      ],
+      "method": "Exact title, creator and Add-On category verified on loaded official Marketplace page on 2026-10-19.",
+      "reason": "HorizonBlocks Bedrock laser-weapon presentation reference; distinct from other packs sharing Blasters in their names."
+    }
+  ]
+}
