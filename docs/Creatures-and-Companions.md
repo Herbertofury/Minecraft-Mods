@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**614 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**615 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Content Pack · 30</strong></summary>
@@ -617,7 +617,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Resource Pack · 42</strong></summary>
+<summary><strong>Resource Pack · 43</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -638,6 +638,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [F.M.R.P / Freshly Modded](https://curseforge.com/minecraft/texture-packs/freshly-modded) | OPTIONAL / TEST / CLIENT-SAFE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2788e4ff359f20f7) |
 | [Flower Frogs](https://modrinth.com/resourcepack/flower-frogs) | Small but gorgeous flower-themed frog set. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=3f210a77186fd937) |
 | [Fresh Animations: Extensions](https://curseforge.com/minecraft/texture-packs/fresh-animations-extensions) | OPTIONAL VISUAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=076954de35fe4f42) |
+| [Fresh Mowzie's Mobs textures](https://modrinth.com/resourcepack/fresh-mowzies-mobs-textures) | Texture refresh for Minecraft 1.20–1.20.1: the page lists Frostmaw, Foliaath and baby, both Grottol variants, Naga, Ferrous Wroughtnaut and Lantern. More coverage is planned. The na | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=5af57ea7f308548e) |
 | [Golden Age Textures](https://curseforge.com/minecraft-bedrock/texture-packs/golden-age-textures) | BEDROCK ONLY / OPTIONAL / CLIENT-SAFE / WORLD-SAFE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b7bcec948155d729) |
 | [Menagerie: Earth Mob Variants and More!](https://herbertofury.github.io/Minecraft-Mods/?id=005237af8fa7e13d) | Excellent data-driven Java restoration of Minecraft Earth/franchise variants with biome spawning and many farm-animal breeds. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=005237af8fa7e13d) |
 | [Minecraft Earth Cows (Bedrock)](https://curseforge.com/minecraft-bedrock/texture-packs/minecraft-earth-cows) | Dedicated Bedrock cow pack with Albino, Magma, Cookie, Wooly, Pinto, Ashen, Moobloom, Moolip and more via nametags. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2464821286703f4c) |

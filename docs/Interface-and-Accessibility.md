@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**216 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**217 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Content Pack · 1</strong></summary>
@@ -256,7 +256,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Resource Pack · 6</strong></summary>
+<summary><strong>Resource Pack · 7</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -266,6 +266,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Golden Age Textures](https://curseforge.com/minecraft-bedrock/texture-packs/golden-age-textures) | BEDROCK ONLY / OPTIONAL / CLIENT-SAFE / WORLD-SAFE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b7bcec948155d729) |
 | [L_Ender’s Cataclysm Reimagined](https://www.curseforge.com/minecraft/texture-packs/cataclysm-reimagined) | Official description limits this pack to GUI, HUD and item icons. It explicitly does not change world models, blocks or gameplay. Separate Forge and NeoForge file lanes are listed; | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=6d8c67c99b997dbe) |
 | [Shrimp's Immersive Interfaces](https://curseforge.com/minecraft/texture-packs/shrimps-immersive-interfaces) | INSTALL/OPTIONAL 1.20.1 / CLIENT-SAFE / WORLD-SAFE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=1350a49ef00fcb4c) |
+| [The Rename Compat Project](https://modrinth.com/resourcepack/the-rename-compat-project) | Language/display-name resource pack that distinguishes similarly named mod content and normalizes naming. It does not merge registries, replace blocks, deduplicate recipes or prove | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=cc2b814bd37b5323) |
 
 </details>
 

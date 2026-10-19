@@ -310,5 +310,44 @@
       "Farming and Survival"
     ],
     "note": "Farmer's Delight textures for the Pixel Perfection Legacy/Fidelity style, with Corn Delight and beta Rustic Delight support stated. Page prose says standalone use is possible, while its dependency list marks a Pixel Perfection base pack required; retain this discrepancy and test the intended stack. Broad listed Minecraft versions do not establish every exact release/mod combination."
+  },
+  {
+    "row": 38,
+    "name": "The Rename Compat Project",
+    "url": "https://modrinth.com/resourcepack/the-rename-compat-project",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Interface and Accessibility"
+    ],
+    "note": "Language/display-name resource pack that distinguishes similarly named mod content and normalizes naming. It does not merge registries, replace blocks, deduplicate recipes or prove gameplay compatibility. Author describes en_US language files and lists some projects as supported but not included; do not treat the broad support list as shipped exact-version coverage."
+  },
+  {
+    "row": 39,
+    "name": "Create BDCraft",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/create-bdcraft",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Engineering and Vehicles"
+    ],
+    "note": "BDCraft-style Create patch. Author lists Minecraft 1.20/1.21 and separate Create 5/6 coverage at 32x, 64x, 128x, 256x and 512x. Select the matching Create/game file and intended resolution; higher texture resolution is not automatically a performance improvement or a native compatibility certificate."
+  },
+  {
+    "row": 40,
+    "name": "Faithful 32x Modded",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/faithful-32x-modded",
+    "categories": [
+      "Visuals and Resource Packs"
+    ],
+    "note": "Classic pre-1.14 Programmer Art-style mod textures for older Minecraft versions, with vanilla textures included. The current main file is a 1.12.2 release, not a ready-made 1.20.1 pack. The author describes 300+ supported mods and some coming-soon entries; distinguish available files and textures from planned support before any port."
+  },
+  {
+    "row": 42,
+    "name": "Fresh Mowzie's Mobs textures",
+    "url": "https://modrinth.com/resourcepack/fresh-mowzies-mobs-textures",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Creatures and Companions"
+    ],
+    "note": "Texture refresh for Minecraft 1.20\u20131.20.1: the page lists Frostmaw, Foliaath and baby, both Grottol variants, Naga, Ferrous Wroughtnaut and Lantern. More coverage is planned. The name does not establish Fresh Animations integration, new animations, complete mob coverage or gameplay compatibility."
   }
 ]

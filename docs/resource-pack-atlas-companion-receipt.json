@@ -1,11 +1,11 @@
 {
   "date": "2026-10-19",
   "source_view_rows": 351,
-  "attached_view_rows": 155,
-  "entries_enriched": 58,
-  "pending_view_rows": 196,
-  "source_record_count_unchanged": 2676,
-  "display_entries_unchanged": 2294,
+  "attached_view_rows": 164,
+  "entries_enriched": 62,
+  "pending_view_rows": 187,
+  "source_record_count_unchanged": 2680,
+  "display_entries_unchanged": 2298,
   "native_promotions": 0,
   "attached": [
     {
@@ -937,33 +937,63 @@
       "master_row": 31,
       "sheet": "Excalibur Ecosystem",
       "row": 13
+    },
+    {
+      "id": "cc2b814bd37b5323",
+      "master_row": 38,
+      "sheet": "Mega Coverage",
+      "row": 19
+    },
+    {
+      "id": "3ff976ac4f49725f",
+      "master_row": 40,
+      "sheet": "Mega Coverage",
+      "row": 20
+    },
+    {
+      "id": "cc2b814bd37b5323",
+      "master_row": 38,
+      "sheet": "Magic & RPG",
+      "row": 14
+    },
+    {
+      "id": "5af57ea7f308548e",
+      "master_row": 42,
+      "sheet": "Mob & Animation",
+      "row": 10
+    },
+    {
+      "id": "cc2b814bd37b5323",
+      "master_row": 38,
+      "sheet": "Tech & Create",
+      "row": 8
+    },
+    {
+      "id": "c5fdb0d032c794d3",
+      "master_row": 39,
+      "sheet": "Tech & Create",
+      "row": 9
+    },
+    {
+      "id": "c5fdb0d032c794d3",
+      "master_row": 39,
+      "sheet": "Style Ecosystems",
+      "row": 23
+    },
+    {
+      "id": "3ff976ac4f49725f",
+      "master_row": 40,
+      "sheet": "Conversion Queue",
+      "row": 6
+    },
+    {
+      "id": "3ff976ac4f49725f",
+      "master_row": 40,
+      "sheet": "Legacy Asset Mines",
+      "row": 2
     }
   ],
   "pending": [
-    {
-      "sheet": "Mega Coverage",
-      "row": 19,
-      "name": "The Rename Compat Project",
-      "fields": {
-        "A": "37.0",
-        "B": "The Rename Compat Project",
-        "C": "Native / drop-in",
-        "D": "https://modrinth.com/resourcepack/the-rename-compat-project"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Mega Coverage",
-      "row": 20,
-      "name": "Faithful 32x Modded",
-      "fields": {
-        "A": "39.0",
-        "B": "Faithful 32x Modded",
-        "C": "Mod-version asset port",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/faithful-32x-modded"
-      },
-      "matches": []
-    },
     {
       "sheet": "Mega Coverage",
       "row": 21,
@@ -1722,18 +1752,6 @@
     },
     {
       "sheet": "Magic & RPG",
-      "row": 14,
-      "name": "The Rename Compat Project",
-      "fields": {
-        "A": "37.0",
-        "B": "The Rename Compat Project",
-        "C": "Native / drop-in",
-        "D": "https://modrinth.com/resourcepack/the-rename-compat-project"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Magic & RPG",
       "row": 15,
       "name": "Iron\u2019s Spells \u2019n Spellbooks Reimagined",
       "fields": {
@@ -1885,18 +1903,6 @@
         "B": "Iron\u2019s Botany \u2014 dedicated texture pack gap",
         "C": "Custom pack required",
         "D": "https://www.curseforge.com/minecraft/mc-mods/irons-botany"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Mob & Animation",
-      "row": 10,
-      "name": "Fresh Mowzie's Mobs textures",
-      "fields": {
-        "A": "41.0",
-        "B": "Fresh Mowzie's Mobs textures",
-        "C": "Native / drop-in",
-        "D": "https://modrinth.com/resourcepack/fresh-mowzies-mobs-textures"
       },
       "matches": []
     },
@@ -2268,30 +2274,6 @@
     },
     {
       "sheet": "Tech & Create",
-      "row": 8,
-      "name": "The Rename Compat Project",
-      "fields": {
-        "A": "37.0",
-        "B": "The Rename Compat Project",
-        "C": "Native / drop-in",
-        "D": "https://modrinth.com/resourcepack/the-rename-compat-project"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Tech & Create",
-      "row": 9,
-      "name": "Create BDCraft",
-      "fields": {
-        "A": "38.0",
-        "B": "Create BDCraft",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/create-bdcraft"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Tech & Create",
       "row": 10,
       "name": "Mekanism BDCraft",
       "fields": {
@@ -2347,18 +2329,6 @@
         "B": "Mo's Vibrancy Pack",
         "C": "Mod-version asset port",
         "D": "https://www.planetminecraft.com/texture-pack/the-vibrancy-pack-1-13/"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Style Ecosystems",
-      "row": 23,
-      "name": "Create BDCraft",
-      "fields": {
-        "A": "38.0",
-        "B": "Create BDCraft",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/create-bdcraft"
       },
       "matches": []
     },
@@ -2777,18 +2747,6 @@
     },
     {
       "sheet": "Conversion Queue",
-      "row": 6,
-      "name": "Faithful 32x Modded",
-      "fields": {
-        "A": "39.0",
-        "B": "Faithful 32x Modded",
-        "C": "Mod-version asset port",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/faithful-32x-modded"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Conversion Queue",
       "row": 7,
       "name": "Iron\u2019s Spells \u2019n Spellbooks Reimagined",
       "fields": {
@@ -3132,18 +3090,6 @@
         "B": "Excalibur | Oh The Biomes We\u2019ve Gone Support",
         "C": "Native / drop-in",
         "D": "https://www.curseforge.com/minecraft/texture-packs/excalibur-oh-the-biomes-weve-gone-support"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Legacy Asset Mines",
-      "row": 2,
-      "name": "Faithful 32x Modded",
-      "fields": {
-        "A": "39.0",
-        "B": "Faithful 32x Modded",
-        "C": "Mod-version asset port",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/faithful-32x-modded"
       },
       "matches": []
     },

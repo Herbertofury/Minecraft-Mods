@@ -4,9 +4,9 @@
   "master_rows": 159,
   "exact_existing_observations_added": 37,
   "unique_entries_enriched": 33,
-  "pending_master_observations": 92,
-  "display_entries": 2294,
-  "source_observations": 2676,
+  "pending_master_observations": 88,
+  "display_entries": 2298,
+  "source_observations": 2680,
   "favorites": 411,
   "native_promotions": 0,
   "all_prior_fields_preserved": true,
@@ -197,7 +197,7 @@
       "name": "Fresh Flowers and Plants"
     }
   ],
-  "reviewed_new_identity_observations_added": 30,
+  "reviewed_new_identity_observations_added": 34,
   "reviewed_new_identities": [
     {
       "row": 2,
@@ -348,6 +348,26 @@
       "row": 34,
       "id": "d6b1ee8e269a3e71",
       "name": "Pixel Perfection x Farmer's Delight"
+    },
+    {
+      "row": 38,
+      "id": "cc2b814bd37b5323",
+      "name": "The Rename Compat Project"
+    },
+    {
+      "row": 39,
+      "id": "c5fdb0d032c794d3",
+      "name": "Create BDCraft"
+    },
+    {
+      "row": 40,
+      "id": "3ff976ac4f49725f",
+      "name": "Faithful 32x Modded"
+    },
+    {
+      "row": 42,
+      "id": "5af57ea7f308548e",
+      "name": "Fresh Mowzie's Mobs textures"
     }
   ]
 }

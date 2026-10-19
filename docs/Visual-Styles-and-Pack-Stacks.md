@@ -58,7 +58,7 @@ These are historical starting ideas awaiting full exact-file review, not certifi
 
 ## Import coverage
 
-The original 17 views and all 159 master observations are preserved in the repository. Sixty-seven master observations are attached to catalogue identities: 37 exact matches to existing records and thirty newly reviewed identities. The remaining 92 master observations and 196 unmatched companion-view rows remain in review. 155 companion rows are attached to 58 entries; they do not inflate the unique-project or source-record totals.
+The original 17 views and all 159 master observations are preserved in the repository. Seventy-one master observations are attached to catalogue identities: 37 exact matches to existing records and thirty-four newly reviewed identities. The remaining 88 master observations and 187 unmatched companion-view rows remain in review. 164 companion rows are attached to 62 entries; they do not inflate the unique-project or source-record totals.
 
 [Preserved source views](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-source-views.json) · [Master import receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-import.json) · [Companion receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-companion-receipt.json)
 
@@ -89,3 +89,9 @@ Original scores and superlatives remain source opinions. No pack was installed, 
 [BnC Coaster Compat](https://modrinth.com/resourcepack/bnc-coaster-compat) is the project behind the old opaque atlas link. It supplies selected food-display models and overrides some existing assets. [Excalibur support for Brewin’ and Chewin’](https://modrinth.com/resourcepack/brewin-and-chewin-excalibur-support) also changes coaster visuals. Check exact overlapping model/texture paths and test priority order instead of assuming both can win. Neither is the same project as similarly named Modded Coasters or More Coaster Compat.
 
 [My Nether’s Delight support](https://www.curseforge.com/minecraft/texture-packs/excalibur-my-nethers-delight-support) targets My Nether’s Delight rather than the older Nether’s Delight. [Pixel Perfection’s Farmer’s Delight pack](https://modrinth.com/resourcepack/pixelperfectionxfarmersdelight) describes standalone use in its prose but lists a base Pixel Perfection pack as required; keep this discrepancy visible until the intended exact stack is tested. Its Rustic Delight support is labelled beta.
+
+## Classic packs and naming fixes are distinct tools
+
+[Faithful 32x Modded](https://www.curseforge.com/minecraft/texture-packs/faithful-32x-modded) targets older Minecraft and the Programmer Art style; its main file is for 1.12.2. Do not present it as a native 1.20.1 download. [Create BDCraft](https://www.curseforge.com/minecraft/texture-packs/create-bdcraft) separates Create generations and texture resolutions, so choose the actual game/Create pair before comparing appearance or memory cost.
+
+[The Rename Compat Project](https://modrinth.com/resourcepack/the-rename-compat-project) changes display names rather than merging item identities or recipes. Its language scope and supported-but-not-included list matter. [Fresh Mowzie’s Mobs textures](https://modrinth.com/resourcepack/fresh-mowzies-mobs-textures) lists selected mob retextures; the word Fresh does not establish new animations or complete mob coverage.
