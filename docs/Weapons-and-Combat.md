@@ -6,10 +6,10 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**602 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**603 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
-<summary><strong>Content Pack · 84</strong></summary>
+<summary><strong>Content Pack · 85</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -81,6 +81,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Point Blank: Jelly — Counter-Strike](https://curseforge.com/minecraft/customization/point-blank-counter-strike) | Relevant to the Vic's Point Blank gun/combat ecosystem; retained for comparison, expansion planning, or compatibility discovery. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a67ddb3d626468cd) |
 | [Point Blank: Recipe](https://curseforge.com/minecraft/mc-mods/point-blank-recipe) | Changes VPB gun crafting into multiple frame/components instead of trivial few-ingredient recipes, with optional supported gunpack recipes. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=29cfc503c6036b8e) |
 | [Serious Snipers - Addon for Vic's Point Blank](https://curseforge.com/minecraft/customization/serious-snipers-addon-for-vics-point-blank) | A focused VPB sniper-rifle expansion with intentionally harder progression and specialized long-range weapons. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=e8d36a7b36bb1c88) |
+| ★ [Soul Craft Add-On](https://minecraft.net/es-es/marketplace/pdp/snail-studios/soul-craft-add--on/242aa206-079c-4650-90ef-e8e50013e9aa) | Bedrock soul-powered progression, fantasy equipment and encounter reference; historical version claims remain source observations. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d4979d54e8322b69) |
 | ★ [Sulfur Blaster Add-On](https://minecraft.net/en-us/marketplace/pdp?id=0c7d3112-fe1f-4012-974c-b055c1926c19) | Bedrock weapon presentation reference; no Java mod, purchase or artifact study claimed. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=e96c44fb78ad9895) |
 | [TACZ : Xiaomantou GunPack](https://curseforge.com/minecraft/customization/tacz-xiaomantou-gunpack) | Relevant to the TaCZ gun/combat ecosystem; retained for comparison, expansion planning, or compatibility discovery. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=bad476d19fd377bd) |
 | [TaCZ Armed Mobs Warfare](https://curseforge.com/minecraft/mc-mods/tacz-armed-mobs) | 3.0 adds own village Armed Guard, inventory/skin/recruiting and config migration. Guard Villagers OPTIONAL (official 3.0 file explicitly); TaCZ Forge1.20.1 REQUIRED. Faction Wars o | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=75c60371886dfe6c) |

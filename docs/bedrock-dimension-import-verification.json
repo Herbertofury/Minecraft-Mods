@@ -1,0 +1,23 @@
+{
+  "scope": "Primary project identity only; source records and verification levels preserved",
+  "entries": 2213,
+  "source_records": 2551,
+  "favorites": 382,
+  "resolved_rows": 2,
+  "new_entries": 2,
+  "pending_starred_rows": 42,
+  "applied": [
+    {
+      "row": 244,
+      "id": "c9f798d72d53d141",
+      "name": "The Hollow Dimension",
+      "new": true
+    },
+    {
+      "row": 245,
+      "id": "d4979d54e8322b69",
+      "name": "Soul Craft Add-On",
+      "new": true
+    }
+  ]
+}

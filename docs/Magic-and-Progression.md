@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**235 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**237 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Compatibility Target · 2</strong></summary>
@@ -17,7 +17,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Content Pack · 5</strong></summary>
+<summary><strong>Content Pack · 7</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -25,7 +25,9 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Legends: Anime](https://curseforge.com/minecraft/mc-mods/legends-anime) | TEST 1.20.1 / LEGENDS CORE REQUIRED / SERVER-MATCHED / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7a0a5f0646e58429) |
 | [Legends: Superheroes Unlimited](https://curseforge.com/minecraft/mc-mods/legends-superheroes-unlimited) | TEST/INSTALL 1.20.1 / LEGENDS CORE REQUIRED / SERVER-MATCHED / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=764ca5c41c709168) |
 | ★ [Sonic Add-On](https://minecraft.net/de-de/marketplace/pdp/gamemode-one/sonic-add--on/f3e0a4be-8858-44d3-9ae8-91643db1b3f6) | Bedrock character transformation, traversal blocks and progression reference. Creator changelog supplies useful equipment-preservation and interrupted-transformation regression cas | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=60d6987f4bd642e7) |
+| ★ [Soul Craft Add-On](https://minecraft.net/es-es/marketplace/pdp/snail-studios/soul-craft-add--on/242aa206-079c-4650-90ef-e8e50013e9aa) | Bedrock soul-powered progression, fantasy equipment and encounter reference; historical version claims remain source observations. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d4979d54e8322b69) |
 | [TaCZ Armed Mobs Warfare](https://curseforge.com/minecraft/mc-mods/tacz-armed-mobs) | 3.0 adds own village Armed Guard, inventory/skin/recruiting and config migration. Guard Villagers OPTIONAL (official 3.0 file explicitly); TaCZ Forge1.20.1 REQUIRED. Faction Wars o | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=75c60371886dfe6c) |
+| ★ [The Hollow Dimension](https://minecraft.net/fr-ca/marketplace/pdp/radium-studio/the-hollow-dimension/e9e19e4d-417a-4375-a007-590948adddbb) | Bedrock otherworld survival, return-home progression and encounter presentation reference; no available Java conversion is implied. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c9f798d72d53d141) |
 
 </details>
 

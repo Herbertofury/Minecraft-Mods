@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**290 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**292 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Compatibility Target · 8</strong></summary>
@@ -23,11 +23,13 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Content Pack · 1</strong></summary>
+<summary><strong>Content Pack · 3</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
 | [Legends: Revenant's Miscellaneous](https://curseforge.com/minecraft/mc-mods/legends-revenants-miscellaneous) | OPTIONAL/TEST 1.20.1 / LEGENDS CORE REQUIRED / SERVER-MATCHED / BACKUP WORLD | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=37600cd20455f57b) |
+| ★ [Soul Craft Add-On](https://minecraft.net/es-es/marketplace/pdp/snail-studios/soul-craft-add--on/242aa206-079c-4650-90ef-e8e50013e9aa) | Bedrock soul-powered progression, fantasy equipment and encounter reference; historical version claims remain source observations. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d4979d54e8322b69) |
+| ★ [The Hollow Dimension](https://minecraft.net/fr-ca/marketplace/pdp/radium-studio/the-hollow-dimension/e9e19e4d-417a-4375-a007-590948adddbb) | Bedrock otherworld survival, return-home progression and encounter presentation reference; no available Java conversion is implied. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c9f798d72d53d141) |
 
 </details>
 

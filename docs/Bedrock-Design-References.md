@@ -19,6 +19,8 @@ A focused reference shelf for presentation, movement, encounters, companions and
 | Traversal equipment and transformation safety | [Sonic Add-On — Gamemode One](https://www.gamemodeone.com/sonic-add-on) | Traversal blocks, character abilities and progression, with the regression checklist below |
 | A cast that changes ordinary world play | [SpongeBob Add-On](https://www.minecraft.net/en-us/article/the-spongebob-add-on-is-here) | Companion personality, themed furnishings and ride presentation |
 | Encounters emerging from a simple world system | [Tetris Add-On — Jigarbov](https://www.minecraft.net/en-us/article/line-tetris-add) | Falling-block encounters, tameable creatures and tools with immediately legible purposes |
+| An alternate realm with a return-home loop | [The Hollow Dimension](https://www.minecraft.net/fr-ca/marketplace/pdp/radium-studio/the-hollow-dimension/e9e19e4d-417a-4375-a007-590948adddbb) | Entry/recovery rules, boss encounters and strong audiovisual identity |
+| A cohesive fantasy progression theme | [Soul Craft](https://www.minecraft.net/es-es/marketplace/pdp/snail-studios/soul-craft-add--on/242aa206-079c-4650-90ef-e8e50013e9aa) | How equipment, enemies and structures reinforce one progression theme |
 
 The table identifies useful study questions, not a claim that each product excels in every area. Exact mechanics and visual quality still need direct inspection. Marketplace world DLC, add-ons, resource packs and unrelated community mods remain separate identities.
 
@@ -47,4 +49,4 @@ These are design-study directions. Implementation must use original work or appr
 
 [First three identities](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/bedrock-project-identity-evidence.json) · [Five branded identities](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/bedrock-brand-identity-evidence.json) · [Sonic, SpongeBob and Tetris](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/bedrock-gameplay-identity-evidence.json)
 
-The catalogue retains the original source rows, creator/version claims and favorites alongside checked identity evidence. Forty-four other starred Bedrock source rows remain unresolved at this review; other source collections have separate work. No native verification flags were promoted.
+The catalogue retains the original source rows, creator/version claims and favorites alongside checked identity evidence. Forty-two other starred Bedrock source rows remain unresolved at this review; other source collections have separate work. No native verification flags were promoted.
