@@ -4,6 +4,58 @@
 
 Choose a coherent visual direction first, then add narrowly scoped fixes for the mods that look out of place. A pack's presence in this library means it is worth researching; it does not certify every combination or version.
 
+
+<!-- style-navigation:start -->
+## Find guidance by goal
+
+Use these jumps to compare actual scope and dependencies, not just similar pack names.
+
+**Start here and verify**
+
+- [Choose a direction](#choose-a-direction)
+- [Author guidance that changes the install plan](#author-guidance-that-changes-the-install-plan)
+- [More stack ideas retained from the research](#more-stack-ideas-retained-from-the-research)
+- [Repeatable visual check](#repeatable-visual-check)
+- [Import coverage](#import-coverage)
+
+**Base styles and pack families**
+
+- [Style families are not completeness guarantees](#style-families-are-not-completeness-guarantees)
+- [Vanilla identity without assuming identical requirements](#vanilla-identity-without-assuming-identical-requirements)
+- [Keep classic mod-support packs distinct](#keep-classic-mod-support-packs-distinct)
+- [Base packs, ports and feature dependencies](#base-packs-ports-and-feature-dependencies)
+- [Classic packs and naming fixes are distinct tools](#classic-packs-and-naming-fixes-are-distinct-tools)
+
+**Crops, foliage and creature textures**
+
+- [Selective crops and biome foliage](#selective-crops-and-biome-foliage)
+- [Optional foliage layers and technical texture patches](#optional-foliage-layers-and-technical-texture-patches)
+- [Botanical models and Aether material layers](#botanical-models-and-aether-material-layers)
+- [Follow moved crop packs and distinguish creature styles](#follow-moved-crop-packs-and-distinguish-creature-styles)
+
+**Magic, farming and mod-specific layers**
+
+- [Apotheosis and farming: choose a visual direction](#apotheosis-and-farming-choose-a-visual-direction)
+- [Food and coaster packs: resolve overlapping assets](#food-and-coaster-packs-resolve-overlapping-assets)
+- [Partial wood sets and magic-interface packs](#partial-wood-sets-and-magic-interface-packs)
+- [Material consistency across magic and technology](#material-consistency-across-magic-and-technology)
+- [Distinguish rune styling from legacy Botania assets](#distinguish-rune-styling-from-legacy-botania-assets)
+- [Mod-specific visual layers and their limits](#mod-specific-visual-layers-and-their-limits)
+
+**Renderers, animation and materials**
+
+- [Connected textures are a renderer feature](#connected-textures-are-a-renderer-feature)
+- [Excalibur animation-stack cautions](#excalibur-animation-stack-cautions)
+- [Material effects and partial coverage](#material-effects-and-partial-coverage)
+
+**Interfaces and coverage exceptions**
+
+- [GUI changes versus world-model changes](#gui-changes-versus-world-model-changes)
+- [Cozy styles and feature-specific dependencies](#cozy-styles-and-feature-specific-dependencies)
+- [Check coverage exceptions before combining packs](#check-coverage-exceptions-before-combining-packs)
+
+<!-- style-navigation:end -->
+
 ## Choose a direction
 
 | Direction | Starting point | What to preserve |
