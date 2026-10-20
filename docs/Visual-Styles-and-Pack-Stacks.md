@@ -58,7 +58,7 @@ These are historical starting ideas awaiting full exact-file review, not certifi
 
 ## Import coverage
 
-The original 17 views and all 159 master observations are preserved in the repository. One hundred and nineteen master observations are attached to catalogue identities: 37 exact matches to existing records and eighty-two newly reviewed identities. The remaining 40 master observations and 84 unmatched companion-view rows remain in review. 267 companion rows are attached to 110 entries; they do not inflate the unique-project or source-record totals.
+The original 17 views and all 159 master observations are preserved in the repository. One hundred and twenty-three master observations are attached to catalogue identities: 37 exact matches to existing records and eighty-six newly reviewed identities. The remaining 36 master observations and 73 unmatched companion-view rows remain in review. 278 companion rows are attached to 114 entries; they do not inflate the unique-project or source-record totals.
 
 [Preserved source views](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-source-views.json) · [Master import receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-import.json) · [Companion receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-companion-receipt.json)
 
@@ -167,3 +167,9 @@ Original scores and superlatives remain source opinions. No pack was installed, 
 [Ars Nouveau Brass-ified](https://www.curseforge.com/minecraft/texture-packs/ars-nouveau-brass-ified-create-style-anbics) coordinates Ars gold trim with Create-style brass. It does not itself add machine or spell interactions. [Immersive Interfaces for Farmer’s Delight](https://modrinth.com/resourcepack/immersive-interfaces-farmers-delight) changes interface presentation; verify the exact pack file and installed mod screen layout rather than inferring universal support from broad project labels.
 
 [Crystal Palace](https://modrinth.com/resourcepack/crystal-palace) targets Alex’s Caves retro creature appearances and lists ETF/EMF requirements, nametag options and additional author-listed mob compatibility. BSL lighting and Lost Cities scenery in its gallery are separate projects. [Not Enough Pixels](https://www.curseforge.com/minecraft/texture-packs/faithful-64x-modded) was updated in 2026 but remains a mixed-resolution 1.12.2 pack: recent publication is not modern-version compatibility. Its credited compiled assets and ARR listing must not be treated as a freely reusable art library.
+
+## Keep classic mod-support packs distinct
+
+[Bare Bones x Lemoned](https://www.curseforge.com/minecraft/texture-packs/bare-bones-x-lemoned-farmers-delight) covers the Lemoned addon; its recommended Bare Bones and Farmer’s Delight companion packs are distinct projects. [Farmer’s Delight Programmer Art](https://www.curseforge.com/minecraft/texture-packs/farmers-delight-programmer-art) provides a different classic aesthetic and credits the Reminiscence textures’ original creator. Do not merge these identities or infer asset-reuse rights from an uploader’s permission statement.
+
+[Soartex Fanver Universal](https://www.curseforge.com/minecraft/texture-packs/soartex-fanver-modded) bundles vanilla and modded textures in version-specific historical lines. [Unity: Modded](https://www.curseforge.com/minecraft/texture-packs/unity-modded) instead recommends its separate base Unity pack. Neither a familiar ecosystem name nor an old supported-mod list establishes complete support for modern mod versions; compare actual assets, selected releases and license terms.

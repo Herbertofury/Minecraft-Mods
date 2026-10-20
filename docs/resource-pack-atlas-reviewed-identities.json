@@ -839,5 +839,46 @@
       "Worlds and Exploration"
     ],
     "note": "A 1.20.1 entity resource pack reworking retro dinosaur skins for Alex's Caves, with author-listed vanilla, Twilight Forest and Aether compatibility. The author explicitly calls for ETF and EMF and supplies nametag lists. Gallery lighting uses BSL and scenery uses Lost Cities, so those scenes are not features supplied by this pack. Listed CC-BY-4.0; renderer and exact-stack qualification remain open."
+  },
+  {
+    "row": 94,
+    "name": "Bare Bones x Lemoned (Farmer's Delight)",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/bare-bones-x-lemoned-farmers-delight",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Farming and Survival"
+    ],
+    "note": "Dezert3's trailer-style textures target Lemoned specifically. The author recommends Bare Bones and Bare Bones x Farmer's Delight alongside it. Keep this distinct from the broader Farmer's Delight pack; choose matching Lemoned/game versions. Listed ARR."
+  },
+  {
+    "row": 95,
+    "name": "Soartex Fanver - Modded",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/soartex-fanver-modded",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Building and Decoration"
+    ],
+    "note": "Soartex's Universal packs include vanilla and modded textures. The latest listed line is 1.18.2, with separate historical builds and incomplete mod coverage. Check each target version and the custom redistribution license; this is not automatic modern-version support."
+  },
+  {
+    "row": 96,
+    "name": "Farmer's Delight - Programmer Art",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/farmers-delight-programmer-art",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Farming and Survival"
+    ],
+    "note": "Classic Farmer's Delight textures from Reminiscence, uploaded by Khairiah_ with credit to original creator drbruhmoments. The listing targets 1.19.2 and 1.20.1. The uploader's permission statement is not a general reuse grant; listed ARR."
+  },
+  {
+    "row": 97,
+    "name": "Unity: Modded",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/unity-modded",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Building and Decoration",
+      "Storage and Logistics"
+    ],
+    "note": "theCyanideX's mod-texture layer recommends the separate Unity base pack. The latest listed build targets 1.19.2 and supports selected mods, including storage projects. PBR maps and other Unity components remain separate; exact coverage and permissions need checking."
   }
 ]

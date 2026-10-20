@@ -35,7 +35,7 @@ Before upgrades or removal, test a copied world with named/damaged/enchanted ite
 
 ## Browse by entry type
 
-**227 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**228 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-20. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Content Pack · 4</strong></summary>
@@ -312,11 +312,12 @@ Before upgrades or removal, test a copied world with named/damaged/enchanted ite
 </details>
 
 <details>
-<summary><strong>Resource Pack · 1</strong></summary>
+<summary><strong>Resource Pack · 2</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
 | [Applied Energistics 2 BDCraft](https://www.curseforge.com/minecraft/texture-packs/applied-energistics-2-bdcraft) | BDCraft-style AE2 texture patch with 1.20/1.21 lanes and 32x, 64x, 128x, 256x and 512x variants. The author recommends PureBDCraft for the base game. This is an appearance patch ra | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=fb81bf2a4c96da88) |
+| [Unity: Modded](https://www.curseforge.com/minecraft/texture-packs/unity-modded) | theCyanideX's mod-texture layer recommends the separate Unity base pack. The latest listed build targets 1.19.2 and supports selected mods, including storage projects. PBR maps and | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b0e6b86ec1bdeb27) |
 
 </details>
 

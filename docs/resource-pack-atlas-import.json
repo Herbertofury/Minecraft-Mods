@@ -4,9 +4,9 @@
   "master_rows": 159,
   "exact_existing_observations_added": 37,
   "unique_entries_enriched": 33,
-  "pending_master_observations": 40,
-  "display_entries": 2346,
-  "source_observations": 2728,
+  "pending_master_observations": 36,
+  "display_entries": 2350,
+  "source_observations": 2732,
   "favorites": 411,
   "native_promotions": 0,
   "all_prior_fields_preserved": true,
@@ -197,7 +197,7 @@
       "name": "Fresh Flowers and Plants"
     }
   ],
-  "reviewed_new_identity_observations_added": 82,
+  "reviewed_new_identity_observations_added": 86,
   "reviewed_new_identities": [
     {
       "row": 2,
@@ -608,6 +608,26 @@
       "row": 93,
       "id": "76c57b113051e87d",
       "name": "Alex's Caves: Crystal Palace"
+    },
+    {
+      "row": 94,
+      "id": "637b1ef3513d9dea",
+      "name": "Bare Bones x Lemoned (Farmer's Delight)"
+    },
+    {
+      "row": 95,
+      "id": "112a9baef6036201",
+      "name": "Soartex Fanver - Modded"
+    },
+    {
+      "row": 96,
+      "id": "15efc038c1b36f76",
+      "name": "Farmer's Delight - Programmer Art"
+    },
+    {
+      "row": 97,
+      "id": "b0e6b86ec1bdeb27",
+      "name": "Unity: Modded"
     }
   ]
 }

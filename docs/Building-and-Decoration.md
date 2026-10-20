@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**105 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-20. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**107 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-20. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Content Pack · 13</strong></summary>
@@ -125,7 +125,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Resource Pack · 10</strong></summary>
+<summary><strong>Resource Pack · 12</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -138,7 +138,9 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Mizuno's Pig Variants](https://curseforge.com/minecraft/texture-packs/mizunos-pig-variants) | Polished pig-variant pack for players who want visual variety without behavior changes. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=901abb23c77b92a6) |
 | [Not Enough Pixels \[Faithful 64x/32x Modded\]](https://www.curseforge.com/minecraft/texture-packs/faithful-64x-modded) | Vubsagwer's mixed 64x/32x mod-support pack targets Minecraft 1.12.2; the listed 1.2.1 release is dated June 15, 2026. It combines original additions and credited older texture sour | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=28e1ac6520b35ba5) |
 | [Quark BDCraft](https://www.curseforge.com/minecraft/texture-packs/quark-bdcraft) | PureBDCraft-style Quark patch for the 1.20 line, offered at 32x, 64x, 128x, 256x and 512x. Resolution selection changes texture-memory demand; the page does not establish a measure | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7feae2f79815843e) |
+| [Soartex Fanver - Modded](https://www.curseforge.com/minecraft/texture-packs/soartex-fanver-modded) | Soartex's Universal packs include vanilla and modded textures. The latest listed line is 1.18.2, with separate historical builds and incomplete mod coverage. Check each target vers | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=112a9baef6036201) |
 | [The FAYE Pet Furniture Set \| CIT](https://herbertofury.github.io/Minecraft-Mods/?id=7393344c4453b6f4) | INSTALL / OPTIONAL VISUAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7393344c4453b6f4) |
+| [Unity: Modded](https://www.curseforge.com/minecraft/texture-packs/unity-modded) | theCyanideX's mod-texture layer recommends the separate Unity base pack. The latest listed build targets 1.19.2 and supports selected mods, including storage projects. PBR maps and | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b0e6b86ec1bdeb27) |
 
 </details>
 
