@@ -986,5 +986,56 @@
       "Farming and Survival"
     ],
     "note": "Alonlystalker's pack changes six Farmer's Delight crops into 3D models. Its listed files cover historical 1.16/1.18 lanes; the addon edition explicitly adds only Corn Delight corn. Do not infer support for all Delight addons or modern versions. GPLv3 is listed, and exact asset coverage/render cost remain untested here."
+  },
+  {
+    "row": 111,
+    "name": "Iron's Botany",
+    "record_type": "mod",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/irons-botany",
+    "categories": [
+      "Magic and Progression",
+      "Weapons and Combat"
+    ],
+    "note": "Otectus's Forge 1.20.1 gameplay/content integration connects Botania mana with Iron's Spells, equipment and spell progression. The recovered atlas row describes a desired dedicated texture-pack gap, not an existing resource pack. This entry identifies the actual mod while preserving that visual research request; it does not prove that no texture pack exists. The listed 2.1.0 release and its feature claims require actual-file/native checks before adoption. GPLv3 listed."
+  },
+  {
+    "row": 138,
+    "name": "Kenui's Default",
+    "url": "https://modrinth.com/resourcepack/kenuis-default",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Interface and Accessibility"
+    ],
+    "note": "Vanilla-style visual refresh covering blocks, GUI/HUD, font, emissive details and custom enchanted-book appearances. The author recommends OptiFine or EMF/ETF plus CIT support, and Polytone for lighting; recommendations are not evidence that every feature works without helpers. Broad project-version labels need exact-file checks. MIT listed; native appearance and performance remain untested."
+  },
+  {
+    "row": 139,
+    "name": "FireDragon's Custom Models",
+    "url": "https://modrinth.com/resourcepack/firedragons-custom-models",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Creatures and Companions"
+    ],
+    "note": "Name-dependent item, mob, armor and elytra customization. Some item appearances work in vanilla on the listed modern versions, while mob features need ETF/EMF and armor/elytra need Variants CIT. ESF adds optional sounds; Respackopts configures features and Continuity enables listed emissive textures. The current listing starts at 1.21.11, not proven 1.20.1 support. ARR listed; feature-specific dependencies and native performance remain separate checks."
+  },
+  {
+    "row": 140,
+    "name": "Animated Axolotl Totem",
+    "url": "https://modrinth.com/resourcepack/animated-axolotl-totem",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Interface and Accessibility"
+    ],
+    "note": "Refined Buckets and Punchy addon that changes the held Totem of Undying into an animated axolotl bucket while retaining its vanilla inventory/GUI/item-frame icon. The author specifies loading this pack above Refined Buckets and reports main-hand/offhand support. Disabling Punchy's Item Physics is an author-suggested troubleshooting step, not a setting changed here. MIT listed; exact versions and animation compatibility remain untested."
+  },
+  {
+    "row": 141,
+    "name": "Animated Pufferfish Totem",
+    "url": "https://modrinth.com/resourcepack/animated-pufferfish-totem",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Interface and Accessibility"
+    ],
+    "note": "A distinct Refined Buckets and Punchy addon presenting the held Totem of Undying as an animated pufferfish bucket. Its gallery caption distinguishes the vanilla inventory icon from the held appearance. Do not confuse it with the axolotl variant or infer changed totem gameplay. MIT listed; choose the exact matching release and test animation interactions rather than treating broad version labels as native qualification."
   }
 ]

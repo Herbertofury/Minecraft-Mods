@@ -6,7 +6,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**619 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**620 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-20. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Content Pack · 101</strong></summary>
@@ -398,7 +398,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Mod · 274</strong></summary>
+<summary><strong>Mod · 275</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -551,6 +551,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Hunter'sReturn](https://curseforge.com/minecraft/mc-mods/huntersreturn) | INSTALL/TEST 1.20.1 / SERVER-MATCHED / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=f026013691285835) |
 | [Illager Invasion](https://curseforge.com/minecraft/mc-mods/illager-invasion) | Makes raids and Illager encounters more tactical through specialized archers, support and potion-oriented units. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b769f3e07e7ddbb9) |
 | [Iron's Arms 'n Artifice](https://curseforge.com/minecraft/mc-mods/irons-artifice) | Distinct future-version gun family with flintlock-to-clockwork progression, blackpowder/component crafting, deep modifier buildcrafting and an emerging Create/compat addon ecosyste | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=1b959094ab8fe1d3) |
+| [Iron's Botany](https://www.curseforge.com/minecraft/mc-mods/irons-botany) | Otectus's Forge 1.20.1 gameplay/content integration connects Botania mana with Iron's Spells, equipment and spell progression. The recovered atlas row describes a desired dedicated | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=123533405ddfda4c) |
 | [Jaam's Weaponry](https://curseforge.com/minecraft/mc-mods/jaams-weaponry) | 96.7K+ download MIT project with 50+ weapons, mixed melee/firearms, attachment mechanics and a same-day 1.1.3 overhaul that materially improves Epic Fight compatibility. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d268cfd713b96d23) |
 | [Jerry's Colonies \| Build your Civilization](https://curseforge.com/minecraft-bedrock/addons/jerrys-colonies) | BEDROCK ONLY / INSTALL-TEST / BACKUP FIRST / MULTIPLAYER-HIGH-VALUE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=af47a8ac07181088) |
 | ★ [Lookin' Sharp](https://curseforge.com/minecraft/mc-mods/lookin-sharp) | Expanded melee weapon options. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=10e4bf9e55c9ab77) |

@@ -1,11 +1,11 @@
 {
   "date": "2026-10-19",
   "source_view_rows": 351,
-  "attached_view_rows": 311,
-  "entries_enriched": 124,
-  "pending_view_rows": 40,
-  "source_record_count_unchanged": 2742,
-  "display_entries_unchanged": 2360,
+  "attached_view_rows": 320,
+  "entries_enriched": 129,
+  "pending_view_rows": 31,
+  "source_record_count_unchanged": 2747,
+  "display_entries_unchanged": 2365,
   "native_promotions": 0,
   "attached": [
     {
@@ -1873,6 +1873,60 @@
       "master_row": 110,
       "sheet": "Legacy Asset Mines",
       "row": 15
+    },
+    {
+      "id": "123533405ddfda4c",
+      "master_row": 111,
+      "sheet": "Flowers & Botany",
+      "row": 58
+    },
+    {
+      "id": "123533405ddfda4c",
+      "master_row": 111,
+      "sheet": "Magic & RPG",
+      "row": 27
+    },
+    {
+      "id": "9a0c35dd81d9c75f",
+      "master_row": 140,
+      "sheet": "Mob & Animation",
+      "row": 19
+    },
+    {
+      "id": "f5634e67f24abb56",
+      "master_row": 141,
+      "sheet": "Mob & Animation",
+      "row": 20
+    },
+    {
+      "id": "35b62f80a1a6e07b",
+      "master_row": 138,
+      "sheet": "Style Ecosystems",
+      "row": 61
+    },
+    {
+      "id": "895a0fc0ffeff7e8",
+      "master_row": 139,
+      "sheet": "Style Ecosystems",
+      "row": 62
+    },
+    {
+      "id": "9a0c35dd81d9c75f",
+      "master_row": 140,
+      "sheet": "Style Ecosystems",
+      "row": 63
+    },
+    {
+      "id": "f5634e67f24abb56",
+      "master_row": 141,
+      "sheet": "Style Ecosystems",
+      "row": 64
+    },
+    {
+      "id": "123533405ddfda4c",
+      "master_row": 111,
+      "sheet": "Conversion Queue",
+      "row": 35
     }
   ],
   "pending": [
@@ -1914,18 +1968,6 @@
     },
     {
       "sheet": "Flowers & Botany",
-      "row": 58,
-      "name": "Iron\u2019s Botany \u2014 dedicated texture pack gap",
-      "fields": {
-        "A": "110.0",
-        "B": "Iron\u2019s Botany \u2014 dedicated texture pack gap",
-        "C": "Custom pack required",
-        "D": "https://www.curseforge.com/minecraft/mc-mods/irons-botany"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Flowers & Botany",
       "row": 62,
       "name": "rainbow's foliage: polytone",
       "fields": {
@@ -1957,42 +1999,6 @@
         "B": "Botania Improved Textures",
         "C": "Mod-version asset port",
         "D": "https://www.curseforge.com/minecraft/texture-packs/botania-improved-textures"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Magic & RPG",
-      "row": 27,
-      "name": "Iron\u2019s Botany \u2014 dedicated texture pack gap",
-      "fields": {
-        "A": "110.0",
-        "B": "Iron\u2019s Botany \u2014 dedicated texture pack gap",
-        "C": "Custom pack required",
-        "D": "https://www.curseforge.com/minecraft/mc-mods/irons-botany"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Mob & Animation",
-      "row": 19,
-      "name": "Animated Axolotl Totem",
-      "fields": {
-        "A": "WATCH-139",
-        "B": "Animated Axolotl Totem",
-        "C": "Client resource pack; 1.20.x\u201326.2; Punchy and Refined Buckets required",
-        "D": "https://modrinth.com/resourcepack/animated-axolotl-totem"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Mob & Animation",
-      "row": 20,
-      "name": "Animated Pufferfish Totem",
-      "fields": {
-        "A": "WATCH-140",
-        "B": "Animated Pufferfish Totem",
-        "C": "Client resource pack; 1.20.x\u201326.2; Punchy and Refined Buckets required",
-        "D": "https://modrinth.com/resourcepack/animated-pufferfish-totem"
       },
       "matches": []
     },
@@ -2107,54 +2113,6 @@
         "B": "Fantastic Flora",
         "C": "Vanilla flower visuals; 1.20.1 pack-format test",
         "D": "https://www.curseforge.com/minecraft/texture-packs/fantastic-flora"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Style Ecosystems",
-      "row": 61,
-      "name": "Kenui's Default",
-      "fields": {
-        "A": "WATCH-137",
-        "B": "Kenui's Default",
-        "C": "Vanilla+ with optional CIT and emissive features",
-        "D": "https://modrinth.com/resourcepack/kenuis-default"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Style Ecosystems",
-      "row": 62,
-      "name": "FireDragon's Custom Models",
-      "fields": {
-        "A": "WATCH-138",
-        "B": "FireDragon's Custom Models",
-        "C": "Modern 3D/CIT/EMF model ecosystem; ARR",
-        "D": "https://modrinth.com/resourcepack/firedragons-custom-models"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Style Ecosystems",
-      "row": 63,
-      "name": "Animated Axolotl Totem",
-      "fields": {
-        "A": "WATCH-139",
-        "B": "Animated Axolotl Totem",
-        "C": "Client resource pack; 1.20.x\u201326.2; Punchy and Refined Buckets required",
-        "D": "https://modrinth.com/resourcepack/animated-axolotl-totem"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Style Ecosystems",
-      "row": 64,
-      "name": "Animated Pufferfish Totem",
-      "fields": {
-        "A": "WATCH-140",
-        "B": "Animated Pufferfish Totem",
-        "C": "Client resource pack; 1.20.x\u201326.2; Punchy and Refined Buckets required",
-        "D": "https://modrinth.com/resourcepack/animated-pufferfish-totem"
       },
       "matches": []
     },
@@ -2328,18 +2286,6 @@
         "B": "Botania Improved Textures",
         "C": "Mod-version asset port",
         "D": "https://www.curseforge.com/minecraft/texture-packs/botania-improved-textures"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Conversion Queue",
-      "row": 35,
-      "name": "Iron\u2019s Botany \u2014 dedicated texture pack gap",
-      "fields": {
-        "A": "110.0",
-        "B": "Iron\u2019s Botany \u2014 dedicated texture pack gap",
-        "C": "Custom pack required",
-        "D": "https://www.curseforge.com/minecraft/mc-mods/irons-botany"
       },
       "matches": []
     },

@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**221 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-20. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**224 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-20. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Content Pack · 1</strong></summary>
@@ -256,16 +256,19 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Resource Pack · 11</strong></summary>
+<summary><strong>Resource Pack · 14</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
+| [Animated Axolotl Totem](https://modrinth.com/resourcepack/animated-axolotl-totem) | Refined Buckets and Punchy addon that changes the held Totem of Undying into an animated axolotl bucket while retaining its vanilla inventory/GUI/item-frame icon. The author specif | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=9a0c35dd81d9c75f) |
+| [Animated Pufferfish Totem](https://modrinth.com/resourcepack/animated-pufferfish-totem) | A distinct Refined Buckets and Punchy addon presenting the held Totem of Undying as an animated pufferfish bucket. Its gallery caption distinguishes the vanilla inventory icon from | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=f5634e67f24abb56) |
 | ★ [Artifacts 3D](https://modrinth.com/resourcepack/x70SGc9M) | Makes Artifacts items 3D | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=24e48abd3c7e5fce) |
 | ★ [Attribute Icons (RPG Series)](https://modrinth.com/resourcepack/73QpzsIN) | Embedded icons for RPG combat attributes | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=9655d8bd422a8aed) |
 | [Cataclysm: Spellbooks Reimagined](https://www.curseforge.com/minecraft/texture-packs/cataclysm-spellbooks-reimagined) | Targets GUI, HUD and item icons for Cataclysm: Spellbooks, with seven described icon redesigns and separate Forge 1.20.1 / NeoForge 1.21.1 releases. The author explicitly excludes  | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=53ab644e4dd123d4) |
 | [Farmer GUI](https://modrinth.com/resourcepack/farmergui) | Official Modrinth page links the matching CurseForge farmergui project. Warm farmer-themed interface pack. Support lists are split by Minecraft version: do not apply the newer-vers | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=801d047561bb70f7) |
 | [Golden Age Textures](https://curseforge.com/minecraft-bedrock/texture-packs/golden-age-textures) | BEDROCK ONLY / OPTIONAL / CLIENT-SAFE / WORLD-SAFE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b7bcec948155d729) |
 | [Immersive Interfaces - Farmer's Delight](https://modrinth.com/resourcepack/immersive-interfaces-farmers-delight) | Unofficial Farmer's Delight interface treatment matching Immersive Interfaces aesthetics. Select the actual file for the installed game and Farmer's Delight build; broad project ve | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=22dd532ae1790786) |
+| [Kenui's Default](https://modrinth.com/resourcepack/kenuis-default) | Vanilla-style visual refresh covering blocks, GUI/HUD, font, emissive details and custom enchanted-book appearances. The author recommends OptiFine or EMF/ETF plus CIT support, and | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=35b62f80a1a6e07b) |
 | [L_Ender’s Cataclysm Reimagined](https://www.curseforge.com/minecraft/texture-packs/cataclysm-reimagined) | Official description limits this pack to GUI, HUD and item icons. It explicitly does not change world models, blocks or gameplay. Separate Forge and NeoForge file lanes are listed; | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=6d8c67c99b997dbe) |
 | [Reimagined](https://www.curseforge.com/minecraft/texture-packs/minecraft-reimagined) | Broad vanilla-style visual and audio treatment with block variants, interfaces, mobs, animations and particles. Full feature guidance lists EMF/ETF for custom mobs, Polytone, Conti | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=62414f6e1824e4ec) |
 | [Renovated Textures for Iron’s Spells](https://www.curseforge.com/minecraft/texture-packs/renovated-textures) | Primarily spell-icon and selected texture changes for Iron’s Spells, with class-name icons, Spanish translations, selected staff display-scale fixes and a later sonic-boom particle | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c3f461f51f9a65be) |

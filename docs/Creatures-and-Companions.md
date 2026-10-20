@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**619 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-20. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**620 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-20. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Content Pack · 30</strong></summary>
@@ -617,7 +617,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Resource Pack · 47</strong></summary>
+<summary><strong>Resource Pack · 48</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -639,6 +639,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Excalibur \| L_Ender’s Cataclysm Support](https://modrinth.com/resourcepack/excal-l_ender-s-cataclysm-support) | Official project lists Cataclysm entities, items, blocks and spawn eggs, plus random entity variants and 2D inventory icons for weapons. This is visual integration with Excalibur,  | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b6f0fbec652bfba1) |
 | [Excalibur \| Mowzie's Mobs Support](https://www.curseforge.com/minecraft/texture-packs/excalibur-mowzies-mobs-support) | Official Mowzie's Mobs visual support pack by Ruseki lists mobs, bosses, items, particles, boss bars and GUI. Pair with Excalibur and verify the exact mod/file versions. Author per | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=df063ae5aedc29a0) |
 | [F.M.R.P / Freshly Modded](https://curseforge.com/minecraft/texture-packs/freshly-modded) | OPTIONAL / TEST / CLIENT-SAFE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2788e4ff359f20f7) |
+| [FireDragon's Custom Models](https://modrinth.com/resourcepack/firedragons-custom-models) | Name-dependent item, mob, armor and elytra customization. Some item appearances work in vanilla on the listed modern versions, while mob features need ETF/EMF and armor/elytra need | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=895a0fc0ffeff7e8) |
 | [Flower Frogs](https://modrinth.com/resourcepack/flower-frogs) | Small but gorgeous flower-themed frog set. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=3f210a77186fd937) |
 | [Fresh Animations: Extensions](https://curseforge.com/minecraft/texture-packs/fresh-animations-extensions) | OPTIONAL VISUAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=076954de35fe4f42) |
 | [Fresh Mowzie's Mobs textures](https://modrinth.com/resourcepack/fresh-mowzies-mobs-textures) | Texture refresh for Minecraft 1.20–1.20.1: the page lists Frostmaw, Foliaath and baby, both Grottol variants, Naga, Ferrous Wroughtnaut and Lantern. More coverage is planned. The n | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=5af57ea7f308548e) |

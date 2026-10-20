@@ -110,7 +110,7 @@ These are historical starting ideas awaiting full exact-file review, not certifi
 
 ## Import coverage
 
-The original 17 views and all 159 master observations are preserved in the repository. One hundred and thirty-three master observations are attached to catalogue identities: 37 exact matches to existing records and ninety-six newly reviewed identities. The remaining 26 master observations and 40 unmatched companion-view rows remain in review. 311 companion rows are attached to 124 entries; they do not inflate the unique-project or source-record totals.
+The original 17 views and all 159 master observations are preserved in the repository. One hundred and thirty-eight master observations are attached to catalogue identities: 37 exact matches to existing records and one hundred and one newly reviewed identities. The remaining 21 master observations and 31 unmatched companion-view rows remain in review. 320 companion rows are attached to 129 entries; they do not inflate the unique-project or source-record totals.
 
 [Preserved source views](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-source-views.json) · [Master import receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-import.json) · [Companion receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-companion-receipt.json)
 
@@ -174,6 +174,10 @@ Original scores and superlatives remain source opinions. No pack was installed, 
 
 ## GUI changes versus world-model changes
 
+[Kenui’s Default](https://modrinth.com/resourcepack/kenuis-default) includes interface, font and item/block appearance changes, with author-recommended visual helpers. [FireDragon’s Custom Models](https://modrinth.com/resourcepack/firedragons-custom-models) separates vanilla-capable item appearances from mod-dependent mobs, armor, elytra and sounds. Its modern version lane must not be assumed to cover Forge 1.20.1.
+
+[Animated Axolotl Totem](https://modrinth.com/resourcepack/animated-axolotl-totem) and [Animated Pufferfish Totem](https://modrinth.com/resourcepack/animated-pufferfish-totem) are distinct Refined Buckets/Punchy overlays. Held appearance differs from inventory identity; neither is evidence of changed resurrection gameplay. The axolotl author specifies placement above Refined Buckets and gives Item Physics troubleshooting guidance. No settings are changed by this catalogue.
+
 [Cataclysm: Spellbooks Reimagined](https://www.curseforge.com/minecraft/texture-packs/cataclysm-spellbooks-reimagined) explicitly targets GUI/HUD/item icons rather than world models or gameplay. Its separate Forge/NeoForge files should be matched to the game build. [Biomes o’ Plenty 3D Flora](https://www.curseforge.com/minecraft/texture-packs/biomes-o-plenty-3d-flora) names four specific flora targets; it is not an all-plant overhaul.
 
 [Croptopia Blocky Crops](https://modrinth.com/resourcepack/croptopia-blocky-crops) and [Just BWG](https://modrinth.com/resourcepack/just-oh-the-biomes-weve-gone) are additional style choices. Exact file coverage, overlapping resource paths and asset permissions need their own checks; a shared inspiration is not functional integration or blanket reuse permission.
@@ -203,6 +207,8 @@ Original scores and superlatives remain source opinions. No pack was installed, 
 [Quark 3D Pack](https://www.curseforge.com/minecraft/texture-packs/quark-3d-pack) covers glowshrooms and gold bars, not the entire mod. [Bare Bones Aether PBR](https://www.curseforge.com/minecraft/texture-packs/bare-bones-x-the-aether-pbr) belongs above the base Bare Bones Aether pack. PBR appearance still depends on the selected shader/material pipeline; no Vulkan qualification is implied.
 
 ## Material consistency across magic and technology
+
+[Iron’s Botany](https://www.curseforge.com/minecraft/mc-mods/irons-botany) is an actual Forge 1.20.1 gameplay integration, not a resource pack. The source atlas’s requested texture-pack gap remains preserved as a research idea; resolving the mod’s identity does not prove that no visual pack exists.
 
 [Re: Botania](https://www.curseforge.com/minecraft/texture-packs/re-botania-pack) aligns quartz, Dreamwood and Livingrock textures and lists selected addon coverage. [Re: Nature’s Aura](https://www.curseforge.com/minecraft/texture-packs/re-natures-aura-pack) refreshes ingots, blocks and tokens. These are visual integrations; do not promote them into gameplay-compatibility claims.
 

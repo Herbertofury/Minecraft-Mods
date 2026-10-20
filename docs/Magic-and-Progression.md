@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**273 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-20. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**274 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-20. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Compatibility Target · 2</strong></summary>
@@ -85,7 +85,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Mod · 215</strong></summary>
+<summary><strong>Mod · 216</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -183,6 +183,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Infused Power](https://curseforge.com/minecraft/mc-mods/infused-power) | FUTURE/HIGH-VALUE 26.x / WATCH / SERVER-MATCHED / BACKUP BEFORE UPDATE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7953c21d87a5d970) |
 | [Inmis (Forge/NeoForge)](https://curseforge.com/minecraft/mc-mods/inmis-forge-port) | OPTIONAL / HIGH VALUE / TEST WORLD COPY / CLIENT+SERVER MATCH | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=f230058a65833b9f) |
 | [Iron's Arms 'n Artifice](https://curseforge.com/minecraft/mc-mods/irons-artifice) | Distinct future-version gun family with flintlock-to-clockwork progression, blackpowder/component crafting, deep modifier buildcrafting and an emerging Create/compat addon ecosyste | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=1b959094ab8fe1d3) |
+| [Iron's Botany](https://www.curseforge.com/minecraft/mc-mods/irons-botany) | Otectus's Forge 1.20.1 gameplay/content integration connects Botania mana with Iron's Spells, equipment and spell progression. The recovered atlas row describes a desired dedicated | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=123533405ddfda4c) |
 | ★ [Iron's Spells 'n Spellbooks](https://curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks) | INSTALL NOW / BACKUP FIRST | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=14f1738c4db93b05) |
 | [Jerry's Colonies \| Build your Civilization](https://curseforge.com/minecraft-bedrock/addons/jerrys-colonies) | BEDROCK ONLY / INSTALL-TEST / BACKUP FIRST / MULTIPLAYER-HIGH-VALUE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=af47a8ac07181088) |
 | ★ [Jewelry (RPG Series)](https://modrinth.com/mod/sNJAIjUm) | Gems, rings, necklaces and RPG attributes | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=909703fe1ec8efbc) |

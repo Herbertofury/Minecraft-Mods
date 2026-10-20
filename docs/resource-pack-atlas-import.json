@@ -4,9 +4,9 @@
   "master_rows": 159,
   "exact_existing_observations_added": 37,
   "unique_entries_enriched": 33,
-  "pending_master_observations": 26,
-  "display_entries": 2360,
-  "source_observations": 2742,
+  "pending_master_observations": 21,
+  "display_entries": 2365,
+  "source_observations": 2747,
   "favorites": 411,
   "native_promotions": 0,
   "all_prior_fields_preserved": true,
@@ -197,7 +197,7 @@
       "name": "Fresh Flowers and Plants"
     }
   ],
-  "reviewed_new_identity_observations_added": 96,
+  "reviewed_new_identity_observations_added": 101,
   "reviewed_new_identities": [
     {
       "row": 2,
@@ -678,6 +678,31 @@
       "row": 110,
       "id": "10dc822e74dbc128",
       "name": "Farmer's Delight crops 3D"
+    },
+    {
+      "row": 111,
+      "id": "123533405ddfda4c",
+      "name": "Iron's Botany"
+    },
+    {
+      "row": 138,
+      "id": "35b62f80a1a6e07b",
+      "name": "Kenui's Default"
+    },
+    {
+      "row": 139,
+      "id": "895a0fc0ffeff7e8",
+      "name": "FireDragon's Custom Models"
+    },
+    {
+      "row": 140,
+      "id": "9a0c35dd81d9c75f",
+      "name": "Animated Axolotl Totem"
+    },
+    {
+      "row": 141,
+      "id": "f5634e67f24abb56",
+      "name": "Animated Pufferfish Totem"
     }
   ]
 }
