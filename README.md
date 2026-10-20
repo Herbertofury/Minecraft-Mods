@@ -8,19 +8,19 @@ A content-organized home for mod discovery, comparison, compatibility notes and 
 
 ## Browse by what you want to do
 
-- **[Building and Decoration](https://github.com/Herbertofury/Minecraft-Mods/wiki/Building-and-Decoration)** — 104 project/feature/target entries; overlapping categories.
-- **[Creatures and Companions](https://github.com/Herbertofury/Minecraft-Mods/wiki/Creatures-and-Companions)** — 616 project/feature/target entries; overlapping categories.
-- **[Engineering and Vehicles](https://github.com/Herbertofury/Minecraft-Mods/wiki/Engineering-and-Vehicles)** — 314 project/feature/target entries; overlapping categories.
-- **[Farming and Survival](https://github.com/Herbertofury/Minecraft-Mods/wiki/Farming-and-Survival)** — 134 project/feature/target entries; overlapping categories.
-- **[Interface and Accessibility](https://github.com/Herbertofury/Minecraft-Mods/wiki/Interface-and-Accessibility)** — 220 project/feature/target entries; overlapping categories.
-- **[Magic and Progression](https://github.com/Herbertofury/Minecraft-Mods/wiki/Magic-and-Progression)** — 268 project/feature/target entries; overlapping categories.
+- **[Building and Decoration](https://github.com/Herbertofury/Minecraft-Mods/wiki/Building-and-Decoration)** — 105 project/feature/target entries; overlapping categories.
+- **[Creatures and Companions](https://github.com/Herbertofury/Minecraft-Mods/wiki/Creatures-and-Companions)** — 617 project/feature/target entries; overlapping categories.
+- **[Engineering and Vehicles](https://github.com/Herbertofury/Minecraft-Mods/wiki/Engineering-and-Vehicles)** — 315 project/feature/target entries; overlapping categories.
+- **[Farming and Survival](https://github.com/Herbertofury/Minecraft-Mods/wiki/Farming-and-Survival)** — 135 project/feature/target entries; overlapping categories.
+- **[Interface and Accessibility](https://github.com/Herbertofury/Minecraft-Mods/wiki/Interface-and-Accessibility)** — 221 project/feature/target entries; overlapping categories.
+- **[Magic and Progression](https://github.com/Herbertofury/Minecraft-Mods/wiki/Magic-and-Progression)** — 269 project/feature/target entries; overlapping categories.
 - **[Multiplayer and Servers](https://github.com/Herbertofury/Minecraft-Mods/wiki/Multiplayer-and-Servers)** — 86 project/feature/target entries; overlapping categories.
 - **[Performance and Stability](https://github.com/Herbertofury/Minecraft-Mods/wiki/Performance-and-Stability)** — 179 project/feature/target entries; overlapping categories.
 - **[Storage and Logistics](https://github.com/Herbertofury/Minecraft-Mods/wiki/Storage-and-Logistics)** — 227 project/feature/target entries; overlapping categories.
 - **[Tools and Development](https://github.com/Herbertofury/Minecraft-Mods/wiki/Tools-and-Development)** — 215 project/feature/target entries; overlapping categories.
-- **[Visuals and Resource Packs](https://github.com/Herbertofury/Minecraft-Mods/wiki/Visuals-and-Resource-Packs)** — 374 project/feature/target entries; overlapping categories.
+- **[Visuals and Resource Packs](https://github.com/Herbertofury/Minecraft-Mods/wiki/Visuals-and-Resource-Packs)** — 378 project/feature/target entries; overlapping categories.
 - **[Weapons and Combat](https://github.com/Herbertofury/Minecraft-Mods/wiki/Weapons-and-Combat)** — 619 project/feature/target entries; overlapping categories.
-- **[Worlds and Exploration](https://github.com/Herbertofury/Minecraft-Mods/wiki/Worlds-and-Exploration)** — 325 project/feature/target entries; overlapping categories.
+- **[Worlds and Exploration](https://github.com/Herbertofury/Minecraft-Mods/wiki/Worlds-and-Exploration)** — 326 project/feature/target entries; overlapping categories.
 
 ## Favorite deep dives
 
@@ -36,7 +36,7 @@ These three are explicitly marked favorites in the imported catalogue. The owner
 
 ## Current import coverage
 
-**2,342 research entries · 2,724 attached source observations · 411 catalogued favorites.** 382 repeated source observations are consolidated without dropping their notes. Entries include mods, resource packs, tools, targets and discovery routes; these are not counts of tested compatible mods.
+**2,346 research entries · 2,728 attached source observations · 411 catalogued favorites.** 382 repeated source observations are consolidated without dropping their notes. Entries include mods, resource packs, tools, targets and discovery routes; these are not counts of tested compatible mods.
 
 The broad recommendations, gun research, creature variety, storage/sorting and starred/conversion collections are being brought together. Remaining HTML, document collections and unique source tabs still need reconciliation. Source files remain intact. Imported source stars and version claims remain distinct from explicit Forever World targets, freshly checked releases and native gameplay tests.
 
