@@ -25,11 +25,11 @@ Refresh exact primary-source releases for the relevant loader/version, preserve 
 
 ## Resource-pack collection
 
-The 17-view resource-pack atlas is now preserved in the repository. Its 159 master observations include repeated ecosystem lanes and research gaps, so they are not 159 distinct installable packs. The first 37 exact project-route observations enrich 33 existing catalogue entries; 48 master observations still need identity review; seventy-four further project identities have been checked against their official pages. Companion views, custom conversion proposals and stack notes remain source material rather than certified compatibility. [Browse the preserved collection](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-source-views.json) · [Import receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-import.json).
+The 17-view resource-pack atlas is now preserved in the repository. Its 159 master observations include repeated ecosystem lanes and research gaps, so they are not 159 distinct installable packs. The first 37 exact project-route observations enrich 33 existing catalogue entries; 44 master observations still need identity review; seventy-eight further project identities have been checked against their official pages. Companion views, custom conversion proposals and stack notes remain source material rather than certified compatibility. [Browse the preserved collection](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-source-views.json) · [Import receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-import.json).
 
 ## Stack planning and companion notes
 
-[Visual styles and resource-pack stacks](Visual-Styles-and-Pack-Stacks) explains version-specific dependencies, priority-order conflicts and a repeatable visual check. 252 companion rows are attached to 102 entries; 99 companion rows remain in review. These annotations do not inflate catalogue totals or promote native compatibility.
+[Visual styles and resource-pack stacks](Visual-Styles-and-Pack-Stacks) explains version-specific dependencies, priority-order conflicts and a repeatable visual check. 258 companion rows are attached to 106 entries; 93 companion rows remain in review. These annotations do not inflate catalogue totals or promote native compatibility.
 
 ## Keep published catalogue data fresh
 

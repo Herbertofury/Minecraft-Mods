@@ -1,11 +1,11 @@
 {
   "date": "2026-10-19",
   "source_view_rows": 351,
-  "attached_view_rows": 252,
-  "entries_enriched": 102,
-  "pending_view_rows": 99,
-  "source_record_count_unchanged": 2720,
-  "display_entries_unchanged": 2338,
+  "attached_view_rows": 258,
+  "entries_enriched": 106,
+  "pending_view_rows": 93,
+  "source_record_count_unchanged": 2724,
+  "display_entries_unchanged": 2342,
   "native_promotions": 0,
   "attached": [
     {
@@ -1519,6 +1519,42 @@
       "master_row": 83,
       "sheet": "Conversion Queue",
       "row": 12
+    },
+    {
+      "id": "84e4959d362c37b5",
+      "master_row": 84,
+      "sheet": "Flowers & Botany",
+      "row": 47
+    },
+    {
+      "id": "84e4959d362c37b5",
+      "master_row": 84,
+      "sheet": "Style Ecosystems",
+      "row": 43
+    },
+    {
+      "id": "84e4959d362c37b5",
+      "master_row": 84,
+      "sheet": "Conversion Queue",
+      "row": 13
+    },
+    {
+      "id": "62414f6e1824e4ec",
+      "master_row": 85,
+      "sheet": "Conversion Queue",
+      "row": 14
+    },
+    {
+      "id": "669cacf297f1cf0c",
+      "master_row": 86,
+      "sheet": "Conversion Queue",
+      "row": 15
+    },
+    {
+      "id": "65a8760abf934ff1",
+      "master_row": 87,
+      "sheet": "Conversion Queue",
+      "row": 16
     }
   ],
   "pending": [
@@ -1567,18 +1603,6 @@
         "B": "Stupendous Visuals",
         "C": "Modded 16x compatibility; Polytone+EMF+ETF required; no full coverage claim",
         "D": "https://modrinth.com/resourcepack/stupendous-visuals"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Flowers & Botany",
-      "row": 47,
-      "name": "Mizuno\u2019s x Let\u2019s Do Meadow",
-      "fields": {
-        "A": "83.0",
-        "B": "Mizuno\u2019s x Let\u2019s Do Meadow",
-        "C": "Texture-path remap",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/mizunos-x-lets-do-meadow"
       },
       "matches": []
     },
@@ -2082,18 +2106,6 @@
     },
     {
       "sheet": "Style Ecosystems",
-      "row": 43,
-      "name": "Mizuno\u2019s x Let\u2019s Do Meadow",
-      "fields": {
-        "A": "83.0",
-        "B": "Mizuno\u2019s x Let\u2019s Do Meadow",
-        "C": "Texture-path remap",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/mizunos-x-lets-do-meadow"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Style Ecosystems",
       "row": 44,
       "name": "Bare Bones x Lemoned (Farmer's Delight)",
       "fields": {
@@ -2298,54 +2310,6 @@
         "B": "Overgrowth (Hardek)",
         "C": "16x moss/ivy/lichen/3D fungi/shells, 1.1 Oct13 2026 MC1.20.1, Continuity/OptiFine for CTM; no shaders, ARR modpack attribution",
         "D": "https://www.curseforge.com/minecraft/texture-packs/overgrowth/files/9162374"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Conversion Queue",
-      "row": 13,
-      "name": "Mizuno\u2019s x Let\u2019s Do Meadow",
-      "fields": {
-        "A": "83.0",
-        "B": "Mizuno\u2019s x Let\u2019s Do Meadow",
-        "C": "Texture-path remap",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/mizunos-x-lets-do-meadow"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Conversion Queue",
-      "row": 14,
-      "name": "Reimagined",
-      "fields": {
-        "A": "84.0",
-        "B": "Reimagined",
-        "C": "Model-dependent conversion",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/minecraft-reimagined"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Conversion Queue",
-      "row": 15,
-      "name": "BetterVanillaBuilding",
-      "fields": {
-        "A": "85.0",
-        "B": "BetterVanillaBuilding",
-        "C": "Simple pack-format conversion",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/bettervanillabuilding"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Conversion Queue",
-      "row": 16,
-      "name": "Faithful 32x",
-      "fields": {
-        "A": "86.0",
-        "B": "Faithful 32x",
-        "C": "Simple pack-format conversion",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/faithful-32x"
       },
       "matches": []
     },

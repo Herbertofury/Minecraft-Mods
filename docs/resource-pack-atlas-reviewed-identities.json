@@ -756,5 +756,45 @@
       "Worlds and Exploration"
     ],
     "note": "Replaces Biomes O\u2019 Plenty leaf models to add foliage volume. Gallery images include shaders; they do not establish that the resource pack supplies those lighting effects. Check the exact BOP version, leaf model paths, other foliage packs and rendering cost before installation."
+  },
+  {
+    "row": 84,
+    "name": "Mizuno\u2019s x [Let\u2019s Do] Meadow",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/mizunos-x-lets-do-meadow",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Worlds and Exploration"
+    ],
+    "note": "Mizuno-style visual compatibility layer for [Let's Do] Meadow; the author explicitly requires Meadow. The listed 1.1 archive targets 1.21.1, with other version listings separate. Verify the matching Meadow assets, base visual stack and pack order; a texture layer does not add Meadow gameplay or establish universal conversion compatibility."
+  },
+  {
+    "row": 85,
+    "name": "Reimagined",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/minecraft-reimagined",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Interface and Accessibility"
+    ],
+    "note": "Broad vanilla-style visual and audio treatment with block variants, interfaces, mobs, animations and particles. Full feature guidance lists EMF/ETF for custom mobs, Polytone, Continuity, Respackopts on 1.21+, and Modefite before 1.21.4. Match the exact pack and loader versions; this is not a plain pack-format conversion or a tested renderer-compatibility guarantee."
+  },
+  {
+    "row": 86,
+    "name": "BetterVanillaBuilding",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/bettervanillabuilding",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Building and Decoration"
+    ],
+    "note": "StefanJ2's familiar vanilla-oriented block and item texture improvements. Current author guidance separates older custom armor, tool, item and block features into spinoff packs, so older screenshots and feature lists must not be attributed automatically to the current main pack. Review each selected spinoff and exact release independently."
+  },
+  {
+    "row": 87,
+    "name": "Faithful 32x",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/faithful-32x",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Building and Decoration"
+    ],
+    "note": "Contributor-driven 32x texture pack with a limited palette and consistent reinterpretation of Minecraft textures. Use the project's linked official distribution and texturing guidelines. Extra resolution alone does not add shaders, 3D models or coverage for every mod; choose version-matched files and inspect addon coverage and licensing before reuse."
   }
 ]

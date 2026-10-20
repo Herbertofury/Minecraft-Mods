@@ -58,7 +58,7 @@ These are historical starting ideas awaiting full exact-file review, not certifi
 
 ## Import coverage
 
-The original 17 views and all 159 master observations are preserved in the repository. One hundred and eleven master observations are attached to catalogue identities: 37 exact matches to existing records and seventy-four newly reviewed identities. The remaining 48 master observations and 99 unmatched companion-view rows remain in review. 252 companion rows are attached to 102 entries; they do not inflate the unique-project or source-record totals.
+The original 17 views and all 159 master observations are preserved in the repository. One hundred and fifteen master observations are attached to catalogue identities: 37 exact matches to existing records and seventy-eight newly reviewed identities. The remaining 44 master observations and 93 unmatched companion-view rows remain in review. 258 companion rows are attached to 106 entries; they do not inflate the unique-project or source-record totals.
 
 [Preserved source views](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-source-views.json) · [Master import receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-import.json) · [Companion receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-companion-receipt.json)
 
@@ -155,3 +155,9 @@ Original scores and superlatives remain source opinions. No pack was installed, 
 [Re: Botania](https://www.curseforge.com/minecraft/texture-packs/re-botania-pack) aligns quartz, Dreamwood and Livingrock textures and lists selected addon coverage. [Re: Nature’s Aura](https://www.curseforge.com/minecraft/texture-packs/re-natures-aura-pack) refreshes ingots, blocks and tokens. These are visual integrations; do not promote them into gameplay-compatibility claims.
 
 [Mekanism Additions BDCraft](https://www.curseforge.com/minecraft/texture-packs/mekanism-additions-bdcraft) targets the Additions module specifically, with multiple resolution options. [JS Leaves+ BOP](https://www.curseforge.com/minecraft/texture-packs/js-leaves-for-biomes-o-plenty) adds model volume, while its shader-assisted gallery images include lighting outside the resource pack itself. Compare exact paths, dependencies and rendering costs rather than assuming similar screenshots imply identical pack requirements.
+
+## Vanilla identity without assuming identical requirements
+
+[Reimagined](https://www.curseforge.com/minecraft/texture-packs/minecraft-reimagined) combines textures, interface work, sounds and model/animation features. Its author lists EMF/ETF, Polytone, Continuity and version-dependent helper mods for the full presentation. Choose the actual target version and feature set before claiming renderer compatibility.
+
+[BetterVanillaBuilding](https://www.curseforge.com/minecraft/texture-packs/bettervanillabuilding) now separates some older custom-item/block features into spinoffs. [Faithful 32x](https://www.curseforge.com/minecraft/texture-packs/faithful-32x) emphasizes consistent higher-resolution textures; it is not automatically a shader, 3D-model pack or universal mod patch. [Mizuno’s Meadow layer](https://www.curseforge.com/minecraft/texture-packs/mizunos-x-lets-do-meadow) targets the actual Meadow mod rather than adding its gameplay. Preserve historical sheet notes, but verify these current distinctions before building a pack stack.
