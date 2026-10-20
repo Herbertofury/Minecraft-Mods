@@ -58,7 +58,7 @@ These are historical starting ideas awaiting full exact-file review, not certifi
 
 ## Import coverage
 
-The original 17 views and all 159 master observations are preserved in the repository. One hundred and twenty-three master observations are attached to catalogue identities: 37 exact matches to existing records and eighty-six newly reviewed identities. The remaining 36 master observations and 73 unmatched companion-view rows remain in review. 278 companion rows are attached to 114 entries; they do not inflate the unique-project or source-record totals.
+The original 17 views and all 159 master observations are preserved in the repository. One hundred and twenty-five master observations are attached to catalogue identities: 37 exact matches to existing records and eighty-eight newly reviewed identities. The remaining 34 master observations and 67 unmatched companion-view rows remain in review. 284 companion rows are attached to 116 entries; they do not inflate the unique-project or source-record totals.
 
 [Preserved source views](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-source-views.json) · [Master import receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-import.json) · [Companion receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-companion-receipt.json)
 
@@ -173,3 +173,9 @@ Original scores and superlatives remain source opinions. No pack was installed, 
 [Bare Bones x Lemoned](https://www.curseforge.com/minecraft/texture-packs/bare-bones-x-lemoned-farmers-delight) covers the Lemoned addon; its recommended Bare Bones and Farmer’s Delight companion packs are distinct projects. [Farmer’s Delight Programmer Art](https://www.curseforge.com/minecraft/texture-packs/farmers-delight-programmer-art) provides a different classic aesthetic and credits the Reminiscence textures’ original creator. Do not merge these identities or infer asset-reuse rights from an uploader’s permission statement.
 
 [Soartex Fanver Universal](https://www.curseforge.com/minecraft/texture-packs/soartex-fanver-modded) bundles vanilla and modded textures in version-specific historical lines. [Unity: Modded](https://www.curseforge.com/minecraft/texture-packs/unity-modded) instead recommends its separate base Unity pack. Neither a familiar ecosystem name nor an old supported-mod list establishes complete support for modern mod versions; compare actual assets, selected releases and license terms.
+
+## Distinguish rune styling from legacy Botania assets
+
+[Malumified Iron’s Runes](https://www.curseforge.com/minecraft/texture-packs/malumified-irons-runes) changes Iron’s Spells rune visuals toward Malum’s style. Its listing targets 1.21.1, not verified 1.20.1 support. The author permits credited modpack use alongside ARR metadata; preserve that scope instead of assuming unrestricted reuse.
+
+[Botania Revamped](https://www.curseforge.com/minecraft/texture-packs/botania-revamped) is a legacy item-texture and held-model refresh for the listed 1.16–1.18 line. It requires Botania and credits retained original assets. Its block-texture overhaul is not presented as complete. Keep the separate Legacy project distinct and test any modern port rather than treating old asset paths as current compatibility.

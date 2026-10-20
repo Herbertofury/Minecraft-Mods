@@ -13,12 +13,12 @@ A content-organized home for mod discovery, comparison, compatibility notes and 
 - **[Engineering and Vehicles](Engineering-and-Vehicles)** — 315 project/feature/target entries; overlapping categories.
 - **[Farming and Survival](Farming-and-Survival)** — 137 project/feature/target entries; overlapping categories.
 - **[Interface and Accessibility](Interface-and-Accessibility)** — 221 project/feature/target entries; overlapping categories.
-- **[Magic and Progression](Magic-and-Progression)** — 269 project/feature/target entries; overlapping categories.
+- **[Magic and Progression](Magic-and-Progression)** — 271 project/feature/target entries; overlapping categories.
 - **[Multiplayer and Servers](Multiplayer-and-Servers)** — 86 project/feature/target entries; overlapping categories.
 - **[Performance and Stability](Performance-and-Stability)** — 179 project/feature/target entries; overlapping categories.
 - **[Storage and Logistics](Storage-and-Logistics)** — 228 project/feature/target entries; overlapping categories.
 - **[Tools and Development](Tools-and-Development)** — 215 project/feature/target entries; overlapping categories.
-- **[Visuals and Resource Packs](Visuals-and-Resource-Packs)** — 382 project/feature/target entries; overlapping categories.
+- **[Visuals and Resource Packs](Visuals-and-Resource-Packs)** — 384 project/feature/target entries; overlapping categories.
 - **[Weapons and Combat](Weapons-and-Combat)** — 619 project/feature/target entries; overlapping categories.
 - **[Worlds and Exploration](Worlds-and-Exploration)** — 326 project/feature/target entries; overlapping categories.
 
@@ -36,7 +36,7 @@ These three are explicitly marked favorites in the imported catalogue. The owner
 
 ## Current import coverage
 
-**2,350 research entries · 2,732 attached source observations · 411 catalogued favorites.** 382 repeated source observations are consolidated without dropping their notes. Entries include mods, resource packs, tools, targets and discovery routes; these are not counts of tested compatible mods.
+**2,352 research entries · 2,734 attached source observations · 411 catalogued favorites.** 382 repeated source observations are consolidated without dropping their notes. Entries include mods, resource packs, tools, targets and discovery routes; these are not counts of tested compatible mods.
 
 The broad recommendations, gun research, creature variety, storage/sorting and starred/conversion collections are being brought together. Remaining HTML, document collections and unique source tabs still need reconciliation. Source files remain intact. Imported source stars and version claims remain distinct from explicit Forever World targets, freshly checked releases and native gameplay tests.
 

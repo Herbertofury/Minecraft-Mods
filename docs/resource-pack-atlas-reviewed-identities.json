@@ -880,5 +880,25 @@
       "Storage and Logistics"
     ],
     "note": "theCyanideX's mod-texture layer recommends the separate Unity base pack. The latest listed build targets 1.19.2 and supports selected mods, including storage projects. PBR maps and other Unity components remain separate; exact coverage and permissions need checking."
+  },
+  {
+    "row": 98,
+    "name": "Malumified Iron's Runes",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/malumified-irons-runes",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Magic and Progression"
+    ],
+    "note": "Tomato_Soupter's pack changes Iron's Spells and Spellbooks rune appearance toward Malum's style. The official listing targets 1.21.1, with 1.0.1 dated June 7, 2025; do not infer 1.20.1 compatibility. The metadata says All Rights Reserved while the description permits modpack use with credit. That statement is not a blanket license for modified asset redistribution."
+  },
+  {
+    "row": 99,
+    "name": "Botania Revamped",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/botania-revamped",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Magic and Progression"
+    ],
+    "note": "fishcute's Botania texture/model refresh requires Botania. Its listed 1.1.0 release targets 1.16\u20131.18, dated July 1, 2022; modern compatibility remains unverified. The description covers item textures and held-model changes, not a completed block-texture overhaul. It credits original Botania assets to Violet Moon and permits modpack use despite ARR metadata. Keep the separate Botania Revamped Legacy project distinct."
   }
 ]

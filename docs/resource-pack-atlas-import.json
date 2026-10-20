@@ -4,9 +4,9 @@
   "master_rows": 159,
   "exact_existing_observations_added": 37,
   "unique_entries_enriched": 33,
-  "pending_master_observations": 36,
-  "display_entries": 2350,
-  "source_observations": 2732,
+  "pending_master_observations": 34,
+  "display_entries": 2352,
+  "source_observations": 2734,
   "favorites": 411,
   "native_promotions": 0,
   "all_prior_fields_preserved": true,
@@ -197,7 +197,7 @@
       "name": "Fresh Flowers and Plants"
     }
   ],
-  "reviewed_new_identity_observations_added": 86,
+  "reviewed_new_identity_observations_added": 88,
   "reviewed_new_identities": [
     {
       "row": 2,
@@ -628,6 +628,16 @@
       "row": 97,
       "id": "b0e6b86ec1bdeb27",
       "name": "Unity: Modded"
+    },
+    {
+      "row": 98,
+      "id": "bd9d19cb07410cba",
+      "name": "Malumified Iron's Runes"
+    },
+    {
+      "row": 99,
+      "id": "186051eb8ff9c870",
+      "name": "Botania Revamped"
     }
   ]
 }

@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**269 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-20. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**271 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-20. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Compatibility Target · 2</strong></summary>
@@ -318,7 +318,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Resource Pack · 20</strong></summary>
+<summary><strong>Resource Pack · 22</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -330,6 +330,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | ★ [Attribute Icons (RPG Series)](https://modrinth.com/resourcepack/73QpzsIN) | Embedded icons for RPG combat attributes | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=9655d8bd422a8aed) |
 | [Better Leaves - Hexerei](https://www.curseforge.com/minecraft/texture-packs/better-leaves-hexerei) | Bushier Hexerei mahogany, willow and witch hazel leaves for 1.20/1.20.1. The author says Motschen’s Better Leaves is not required, although the packs can be used together. Vanilla  | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a626af2866ee2954) |
 | [Bibliophilia \| Enchanted Books](https://modrinth.com/resourcepack/bibliophilia) | Official project requires CIT Resewn or Forge CIT for 1.18–1.21.1; 1.21.2–1.21.4 is unsupported and 1.21.5 works vanilla. Author reports incompatibility with Dynamic Trims. Do not  | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=093adf8483600a78) |
+| [Botania Revamped](https://www.curseforge.com/minecraft/texture-packs/botania-revamped) | fishcute's Botania texture/model refresh requires Botania. Its listed 1.1.0 release targets 1.16–1.18, dated July 1, 2022; modern compatibility remains unverified. The description  | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=186051eb8ff9c870) |
 | ★ [Bray & Cyber's Better, Fresher 3D Books](https://modrinth.com/resourcepack/bray-cyber-3d-enchanted-books) | Unique 3D models and effects for every enchanted-book variation | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0e65703aa668b98d) |
 | [Cataclysm: Spellbooks Reimagined](https://www.curseforge.com/minecraft/texture-packs/cataclysm-spellbooks-reimagined) | Targets GUI, HUD and item icons for Cataclysm: Spellbooks, with seven described icon redesigns and separate Forge 1.20.1 / NeoForge 1.21.1 releases. The author explicitly excludes  | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=53ab644e4dd123d4) |
 | [Chaotix Apotheotic Tweaks](https://www.curseforge.com/minecraft/texture-packs/chaotix-apotheotic-tweaks) | Official Apotheosis texture pack targets gems, charms, tomes, rarity materials, arrows and relevant workstations/GUI. It needs Apotheosis to have an effect; its Fabric Zenith versi | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=9374d22d76abb693) |
@@ -337,6 +338,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Excalibur \| Iron’s Spells ’N Spellbooks Support](https://www.curseforge.com/minecraft/texture-packs/excalibur-irons-spells-n-spellbooks-support) | Official Iron's Spells Excalibur support pack is explicitly work in progress with many textures missing. Do not mark its catalogue presence as complete visual coverage or functiona | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c89c24b83c5807ce) |
 | [Fresh MythicBotany & Botania](https://www.curseforge.com/minecraft/texture-packs/fresh-mythic-botany-and-botania) | Official project is a MythicBotany/Botania texture treatment; author explicitly requires Botania and MythicBotany. Retain exact-file version checks and distinguish vanilla-style vi | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=063caa7160a795cb) |
 | [Iron’s Spells ’n Spellbooks Reimagined](https://www.curseforge.com/minecraft/texture-packs/irons-spells-n-spellbooks-reimagined) | Visual weapon/staff models and selected GUI icons, including some animated inventory previews. The author says OptiFine is not required. Forge 1.20.1 and NeoForge 1.21.1 have separ | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=865a0fbf2def3bea) |
+| [Malumified Iron's Runes](https://www.curseforge.com/minecraft/texture-packs/malumified-irons-runes) | Tomato_Soupter's pack changes Iron's Spells and Spellbooks rune appearance toward Malum's style. The official listing targets 1.21.1, with 1.0.1 dated June 7, 2025; do not infer 1. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=bd9d19cb07410cba) |
 | [Mystical 3DRetextured+](https://www.curseforge.com/minecraft/texture-packs/mystical-3dretextured) | Author describes 3D crop retextures and armor changes for Mystical Agriculture. The public listing spans Minecraft 1.20 and 1.21, but exact target-file support must be checked befo | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=883a0bc9528ab7a8) |
 | [Pinnacle (for Apotheosis)](https://www.curseforge.com/minecraft/texture-packs/pinnacle) | Apotheosis-only visual refresh; requires Apotheosis to have an effect. Page lists a 1.20.1 3.0.0.5 backport and a separate 1.21.1 3.0.0 release, while the author states ongoing foc | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b95da1f7f5ae00f0) |
 | [Re: Botania Pack](https://www.curseforge.com/minecraft/texture-packs/re-botania-pack) | Retextures Botania quartz, Dreamwood and Livingrock-themed content to align their materials and visual style. Author lists texture support for Mythic Botany, Botanic Additions and  | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=996a651862c011f9) |

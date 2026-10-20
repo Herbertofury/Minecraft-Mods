@@ -1,11 +1,11 @@
 {
   "date": "2026-10-19",
   "source_view_rows": 351,
-  "attached_view_rows": 278,
-  "entries_enriched": 114,
-  "pending_view_rows": 73,
-  "source_record_count_unchanged": 2732,
-  "display_entries_unchanged": 2350,
+  "attached_view_rows": 284,
+  "entries_enriched": 116,
+  "pending_view_rows": 67,
+  "source_record_count_unchanged": 2734,
+  "display_entries_unchanged": 2352,
   "native_promotions": 0,
   "attached": [
     {
@@ -1675,6 +1675,42 @@
       "master_row": 97,
       "sheet": "Legacy Asset Mines",
       "row": 5
+    },
+    {
+      "id": "186051eb8ff9c870",
+      "master_row": 99,
+      "sheet": "Flowers & Botany",
+      "row": 50
+    },
+    {
+      "id": "bd9d19cb07410cba",
+      "master_row": 98,
+      "sheet": "Magic & RPG",
+      "row": 23
+    },
+    {
+      "id": "186051eb8ff9c870",
+      "master_row": 99,
+      "sheet": "Magic & RPG",
+      "row": 24
+    },
+    {
+      "id": "bd9d19cb07410cba",
+      "master_row": 98,
+      "sheet": "Conversion Queue",
+      "row": 22
+    },
+    {
+      "id": "186051eb8ff9c870",
+      "master_row": 99,
+      "sheet": "Conversion Queue",
+      "row": 23
+    },
+    {
+      "id": "186051eb8ff9c870",
+      "master_row": 99,
+      "sheet": "Legacy Asset Mines",
+      "row": 6
     }
   ],
   "pending": [
@@ -1687,18 +1723,6 @@
         "B": "Stupendous Visuals",
         "C": "Modded 16x compatibility; Polytone+EMF+ETF required; no full coverage claim",
         "D": "https://modrinth.com/resourcepack/stupendous-visuals"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Flowers & Botany",
-      "row": 50,
-      "name": "Botania Revamped",
-      "fields": {
-        "A": "98.0",
-        "B": "Botania Revamped",
-        "C": "Mod-version asset port",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/botania-revamped"
       },
       "matches": []
     },
@@ -1843,30 +1867,6 @@
         "B": "Farmer\u2019s Delight crops 3D",
         "C": "Mod-version asset port",
         "D": "https://www.curseforge.com/minecraft/texture-packs/farmers-delight-crops-3d"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Magic & RPG",
-      "row": 23,
-      "name": "Malumified Iron\u2019s Runes",
-      "fields": {
-        "A": "97.0",
-        "B": "Malumified Iron\u2019s Runes",
-        "C": "Texture-path remap",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/malumified-irons-runes"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Magic & RPG",
-      "row": 24,
-      "name": "Botania Revamped",
-      "fields": {
-        "A": "98.0",
-        "B": "Botania Revamped",
-        "C": "Mod-version asset port",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/botania-revamped"
       },
       "matches": []
     },
@@ -2279,30 +2279,6 @@
     },
     {
       "sheet": "Conversion Queue",
-      "row": 22,
-      "name": "Malumified Iron\u2019s Runes",
-      "fields": {
-        "A": "97.0",
-        "B": "Malumified Iron\u2019s Runes",
-        "C": "Texture-path remap",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/malumified-irons-runes"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Conversion Queue",
-      "row": 23,
-      "name": "Botania Revamped",
-      "fields": {
-        "A": "98.0",
-        "B": "Botania Revamped",
-        "C": "Mod-version asset port",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/botania-revamped"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Conversion Queue",
       "row": 24,
       "name": "Retinted: Oh The Biomes We\u2019ve Gone Waters",
       "fields": {
@@ -2442,18 +2418,6 @@
         "B": "Iron\u2019s Botany \u2014 dedicated texture pack gap",
         "C": "Custom pack required",
         "D": "https://www.curseforge.com/minecraft/mc-mods/irons-botany"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Legacy Asset Mines",
-      "row": 6,
-      "name": "Botania Revamped",
-      "fields": {
-        "A": "98.0",
-        "B": "Botania Revamped",
-        "C": "Mod-version asset port",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/botania-revamped"
       },
       "matches": []
     },
