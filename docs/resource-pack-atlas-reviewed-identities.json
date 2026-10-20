@@ -796,5 +796,48 @@
       "Building and Decoration"
     ],
     "note": "Contributor-driven 32x texture pack with a limited palette and consistent reinterpretation of Minecraft textures. Use the project's linked official distribution and texturing guidelines. Extra resolution alone does not add shaders, 3D models or coverage for every mod; choose version-matched files and inspect addon coverage and licensing before reuse."
+  },
+  {
+    "row": 90,
+    "name": "Not Enough Pixels [Faithful 64x/32x Modded]",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/faithful-64x-modded",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Building and Decoration"
+    ],
+    "note": "Vubsagwer's mixed 64x/32x mod-support pack targets Minecraft 1.12.2; the listed 1.2.1 release is dated June 15, 2026. It combines original additions and credited older texture sources. A recent update does not establish modern-version compatibility, complete 64x coverage or permission to reuse its assets; the project lists All Rights Reserved."
+  },
+  {
+    "row": 91,
+    "name": "Ars Nouveau Brass-ified Create-Style - ANBICS",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/ars-nouveau-brass-ified-create-style-anbics",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Magic and Progression",
+      "Engineering and Vehicles"
+    ],
+    "note": "Fr_z_n's visual layer replaces gold trim on Ars Nouveau blocks, items and armor with Create-style brass. The author lists 1.19.2, 1.20.1, 1.20.2 and 1.21-era targets. This is visual coordination rather than a machine, spell or progression integration; check the exact asset versions and pack order. The listing identifies GPLv3 and links its source."
+  },
+  {
+    "row": 92,
+    "name": "Immersive Interfaces - Farmer's Delight",
+    "url": "https://modrinth.com/resourcepack/immersive-interfaces-farmers-delight",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Interface and Accessibility",
+      "Farming and Survival"
+    ],
+    "note": "Unofficial Farmer's Delight interface treatment matching Immersive Interfaces aesthetics. Select the actual file for the installed game and Farmer's Delight build; broad project version labels do not prove every screen works in every combination. This changes presentation, not cooking mechanics, and the listing marks the assets ARR."
+  },
+  {
+    "row": 93,
+    "name": "Alex's Caves: Crystal Palace",
+    "url": "https://modrinth.com/resourcepack/crystal-palace",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Creatures and Companions",
+      "Worlds and Exploration"
+    ],
+    "note": "A 1.20.1 entity resource pack reworking retro dinosaur skins for Alex's Caves, with author-listed vanilla, Twilight Forest and Aether compatibility. The author explicitly calls for ETF and EMF and supplies nametag lists. Gallery lighting uses BSL and scenery uses Lost Cities, so those scenes are not features supplied by this pack. Listed CC-BY-4.0; renderer and exact-stack qualification remain open."
   }
 ]

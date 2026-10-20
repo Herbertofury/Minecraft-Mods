@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**268 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-20. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**269 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-20. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Compatibility Target · 2</strong></summary>
@@ -318,13 +318,14 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Resource Pack · 19</strong></summary>
+<summary><strong>Resource Pack · 20</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
 | [Apotheosis BDCraft](https://www.curseforge.com/minecraft/texture-packs/apotheosis-bdcraft) | PureBDCraft-style Apotheosis patch currently listed for 1.21.1, with 32x through 512x options and a recommended base PureBDCraft pack. Do not infer a 1.20.1 backport or measured pe | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=931ce4e9e5dea7e6) |
 | [Ars Loafers](https://www.curseforge.com/minecraft/texture-packs/ars-loafers) | Official CurseForge project 1254524 by loafobucket is an Ars Nouveau resource pack with addon support. Current description targets 1.21.1, while older files list 1.20.1. Project-wi | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=4a3df3d6df8bb9f9) |
 | [Ars Naturae](https://www.curseforge.com/minecraft/texture-packs/ars-naturae) | Nature-themed Ars Nouveau visual pack using brown woods, mossy stone and blue Source styling. Author mentions addons without a complete support inventory. The inspected project lis | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=9789ec4d167d4b1a) |
+| [Ars Nouveau Brass-ified Create-Style - ANBICS](https://www.curseforge.com/minecraft/texture-packs/ars-nouveau-brass-ified-create-style-anbics) | Fr_z_n's visual layer replaces gold trim on Ars Nouveau blocks, items and armor with Create-style brass. The author lists 1.19.2, 1.20.1, 1.20.2 and 1.21-era targets. This is visua | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=85ca97f737abd0ae) |
 | [Ars Nouveau Refresh](https://modrinth.com/resourcepack/ars-nouveau-refresh) | Official Ars Nouveau Refresh page documents glyph, essence, charm/familiar and tablet icon redesigns. Mob/weapon/armor styling and addon item improvements appear on its roadmap; do | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=fc227c5780b3b100) |
 | ★ [Attribute Icons (RPG Series)](https://modrinth.com/resourcepack/73QpzsIN) | Embedded icons for RPG combat attributes | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=9655d8bd422a8aed) |
 | [Better Leaves - Hexerei](https://www.curseforge.com/minecraft/texture-packs/better-leaves-hexerei) | Bushier Hexerei mahogany, willow and witch hazel leaves for 1.20/1.20.1. The author says Motschen’s Better Leaves is not required, although the packs can be used together. Vanilla  | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a626af2866ee2954) |

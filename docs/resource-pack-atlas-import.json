@@ -4,9 +4,9 @@
   "master_rows": 159,
   "exact_existing_observations_added": 37,
   "unique_entries_enriched": 33,
-  "pending_master_observations": 44,
-  "display_entries": 2342,
-  "source_observations": 2724,
+  "pending_master_observations": 40,
+  "display_entries": 2346,
+  "source_observations": 2728,
   "favorites": 411,
   "native_promotions": 0,
   "all_prior_fields_preserved": true,
@@ -197,7 +197,7 @@
       "name": "Fresh Flowers and Plants"
     }
   ],
-  "reviewed_new_identity_observations_added": 78,
+  "reviewed_new_identity_observations_added": 82,
   "reviewed_new_identities": [
     {
       "row": 2,
@@ -588,6 +588,26 @@
       "row": 87,
       "id": "65a8760abf934ff1",
       "name": "Faithful 32x"
+    },
+    {
+      "row": 90,
+      "id": "28e1ac6520b35ba5",
+      "name": "Not Enough Pixels [Faithful 64x/32x Modded]"
+    },
+    {
+      "row": 91,
+      "id": "85ca97f737abd0ae",
+      "name": "Ars Nouveau Brass-ified Create-Style - ANBICS"
+    },
+    {
+      "row": 92,
+      "id": "22dd532ae1790786",
+      "name": "Immersive Interfaces - Farmer's Delight"
+    },
+    {
+      "row": 93,
+      "id": "76c57b113051e87d",
+      "name": "Alex's Caves: Crystal Palace"
     }
   ]
 }

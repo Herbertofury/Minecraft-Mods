@@ -58,7 +58,7 @@ These are historical starting ideas awaiting full exact-file review, not certifi
 
 ## Import coverage
 
-The original 17 views and all 159 master observations are preserved in the repository. One hundred and fifteen master observations are attached to catalogue identities: 37 exact matches to existing records and seventy-eight newly reviewed identities. The remaining 44 master observations and 93 unmatched companion-view rows remain in review. 258 companion rows are attached to 106 entries; they do not inflate the unique-project or source-record totals.
+The original 17 views and all 159 master observations are preserved in the repository. One hundred and nineteen master observations are attached to catalogue identities: 37 exact matches to existing records and eighty-two newly reviewed identities. The remaining 40 master observations and 84 unmatched companion-view rows remain in review. 267 companion rows are attached to 110 entries; they do not inflate the unique-project or source-record totals.
 
 [Preserved source views](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-source-views.json) · [Master import receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-import.json) · [Companion receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-companion-receipt.json)
 
@@ -161,3 +161,9 @@ Original scores and superlatives remain source opinions. No pack was installed, 
 [Reimagined](https://www.curseforge.com/minecraft/texture-packs/minecraft-reimagined) combines textures, interface work, sounds and model/animation features. Its author lists EMF/ETF, Polytone, Continuity and version-dependent helper mods for the full presentation. Choose the actual target version and feature set before claiming renderer compatibility.
 
 [BetterVanillaBuilding](https://www.curseforge.com/minecraft/texture-packs/bettervanillabuilding) now separates some older custom-item/block features into spinoffs. [Faithful 32x](https://www.curseforge.com/minecraft/texture-packs/faithful-32x) emphasizes consistent higher-resolution textures; it is not automatically a shader, 3D-model pack or universal mod patch. [Mizuno’s Meadow layer](https://www.curseforge.com/minecraft/texture-packs/mizunos-x-lets-do-meadow) targets the actual Meadow mod rather than adding its gameplay. Preserve historical sheet notes, but verify these current distinctions before building a pack stack.
+
+## Mod-specific visual layers and their limits
+
+[Ars Nouveau Brass-ified](https://www.curseforge.com/minecraft/texture-packs/ars-nouveau-brass-ified-create-style-anbics) coordinates Ars gold trim with Create-style brass. It does not itself add machine or spell interactions. [Immersive Interfaces for Farmer’s Delight](https://modrinth.com/resourcepack/immersive-interfaces-farmers-delight) changes interface presentation; verify the exact pack file and installed mod screen layout rather than inferring universal support from broad project labels.
+
+[Crystal Palace](https://modrinth.com/resourcepack/crystal-palace) targets Alex’s Caves retro creature appearances and lists ETF/EMF requirements, nametag options and additional author-listed mob compatibility. BSL lighting and Lost Cities scenery in its gallery are separate projects. [Not Enough Pixels](https://www.curseforge.com/minecraft/texture-packs/faithful-64x-modded) was updated in 2026 but remains a mixed-resolution 1.12.2 pack: recent publication is not modern-version compatibility. Its credited compiled assets and ARR listing must not be treated as a freely reusable art library.

@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**325 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-20. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**326 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-20. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Compatibility Target · 8</strong></summary>
@@ -352,10 +352,11 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Resource Pack · 28</strong></summary>
+<summary><strong>Resource Pack · 29</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
+| [Alex's Caves: Crystal Palace](https://modrinth.com/resourcepack/crystal-palace) | A 1.20.1 entity resource pack reworking retro dinosaur skins for Alex's Caves, with author-listed vanilla, Twilight Forest and Aether compatibility. The author explicitly calls for | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=76c57b113051e87d) |
 | [Bare Bones x Oh The Biomes We’ve Gone](https://modrinth.com/resourcepack/bare-bones-x-oh-the-biomes-weve-gone) | Partial Bare Bones-style BWG support: the page lists only four of 25 wood types finished—Aspen, Baobab, Blue Enchanted and Cika. BWG is required; Bare Bones and its Better Leaves c | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=f8a2803d503befd9) |
 | [Bare Bones x The Aether](https://modrinth.com/resourcepack/bare-bones-x-the-aether) | Minecraft 1.20.1 Bare Bones-style Aether textures. The author lists The Aether, Lost Content, Enhanced Extinguishing, Treasure Reforging and Protect Your Moa. Aether Redux and Deep | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=4d8bc250e61f8b30) |
 | [Bare Bones x The Aether PBR](https://www.curseforge.com/minecraft/texture-packs/bare-bones-x-the-aether-pbr) | PBR overlay for Bare Bones x The Aether; the author instructs placing it above that base pack. The listing includes Minecraft 1.20 and 1.21 families, but exact file and shader/mate | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d10a4d2d37f0c04a) |

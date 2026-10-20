@@ -1,11 +1,11 @@
 {
   "date": "2026-10-19",
   "source_view_rows": 351,
-  "attached_view_rows": 258,
-  "entries_enriched": 106,
-  "pending_view_rows": 93,
-  "source_record_count_unchanged": 2724,
-  "display_entries_unchanged": 2342,
+  "attached_view_rows": 267,
+  "entries_enriched": 110,
+  "pending_view_rows": 84,
+  "source_record_count_unchanged": 2728,
+  "display_entries_unchanged": 2346,
   "native_promotions": 0,
   "attached": [
     {
@@ -1555,21 +1555,63 @@
       "master_row": 87,
       "sheet": "Conversion Queue",
       "row": 16
+    },
+    {
+      "id": "28e1ac6520b35ba5",
+      "master_row": 90,
+      "sheet": "Mega Coverage",
+      "row": 21
+    },
+    {
+      "id": "22dd532ae1790786",
+      "master_row": 92,
+      "sheet": "Farming & Food",
+      "row": 26
+    },
+    {
+      "id": "85ca97f737abd0ae",
+      "master_row": 91,
+      "sheet": "Magic & RPG",
+      "row": 22
+    },
+    {
+      "id": "76c57b113051e87d",
+      "master_row": 93,
+      "sheet": "Mob & Animation",
+      "row": 15
+    },
+    {
+      "id": "76c57b113051e87d",
+      "master_row": 93,
+      "sheet": "Biomes & Nature",
+      "row": 23
+    },
+    {
+      "id": "85ca97f737abd0ae",
+      "master_row": 91,
+      "sheet": "Tech & Create",
+      "row": 13
+    },
+    {
+      "id": "28e1ac6520b35ba5",
+      "master_row": 90,
+      "sheet": "Conversion Queue",
+      "row": 18
+    },
+    {
+      "id": "76c57b113051e87d",
+      "master_row": 93,
+      "sheet": "Conversion Queue",
+      "row": 19
+    },
+    {
+      "id": "28e1ac6520b35ba5",
+      "master_row": 90,
+      "sheet": "Legacy Asset Mines",
+      "row": 3
     }
   ],
   "pending": [
-    {
-      "sheet": "Mega Coverage",
-      "row": 21,
-      "name": "Not Enough Pixels",
-      "fields": {
-        "A": "89.0",
-        "B": "Not Enough Pixels",
-        "C": "Mod-version asset port",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/faithful-64x-modded"
-      },
-      "matches": []
-    },
     {
       "sheet": "Mega Coverage",
       "row": 22,
@@ -1764,18 +1806,6 @@
     },
     {
       "sheet": "Farming & Food",
-      "row": 26,
-      "name": "Immersive Interfaces - Farmer\u2019s Delight",
-      "fields": {
-        "A": "91.0",
-        "B": "Immersive Interfaces - Farmer\u2019s Delight",
-        "C": "Native / drop-in",
-        "D": "https://modrinth.com/resourcepack/immersive-interfaces-farmers-delight"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Farming & Food",
       "row": 27,
       "name": "Bare Bones x Lemoned (Farmer's Delight)",
       "fields": {
@@ -1819,18 +1849,6 @@
         "B": "Farmer\u2019s Delight crops 3D",
         "C": "Mod-version asset port",
         "D": "https://www.curseforge.com/minecraft/texture-packs/farmers-delight-crops-3d"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Magic & RPG",
-      "row": 22,
-      "name": "Ars Nouveau Brass-ified Create-Style",
-      "fields": {
-        "A": "90.0",
-        "B": "Ars Nouveau Brass-ified Create-Style",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/ars-nouveau-brass-ified-create-style-anbics"
       },
       "matches": []
     },
@@ -1891,18 +1909,6 @@
         "B": "Iron\u2019s Botany \u2014 dedicated texture pack gap",
         "C": "Custom pack required",
         "D": "https://www.curseforge.com/minecraft/mc-mods/irons-botany"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Mob & Animation",
-      "row": 15,
-      "name": "Alex's Caves: Crystal Palace",
-      "fields": {
-        "A": "92.0",
-        "B": "Alex's Caves: Crystal Palace",
-        "C": "Model-dependent conversion (EMF/ETF)",
-        "D": "https://modrinth.com/resourcepack/crystal-palace"
       },
       "matches": []
     },
@@ -2034,18 +2040,6 @@
     },
     {
       "sheet": "Biomes & Nature",
-      "row": 23,
-      "name": "Alex's Caves: Crystal Palace",
-      "fields": {
-        "A": "92.0",
-        "B": "Alex's Caves: Crystal Palace",
-        "C": "Model-dependent conversion (EMF/ETF)",
-        "D": "https://modrinth.com/resourcepack/crystal-palace"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Biomes & Nature",
       "row": 24,
       "name": "Retinted: Oh The Biomes We\u2019ve Gone Waters",
       "fields": {
@@ -2077,18 +2071,6 @@
         "B": "Fantastic Flora",
         "C": "Vanilla flower visuals; 1.20.1 pack-format test",
         "D": "https://www.curseforge.com/minecraft/texture-packs/fantastic-flora"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Tech & Create",
-      "row": 13,
-      "name": "Ars Nouveau Brass-ified Create-Style",
-      "fields": {
-        "A": "90.0",
-        "B": "Ars Nouveau Brass-ified Create-Style",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/ars-nouveau-brass-ified-create-style-anbics"
       },
       "matches": []
     },
@@ -2315,30 +2297,6 @@
     },
     {
       "sheet": "Conversion Queue",
-      "row": 18,
-      "name": "Not Enough Pixels",
-      "fields": {
-        "A": "89.0",
-        "B": "Not Enough Pixels",
-        "C": "Mod-version asset port",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/faithful-64x-modded"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Conversion Queue",
-      "row": 19,
-      "name": "Alex's Caves: Crystal Palace",
-      "fields": {
-        "A": "92.0",
-        "B": "Alex's Caves: Crystal Palace",
-        "C": "Model-dependent conversion (EMF/ETF)",
-        "D": "https://modrinth.com/resourcepack/crystal-palace"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Conversion Queue",
       "row": 20,
       "name": "Soartex Fanver - Modded",
       "fields": {
@@ -2526,18 +2484,6 @@
         "B": "Iron\u2019s Botany \u2014 dedicated texture pack gap",
         "C": "Custom pack required",
         "D": "https://www.curseforge.com/minecraft/mc-mods/irons-botany"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Legacy Asset Mines",
-      "row": 3,
-      "name": "Not Enough Pixels",
-      "fields": {
-        "A": "89.0",
-        "B": "Not Enough Pixels",
-        "C": "Mod-version asset port",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/faithful-64x-modded"
       },
       "matches": []
     },

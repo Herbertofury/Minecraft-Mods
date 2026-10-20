@@ -6,7 +6,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**314 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-20. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**315 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-20. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Content Pack · 12</strong></summary>
@@ -363,10 +363,11 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Resource Pack · 5</strong></summary>
+<summary><strong>Resource Pack · 6</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
+| [Ars Nouveau Brass-ified Create-Style - ANBICS](https://www.curseforge.com/minecraft/texture-packs/ars-nouveau-brass-ified-create-style-anbics) | Fr_z_n's visual layer replaces gold trim on Ars Nouveau blocks, items and armor with Create-style brass. The author lists 1.19.2, 1.20.1, 1.20.2 and 1.21-era targets. This is visua | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=85ca97f737abd0ae) |
 | [Create BDCraft](https://www.curseforge.com/minecraft/texture-packs/create-bdcraft) | BDCraft-style Create patch. Author lists Minecraft 1.20/1.21 and separate Create 5/6 coverage at 32x, 64x, 128x, 256x and 512x. Select the matching Create/game file and intended re | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c5fdb0d032c794d3) |
 | ★ [Create: Fresh Items](https://modrinth.com/resourcepack/create-fresh-food) | 3D Create item models inspired by Fresh Food | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=f4b18fb9f355034a) |
 | [Excalibur \| Create Support](https://www.curseforge.com/minecraft/texture-packs/excalibur-create-support) | Official Create-to-Excalibur texture/model support pack by BoFill_Pablito. Author places it above Excalibur and publishes distinct Forge 1.20.1 and NeoForge 1.21.1 archives; exact  | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=89a3b19c36e4de16) |

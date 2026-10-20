@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**616 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**617 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-20. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Content Pack · 30</strong></summary>
@@ -617,11 +617,12 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Resource Pack · 44</strong></summary>
+<summary><strong>Resource Pack · 45</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
 | [\[Bedrock\] Human Player Mobs](https://curseforge.com/minecraft-bedrock/texture-packs/human-player-mobs-bedrock-port) | BEDROCK VISUAL / CLIENT-SAFE / TEST CURRENT STABLE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=89c1d488fc13b448) |
+| [Alex's Caves: Crystal Palace](https://modrinth.com/resourcepack/crystal-palace) | A 1.20.1 entity resource pack reworking retro dinosaur skins for Alex's Caves, with author-listed vanilla, Twilight Forest and Aether compatibility. The author explicitly calls for | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=76c57b113051e87d) |
 | [Alexs Mobs Pocket](https://curseforge.com/minecraft-bedrock/addons/alexs-mobs-pocket) | BEDROCK TEST / BACKUP FIRST / HIGH-VALUE PARITY | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=f16d554440db1110) |
 | [Bare Bones & Stuff \[Cherry and Glow!\]](https://curseforge.com/minecraft-bedrock/texture-packs/barebonesnstuff) | BEDROCK ONLY / CLIENT-SAFE VISUAL / UPDATE NOW | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=cdee814c0c1e9794) |
 | [Bare Bones X Alex's Mobs](https://modrinth.com/resourcepack/barebones-x-alexsmobs) | Bare Bones/trailer-style presentation for Alex’s Mobs, listed for Minecraft 1.20.1. Resource-pack styling is distinct from changing mob AI, animations or gameplay. Exact entity/pat | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=65b70f0ed655f6a3) |

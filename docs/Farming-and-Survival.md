@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**134 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-20. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**135 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-20. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Content Pack · 4</strong></summary>
@@ -133,7 +133,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Resource Pack · 24</strong></summary>
+<summary><strong>Resource Pack · 25</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -154,6 +154,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Farmer’s 3D](https://www.curseforge.com/minecraft/texture-packs/farmers-3d) | 3D food models for Farmer’s Delight, with distinct Normal and cutting-board (CB) file variants. The author lists incremental item coverage across beta releases and support spanning | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7c5faee86b0f6c9e) |
 | ★ [Fresh Food](https://modrinth.com/resourcepack/fresh-food) | 3D food models and eating animations | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7d81da12770fdffa) |
 | ★ [Fresh Seeds](https://modrinth.com/resourcepack/fresh-seeds) | 3D bundled-style seed item models inspired by Actions & Stuff | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d92306e2cb4a6781) |
+| [Immersive Interfaces - Farmer's Delight](https://modrinth.com/resourcepack/immersive-interfaces-farmers-delight) | Unofficial Farmer's Delight interface treatment matching Immersive Interfaces aesthetics. Select the actual file for the installed game and Farmer's Delight build; broad project ve | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=22dd532ae1790786) |
 | [Mizuno’s x \[Let’s Do\] Vinery](https://modrinth.com/resourcepack/mizunos-x-lets-do-vinery) | Mizuno-style texture support for Let’s Do Vinery, which the author lists as required. The project lists 1.20.1 and 1.21.1. This visual layer does not add wine-making mechanics or e | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7f21920a32329d14) |
 | [Mizuno’s x Brewin’ And Chewin’](https://modrinth.com/resourcepack/mizunos-x-brewin-and-chewin) | Mizuno-style resource-pack support for Brewin’ and Chewin’, which the author lists as required. Project versions include 1.20.1 and 1.21.1. This is texture/style integration, not e | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2ddf31b16d15a6b6) |
 | [Mizuno’s x Farmer’s Delight](https://www.curseforge.com/minecraft/texture-packs/mizunos-x-farmers-delight) | Mizuno-style Farmer’s Delight retexture. The author uses Refabricated and describes Forge support as possible rather than verified; do not promote this to tested Forge compatibilit | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=3fb973c08ebd46b9) |
