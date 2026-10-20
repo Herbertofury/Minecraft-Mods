@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**617 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-20. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**619 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-20. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Content Pack · 30</strong></summary>
@@ -617,12 +617,13 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Resource Pack · 45</strong></summary>
+<summary><strong>Resource Pack · 47</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
 | [\[Bedrock\] Human Player Mobs](https://curseforge.com/minecraft-bedrock/texture-packs/human-player-mobs-bedrock-port) | BEDROCK VISUAL / CLIENT-SAFE / TEST CURRENT STABLE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=89c1d488fc13b448) |
 | [Alex's Caves: Crystal Palace](https://modrinth.com/resourcepack/crystal-palace) | A 1.20.1 entity resource pack reworking retro dinosaur skins for Alex's Caves, with author-listed vanilla, Twilight Forest and Aether compatibility. The author explicitly calls for | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=76c57b113051e87d) |
+| [Alex's Mobs Alternatives](https://www.planetminecraft.com/texture-pack/alex-s-mobs-alternatives/) | quizy's 1.16.5 texture pack changes selected Alex's Mobs eyes, whale texture scale, colors and other creature appearances, with credits to the mod creators. Its June 2021 listing i | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=19ac99124d162ab3) |
 | [Alexs Mobs Pocket](https://curseforge.com/minecraft-bedrock/addons/alexs-mobs-pocket) | BEDROCK TEST / BACKUP FIRST / HIGH-VALUE PARITY | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=f16d554440db1110) |
 | [Bare Bones & Stuff \[Cherry and Glow!\]](https://curseforge.com/minecraft-bedrock/texture-packs/barebonesnstuff) | BEDROCK ONLY / CLIENT-SAFE VISUAL / UPDATE NOW | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=cdee814c0c1e9794) |
 | [Bare Bones X Alex's Mobs](https://modrinth.com/resourcepack/barebones-x-alexsmobs) | Bare Bones/trailer-style presentation for Alex’s Mobs, listed for Minecraft 1.20.1. Resource-pack styling is distinct from changing mob AI, animations or gameplay. Exact entity/pat | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=65b70f0ed655f6a3) |
@@ -665,6 +666,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Prettier Parrots](https://modrinth.com/resourcepack/prettier-parrots) | Adds genuinely different toucan variants while remodeling parrots, making the vanilla bird family much broader visually. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=e927e6bed5819189) |
 | [Prettier Sheep](https://curseforge.com/minecraft/texture-packs/prettier-sheep) | Remodels sheep and adds temperate, warm, cold and mountain-oriented forms. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a1e760e8484c7626) |
 | [Rebearth Remastered](https://curseforge.com/minecraft/texture-packs/rebearth-remastered) | One of the most complete Minecraft Earth visual restorations: farm breeds, Moobloom/Moolip, rabbits, llamas, hostiles, golems and more. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=5c40d12c0cccc3cb) |
+| [RexCraft Mods Expansion: Alex's Mobs](https://www.planetminecraft.com/texture-pack/rexcraft-mods-expansion-alex-smobs/) | FedeRex03's RexCraft-style Alex's Mobs texture addon is listed for 1.16.5 and 80% complete, with an August 2021 update. It covers selected creatures and related item textures; it i | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=635a094be8338014) |
 | [The FAYE Pet Furniture Set \| CIT](https://herbertofury.github.io/Minecraft-Mods/?id=7393344c4453b6f4) | INSTALL / OPTIONAL VISUAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7393344c4453b6f4) |
 
 </details>

@@ -4,9 +4,9 @@
   "master_rows": 159,
   "exact_existing_observations_added": 37,
   "unique_entries_enriched": 33,
-  "pending_master_observations": 31,
-  "display_entries": 2355,
-  "source_observations": 2737,
+  "pending_master_observations": 26,
+  "display_entries": 2360,
+  "source_observations": 2742,
   "favorites": 411,
   "native_promotions": 0,
   "all_prior_fields_preserved": true,
@@ -197,7 +197,7 @@
       "name": "Fresh Flowers and Plants"
     }
   ],
-  "reviewed_new_identity_observations_added": 91,
+  "reviewed_new_identity_observations_added": 96,
   "reviewed_new_identities": [
     {
       "row": 2,
@@ -653,6 +653,31 @@
       "row": 104,
       "id": "cfe59fa40350441b",
       "name": "Mo's Vibrancy Pack"
+    },
+    {
+      "row": 101,
+      "id": "7942e4eb0014933e",
+      "name": "Barebones 3D Crops"
+    },
+    {
+      "row": 105,
+      "id": "19ac99124d162ab3",
+      "name": "Alex's Mobs Alternatives"
+    },
+    {
+      "row": 108,
+      "id": "635a094be8338014",
+      "name": "RexCraft Mods Expansion: Alex's Mobs"
+    },
+    {
+      "row": 109,
+      "id": "0df369be5dd49881",
+      "name": "Botania Improved Flowers"
+    },
+    {
+      "row": 110,
+      "id": "10dc822e74dbc128",
+      "name": "Farmer's Delight crops 3D"
     }
   ]
 }

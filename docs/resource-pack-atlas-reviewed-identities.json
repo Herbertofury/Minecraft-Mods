@@ -931,5 +931,60 @@
       "Worlds and Exploration"
     ],
     "note": "mo_shark's pack changes colormaps, water, terrain, selected interface elements and variants. The page's broad 1.13+ claim is narrowed by its explicit complete-support statement for 1.18.1. OptiFine is optional for the base but required by the author for listed connected/overlay textures, husky and enchantment variants. Improved Leaves & Foliage is a separate recommended addon. Historical mod-support notes are not current native compatibility proof."
+  },
+  {
+    "row": 101,
+    "name": "Barebones 3D Crops",
+    "url": "https://modrinth.com/resourcepack/barebones-3d-crops",
+    "sources": [
+      "https://modrinth.com/resourcepack/barebones-3d-crops",
+      "https://www.curseforge.com/minecraft/texture-packs/barebones-crops-3d-revamped",
+      "https://www.curseforge.com/minecraft/texture-packs/barebones-3d-crops"
+    ],
+    "categories": [
+      "Visuals and Resource Packs",
+      "Farming and Survival"
+    ],
+    "note": "Vexcenot's actual CurseForge listing explicitly redirects current downloads to this Modrinth project; the source sheet's CurseForge slug was incorrect. This is a Bare Bones-style crop and mushroom model layer, based on Crops 3D, with the base pack downloaded separately. Keep it distinct from the vanilla crop pack. Exact current release coverage, render cost and asset permissions still require file-specific checks; Modrinth lists ARR."
+  },
+  {
+    "row": 105,
+    "name": "Alex's Mobs Alternatives",
+    "url": "https://www.planetminecraft.com/texture-pack/alex-s-mobs-alternatives/",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Creatures and Companions"
+    ],
+    "note": "quizy's 1.16.5 texture pack changes selected Alex's Mobs eyes, whale texture scale, colors and other creature appearances, with credits to the mod creators. Its June 2021 listing is a historical visual alternative, not a current whole-mod remodel or new mob implementation. Check exact entity texture paths and renderer variants before adapting it to modern builds."
+  },
+  {
+    "row": 108,
+    "name": "RexCraft Mods Expansion: Alex's Mobs",
+    "url": "https://www.planetminecraft.com/texture-pack/rexcraft-mods-expansion-alex-smobs/",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Creatures and Companions"
+    ],
+    "note": "FedeRex03's RexCraft-style Alex's Mobs texture addon is listed for 1.16.5 and 80% complete, with an August 2021 update. It covers selected creatures and related item textures; it is not the Alex's Mobs gameplay mod or the same project as Alex's Mobs Alternatives. Historical coverage and completeness labels do not establish present-version support."
+  },
+  {
+    "row": 109,
+    "name": "Botania Improved Flowers",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/botania-improved-flowers",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Magic and Progression"
+    ],
+    "note": "inpaladin's port adapts futurazoo and enemeez1's flower textures from older Botania lines. The listed release targets 1.14.4\u20131.16.3, with art credited to futurazoo and the author's port permission noted. That permission is not a blanket reuse grant. Keep this flower-focused ARR project distinct from Botania Revamped and other similarly named texture packs."
+  },
+  {
+    "row": 110,
+    "name": "Farmer's Delight crops 3D",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/farmers-delight-crops-3d",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Farming and Survival"
+    ],
+    "note": "Alonlystalker's pack changes six Farmer's Delight crops into 3D models. Its listed files cover historical 1.16/1.18 lanes; the addon edition explicitly adds only Corn Delight corn. Do not infer support for all Delight addons or modern versions. GPLv3 is listed, and exact asset coverage/render cost remain untested here."
   }
 ]

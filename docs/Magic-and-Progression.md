@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**272 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-20. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**273 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-20. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Compatibility Target · 2</strong></summary>
@@ -318,7 +318,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Resource Pack · 23</strong></summary>
+<summary><strong>Resource Pack · 24</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -330,6 +330,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | ★ [Attribute Icons (RPG Series)](https://modrinth.com/resourcepack/73QpzsIN) | Embedded icons for RPG combat attributes | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=9655d8bd422a8aed) |
 | [Better Leaves - Hexerei](https://www.curseforge.com/minecraft/texture-packs/better-leaves-hexerei) | Bushier Hexerei mahogany, willow and witch hazel leaves for 1.20/1.20.1. The author says Motschen’s Better Leaves is not required, although the packs can be used together. Vanilla  | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a626af2866ee2954) |
 | [Bibliophilia \| Enchanted Books](https://modrinth.com/resourcepack/bibliophilia) | Official project requires CIT Resewn or Forge CIT for 1.18–1.21.1; 1.21.2–1.21.4 is unsupported and 1.21.5 works vanilla. Author reports incompatibility with Dynamic Trims. Do not  | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=093adf8483600a78) |
+| [Botania Improved Flowers](https://www.curseforge.com/minecraft/texture-packs/botania-improved-flowers) | inpaladin's port adapts futurazoo and enemeez1's flower textures from older Botania lines. The listed release targets 1.14.4–1.16.3, with art credited to futurazoo and the author's | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0df369be5dd49881) |
 | [Botania Revamped](https://www.curseforge.com/minecraft/texture-packs/botania-revamped) | fishcute's Botania texture/model refresh requires Botania. Its listed 1.1.0 release targets 1.16–1.18, dated July 1, 2022; modern compatibility remains unverified. The description  | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=186051eb8ff9c870) |
 | ★ [Bray & Cyber's Better, Fresher 3D Books](https://modrinth.com/resourcepack/bray-cyber-3d-enchanted-books) | Unique 3D models and effects for every enchanted-book variation | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0e65703aa668b98d) |
 | [Cataclysm: Spellbooks Reimagined](https://www.curseforge.com/minecraft/texture-packs/cataclysm-spellbooks-reimagined) | Targets GUI, HUD and item icons for Cataclysm: Spellbooks, with seven described icon redesigns and separate Forge 1.20.1 / NeoForge 1.21.1 releases. The author explicitly excludes  | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=53ab644e4dd123d4) |

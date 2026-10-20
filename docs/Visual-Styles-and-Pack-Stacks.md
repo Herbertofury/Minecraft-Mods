@@ -58,7 +58,7 @@ These are historical starting ideas awaiting full exact-file review, not certifi
 
 ## Import coverage
 
-The original 17 views and all 159 master observations are preserved in the repository. One hundred and twenty-eight master observations are attached to catalogue identities: 37 exact matches to existing records and ninety-one newly reviewed identities. The remaining 31 master observations and 58 unmatched companion-view rows remain in review. 293 companion rows are attached to 119 entries; they do not inflate the unique-project or source-record totals.
+The original 17 views and all 159 master observations are preserved in the repository. One hundred and thirty-three master observations are attached to catalogue identities: 37 exact matches to existing records and ninety-six newly reviewed identities. The remaining 26 master observations and 40 unmatched companion-view rows remain in review. 311 companion rows are attached to 124 entries; they do not inflate the unique-project or source-record totals.
 
 [Preserved source views](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-source-views.json) · [Master import receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-import.json) · [Companion receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-companion-receipt.json)
 
@@ -187,3 +187,11 @@ Original scores and superlatives remain source opinions. No pack was installed, 
 [Updated Pixel Consistent Mystical Agriculture](https://www.curseforge.com/minecraft/texture-packs/updated-pixel-consistent-mystical-agriculture) is a credited 1.18.2 update of an earlier project. Keep the original author and original project separate, with crop texture scope and reported Agradditions support clearly distinguished from testing.
 
 [Mo’s Vibrancy Pack](https://www.planetminecraft.com/texture-pack/the-vibrancy-pack-1-13/) is usable without every enhanced feature, but the author lists OptiFine-specific connected textures, overlays and variants. The foliage addon is separate. Broad compatibility phrasing must not hide the explicitly stated 1.18.1 complete-support target or the age of its mod-support notes.
+
+## Follow moved crop packs and distinguish creature styles
+
+[Barebones 3D Crops](https://modrinth.com/resourcepack/barebones-3d-crops) has an explicit move notice on its actual CurseForge page. The recovered sheet used a different, broken CurseForge slug; its original text is retained, while the working project route is now primary. Keep the base Bare Bones pack and the vanilla-style Crops 3D project separate.
+
+[Farmer’s Delight crops 3D](https://www.curseforge.com/minecraft/texture-packs/farmers-delight-crops-3d) targets six crops, with only Corn Delight corn named in its addon edition. [Botania Improved Flowers](https://www.curseforge.com/minecraft/texture-packs/botania-improved-flowers) is a credited historical flower-texture port, not a full contemporary Botania overhaul. Scope, game-version lane and attribution matter as much as style.
+
+[Alex’s Mobs Alternatives](https://www.planetminecraft.com/texture-pack/alex-s-mobs-alternatives/) and [RexCraft’s Alex’s Mobs expansion](https://www.planetminecraft.com/texture-pack/rexcraft-mods-expansion-alex-smobs/) are different authors’ visual treatments for historical 1.16.5 builds. Neither adds the underlying mobs. Modern entity models, texture paths and nighttime/emissive variants need actual testing before either is included in a current stack.

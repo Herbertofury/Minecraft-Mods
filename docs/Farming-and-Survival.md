@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**138 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-20. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**140 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-20. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Content Pack · 4</strong></summary>
@@ -133,7 +133,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Resource Pack · 28</strong></summary>
+<summary><strong>Resource Pack · 30</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -141,6 +141,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [3D Crops Revamped](https://modrinth.com/resourcepack/3d-crops) | NinthWorld-derived crop/plant model refresh, distinct from Reforged and Reploughed. The author describes clearer growth stages, reduced repetition, colored stems and floating-textu | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2037d104afed5516) |
 | [Bare Bones x Farmer’s Delight](https://modrinth.com/resourcepack/bare-bones-x-farmers-delight) | Official Bare Bones compatibility resource pack for Farmer’s Delight and several Delight addons. Author-listed completion differs by addon; do not promote the whole family to fully | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=9e890ace92db3272) |
 | [Bare Bones x Lemoned (Farmer's Delight)](https://www.curseforge.com/minecraft/texture-packs/bare-bones-x-lemoned-farmers-delight) | Dezert3's trailer-style textures target Lemoned specifically. The author recommends Bare Bones and Bare Bones x Farmer's Delight alongside it. Keep this distinct from the broader F | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=637b1ef3513d9dea) |
+| [Barebones 3D Crops](https://modrinth.com/resourcepack/barebones-3d-crops) | Vexcenot's actual CurseForge listing explicitly redirects current downloads to this Modrinth project; the source sheet's CurseForge slug was incorrect. This is a Bare Bones-style c | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7942e4eb0014933e) |
 | [Better Leaves for Bare Bones x Fruit’s Delight](https://modrinth.com/resourcepack/better-leaves-for-bare-bones-x-fruits-delight) | Fruit’s Delight is required; Bare Bones, Bare Bones x Farmer’s Delight and the related Better Leaves pack are strongly recommended. The 1.20–1.20.1 listing describes leaf, flower a | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=f01604a0d60b3c14) |
 | [BnC Coaster Compat](https://modrinth.com/resourcepack/bnc-coaster-compat) | The atlas's opaque project ID u0btsBB7 redirects to BnC Coaster Compat. Its page lists Minecraft 1.20–1.20.1 and additional Brewin' and Chewin' coaster models for selected foods fr | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b4686d91cd659e02) |
 | [Brewin' And Chewin' \| Excalibur Support](https://modrinth.com/resourcepack/brewin-and-chewin-excalibur-support) | Excalibur-style blocks, items, interface and coaster-model textures for Brewin' And Chewin'. Author claims at least 97% of textures edited, which is not an independently audited co | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=87b3949cf02b711c) |
@@ -153,6 +154,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Excalibur \| My Nether's Delight Support](https://www.curseforge.com/minecraft/texture-packs/excalibur-my-nethers-delight-support) | Visual support for My Nether's Delight, which is distinct from the older Nether's Delight mod. Separate 1.20.1 v2.1 and 1.21.1 v2.2 files are listed. Intended to match Excalibur an | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=97a14bb4324ce96b) |
 | [Excalibur \| Quark Delight Support](https://modrinth.com/resourcepack/quark-delight-excalibur-support) | Excalibur-style retextures for the Quark Delight add-on, with listed 1.20–1.20.1 and 1.21–1.21.1 lanes. The author links separate Farmer’s Delight and Quark support packs; this pat | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=e4f78f17466f8373) |
 | [Farmer's Delight - Programmer Art](https://www.curseforge.com/minecraft/texture-packs/farmers-delight-programmer-art) | Classic Farmer's Delight textures from Reminiscence, uploaded by Khairiah_ with credit to original creator drbruhmoments. The listing targets 1.19.2 and 1.20.1. The uploader's perm | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=15efc038c1b36f76) |
+| [Farmer's Delight crops 3D](https://www.curseforge.com/minecraft/texture-packs/farmers-delight-crops-3d) | Alonlystalker's pack changes six Farmer's Delight crops into 3D models. Its listed files cover historical 1.16/1.18 lanes; the addon edition explicitly adds only Corn Delight corn. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=10dc822e74dbc128) |
 | [Farmer’s 3D](https://www.curseforge.com/minecraft/texture-packs/farmers-3d) | 3D food models for Farmer’s Delight, with distinct Normal and cutting-board (CB) file variants. The author lists incremental item coverage across beta releases and support spanning | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7c5faee86b0f6c9e) |
 | ★ [Fresh Food](https://modrinth.com/resourcepack/fresh-food) | 3D food models and eating animations | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7d81da12770fdffa) |
 | ★ [Fresh Seeds](https://modrinth.com/resourcepack/fresh-seeds) | 3D bundled-style seed item models inspired by Actions & Stuff | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d92306e2cb4a6781) |
