@@ -675,5 +675,46 @@
       "Interface and Accessibility"
     ],
     "note": "Primarily spell-icon and selected texture changes for Iron\u2019s Spells, with class-name icons, Spanish translations, selected staff display-scale fixes and a later sonic-boom particle change. The page lists 1.19.2 and 1.20\u20131.20.2; these claims do not establish an all-weapon 3D overhaul or functional spell changes."
+  },
+  {
+    "row": 76,
+    "name": "Mizuno\u2019s x [Let\u2019s Do] Vinery",
+    "url": "https://modrinth.com/resourcepack/mizunos-x-lets-do-vinery",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Farming and Survival"
+    ],
+    "note": "Mizuno-style texture support for Let\u2019s Do Vinery, which the author lists as required. The project lists 1.20.1 and 1.21.1. This visual layer does not add wine-making mechanics or establish compatibility with other model replacements."
+  },
+  {
+    "row": 77,
+    "name": "Mystical 3DRetextured+",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/mystical-3dretextured",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Farming and Survival",
+      "Magic and Progression"
+    ],
+    "note": "Author describes 3D crop retextures and armor changes for Mystical Agriculture. The public listing spans Minecraft 1.20 and 1.21, but exact target-file support must be checked before installation. Model replacement and armor texture coverage are separate from changing crop mechanics."
+  },
+  {
+    "row": 78,
+    "name": "Quark 3D Pack",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/quark-3d-pack",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Worlds and Exploration"
+    ],
+    "note": "Adds 3D models specifically for Quark glowshrooms and gold bars. Author lists 1.18.2, 1.19.2 and 1.20.1 and explicitly declines older backports. This is a focused model pack, not a complete Quark overhaul."
+  },
+  {
+    "row": 79,
+    "name": "Bare Bones x The Aether PBR",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/bare-bones-x-the-aether-pbr",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Worlds and Exploration"
+    ],
+    "note": "PBR overlay for Bare Bones x The Aether; the author instructs placing it above that base pack. The listing includes Minecraft 1.20 and 1.21 families, but exact file and shader/material support need qualification. It does not replace the Aether mod or prove matching Vulkan shader support."
   }
 ]

@@ -58,7 +58,7 @@ These are historical starting ideas awaiting full exact-file review, not certifi
 
 ## Import coverage
 
-The original 17 views and all 159 master observations are preserved in the repository. One hundred and three master observations are attached to catalogue identities: 37 exact matches to existing records and sixty-six newly reviewed identities. The remaining 56 master observations and 117 unmatched companion-view rows remain in review. 234 companion rows are attached to 94 entries; they do not inflate the unique-project or source-record totals.
+The original 17 views and all 159 master observations are preserved in the repository. One hundred and seven master observations are attached to catalogue identities: 37 exact matches to existing records and seventy newly reviewed identities. The remaining 52 master observations and 107 unmatched companion-view rows remain in review. 244 companion rows are attached to 98 entries; they do not inflate the unique-project or source-record totals.
 
 [Preserved source views](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-source-views.json) · [Master import receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-import.json) · [Companion receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-companion-receipt.json)
 
@@ -143,3 +143,9 @@ Original scores and superlatives remain source opinions. No pack was installed, 
 [Bare Bones BWG](https://modrinth.com/resourcepack/bare-bones-x-oh-the-biomes-weve-gone) explicitly lists only four of 25 wood types finished. [Mizuno’s Brewin’ and Chewin’ patch](https://modrinth.com/resourcepack/mizunos-x-brewin-and-chewin) is a style layer requiring its target mod. Keep completion scope and dependencies visible when comparing them.
 
 [Apotheosis BDCraft](https://www.curseforge.com/minecraft/texture-packs/apotheosis-bdcraft) is currently listed for 1.21.1; do not silently use that listing as 1.20.1 support. [Renovated Textures for Iron’s Spells](https://www.curseforge.com/minecraft/texture-packs/renovated-textures) chiefly targets icons and selected display textures. A UI improvement is not proof of an all-weapon remodel or changed spell behavior.
+
+## Botanical models and Aether material layers
+
+[Mizuno’s Vinery patch](https://modrinth.com/resourcepack/mizunos-x-lets-do-vinery) requires Vinery. [Mystical 3DRetextured+](https://www.curseforge.com/minecraft/texture-packs/mystical-3dretextured) changes crop models and armor appearance. Separate these visual scopes from gameplay changes and inspect overlapping model paths before combining packs.
+
+[Quark 3D Pack](https://www.curseforge.com/minecraft/texture-packs/quark-3d-pack) covers glowshrooms and gold bars, not the entire mod. [Bare Bones Aether PBR](https://www.curseforge.com/minecraft/texture-packs/bare-bones-x-the-aether-pbr) belongs above the base Bare Bones Aether pack. PBR appearance still depends on the selected shader/material pipeline; no Vulkan qualification is implied.

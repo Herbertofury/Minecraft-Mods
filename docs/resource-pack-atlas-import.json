@@ -4,9 +4,9 @@
   "master_rows": 159,
   "exact_existing_observations_added": 37,
   "unique_entries_enriched": 33,
-  "pending_master_observations": 56,
-  "display_entries": 2330,
-  "source_observations": 2712,
+  "pending_master_observations": 52,
+  "display_entries": 2334,
+  "source_observations": 2716,
   "favorites": 411,
   "native_promotions": 0,
   "all_prior_fields_preserved": true,
@@ -197,7 +197,7 @@
       "name": "Fresh Flowers and Plants"
     }
   ],
-  "reviewed_new_identity_observations_added": 66,
+  "reviewed_new_identity_observations_added": 70,
   "reviewed_new_identities": [
     {
       "row": 2,
@@ -528,6 +528,26 @@
       "row": 75,
       "id": "c3f461f51f9a65be",
       "name": "Renovated Textures for Iron\u2019s Spells"
+    },
+    {
+      "row": 76,
+      "id": "7f21920a32329d14",
+      "name": "Mizuno\u2019s x [Let\u2019s Do] Vinery"
+    },
+    {
+      "row": 77,
+      "id": "883a0bc9528ab7a8",
+      "name": "Mystical 3DRetextured+"
+    },
+    {
+      "row": 78,
+      "id": "082394edaec4cfab",
+      "name": "Quark 3D Pack"
+    },
+    {
+      "row": 79,
+      "id": "d10a4d2d37f0c04a",
+      "name": "Bare Bones x The Aether PBR"
     }
   ]
 }

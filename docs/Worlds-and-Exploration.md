@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**321 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**323 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-20. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Compatibility Target · 8</strong></summary>
@@ -352,12 +352,13 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Resource Pack · 24</strong></summary>
+<summary><strong>Resource Pack · 26</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
 | [Bare Bones x Oh The Biomes We’ve Gone](https://modrinth.com/resourcepack/bare-bones-x-oh-the-biomes-weve-gone) | Partial Bare Bones-style BWG support: the page lists only four of 25 wood types finished—Aspen, Baobab, Blue Enchanted and Cika. BWG is required; Bare Bones and its Better Leaves c | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=f8a2803d503befd9) |
 | [Bare Bones x The Aether](https://modrinth.com/resourcepack/bare-bones-x-the-aether) | Minecraft 1.20.1 Bare Bones-style Aether textures. The author lists The Aether, Lost Content, Enhanced Extinguishing, Treasure Reforging and Protect Your Moa. Aether Redux and Deep | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=4d8bc250e61f8b30) |
+| [Bare Bones x The Aether PBR](https://www.curseforge.com/minecraft/texture-packs/bare-bones-x-the-aether-pbr) | PBR overlay for Bare Bones x The Aether; the author instructs placing it above that base pack. The listing includes Minecraft 1.20 and 1.21 families, but exact file and shader/mate | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d10a4d2d37f0c04a) |
 | [BareBones x BetterEnd](https://modrinth.com/resourcepack/barebones-x-betterend) | Bare Bones-style BetterEnd retextures. Listings include 1.19.x, 1.20–1.20.4 and 1.21–1.21.1. The title’s broad coverage statement is an author claim; exact asset completeness again | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=01a879f0a440bcfe) |
 | [Biomes o’ Plenty 3D Flora](https://www.curseforge.com/minecraft/texture-packs/biomes-o-plenty-3d-flora) | Selected 3D models for Glowshroom, Glowworm Silk, Toadstool and Willow Vines. The author lists 1.18.2, 1.19.2 and 1.20.1 files and declines earlier backports. This is four named fl | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=14edd75508339023) |
 | [Biomes You’ll Go 3D Flora](https://www.curseforge.com/minecraft/texture-packs/biomes-youll-go-3d-flora) | Selected 3D vine and mushroom models for the Biomes You’ll Go family. The listing offers 1.19.2 and 1.20.1 files, says no backports before 1.19.2, and ties later ports to the autho | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=d8943a646b26f494) |
@@ -375,6 +376,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [More Pig Variants](https://curseforge.com/minecraft/texture-packs/more-pig-variants) | Adds a wide range of pig appearances and secret nametag skins without extra entity clutter. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=e8f688c02ddc8236) |
 | [Pig Biome Variants](https://curseforge.com/minecraft/texture-packs/pig-variants-1-22) | Backports biome-styled pig appearances across many older versions. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=890bf9a148278be3) |
 | [Prettier Sheep](https://curseforge.com/minecraft/texture-packs/prettier-sheep) | Remodels sheep and adds temperate, warm, cold and mountain-oriented forms. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a1e760e8484c7626) |
+| [Quark 3D Pack](https://www.curseforge.com/minecraft/texture-packs/quark-3d-pack) | Adds 3D models specifically for Quark glowshrooms and gold bars. Author lists 1.18.2, 1.19.2 and 1.20.1 and explicitly declines older backports. This is a focused model pack, not a | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=082394edaec4cfab) |
 | [Retextures o’ Plenty](https://www.curseforge.com/minecraft/texture-packs/retextures-o-plenty) | Official Biomes O Plenty resource pack by IcyCaeli. Author describes changes to over 300 textures and variants, currently for the base mod; addon support is planned rather than imp | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=229ec91a7d1c71c2) |
 | [Stay True](https://www.curseforge.com/minecraft/texture-packs/stay-true) | Vanilla-style visual variation pack. Author lists OptiFine for connected textures, overlays and pink birch leaves, and advises fancy leaves plus appropriate connected-texture/alter | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=8195aa5182e19ee1) |
 | [The Aether BDCraft](https://www.curseforge.com/minecraft/texture-packs/the-aether-bdcraft) | BDCraft-style Aether texture patch for the listed 1.20 lane, with 32x through 512x options. The author recommends the separate PureBDCraft base-game pack. Exact Aether build covera | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c762b53bcff5a435) |
