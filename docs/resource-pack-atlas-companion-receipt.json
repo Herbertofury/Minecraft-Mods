@@ -1,11 +1,11 @@
 {
   "date": "2026-10-19",
   "source_view_rows": 351,
-  "attached_view_rows": 284,
-  "entries_enriched": 116,
-  "pending_view_rows": 67,
-  "source_record_count_unchanged": 2734,
-  "display_entries_unchanged": 2352,
+  "attached_view_rows": 293,
+  "entries_enriched": 119,
+  "pending_view_rows": 58,
+  "source_record_count_unchanged": 2737,
+  "display_entries_unchanged": 2355,
   "native_promotions": 0,
   "attached": [
     {
@@ -1711,6 +1711,60 @@
       "master_row": 99,
       "sheet": "Legacy Asset Mines",
       "row": 6
+    },
+    {
+      "id": "30e99ef4db7d91de",
+      "master_row": 103,
+      "sheet": "Flowers & Botany",
+      "row": 52
+    },
+    {
+      "id": "cfe59fa40350441b",
+      "master_row": 104,
+      "sheet": "Flowers & Botany",
+      "row": 53
+    },
+    {
+      "id": "cfe59fa40350441b",
+      "master_row": 104,
+      "sheet": "Tech & Create",
+      "row": 14
+    },
+    {
+      "id": "a4e0c519c096fec2",
+      "master_row": 102,
+      "sheet": "Conversion Queue",
+      "row": 26
+    },
+    {
+      "id": "30e99ef4db7d91de",
+      "master_row": 103,
+      "sheet": "Conversion Queue",
+      "row": 27
+    },
+    {
+      "id": "cfe59fa40350441b",
+      "master_row": 104,
+      "sheet": "Conversion Queue",
+      "row": 28
+    },
+    {
+      "id": "a4e0c519c096fec2",
+      "master_row": 102,
+      "sheet": "Legacy Asset Mines",
+      "row": 7
+    },
+    {
+      "id": "30e99ef4db7d91de",
+      "master_row": 103,
+      "sheet": "Legacy Asset Mines",
+      "row": 8
+    },
+    {
+      "id": "cfe59fa40350441b",
+      "master_row": 104,
+      "sheet": "Legacy Asset Mines",
+      "row": 9
     }
   ],
   "pending": [
@@ -1735,30 +1789,6 @@
         "B": "Bare Bones 3D Crops",
         "C": "Simple pack-format/model conversion",
         "D": "https://www.curseforge.com/minecraft/texture-packs/barebones-3d-crops"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Flowers & Botany",
-      "row": 52,
-      "name": "Updated Pixel Consistent Mystical Agriculture",
-      "fields": {
-        "A": "102.0",
-        "B": "Updated Pixel Consistent Mystical Agriculture",
-        "C": "Mod-version asset port",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/updated-pixel-consistent-mystical-agriculture"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Flowers & Botany",
-      "row": 53,
-      "name": "Mo's Vibrancy Pack",
-      "fields": {
-        "A": "103.0",
-        "B": "Mo's Vibrancy Pack",
-        "C": "Mod-version asset port",
-        "D": "https://www.planetminecraft.com/texture-pack/the-vibrancy-pack-1-13/"
       },
       "matches": []
     },
@@ -2069,18 +2099,6 @@
       "matches": []
     },
     {
-      "sheet": "Tech & Create",
-      "row": 14,
-      "name": "Mo's Vibrancy Pack",
-      "fields": {
-        "A": "103.0",
-        "B": "Mo's Vibrancy Pack",
-        "C": "Mod-version asset port",
-        "D": "https://www.planetminecraft.com/texture-pack/the-vibrancy-pack-1-13/"
-      },
-      "matches": []
-    },
-    {
       "sheet": "Style Ecosystems",
       "row": 45,
       "name": "Bare Bones 3D Crops",
@@ -2303,42 +2321,6 @@
     },
     {
       "sheet": "Conversion Queue",
-      "row": 26,
-      "name": "Unity",
-      "fields": {
-        "A": "101.0",
-        "B": "Unity",
-        "C": "Mod-version asset port",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/unity"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Conversion Queue",
-      "row": 27,
-      "name": "Updated Pixel Consistent Mystical Agriculture",
-      "fields": {
-        "A": "102.0",
-        "B": "Updated Pixel Consistent Mystical Agriculture",
-        "C": "Mod-version asset port",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/updated-pixel-consistent-mystical-agriculture"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Conversion Queue",
-      "row": 28,
-      "name": "Mo's Vibrancy Pack",
-      "fields": {
-        "A": "103.0",
-        "B": "Mo's Vibrancy Pack",
-        "C": "Mod-version asset port",
-        "D": "https://www.planetminecraft.com/texture-pack/the-vibrancy-pack-1-13/"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Conversion Queue",
       "row": 29,
       "name": "Alex's Mobs Alternatives",
       "fields": {
@@ -2418,42 +2400,6 @@
         "B": "Iron\u2019s Botany \u2014 dedicated texture pack gap",
         "C": "Custom pack required",
         "D": "https://www.curseforge.com/minecraft/mc-mods/irons-botany"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Legacy Asset Mines",
-      "row": 7,
-      "name": "Unity",
-      "fields": {
-        "A": "101.0",
-        "B": "Unity",
-        "C": "Mod-version asset port",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/unity"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Legacy Asset Mines",
-      "row": 8,
-      "name": "Updated Pixel Consistent Mystical Agriculture",
-      "fields": {
-        "A": "102.0",
-        "B": "Updated Pixel Consistent Mystical Agriculture",
-        "C": "Mod-version asset port",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/updated-pixel-consistent-mystical-agriculture"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Legacy Asset Mines",
-      "row": 9,
-      "name": "Mo's Vibrancy Pack",
-      "fields": {
-        "A": "103.0",
-        "B": "Mo's Vibrancy Pack",
-        "C": "Mod-version asset port",
-        "D": "https://www.planetminecraft.com/texture-pack/the-vibrancy-pack-1-13/"
       },
       "matches": []
     },

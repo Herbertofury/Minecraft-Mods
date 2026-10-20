@@ -58,7 +58,7 @@ These are historical starting ideas awaiting full exact-file review, not certifi
 
 ## Import coverage
 
-The original 17 views and all 159 master observations are preserved in the repository. One hundred and twenty-five master observations are attached to catalogue identities: 37 exact matches to existing records and eighty-eight newly reviewed identities. The remaining 34 master observations and 67 unmatched companion-view rows remain in review. 284 companion rows are attached to 116 entries; they do not inflate the unique-project or source-record totals.
+The original 17 views and all 159 master observations are preserved in the repository. One hundred and twenty-eight master observations are attached to catalogue identities: 37 exact matches to existing records and ninety-one newly reviewed identities. The remaining 31 master observations and 58 unmatched companion-view rows remain in review. 293 companion rows are attached to 119 entries; they do not inflate the unique-project or source-record totals.
 
 [Preserved source views](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-source-views.json) · [Master import receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-import.json) · [Companion receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-companion-receipt.json)
 
@@ -179,3 +179,11 @@ Original scores and superlatives remain source opinions. No pack was installed, 
 [Malumified Iron’s Runes](https://www.curseforge.com/minecraft/texture-packs/malumified-irons-runes) changes Iron’s Spells rune visuals toward Malum’s style. Its listing targets 1.21.1, not verified 1.20.1 support. The author permits credited modpack use alongside ARR metadata; preserve that scope instead of assuming unrestricted reuse.
 
 [Botania Revamped](https://www.curseforge.com/minecraft/texture-packs/botania-revamped) is a legacy item-texture and held-model refresh for the listed 1.16–1.18 line. It requires Botania and credits retained original assets. Its block-texture overhaul is not presented as complete. Keep the separate Legacy project distinct and test any modern port rather than treating old asset paths as current compatibility.
+
+## Base packs, ports and feature dependencies
+
+[Unity](https://www.curseforge.com/minecraft/texture-packs/unity) separates base textures from its modded, shader-map and enhanced-feature packs. Its listed 1.19.4 base does not establish modern-version support. Choose the intended components rather than treating the shared brand as a single universal download.
+
+[Updated Pixel Consistent Mystical Agriculture](https://www.curseforge.com/minecraft/texture-packs/updated-pixel-consistent-mystical-agriculture) is a credited 1.18.2 update of an earlier project. Keep the original author and original project separate, with crop texture scope and reported Agradditions support clearly distinguished from testing.
+
+[Mo’s Vibrancy Pack](https://www.planetminecraft.com/texture-pack/the-vibrancy-pack-1-13/) is usable without every enhanced feature, but the author lists OptiFine-specific connected textures, overlays and variants. The foliage addon is separate. Broad compatibility phrasing must not hide the explicitly stated 1.18.1 complete-support target or the age of its mod-support notes.

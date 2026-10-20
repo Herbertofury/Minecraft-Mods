@@ -4,9 +4,9 @@
   "master_rows": 159,
   "exact_existing_observations_added": 37,
   "unique_entries_enriched": 33,
-  "pending_master_observations": 34,
-  "display_entries": 2352,
-  "source_observations": 2734,
+  "pending_master_observations": 31,
+  "display_entries": 2355,
+  "source_observations": 2737,
   "favorites": 411,
   "native_promotions": 0,
   "all_prior_fields_preserved": true,
@@ -197,7 +197,7 @@
       "name": "Fresh Flowers and Plants"
     }
   ],
-  "reviewed_new_identity_observations_added": 88,
+  "reviewed_new_identity_observations_added": 91,
   "reviewed_new_identities": [
     {
       "row": 2,
@@ -638,6 +638,21 @@
       "row": 99,
       "id": "186051eb8ff9c870",
       "name": "Botania Revamped"
+    },
+    {
+      "row": 102,
+      "id": "a4e0c519c096fec2",
+      "name": "Unity"
+    },
+    {
+      "row": 103,
+      "id": "30e99ef4db7d91de",
+      "name": "Updated Pixel Consistent Mystical Agriculture"
+    },
+    {
+      "row": 104,
+      "id": "cfe59fa40350441b",
+      "name": "Mo's Vibrancy Pack"
     }
   ]
 }

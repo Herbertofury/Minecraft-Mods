@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**326 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-20. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**327 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-20. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Compatibility Target · 8</strong></summary>
@@ -352,7 +352,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Resource Pack · 29</strong></summary>
+<summary><strong>Resource Pack · 30</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -373,6 +373,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Js_Leaves+ for Regions Unexplored](https://modrinth.com/resourcepack/js_leaves+-for-regions-unexplored) | Volumetric leaf-model replacement for Regions Unexplored, listed for 1.20.x and 1.21–1.21.1. This is a foliage presentation pack; the page does not establish complete plant coverag | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=6165c272f02d6d8f) |
 | [Just Oh The Biomes We’ve Gone](https://modrinth.com/resourcepack/just-oh-the-biomes-weve-gone) | Vanilla-like BWG retexture for the listed 1.20–1.20.1 lane, illustrated with Skywood, Rainbow Wood and stone examples. Treat it as a distinct visual option from Whimscape and other | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=cc3fecbe4ad52829) |
 | [Mizuno’s x \[Let’s Do\] Meadow](https://www.curseforge.com/minecraft/texture-packs/mizunos-x-lets-do-meadow) | Mizuno-style visual compatibility layer for \[Let's Do\] Meadow; the author explicitly requires Meadow. The listed 1.1 archive targets 1.21.1, with other version listings separate. V | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=84e4959d362c37b5) |
+| [Mo's Vibrancy Pack](https://www.planetminecraft.com/texture-pack/the-vibrancy-pack-1-13/) | mo_shark's pack changes colormaps, water, terrain, selected interface elements and variants. The page's broad 1.13+ claim is narrowed by its explicit complete-support statement for | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=cfe59fa40350441b) |
 | [Mooblooms+](https://curseforge.com/minecraft/texture-packs/mooblooms) | A small but dedicated Moobloom-variant resource pack for 1.20-era flower-biome diversity. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=ae61250b20479ab0) |
 | [More Chicken Variants](https://curseforge.com/minecraft/texture-packs/more-chicken-variants) | Strong 1.20.1 chicken companion to More Cow Variants, including Amber, Bronzed, Fancy, Midnight, Skewbald, Stormy and secret Cluckshroom. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=bc241dc42f76006c) |
 | [More Cow Variants](https://curseforge.com/minecraft/texture-packs/more-cow-variants) | Strong 1.20.1 visual cow pack: Earth/Dungeons breeds spawn randomly and nametags expose Moobloom, Moolip and other secrets. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=9bb928d0a91ac14d) |

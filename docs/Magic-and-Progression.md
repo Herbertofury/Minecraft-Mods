@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**271 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-20. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**272 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-20. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Compatibility Target · 2</strong></summary>
@@ -318,7 +318,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Resource Pack · 22</strong></summary>
+<summary><strong>Resource Pack · 23</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -344,6 +344,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Re: Botania Pack](https://www.curseforge.com/minecraft/texture-packs/re-botania-pack) | Retextures Botania quartz, Dreamwood and Livingrock-themed content to align their materials and visual style. Author lists texture support for Mythic Botany, Botanic Additions and  | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=996a651862c011f9) |
 | [Re: Nature’s Aura Pack](https://www.curseforge.com/minecraft/texture-packs/re-natures-aura-pack) | Nature’s Aura ingot, block and token texture refresh listed for Minecraft 1.20/1.20.1. Treat the project as a visual resource layer, not an aura-system rework; exact overwritten pa | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2e52143e06e0efef) |
 | [Renovated Textures for Iron’s Spells](https://www.curseforge.com/minecraft/texture-packs/renovated-textures) | Primarily spell-icon and selected texture changes for Iron’s Spells, with class-name icons, Spanish translations, selected staff display-scale fixes and a later sonic-boom particle | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c3f461f51f9a65be) |
+| [Updated Pixel Consistent Mystical Agriculture](https://www.curseforge.com/minecraft/texture-packs/updated-pixel-consistent-mystical-agriculture) | Jaimarl's 1.18.2 listing credits DaariuszS as original author and changes Mystical Agriculture crop textures from 32x32 to 16x16. It reports Mystical Agradditions compatibility; th | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=30e99ef4db7d91de) |
 
 </details>
 

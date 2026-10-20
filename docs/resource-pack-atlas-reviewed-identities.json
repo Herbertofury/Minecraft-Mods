@@ -900,5 +900,36 @@
       "Magic and Progression"
     ],
     "note": "fishcute's Botania texture/model refresh requires Botania. Its listed 1.1.0 release targets 1.16\u20131.18, dated July 1, 2022; modern compatibility remains unverified. The description covers item textures and held-model changes, not a completed block-texture overhaul. It credits original Botania assets to Violet Moon and permits modpack use despite ARR metadata. Keep the separate Botania Revamped Legacy project distinct."
+  },
+  {
+    "row": 102,
+    "name": "Unity",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/unity",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Building and Decoration"
+    ],
+    "note": "theCyanideX's Unity base pack uses natural colors and block variation. Since its 1.14.4 generation the ecosystem separates vanilla base, mod support, shader maps and OptiFine extras; those are not all bundled here. The latest listed base is 2.5.0 for 1.19.4 (June 2023). Keep Unity: Modded, PBR and Dark Edition distinct; newer runtime support remains untested. Custom license listed."
+  },
+  {
+    "row": 103,
+    "name": "Updated Pixel Consistent Mystical Agriculture",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/updated-pixel-consistent-mystical-agriculture",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Farming and Survival",
+      "Magic and Progression"
+    ],
+    "note": "Jaimarl's 1.18.2 listing credits DaariuszS as original author and changes Mystical Agriculture crop textures from 32x32 to 16x16. It reports Mystical Agradditions compatibility; this has not been retested here. The February 2023 file is not proof of current-version support. Preserve the original project's separate identity and attribution, and review the ARR metadata alongside the description's credited-port wording before reuse."
+  },
+  {
+    "row": 104,
+    "name": "Mo's Vibrancy Pack",
+    "url": "https://www.planetminecraft.com/texture-pack/the-vibrancy-pack-1-13/",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Worlds and Exploration"
+    ],
+    "note": "mo_shark's pack changes colormaps, water, terrain, selected interface elements and variants. The page's broad 1.13+ claim is narrowed by its explicit complete-support statement for 1.18.1. OptiFine is optional for the base but required by the author for listed connected/overlay textures, husky and enchantment variants. Improved Leaves & Foliage is a separate recommended addon. Historical mod-support notes are not current native compatibility proof."
   }
 ]
