@@ -110,7 +110,7 @@ These are historical starting ideas awaiting full exact-file review, not certifi
 
 ## Import coverage
 
-The original 17 views and all 159 master observations are preserved in the repository. One hundred and thirty-eight master observations are attached to catalogue identities: 37 exact matches to existing records and one hundred and one newly reviewed identities. The remaining 21 master observations and 31 unmatched companion-view rows remain in review. 320 companion rows are attached to 129 entries; they do not inflate the unique-project or source-record totals.
+The original 17 views and all 159 master observations are preserved in the repository. One hundred and forty-four master observations are attached to catalogue identities: 37 exact matches to existing records and one hundred and seven newly reviewed identities. The remaining 15 master observations and 19 unmatched companion-view rows remain in review. 332 companion rows are attached to 135 entries; they do not inflate the unique-project or source-record totals.
 
 [Preserved source views](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-source-views.json) · [Master import receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-import.json) · [Companion receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-companion-receipt.json)
 
@@ -168,11 +168,15 @@ Original scores and superlatives remain source opinions. No pack was installed, 
 
 ## Optional foliage layers and technical texture patches
 
+[rainbow’s foliage: polytone](https://www.curseforge.com/minecraft/texture-packs/rainbows-foliage) is separate from the vanilla edition and uses Polytone features for its broader plant coverage. The author’s no-added-geometry explanation is not an FPS benchmark, and packs replacing leaf models/blockstates need separate reconciliation. [Fantastic Flora](https://www.curseforge.com/minecraft/texture-packs/fantastic-flora) is a focused plant-appearance option with distinct modern/backport files, not new world generation.
+
 [Xali’s Regions Unexplored add-on](https://modrinth.com/resourcepack/xalis-bushy-leaves-ru-addon) distinguishes its core foliage changes from optional ambient-occlusion and BetterNether/BetterEnd expansions. Follow the author’s illustrated pack order rather than treating every expansion as automatically included. [Bare Bones × Fruit’s Delight leaves](https://modrinth.com/resourcepack/better-leaves-for-bare-bones-x-fruits-delight) requires Fruit’s Delight, while its related style packs are recommendations; cherry foliage is outside the listed coverage.
 
 [The Aether BDCraft](https://www.curseforge.com/minecraft/texture-packs/the-aether-bdcraft) and [AE2 BDCraft](https://www.curseforge.com/minecraft/texture-packs/applied-energistics-2-bdcraft) are separate appearance patches with selectable texture resolutions. They neither port their target mods to another loader nor implement gameplay interoperability.
 
 ## GUI changes versus world-model changes
+
+[TheSalt’s Text Effects](https://modrinth.com/resourcepack/thesalts-text-effects) explicitly conflicts with other packs owning the rendertype_text core shader. Color-mapped animation needs readability and renderer tests, not just a successful resource reload. [The shield-and-totem axolotl overlay](https://modrinth.com/resourcepack/animated-3d-axolotl-bucket-for-totem-and-shield) is a distinct modern-version pack with separate toggles and GUI choices; do not merge it with the older held-totem-only variants.
 
 [Kenui’s Default](https://modrinth.com/resourcepack/kenuis-default) includes interface, font and item/block appearance changes, with author-recommended visual helpers. [FireDragon’s Custom Models](https://modrinth.com/resourcepack/firedragons-custom-models) separates vanilla-capable item appearances from mod-dependent mobs, armor, elytra and sounds. Its modern version lane must not be assumed to cover Forge 1.20.1.
 
@@ -221,6 +225,8 @@ Original scores and superlatives remain source opinions. No pack was installed, 
 [BetterVanillaBuilding](https://www.curseforge.com/minecraft/texture-packs/bettervanillabuilding) now separates some older custom-item/block features into spinoffs. [Faithful 32x](https://www.curseforge.com/minecraft/texture-packs/faithful-32x) emphasizes consistent higher-resolution textures; it is not automatically a shader, 3D-model pack or universal mod patch. [Mizuno’s Meadow layer](https://www.curseforge.com/minecraft/texture-packs/mizunos-x-lets-do-meadow) targets the actual Meadow mod rather than adding its gameplay. Preserve historical sheet notes, but verify these current distinctions before building a pack stack.
 
 ## Mod-specific visual layers and their limits
+
+[Human Era’s Java pack](https://www.curseforge.com/minecraft/texture-packs/human-era-villagers-illagers) has a detailed optional Fresh Animations/micropack stack and recommends ETF/EMF for modded entity compatibility. [Stupendous Visuals](https://modrinth.com/resourcepack/stupendous-visuals) requires Polytone, ETF and EMF, and explicitly defines listed compatibility as partial coverage rather than a complete retexture. Its Embeddium workaround is an author suggestion to test, not an automatically applied setting or measured performance improvement.
 
 [Ars Nouveau Brass-ified](https://www.curseforge.com/minecraft/texture-packs/ars-nouveau-brass-ified-create-style-anbics) coordinates Ars gold trim with Create-style brass. It does not itself add machine or spell interactions. [Immersive Interfaces for Farmer’s Delight](https://modrinth.com/resourcepack/immersive-interfaces-farmers-delight) changes interface presentation; verify the exact pack file and installed mod screen layout rather than inferring universal support from broad project labels.
 

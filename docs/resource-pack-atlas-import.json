@@ -4,9 +4,9 @@
   "master_rows": 159,
   "exact_existing_observations_added": 37,
   "unique_entries_enriched": 33,
-  "pending_master_observations": 21,
-  "display_entries": 2365,
-  "source_observations": 2747,
+  "pending_master_observations": 15,
+  "display_entries": 2371,
+  "source_observations": 2753,
   "favorites": 411,
   "native_promotions": 0,
   "all_prior_fields_preserved": true,
@@ -197,7 +197,7 @@
       "name": "Fresh Flowers and Plants"
     }
   ],
-  "reviewed_new_identity_observations_added": 101,
+  "reviewed_new_identity_observations_added": 107,
   "reviewed_new_identities": [
     {
       "row": 2,
@@ -703,6 +703,36 @@
       "row": 141,
       "id": "f5634e67f24abb56",
       "name": "Animated Pufferfish Totem"
+    },
+    {
+      "row": 142,
+      "id": "b65dd74574e82cd2",
+      "name": "Animated 3D Axolotl bucket for Totem and Shield"
+    },
+    {
+      "row": 143,
+      "id": "0ceb97c62c1ba6e3",
+      "name": "TheSalt's Text Effects"
+    },
+    {
+      "row": 144,
+      "id": "f58400d50b09f909",
+      "name": "Human Era: Villagers & Illagers X Fresh Animations (Java)"
+    },
+    {
+      "row": 145,
+      "id": "30fa7f5f503d1b83",
+      "name": "rainbow's foliage: polytone"
+    },
+    {
+      "row": 146,
+      "id": "6a42c87244962e8a",
+      "name": "Fantastic Flora"
+    },
+    {
+      "row": 148,
+      "id": "5f9e118310c3fa63",
+      "name": "Stupendous Visuals"
     }
   ]
 }

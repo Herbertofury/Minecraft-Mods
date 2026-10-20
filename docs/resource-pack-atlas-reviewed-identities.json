@@ -1037,5 +1037,67 @@
       "Interface and Accessibility"
     ],
     "note": "A distinct Refined Buckets and Punchy addon presenting the held Totem of Undying as an animated pufferfish bucket. Its gallery caption distinguishes the vanilla inventory icon from the held appearance. Do not confuse it with the axolotl variant or infer changed totem gameplay. MIT listed; choose the exact matching release and test animation interactions rather than treating broad version labels as native qualification."
+  },
+  {
+    "row": 142,
+    "name": "Animated 3D Axolotl bucket for Totem and Shield",
+    "url": "https://modrinth.com/resourcepack/animated-3d-axolotl-bucket-for-totem-and-shield",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Interface and Accessibility"
+    ],
+    "note": "A separate modern-version overlay for both shield and totem, using Refined Buckets and Punchy. It offers independent replacements, axolotl colors and GUI choices through Respackopts/LibJF; without that settings layer the author says defaults are used. Place above Refined Buckets. The page explicitly says normal shield/totem behavior is retained. Its listed 26.2/26.3 lane is not evidence of 1.20.1 support; ARR listed."
+  },
+  {
+    "row": 143,
+    "name": "TheSalt's Text Effects",
+    "url": "https://modrinth.com/resourcepack/thesalts-text-effects",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Interface and Accessibility",
+      "Tools and Development"
+    ],
+    "note": "Configurable text animation through color-to-effect mappings in a core text shader, for title/tellraw-style text components. The author explicitly warns that other packs using rendertype_text are incompatible. MIT listed. Treat font/readability, motion accessibility and renderer/version compatibility as separate tests; the catalogue does not install shader changes or alter user settings."
+  },
+  {
+    "row": 144,
+    "name": "Human Era: Villagers & Illagers X Fresh Animations (Java)",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/human-era-villagers-illagers",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Creatures and Companions"
+    ],
+    "note": "CmdrMCNuggets's Java human-style villager/illager and related-entity visual pack. The author recommends ETF/EMF rather than OptiFine for modded entity compatibility and provides a detailed optional micropack/Fresh Animations stack. Fresh Animations is optional, not automatically bundled by the title. Pin exact files and model owners; broad compatibility lists and gallery screenshots do not certify every mod combination. Review the specific Creative Commons license terms before reuse."
+  },
+  {
+    "row": 145,
+    "name": "rainbow's foliage: polytone",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/rainbows-foliage",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Worlds and Exploration"
+    ],
+    "note": "The Polytone edition requires Polytone and affects more vegetation than the separate leaf-only vanilla edition. The author describes leaf variation without added geometry and reduced model/blockstate duplication, not a measured FPS result. Retexture compatibility does not extend automatically to packs replacing leaf models or blockstates. Match the edition, exact version and overriding resources before testing."
+  },
+  {
+    "row": 146,
+    "name": "Fantastic Flora",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/fantastic-flora",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Worlds and Exploration"
+    ],
+    "note": "careeoki's focused flower and plant appearance refresh includes reshaped/recolored flowers and glow-lichen contrast changes. The release list distinguishes the modern 1.3 file and a beta backport; exact supported version should come from the chosen file rather than a broad page label. CC BY-NC-SA 4.0 is listed. This is not a worldgen or new-flower gameplay mod."
+  },
+  {
+    "row": 148,
+    "name": "Stupendous Visuals",
+    "url": "https://modrinth.com/resourcepack/stupendous-visuals",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Creatures and Companions",
+      "Worlds and Exploration"
+    ],
+    "note": "Vibrant visual pack focused mainly on 1.20.1 mod ecosystems; its author requires Polytone, ETF and EMF. The long supported-mod list explicitly means some coverage, not complete retexturing. The page mentions removed older files and an Embeddium biome-mixin workaround; preserve exact archives and benchmark any settings change separately rather than applying it blindly. ARR listed; no renderer or native performance qualification is implied."
   }
 ]

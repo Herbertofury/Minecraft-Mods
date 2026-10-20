@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**620 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-20. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**622 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-20. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Content Pack · 30</strong></summary>
@@ -617,7 +617,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Resource Pack · 48</strong></summary>
+<summary><strong>Resource Pack · 50</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -644,6 +644,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Fresh Animations: Extensions](https://curseforge.com/minecraft/texture-packs/fresh-animations-extensions) | OPTIONAL VISUAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=076954de35fe4f42) |
 | [Fresh Mowzie's Mobs textures](https://modrinth.com/resourcepack/fresh-mowzies-mobs-textures) | Texture refresh for Minecraft 1.20–1.20.1: the page lists Frostmaw, Foliaath and baby, both Grottol variants, Naga, Ferrous Wroughtnaut and Lantern. More coverage is planned. The n | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=5af57ea7f308548e) |
 | [Golden Age Textures](https://curseforge.com/minecraft-bedrock/texture-packs/golden-age-textures) | BEDROCK ONLY / OPTIONAL / CLIENT-SAFE / WORLD-SAFE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b7bcec948155d729) |
+| [Human Era: Villagers & Illagers X Fresh Animations (Java)](https://www.curseforge.com/minecraft/texture-packs/human-era-villagers-illagers) | CmdrMCNuggets's Java human-style villager/illager and related-entity visual pack. The author recommends ETF/EMF rather than OptiFine for modded entity compatibility and provides a  | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=f58400d50b09f909) |
 | [Menagerie: Earth Mob Variants and More!](https://herbertofury.github.io/Minecraft-Mods/?id=005237af8fa7e13d) | Excellent data-driven Java restoration of Minecraft Earth/franchise variants with biome spawning and many farm-animal breeds. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=005237af8fa7e13d) |
 | [Minecraft Earth Cows (Bedrock)](https://curseforge.com/minecraft-bedrock/texture-packs/minecraft-earth-cows) | Dedicated Bedrock cow pack with Albino, Magma, Cookie, Wooly, Pinto, Ashen, Moobloom, Moolip and more via nametags. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2464821286703f4c) |
 | [Minecraft Earth Cows (Java)](https://modrinth.com/resourcepack/minecraft-earth-cows) | Dedicated Java pack placing every Minecraft Earth cow breed into biome-based spawn pools, including rare Albino/Umbral and Moobloom/Moolip. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=52d9d67efbf65076) |
@@ -668,6 +669,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Prettier Sheep](https://curseforge.com/minecraft/texture-packs/prettier-sheep) | Remodels sheep and adds temperate, warm, cold and mountain-oriented forms. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a1e760e8484c7626) |
 | [Rebearth Remastered](https://curseforge.com/minecraft/texture-packs/rebearth-remastered) | One of the most complete Minecraft Earth visual restorations: farm breeds, Moobloom/Moolip, rabbits, llamas, hostiles, golems and more. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=5c40d12c0cccc3cb) |
 | [RexCraft Mods Expansion: Alex's Mobs](https://www.planetminecraft.com/texture-pack/rexcraft-mods-expansion-alex-smobs/) | FedeRex03's RexCraft-style Alex's Mobs texture addon is listed for 1.16.5 and 80% complete, with an August 2021 update. It covers selected creatures and related item textures; it i | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=635a094be8338014) |
+| [Stupendous Visuals](https://modrinth.com/resourcepack/stupendous-visuals) | Vibrant visual pack focused mainly on 1.20.1 mod ecosystems; its author requires Polytone, ETF and EMF. The long supported-mod list explicitly means some coverage, not complete ret | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=5f9e118310c3fa63) |
 | [The FAYE Pet Furniture Set \| CIT](https://herbertofury.github.io/Minecraft-Mods/?id=7393344c4453b6f4) | INSTALL / OPTIONAL VISUAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7393344c4453b6f4) |
 
 </details>

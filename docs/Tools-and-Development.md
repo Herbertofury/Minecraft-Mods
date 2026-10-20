@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**215 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-19. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**216 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-20. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Discovery · 39</strong></summary>
@@ -222,12 +222,13 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Resource Pack · 2</strong></summary>
+<summary><strong>Resource Pack · 3</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
 | [\[Bedrock\] Human Player Mobs](https://curseforge.com/minecraft-bedrock/texture-packs/human-player-mobs-bedrock-port) | BEDROCK VISUAL / CLIENT-SAFE / TEST CURRENT STABLE | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=89c1d488fc13b448) |
 | [PitonixRex Monster Girl Collection](https://herbertofury.github.io/Minecraft-Mods/?id=9cd8ca98a03ac0a0) | OPTIONAL VISUAL / LEGACY GOLD | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=9cd8ca98a03ac0a0) |
+| [TheSalt's Text Effects](https://modrinth.com/resourcepack/thesalts-text-effects) | Configurable text animation through color-to-effect mappings in a core text shader, for title/tellraw-style text components. The author explicitly warns that other packs using rend | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=0ceb97c62c1ba6e3) |
 
 </details>
 
