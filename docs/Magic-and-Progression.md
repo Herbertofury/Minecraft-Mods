@@ -4,7 +4,7 @@
 
 Grouped by gameplay purpose and entry type. Generic install warnings do not determine categories. Imported claims, owner-selected compatibility targets and actual-file studies remain distinct; none is automatically a native compatibility certification.
 
-**266 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-20. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**268 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-20. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Compatibility Target · 2</strong></summary>
@@ -318,7 +318,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Resource Pack · 17</strong></summary>
+<summary><strong>Resource Pack · 19</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -338,6 +338,8 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Iron’s Spells ’n Spellbooks Reimagined](https://www.curseforge.com/minecraft/texture-packs/irons-spells-n-spellbooks-reimagined) | Visual weapon/staff models and selected GUI icons, including some animated inventory previews. The author says OptiFine is not required. Forge 1.20.1 and NeoForge 1.21.1 have separ | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=865a0fbf2def3bea) |
 | [Mystical 3DRetextured+](https://www.curseforge.com/minecraft/texture-packs/mystical-3dretextured) | Author describes 3D crop retextures and armor changes for Mystical Agriculture. The public listing spans Minecraft 1.20 and 1.21, but exact target-file support must be checked befo | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=883a0bc9528ab7a8) |
 | [Pinnacle (for Apotheosis)](https://www.curseforge.com/minecraft/texture-packs/pinnacle) | Apotheosis-only visual refresh; requires Apotheosis to have an effect. Page lists a 1.20.1 3.0.0.5 backport and a separate 1.21.1 3.0.0 release, while the author states ongoing foc | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=b95da1f7f5ae00f0) |
+| [Re: Botania Pack](https://www.curseforge.com/minecraft/texture-packs/re-botania-pack) | Retextures Botania quartz, Dreamwood and Livingrock-themed content to align their materials and visual style. Author lists texture support for Mythic Botany, Botanic Additions and  | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=996a651862c011f9) |
+| [Re: Nature’s Aura Pack](https://www.curseforge.com/minecraft/texture-packs/re-natures-aura-pack) | Nature’s Aura ingot, block and token texture refresh listed for Minecraft 1.20/1.20.1. Treat the project as a visual resource layer, not an aura-system rework; exact overwritten pa | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2e52143e06e0efef) |
 | [Renovated Textures for Iron’s Spells](https://www.curseforge.com/minecraft/texture-packs/renovated-textures) | Primarily spell-icon and selected texture changes for Iron’s Spells, with class-name icons, Spanish translations, selected staff display-scale fixes and a later sonic-boom particle | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=c3f461f51f9a65be) |
 
 </details>

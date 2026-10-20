@@ -58,7 +58,7 @@ These are historical starting ideas awaiting full exact-file review, not certifi
 
 ## Import coverage
 
-The original 17 views and all 159 master observations are preserved in the repository. One hundred and seven master observations are attached to catalogue identities: 37 exact matches to existing records and seventy newly reviewed identities. The remaining 52 master observations and 107 unmatched companion-view rows remain in review. 244 companion rows are attached to 98 entries; they do not inflate the unique-project or source-record totals.
+The original 17 views and all 159 master observations are preserved in the repository. One hundred and eleven master observations are attached to catalogue identities: 37 exact matches to existing records and seventy-four newly reviewed identities. The remaining 48 master observations and 99 unmatched companion-view rows remain in review. 252 companion rows are attached to 102 entries; they do not inflate the unique-project or source-record totals.
 
 [Preserved source views](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-source-views.json) · [Master import receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-import.json) · [Companion receipt](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-companion-receipt.json)
 
@@ -149,3 +149,9 @@ Original scores and superlatives remain source opinions. No pack was installed, 
 [Mizuno’s Vinery patch](https://modrinth.com/resourcepack/mizunos-x-lets-do-vinery) requires Vinery. [Mystical 3DRetextured+](https://www.curseforge.com/minecraft/texture-packs/mystical-3dretextured) changes crop models and armor appearance. Separate these visual scopes from gameplay changes and inspect overlapping model paths before combining packs.
 
 [Quark 3D Pack](https://www.curseforge.com/minecraft/texture-packs/quark-3d-pack) covers glowshrooms and gold bars, not the entire mod. [Bare Bones Aether PBR](https://www.curseforge.com/minecraft/texture-packs/bare-bones-x-the-aether-pbr) belongs above the base Bare Bones Aether pack. PBR appearance still depends on the selected shader/material pipeline; no Vulkan qualification is implied.
+
+## Material consistency across magic and technology
+
+[Re: Botania](https://www.curseforge.com/minecraft/texture-packs/re-botania-pack) aligns quartz, Dreamwood and Livingrock textures and lists selected addon coverage. [Re: Nature’s Aura](https://www.curseforge.com/minecraft/texture-packs/re-natures-aura-pack) refreshes ingots, blocks and tokens. These are visual integrations; do not promote them into gameplay-compatibility claims.
+
+[Mekanism Additions BDCraft](https://www.curseforge.com/minecraft/texture-packs/mekanism-additions-bdcraft) targets the Additions module specifically, with multiple resolution options. [JS Leaves+ BOP](https://www.curseforge.com/minecraft/texture-packs/js-leaves-for-biomes-o-plenty) adds model volume, while its shader-assisted gallery images include lighting outside the resource pack itself. Compare exact paths, dependencies and rendering costs rather than assuming similar screenshots imply identical pack requirements.

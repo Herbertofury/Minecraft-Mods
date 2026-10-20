@@ -716,5 +716,45 @@
       "Worlds and Exploration"
     ],
     "note": "PBR overlay for Bare Bones x The Aether; the author instructs placing it above that base pack. The listing includes Minecraft 1.20 and 1.21 families, but exact file and shader/material support need qualification. It does not replace the Aether mod or prove matching Vulkan shader support."
+  },
+  {
+    "row": 80,
+    "name": "Mekanism Additions BDCraft",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/mekanism-additions-bdcraft",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Engineering and Vehicles"
+    ],
+    "note": "PureBDCraft-style texture patch specifically for Mekanism Additions, with 32x, 64x, 128x, 256x and 512x options for the listed 1.20/1.21 families. The author recommends the base PureBDCraft pack. This is not a replacement for Mekanism or proof that all Mekanism modules are covered."
+  },
+  {
+    "row": 81,
+    "name": "Re: Botania Pack",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/re-botania-pack",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Magic and Progression"
+    ],
+    "note": "Retextures Botania quartz, Dreamwood and Livingrock-themed content to align their materials and visual style. Author lists texture support for Mythic Botany, Botanic Additions and Applied Botanics, with separate 1.20-1.2 and 1.21-1.0 files. Texture coverage does not imply new mana or cross-mod gameplay mechanics."
+  },
+  {
+    "row": 82,
+    "name": "Re: Nature\u2019s Aura Pack",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/re-natures-aura-pack",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Magic and Progression"
+    ],
+    "note": "Nature\u2019s Aura ingot, block and token texture refresh listed for Minecraft 1.20/1.20.1. Treat the project as a visual resource layer, not an aura-system rework; exact overwritten paths and pack order still need inspection."
+  },
+  {
+    "row": 83,
+    "name": "JS Leaves+ for Biomes O\u2019 Plenty",
+    "url": "https://www.curseforge.com/minecraft/texture-packs/js-leaves-for-biomes-o-plenty",
+    "categories": [
+      "Visuals and Resource Packs",
+      "Worlds and Exploration"
+    ],
+    "note": "Replaces Biomes O\u2019 Plenty leaf models to add foliage volume. Gallery images include shaders; they do not establish that the resource pack supplies those lighting effects. Check the exact BOP version, leaf model paths, other foliage packs and rendering cost before installation."
   }
 ]

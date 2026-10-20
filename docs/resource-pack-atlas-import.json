@@ -4,9 +4,9 @@
   "master_rows": 159,
   "exact_existing_observations_added": 37,
   "unique_entries_enriched": 33,
-  "pending_master_observations": 52,
-  "display_entries": 2334,
-  "source_observations": 2716,
+  "pending_master_observations": 48,
+  "display_entries": 2338,
+  "source_observations": 2720,
   "favorites": 411,
   "native_promotions": 0,
   "all_prior_fields_preserved": true,
@@ -197,7 +197,7 @@
       "name": "Fresh Flowers and Plants"
     }
   ],
-  "reviewed_new_identity_observations_added": 70,
+  "reviewed_new_identity_observations_added": 74,
   "reviewed_new_identities": [
     {
       "row": 2,
@@ -548,6 +548,26 @@
       "row": 79,
       "id": "d10a4d2d37f0c04a",
       "name": "Bare Bones x The Aether PBR"
+    },
+    {
+      "row": 80,
+      "id": "499809fc0cbbb34f",
+      "name": "Mekanism Additions BDCraft"
+    },
+    {
+      "row": 81,
+      "id": "996a651862c011f9",
+      "name": "Re: Botania Pack"
+    },
+    {
+      "row": 82,
+      "id": "2e52143e06e0efef",
+      "name": "Re: Nature\u2019s Aura Pack"
+    },
+    {
+      "row": 83,
+      "id": "74d4c362cf4b5e82",
+      "name": "JS Leaves+ for Biomes O\u2019 Plenty"
     }
   ]
 }

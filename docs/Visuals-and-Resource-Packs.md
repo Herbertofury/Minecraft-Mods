@@ -6,9 +6,9 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 
 ## Resource-pack ecosystem research
 
-[The resource-pack atlas](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-source-views.json) preserves 17 views covering flowers, crops, magic, creatures, biomes, Create, Excalibur and Stay True ecosystems, conversion candidates and suggested pack stacks. The first 37 exact matches are attached to 33 existing catalogue entries. Seventy further project identities are now checked against official pages; another 52 master observations are being reconciled. Source scores, “native/drop-in” claims and suggested pack orders require exact-version testing; a design gap is not an available resource pack.
+[The resource-pack atlas](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/resource-pack-atlas-source-views.json) preserves 17 views covering flowers, crops, magic, creatures, biomes, Create, Excalibur and Stay True ecosystems, conversion candidates and suggested pack stacks. The first 37 exact matches are attached to 33 existing catalogue entries. Seventy-four further project identities are now checked against official pages; another 48 master observations are being reconciled. Source scores, “native/drop-in” claims and suggested pack orders require exact-version testing; a design gap is not an available resource pack.
 
-**366 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-20. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
+**370 entries in this purpose category.** Refreshed from the consolidated index on 2026-10-20. Stars include preserved source preferences; they do not certify compatibility. Entries may appear in several relevant categories.
 
 <details>
 <summary><strong>Content Pack · 3</strong></summary>
@@ -229,7 +229,7 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 </details>
 
 <details>
-<summary><strong>Resource Pack · 178</strong></summary>
+<summary><strong>Resource Pack · 182</strong></summary>
 
 | Project / target | Purpose | Evidence |
 |---|---|---|
@@ -343,10 +343,12 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Items 3D](https://curseforge.com/minecraft/texture-packs/items-3d) | OPTIONAL / FUTURE VERSION | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=17828c5200d6cd77) |
 | ★ [Jetpack Bees \[Fresh Animations\]](https://modrinth.com/resourcepack/jetpack-bees-fresh-animations) | We gave the Bees Jetpacks!!! | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7f8769b2040088cc) |
 | [JICKLUS](https://curseforge.com/minecraft/texture-packs/jicklus) | OPTIONAL VISUAL / CLIENT-SAFE / USE MATCHING VERSION | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=3ab9d5cca143780a) |
+| [JS Leaves+ for Biomes O’ Plenty](https://www.curseforge.com/minecraft/texture-packs/js-leaves-for-biomes-o-plenty) | Replaces Biomes O’ Plenty leaf models to add foliage volume. Gallery images include shaders; they do not establish that the resource pack supplies those lighting effects. Check the | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=74d4c362cf4b5e82) |
 | [Js_Leaves+ for Regions Unexplored](https://modrinth.com/resourcepack/js_leaves+-for-regions-unexplored) | Volumetric leaf-model replacement for Regions Unexplored, listed for 1.20.x and 1.21–1.21.1. This is a foliage presentation pack; the page does not establish complete plant coverag | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=6165c272f02d6d8f) |
 | [Just Oh The Biomes We’ve Gone](https://modrinth.com/resourcepack/just-oh-the-biomes-weve-gone) | Vanilla-like BWG retexture for the listed 1.20–1.20.1 lane, illustrated with Skywood, Rainbow Wood and stone examples. Treat it as a distinct visual option from Whimscape and other | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=cc3fecbe4ad52829) |
 | [Kaydicraft CIT](https://modrinth.com/resourcepack/kaydicraft-cit) | INSTALL / OPTIONAL VISUAL | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7f57d32c385383b3) |
 | [L_Ender’s Cataclysm Reimagined](https://www.curseforge.com/minecraft/texture-packs/cataclysm-reimagined) | Official description limits this pack to GUI, HUD and item icons. It explicitly does not change world models, blocks or gameplay. Separate Forge and NeoForge file lanes are listed; | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=6d8c67c99b997dbe) |
+| [Mekanism Additions BDCraft](https://www.curseforge.com/minecraft/texture-packs/mekanism-additions-bdcraft) | PureBDCraft-style texture patch specifically for Mekanism Additions, with 32x, 64x, 128x, 256x and 512x options for the listed 1.20/1.21 families. The author recommends the base Pu | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=499809fc0cbbb34f) |
 | [Mekanism BDCraft](https://www.curseforge.com/minecraft/texture-packs/mekanism-bdcraft) | BDCraft-style Mekanism texture patch with 1.20/1.21 file lanes and 32x, 64x, 128x, 256x and 512x resolutions. The author recommends the separate PureBDCraft base-game pack. Pick th | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=03b997da5db85045) |
 | [Menagerie: Earth Mob Variants and More!](https://herbertofury.github.io/Minecraft-Mods/?id=005237af8fa7e13d) | Excellent data-driven Java restoration of Minecraft Earth/franchise variants with biome spawning and many farm-animal breeds. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=005237af8fa7e13d) |
 | [Mike Ultra Visuals](https://curseforge.com/minecraft-bedrock/texture-packs/mike-ultra-visuals) | BEDROCK OPTIONAL / CLIENT-SAFE VISUAL / HIGH-END | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=88e4009f966307c5) |
@@ -386,6 +388,8 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 | [Prettier Sheep](https://curseforge.com/minecraft/texture-packs/prettier-sheep) | Remodels sheep and adds temperate, warm, cold and mountain-oriented forms. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=a1e760e8484c7626) |
 | [Quark 3D Pack](https://www.curseforge.com/minecraft/texture-packs/quark-3d-pack) | Adds 3D models specifically for Quark glowshrooms and gold bars. Author lists 1.18.2, 1.19.2 and 1.20.1 and explicitly declines older backports. This is a focused model pack, not a | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=082394edaec4cfab) |
 | [Quark BDCraft](https://www.curseforge.com/minecraft/texture-packs/quark-bdcraft) | PureBDCraft-style Quark patch for the 1.20 line, offered at 32x, 64x, 128x, 256x and 512x. Resolution selection changes texture-memory demand; the page does not establish a measure | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=7feae2f79815843e) |
+| [Re: Botania Pack](https://www.curseforge.com/minecraft/texture-packs/re-botania-pack) | Retextures Botania quartz, Dreamwood and Livingrock-themed content to align their materials and visual style. Author lists texture support for Mythic Botany, Botanic Additions and  | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=996a651862c011f9) |
+| [Re: Nature’s Aura Pack](https://www.curseforge.com/minecraft/texture-packs/re-natures-aura-pack) | Nature’s Aura ingot, block and token texture refresh listed for Minecraft 1.20/1.20.1. Treat the project as a visual resource layer, not an aura-system rework; exact overwritten pa | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=2e52143e06e0efef) |
 | [Realistic Flora 3D](https://modrinth.com/resourcepack/realistic-flora-3d) | HIGH COZY FIT | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=47c108131eff5338) |
 | [Realistic Nature 3D](https://modrinth.com/resourcepack/realistic-nature-3d) | TEST PACK | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=1ae7b478db068527) |
 | [Rebearth Remastered](https://curseforge.com/minecraft/texture-packs/rebearth-remastered) | One of the most complete Minecraft Earth visual restorations: farm breeds, Moobloom/Moolip, rabbits, llamas, hostiles, golems and more. | Imported; check exact build · [details](https://herbertofury.github.io/Minecraft-Mods/?id=5c40d12c0cccc3cb) |
@@ -450,4 +454,4 @@ Grouped by gameplay purpose and entry type. Generic install warnings do not dete
 
 ## Stack planning and companion notes
 
-[Visual styles and resource-pack stacks](Visual-Styles-and-Pack-Stacks) explains version-specific dependencies, priority-order conflicts and a repeatable visual check. 244 companion rows are attached to 98 entries; 107 companion rows remain in review. These annotations do not inflate catalogue totals or promote native compatibility.
+[Visual styles and resource-pack stacks](Visual-Styles-and-Pack-Stacks) explains version-specific dependencies, priority-order conflicts and a repeatable visual check. 252 companion rows are attached to 102 entries; 99 companion rows remain in review. These annotations do not inflate catalogue totals or promote native compatibility.

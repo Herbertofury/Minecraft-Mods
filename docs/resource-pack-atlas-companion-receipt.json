@@ -1,11 +1,11 @@
 {
   "date": "2026-10-19",
   "source_view_rows": 351,
-  "attached_view_rows": 244,
-  "entries_enriched": 98,
-  "pending_view_rows": 107,
-  "source_record_count_unchanged": 2716,
-  "display_entries_unchanged": 2334,
+  "attached_view_rows": 252,
+  "entries_enriched": 102,
+  "pending_view_rows": 99,
+  "source_record_count_unchanged": 2720,
+  "display_entries_unchanged": 2338,
   "native_promotions": 0,
   "attached": [
     {
@@ -1471,6 +1471,54 @@
       "master_row": 79,
       "sheet": "Conversion Queue",
       "row": 11
+    },
+    {
+      "id": "996a651862c011f9",
+      "master_row": 81,
+      "sheet": "Flowers & Botany",
+      "row": 45
+    },
+    {
+      "id": "74d4c362cf4b5e82",
+      "master_row": 83,
+      "sheet": "Flowers & Botany",
+      "row": 46
+    },
+    {
+      "id": "996a651862c011f9",
+      "master_row": 81,
+      "sheet": "Magic & RPG",
+      "row": 20
+    },
+    {
+      "id": "2e52143e06e0efef",
+      "master_row": 82,
+      "sheet": "Magic & RPG",
+      "row": 21
+    },
+    {
+      "id": "74d4c362cf4b5e82",
+      "master_row": 83,
+      "sheet": "Biomes & Nature",
+      "row": 22
+    },
+    {
+      "id": "499809fc0cbbb34f",
+      "master_row": 80,
+      "sheet": "Tech & Create",
+      "row": 12
+    },
+    {
+      "id": "499809fc0cbbb34f",
+      "master_row": 80,
+      "sheet": "Style Ecosystems",
+      "row": 42
+    },
+    {
+      "id": "74d4c362cf4b5e82",
+      "master_row": 83,
+      "sheet": "Conversion Queue",
+      "row": 12
     }
   ],
   "pending": [
@@ -1519,30 +1567,6 @@
         "B": "Stupendous Visuals",
         "C": "Modded 16x compatibility; Polytone+EMF+ETF required; no full coverage claim",
         "D": "https://modrinth.com/resourcepack/stupendous-visuals"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Flowers & Botany",
-      "row": 45,
-      "name": "Re: Botania Pack",
-      "fields": {
-        "A": "80.0",
-        "B": "Re: Botania Pack",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/re-botania-pack"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Flowers & Botany",
-      "row": 46,
-      "name": "JS Leaves+ for Biomes O\u2019 Plenty",
-      "fields": {
-        "A": "82.0",
-        "B": "JS Leaves+ for Biomes O\u2019 Plenty",
-        "C": "Simple pack-format conversion",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/js-leaves-for-biomes-o-plenty"
       },
       "matches": []
     },
@@ -1776,30 +1800,6 @@
     },
     {
       "sheet": "Magic & RPG",
-      "row": 20,
-      "name": "Re: Botania Pack",
-      "fields": {
-        "A": "80.0",
-        "B": "Re: Botania Pack",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/re-botania-pack"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Magic & RPG",
-      "row": 21,
-      "name": "Re: Nature\u2019s Aura Pack",
-      "fields": {
-        "A": "81.0",
-        "B": "Re: Nature\u2019s Aura Pack",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/re-natures-aura-pack"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Magic & RPG",
       "row": 22,
       "name": "Ars Nouveau Brass-ified Create-Style",
       "fields": {
@@ -2010,18 +2010,6 @@
     },
     {
       "sheet": "Biomes & Nature",
-      "row": 22,
-      "name": "JS Leaves+ for Biomes O\u2019 Plenty",
-      "fields": {
-        "A": "82.0",
-        "B": "JS Leaves+ for Biomes O\u2019 Plenty",
-        "C": "Simple pack-format conversion",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/js-leaves-for-biomes-o-plenty"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Biomes & Nature",
       "row": 23,
       "name": "Alex's Caves: Crystal Palace",
       "fields": {
@@ -2070,18 +2058,6 @@
     },
     {
       "sheet": "Tech & Create",
-      "row": 12,
-      "name": "Mekanism Additions BDCraft",
-      "fields": {
-        "A": "79.0",
-        "B": "Mekanism Additions BDCraft",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/mekanism-additions-bdcraft"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Tech & Create",
       "row": 13,
       "name": "Ars Nouveau Brass-ified Create-Style",
       "fields": {
@@ -2101,18 +2077,6 @@
         "B": "Mo's Vibrancy Pack",
         "C": "Mod-version asset port",
         "D": "https://www.planetminecraft.com/texture-pack/the-vibrancy-pack-1-13/"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Style Ecosystems",
-      "row": 42,
-      "name": "Mekanism Additions BDCraft",
-      "fields": {
-        "A": "79.0",
-        "B": "Mekanism Additions BDCraft",
-        "C": "Native / drop-in",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/mekanism-additions-bdcraft"
       },
       "matches": []
     },
@@ -2334,18 +2298,6 @@
         "B": "Overgrowth (Hardek)",
         "C": "16x moss/ivy/lichen/3D fungi/shells, 1.1 Oct13 2026 MC1.20.1, Continuity/OptiFine for CTM; no shaders, ARR modpack attribution",
         "D": "https://www.curseforge.com/minecraft/texture-packs/overgrowth/files/9162374"
-      },
-      "matches": []
-    },
-    {
-      "sheet": "Conversion Queue",
-      "row": 12,
-      "name": "JS Leaves+ for Biomes O\u2019 Plenty",
-      "fields": {
-        "A": "82.0",
-        "B": "JS Leaves+ for Biomes O\u2019 Plenty",
-        "C": "Simple pack-format conversion",
-        "D": "https://www.curseforge.com/minecraft/texture-packs/js-leaves-for-biomes-o-plenty"
       },
       "matches": []
     },
