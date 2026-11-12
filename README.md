@@ -83,3 +83,7 @@ Five further Bedrock branded/weapon references now have [official product identi
 Every pass preserves earlier source observations, favorites and explicit compatibility-target flags. Identity resolution does not certify a particular Minecraft build or native compatibility.
 
 [Eight further unstarred references](https://github.com/Herbertofury/Minecraft-Mods/blob/main/docs/bedrock-final-references-data-tests.json) are now matched. Portal Blasters remains unresolved; its primary product route did not establish the identity. All 411 catalogued favorites are preserved.
+
+## Competitive landscape and related approaches
+
+See the [source-led comparison and evaluation plan](docs/competitive-landscape.md). Documented capabilities, research proposals and measured results are kept separate.
