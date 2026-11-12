@@ -21,3 +21,21 @@ For each meaningful upstream change, record the source URL, publication/version 
 - [ ] Measure current implementation before a replacement or optimization.
 - [ ] Record correctness, usability, resource cost and recovery results together.
 - [ ] Link only proven improvements to implementation milestones; retain unproven candidates as research.
+
+## Reuse foundations and concrete parts to evaluate
+
+Use existing source-led catalog and verification tooling first. [Modrinth](https://modrinth.com/) and [CurseForge](https://www.curseforge.com/minecraft) are provider references; use documented permitted APIs/routes rather than clone content or assume redistribution permission.
+
+## Integration with our projects
+
+Enderloom and Minecraft-Mod-Vault can consume versioned catalog records: provider/project IDs, game/loader compatibility, source URLs, last checked, confidence and permission state. Keep user preference and installed inventory private.
+
+## Target improvement and acceptance boundary
+
+Improve curation and exact compatibility explanations over generic popularity lists. Test source conflicts, duplicate cross-provider entries and stale upstream metadata; preserve last-good records.
+
+## License, access and adoption gate
+
+Status: research candidate, not integrated or benchmark-proven. Before copying code, pin the exact upstream revision and record its LICENSE, dependency licenses, notices and distribution obligations. Missing/ambiguous terms block reuse; behavioral study or a permitted interoperable adapter may remain possible. Service documentation is not a source-code license or API grant. Preserve existing user permissions, private/public boundaries and creator/game asset rights.
+
+Choose reuse, adapter, fork or independent implementation only after a target-workload comparison. Retain raw failures and rollback; share no credentials, private fixtures or account details. Adoption remains blocked until licensing, correctness, performance and maintenance cost are reviewed together. Review delta dated 2026-11-12.
